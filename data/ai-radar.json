@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-10T09:56:05.767Z",
-  "since": "2026-03-03",
+  "updatedAt": "2026-03-11T03:09:50.193Z",
+  "since": "2026-03-04",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "karpathy/autoresearch",
       "html_url": "https://github.com/karpathy/autoresearch",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "stargazers_count": 19137,
+      "stargazers_count": 23215,
       "language": "Python",
       "created_at": "2026-03-06T22:00:43Z",
-      "updated_at": "2026-03-10T09:55:39Z"
-    },
-    {
-      "full_name": "twostraws/SwiftUI-Agent-Skill",
-      "html_url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "stargazers_count": 1663,
-      "language": null,
-      "created_at": "2026-03-05T20:13:14Z",
-      "updated_at": "2026-03-10T09:48:03Z"
+      "updated_at": "2026-03-11T03:09:41Z"
     },
     {
       "full_name": "HKUDS/CLI-Anything",
       "html_url": "https://github.com/HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stargazers_count": 1589,
+      "stargazers_count": 2906,
       "language": "Python",
       "created_at": "2026-03-08T13:52:57Z",
-      "updated_at": "2026-03-10T09:54:14Z"
+      "updated_at": "2026-03-11T03:09:49Z"
     },
     {
-      "full_name": "viperrcrypto/Siftly",
-      "html_url": "https://github.com/viperrcrypto/Siftly",
-      "description": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization",
-      "stargazers_count": 1324,
-      "language": "TypeScript",
-      "created_at": "2026-03-04T05:22:52Z",
-      "updated_at": "2026-03-10T09:42:27Z"
+      "full_name": "twostraws/SwiftUI-Agent-Skill",
+      "html_url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "stargazers_count": 1756,
+      "language": null,
+      "created_at": "2026-03-05T20:13:14Z",
+      "updated_at": "2026-03-11T03:03:18Z"
     },
     {
-      "full_name": "karpathy/agenthub",
-      "html_url": "https://github.com/karpathy/agenthub",
-      "description": "GitHub is for humans. AgentHub is for agents. First use case is for autoresearch but it's a lot more general than that. Exploratory project.",
-      "stargazers_count": 860,
-      "language": "Go",
-      "created_at": "2026-03-09T19:21:58Z",
-      "updated_at": "2026-03-10T09:55:41Z"
-    },
-    {
-      "full_name": "op7418/Claude-to-IM-skill",
-      "html_url": "https://github.com/op7418/Claude-to-IM-skill",
-      "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
-      "stargazers_count": 798,
-      "language": "TypeScript",
-      "created_at": "2026-03-05T11:00:16Z",
-      "updated_at": "2026-03-10T09:45:14Z"
+      "full_name": "ParthJadhav/app-store-screenshots",
+      "html_url": "https://github.com/ParthJadhav/app-store-screenshots",
+      "description": "end to end app store screenshot creation using AI",
+      "stargazers_count": 1094,
+      "language": null,
+      "created_at": "2026-03-07T13:56:04Z",
+      "updated_at": "2026-03-11T03:07:58Z"
     },
     {
       "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "html_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stargazers_count": 768,
+      "stargazers_count": 938,
       "language": "Python",
       "created_at": "2026-03-08T09:43:52Z",
-      "updated_at": "2026-03-10T09:54:31Z"
+      "updated_at": "2026-03-11T03:08:30Z"
+    },
+    {
+      "full_name": "op7418/Claude-to-IM-skill",
+      "html_url": "https://github.com/op7418/Claude-to-IM-skill",
+      "description": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.",
+      "stargazers_count": 840,
+      "language": "TypeScript",
+      "created_at": "2026-03-05T11:00:16Z",
+      "updated_at": "2026-03-11T02:47:56Z"
     },
     {
       "full_name": "TinyAGI/fractals",
       "html_url": "https://github.com/TinyAGI/fractals",
       "description": "Fractals is a recursive task orchestrator for agent swarm",
-      "stargazers_count": 502,
+      "stargazers_count": 516,
       "language": "TypeScript",
       "created_at": "2026-03-05T19:36:46Z",
-      "updated_at": "2026-03-10T04:13:48Z"
+      "updated_at": "2026-03-11T02:39:55Z"
     },
     {
       "full_name": "trevin-creator/autoresearch-mlx",
       "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stargazers_count": 416,
+      "stargazers_count": 487,
       "language": "Python",
       "created_at": "2026-03-08T11:46:25Z",
-      "updated_at": "2026-03-10T09:54:35Z"
+      "updated_at": "2026-03-11T02:55:05Z"
     },
     {
       "full_name": "joeseesun/qiaomu-mondo-poster-design",
       "html_url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
       "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
-      "stargazers_count": 326,
+      "stargazers_count": 370,
       "language": "Python",
       "created_at": "2026-03-08T09:03:17Z",
-      "updated_at": "2026-03-10T09:50:15Z"
+      "updated_at": "2026-03-11T03:06:31Z"
+    },
+    {
+      "full_name": "livehl/aimirror",
+      "html_url": "https://github.com/livehl/aimirror",
+      "description": "🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来",
+      "stargazers_count": 367,
+      "language": "Python",
+      "created_at": "2026-03-05T14:26:49Z",
+      "updated_at": "2026-03-11T03:08:51Z"
     },
     {
       "full_name": "holysheep123/holysheep-cli",
       "html_url": "https://github.com/holysheep123/holysheep-cli",
       "description": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more",
-      "stargazers_count": 269,
+      "stargazers_count": 306,
       "language": "JavaScript",
       "created_at": "2026-03-07T21:32:55Z",
-      "updated_at": "2026-03-10T09:51:37Z"
+      "updated_at": "2026-03-10T18:09:53Z"
     },
     {
-      "full_name": "penso/arbor",
-      "html_url": "https://github.com/penso/arbor",
-      "description": "Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.",
-      "stargazers_count": 258,
-      "language": "Rust",
-      "created_at": "2026-03-04T08:33:26Z",
-      "updated_at": "2026-03-10T08:23:10Z"
+      "full_name": "uluckyXH/OpenMOSS",
+      "html_url": "https://github.com/uluckyXH/OpenMOSS",
+      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+      "stargazers_count": 293,
+      "language": "Python",
+      "created_at": "2026-03-08T06:06:37Z",
+      "updated_at": "2026-03-11T03:03:28Z"
     }
   ]
 }
