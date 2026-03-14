@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-13T03:13:02.731Z",
-  "since": "2026-03-06",
+  "updatedAt": "2026-03-14T03:10:59.512Z",
+  "since": "2026-03-07",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "HKUDS/CLI-Anything",
       "html_url": "https://github.com/HKUDS/CLI-Anything",
       "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stargazers_count": 9235,
+      "stargazers_count": 11921,
       "language": "Python",
       "created_at": "2026-03-08T13:52:57Z",
-      "updated_at": "2026-03-13T03:12:51Z"
+      "updated_at": "2026-03-14T03:10:56Z"
     },
     {
-      "full_name": "ParthJadhav/app-store-screenshots",
-      "html_url": "https://github.com/ParthJadhav/app-store-screenshots",
-      "description": "end to end app store screenshot creation using AI",
-      "stargazers_count": 2209,
-      "language": null,
-      "created_at": "2026-03-07T13:56:04Z",
-      "updated_at": "2026-03-13T03:11:26Z"
+      "full_name": "tanweai/pua",
+      "html_url": "https://github.com/tanweai/pua",
+      "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
+      "stargazers_count": 6662,
+      "language": "TypeScript",
+      "created_at": "2026-03-08T16:55:16Z",
+      "updated_at": "2026-03-14T03:09:04Z"
     },
     {
       "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
       "html_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
       "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stargazers_count": 1085,
+      "stargazers_count": 1126,
       "language": "Python",
       "created_at": "2026-03-08T09:43:52Z",
-      "updated_at": "2026-03-13T03:09:54Z"
+      "updated_at": "2026-03-14T03:07:38Z"
     },
     {
       "full_name": "gsd-build/gsd-2",
       "html_url": "https://github.com/gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stargazers_count": 790,
+      "stargazers_count": 1002,
       "language": "TypeScript",
       "created_at": "2026-03-11T04:28:49Z",
-      "updated_at": "2026-03-13T03:11:48Z"
+      "updated_at": "2026-03-14T03:02:42Z"
     },
     {
       "full_name": "aiming-lab/MetaClaw",
       "html_url": "https://github.com/aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stargazers_count": 709,
+      "stargazers_count": 992,
       "language": "Python",
       "created_at": "2026-03-09T13:47:13Z",
-      "updated_at": "2026-03-13T03:12:08Z"
+      "updated_at": "2026-03-14T03:10:27Z"
     },
     {
       "full_name": "chrisworsey55/atlas-gic",
       "html_url": "https://github.com/chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stargazers_count": 639,
+      "stargazers_count": 740,
       "language": null,
       "created_at": "2026-03-11T18:51:14Z",
-      "updated_at": "2026-03-13T03:04:10Z"
+      "updated_at": "2026-03-14T03:07:04Z"
     },
     {
       "full_name": "trevin-creator/autoresearch-mlx",
       "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
       "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stargazers_count": 597,
+      "stargazers_count": 681,
       "language": "Python",
       "created_at": "2026-03-08T11:46:25Z",
-      "updated_at": "2026-03-13T03:10:36Z"
+      "updated_at": "2026-03-14T02:31:42Z"
     },
     {
       "full_name": "RightNow-AI/autokernel",
       "html_url": "https://github.com/RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "stargazers_count": 508,
+      "stargazers_count": 589,
       "language": "Python",
       "created_at": "2026-03-11T00:12:46Z",
-      "updated_at": "2026-03-13T03:09:09Z"
+      "updated_at": "2026-03-14T02:53:46Z"
     },
     {
-      "full_name": "uluckyXH/OpenMOSS",
-      "html_url": "https://github.com/uluckyXH/OpenMOSS",
-      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-      "stargazers_count": 480,
-      "language": "Python",
-      "created_at": "2026-03-08T06:06:37Z",
-      "updated_at": "2026-03-13T02:37:36Z"
-    },
-    {
-      "full_name": "joeseesun/qiaomu-mondo-poster-design",
-      "html_url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
-      "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
-      "stargazers_count": 437,
-      "language": "Python",
-      "created_at": "2026-03-08T09:03:17Z",
-      "updated_at": "2026-03-13T01:37:39Z"
+      "full_name": "onecli/onecli",
+      "html_url": "https://github.com/onecli/onecli",
+      "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
+      "stargazers_count": 556,
+      "language": "TypeScript",
+      "created_at": "2026-03-08T10:38:52Z",
+      "updated_at": "2026-03-14T02:18:59Z"
     },
     {
       "full_name": "twostraws/Swift-Agent-Skills",
       "html_url": "https://github.com/twostraws/Swift-Agent-Skills",
       "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
-      "stargazers_count": 388,
+      "stargazers_count": 507,
       "language": null,
       "created_at": "2026-03-11T15:13:01Z",
-      "updated_at": "2026-03-13T03:08:03Z"
+      "updated_at": "2026-03-14T02:44:20Z"
     },
     {
-      "full_name": "Rohit24567/HyperLiquid-Claw",
-      "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
-      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
-      "stargazers_count": 380,
-      "language": "JavaScript",
-      "created_at": "2026-03-09T23:42:30Z",
-      "updated_at": "2026-03-12T23:44:11Z"
+      "full_name": "uluckyXH/OpenMOSS",
+      "html_url": "https://github.com/uluckyXH/OpenMOSS",
+      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
+      "stargazers_count": 503,
+      "language": "Vue",
+      "created_at": "2026-03-08T06:06:37Z",
+      "updated_at": "2026-03-14T03:04:50Z"
+    },
+    {
+      "full_name": "joeseesun/qiaomu-mondo-poster-design",
+      "html_url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+      "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
+      "stargazers_count": 450,
+      "language": "Python",
+      "created_at": "2026-03-08T09:03:17Z",
+      "updated_at": "2026-03-13T20:21:35Z"
     }
   ]
 }
