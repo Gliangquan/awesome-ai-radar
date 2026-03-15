@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-14T03:10:59.512Z",
-  "since": "2026-03-07",
+  "updatedAt": "2026-03-15T03:38:45.667Z",
+  "since": "2026-03-08",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "HKUDS/CLI-Anything",
-      "html_url": "https://github.com/HKUDS/CLI-Anything",
-      "description": "CLI-Anything: Making ALL Software Agent-Native",
-      "stargazers_count": 11921,
-      "language": "Python",
-      "created_at": "2026-03-08T13:52:57Z",
-      "updated_at": "2026-03-14T03:10:56Z"
-    },
-    {
-      "full_name": "tanweai/pua",
-      "html_url": "https://github.com/tanweai/pua",
-      "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high.",
-      "stargazers_count": 6662,
-      "language": "TypeScript",
-      "created_at": "2026-03-08T16:55:16Z",
-      "updated_at": "2026-03-14T03:09:04Z"
-    },
-    {
-      "full_name": "FreedomIntelligence/OpenClaw-Medical-Skills",
-      "html_url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
-      "description": "The largest open-source medical AI skills library for OpenClaw🦞.",
-      "stargazers_count": 1126,
-      "language": "Python",
-      "created_at": "2026-03-08T09:43:52Z",
-      "updated_at": "2026-03-14T03:07:38Z"
-    },
-    {
       "full_name": "gsd-build/gsd-2",
       "html_url": "https://github.com/gsd-build/gsd-2",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stargazers_count": 1002,
+      "stargazers_count": 1167,
       "language": "TypeScript",
       "created_at": "2026-03-11T04:28:49Z",
-      "updated_at": "2026-03-14T03:02:42Z"
+      "updated_at": "2026-03-15T03:31:25Z"
     },
     {
       "full_name": "aiming-lab/MetaClaw",
       "html_url": "https://github.com/aiming-lab/MetaClaw",
       "description": "Just talk to your agent — it learns and EVOLVES.",
-      "stargazers_count": 992,
+      "stargazers_count": 1155,
       "language": "Python",
       "created_at": "2026-03-09T13:47:13Z",
-      "updated_at": "2026-03-14T03:10:27Z"
+      "updated_at": "2026-03-15T03:31:35Z"
+    },
+    {
+      "full_name": "pasky/chrome-cdp-skill",
+      "html_url": "https://github.com/pasky/chrome-cdp-skill",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "stargazers_count": 1004,
+      "language": "JavaScript",
+      "created_at": "2026-03-13T00:35:39Z",
+      "updated_at": "2026-03-15T03:38:26Z"
     },
     {
       "full_name": "chrisworsey55/atlas-gic",
       "html_url": "https://github.com/chrisworsey55/atlas-gic",
       "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stargazers_count": 740,
+      "stargazers_count": 784,
       "language": null,
       "created_at": "2026-03-11T18:51:14Z",
-      "updated_at": "2026-03-14T03:07:04Z"
-    },
-    {
-      "full_name": "trevin-creator/autoresearch-mlx",
-      "html_url": "https://github.com/trevin-creator/autoresearch-mlx",
-      "description": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.",
-      "stargazers_count": 681,
-      "language": "Python",
-      "created_at": "2026-03-08T11:46:25Z",
-      "updated_at": "2026-03-14T02:31:42Z"
+      "updated_at": "2026-03-15T03:11:08Z"
     },
     {
       "full_name": "RightNow-AI/autokernel",
       "html_url": "https://github.com/RightNow-AI/autokernel",
       "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "stargazers_count": 589,
+      "stargazers_count": 623,
       "language": "Python",
       "created_at": "2026-03-11T00:12:46Z",
-      "updated_at": "2026-03-14T02:53:46Z"
-    },
-    {
-      "full_name": "onecli/onecli",
-      "html_url": "https://github.com/onecli/onecli",
-      "description": "Open-source credential vault, give your AI agents access to services without exposing keys.",
-      "stargazers_count": 556,
-      "language": "TypeScript",
-      "created_at": "2026-03-08T10:38:52Z",
-      "updated_at": "2026-03-14T02:18:59Z"
+      "updated_at": "2026-03-15T01:50:13Z"
     },
     {
       "full_name": "twostraws/Swift-Agent-Skills",
       "html_url": "https://github.com/twostraws/Swift-Agent-Skills",
       "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
-      "stargazers_count": 507,
+      "stargazers_count": 578,
       "language": null,
       "created_at": "2026-03-11T15:13:01Z",
-      "updated_at": "2026-03-14T02:44:20Z"
+      "updated_at": "2026-03-15T02:41:05Z"
     },
     {
-      "full_name": "uluckyXH/OpenMOSS",
-      "html_url": "https://github.com/uluckyXH/OpenMOSS",
-      "description": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention.",
-      "stargazers_count": 503,
-      "language": "Vue",
-      "created_at": "2026-03-08T06:06:37Z",
-      "updated_at": "2026-03-14T03:04:50Z"
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
+      "stargazers_count": 548,
+      "language": "TypeScript",
+      "created_at": "2026-03-12T02:12:54Z",
+      "updated_at": "2026-03-15T03:36:10Z"
     },
     {
-      "full_name": "joeseesun/qiaomu-mondo-poster-design",
-      "html_url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
-      "description": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封",
-      "stargazers_count": 450,
-      "language": "Python",
-      "created_at": "2026-03-08T09:03:17Z",
-      "updated_at": "2026-03-13T20:21:35Z"
+      "full_name": "moltlaunch/cashclaw",
+      "html_url": "https://github.com/moltlaunch/cashclaw",
+      "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
+      "stargazers_count": 528,
+      "language": "TypeScript",
+      "created_at": "2026-03-10T03:25:46Z",
+      "updated_at": "2026-03-15T03:36:35Z"
+    },
+    {
+      "full_name": "EveryInc/proof-sdk",
+      "html_url": "https://github.com/EveryInc/proof-sdk",
+      "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge",
+      "stargazers_count": 457,
+      "language": "TypeScript",
+      "created_at": "2026-03-10T21:33:49Z",
+      "updated_at": "2026-03-15T03:12:53Z"
+    },
+    {
+      "full_name": "Rohit24567/HyperLiquid-Claw",
+      "html_url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+      "description": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX",
+      "stargazers_count": 447,
+      "language": "Rust",
+      "created_at": "2026-03-09T23:42:30Z",
+      "updated_at": "2026-03-15T02:06:55Z"
+    },
+    {
+      "full_name": "Michaelliv/pi-generative-ui",
+      "html_url": "https://github.com/Michaelliv/pi-generative-ui",
+      "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
+      "stargazers_count": 430,
+      "language": "TypeScript",
+      "created_at": "2026-03-12T22:43:50Z",
+      "updated_at": "2026-03-15T03:20:22Z"
+    },
+    {
+      "full_name": "UniRound-Tec/Aurogen",
+      "html_url": "https://github.com/UniRound-Tec/Aurogen",
+      "description": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\"",
+      "stargazers_count": 428,
+      "language": "TypeScript",
+      "created_at": "2026-03-09T11:20:55Z",
+      "updated_at": "2026-03-15T03:37:32Z"
     }
   ]
 }
