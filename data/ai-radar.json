@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-16T03:42:20.323Z",
-  "since": "2026-03-09",
+  "updatedAt": "2026-03-17T03:17:24.892Z",
+  "since": "2026-03-10",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "pasky/chrome-cdp-skill",
-      "html_url": "https://github.com/pasky/chrome-cdp-skill",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stargazers_count": 1571,
-      "language": "JavaScript",
-      "created_at": "2026-03-13T00:35:39Z",
-      "updated_at": "2026-03-16T03:41:54Z"
-    },
-    {
-      "full_name": "gsd-build/gsd-2",
-      "html_url": "https://github.com/gsd-build/gsd-2",
-      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stargazers_count": 1377,
+      "full_name": "THU-MAIC/OpenMAIC",
+      "html_url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "stargazers_count": 2307,
       "language": "TypeScript",
-      "created_at": "2026-03-11T04:28:49Z",
-      "updated_at": "2026-03-16T03:14:27Z"
-    },
-    {
-      "full_name": "Narcooo/inkos",
-      "html_url": "https://github.com/Narcooo/inkos",
-      "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
-      "stargazers_count": 888,
-      "language": "TypeScript",
-      "created_at": "2026-03-12T02:12:54Z",
-      "updated_at": "2026-03-16T03:40:23Z"
-    },
-    {
-      "full_name": "chrisworsey55/atlas-gic",
-      "html_url": "https://github.com/chrisworsey55/atlas-gic",
-      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
-      "stargazers_count": 804,
-      "language": null,
-      "created_at": "2026-03-11T18:51:14Z",
-      "updated_at": "2026-03-16T02:39:43Z"
-    },
-    {
-      "full_name": "RightNow-AI/autokernel",
-      "html_url": "https://github.com/RightNow-AI/autokernel",
-      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-      "stargazers_count": 647,
-      "language": "Python",
-      "created_at": "2026-03-11T00:12:46Z",
-      "updated_at": "2026-03-16T03:36:22Z"
-    },
-    {
-      "full_name": "twostraws/Swift-Agent-Skills",
-      "html_url": "https://github.com/twostraws/Swift-Agent-Skills",
-      "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
-      "stargazers_count": 618,
-      "language": null,
-      "created_at": "2026-03-11T15:13:01Z",
-      "updated_at": "2026-03-16T02:36:18Z"
-    },
-    {
-      "full_name": "Michaelliv/pi-generative-ui",
-      "html_url": "https://github.com/Michaelliv/pi-generative-ui",
-      "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
-      "stargazers_count": 598,
-      "language": "TypeScript",
-      "created_at": "2026-03-12T22:43:50Z",
-      "updated_at": "2026-03-16T03:41:19Z"
-    },
-    {
-      "full_name": "moltlaunch/cashclaw",
-      "html_url": "https://github.com/moltlaunch/cashclaw",
-      "description": "An autonomous agent that takes work, does work, gets paid, and gets better at it.",
-      "stargazers_count": 590,
-      "language": "TypeScript",
-      "created_at": "2026-03-10T03:25:46Z",
-      "updated_at": "2026-03-16T03:16:27Z"
-    },
-    {
-      "full_name": "jackwener/opencli",
-      "html_url": "https://github.com/jackwener/opencli",
-      "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stargazers_count": 562,
-      "language": "TypeScript",
-      "created_at": "2026-03-14T22:10:23Z",
-      "updated_at": "2026-03-16T03:41:46Z"
+      "created_at": "2026-03-11T10:13:16Z",
+      "updated_at": "2026-03-17T03:17:08Z"
     },
     {
       "full_name": "calesthio/Crucix",
       "html_url": "https://github.com/calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stargazers_count": 547,
+      "stargazers_count": 2030,
       "language": "JavaScript",
       "created_at": "2026-03-14T07:33:06Z",
-      "updated_at": "2026-03-16T03:40:56Z"
+      "updated_at": "2026-03-17T03:16:54Z"
     },
     {
-      "full_name": "EveryInc/proof-sdk",
-      "html_url": "https://github.com/EveryInc/proof-sdk",
-      "description": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge",
-      "stargazers_count": 497,
-      "language": "TypeScript",
-      "created_at": "2026-03-10T21:33:49Z",
-      "updated_at": "2026-03-16T03:34:45Z"
-    },
-    {
-      "full_name": "KeyID-AI/agent-kit",
-      "html_url": "https://github.com/KeyID-AI/agent-kit",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "stargazers_count": 444,
+      "full_name": "pasky/chrome-cdp-skill",
+      "html_url": "https://github.com/pasky/chrome-cdp-skill",
+      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
+      "stargazers_count": 1902,
       "language": "JavaScript",
-      "created_at": "2026-03-13T01:55:26Z",
-      "updated_at": "2026-03-16T01:35:31Z"
+      "created_at": "2026-03-13T00:35:39Z",
+      "updated_at": "2026-03-17T03:12:40Z"
+    },
+    {
+      "full_name": "gsd-build/gsd-2",
+      "html_url": "https://github.com/gsd-build/gsd-2",
+      "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+      "stargazers_count": 1559,
+      "language": "TypeScript",
+      "created_at": "2026-03-11T04:28:49Z",
+      "updated_at": "2026-03-17T03:16:33Z"
+    },
+    {
+      "full_name": "Narcooo/inkos",
+      "html_url": "https://github.com/Narcooo/inkos",
+      "description": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates",
+      "stargazers_count": 1199,
+      "language": "TypeScript",
+      "created_at": "2026-03-12T02:12:54Z",
+      "updated_at": "2026-03-17T03:17:18Z"
+    },
+    {
+      "full_name": "jackwener/opencli",
+      "html_url": "https://github.com/jackwener/opencli",
+      "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
+      "stargazers_count": 949,
+      "language": "TypeScript",
+      "created_at": "2026-03-14T22:10:23Z",
+      "updated_at": "2026-03-17T03:17:08Z"
+    },
+    {
+      "full_name": "Infatoshi/OpenSquirrel",
+      "html_url": "https://github.com/Infatoshi/OpenSquirrel",
+      "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
+      "stargazers_count": 822,
+      "language": "Rust",
+      "created_at": "2026-03-15T21:54:35Z",
+      "updated_at": "2026-03-17T03:14:46Z"
+    },
+    {
+      "full_name": "chrisworsey55/atlas-gic",
+      "html_url": "https://github.com/chrisworsey55/atlas-gic",
+      "description": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch",
+      "stargazers_count": 822,
+      "language": null,
+      "created_at": "2026-03-11T18:51:14Z",
+      "updated_at": "2026-03-17T02:26:25Z"
+    },
+    {
+      "full_name": "Michaelliv/pi-generative-ui",
+      "html_url": "https://github.com/Michaelliv/pi-generative-ui",
+      "description": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows.",
+      "stargazers_count": 670,
+      "language": "TypeScript",
+      "created_at": "2026-03-12T22:43:50Z",
+      "updated_at": "2026-03-17T02:57:21Z"
+    },
+    {
+      "full_name": "twostraws/Swift-Agent-Skills",
+      "html_url": "https://github.com/twostraws/Swift-Agent-Skills",
+      "description": "A curated directory of open-source AI agent skills for Swift and Apple platform development.",
+      "stargazers_count": 666,
+      "language": null,
+      "created_at": "2026-03-11T15:13:01Z",
+      "updated_at": "2026-03-17T01:18:59Z"
+    },
+    {
+      "full_name": "RightNow-AI/autokernel",
+      "html_url": "https://github.com/RightNow-AI/autokernel",
+      "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+      "stargazers_count": 662,
+      "language": "Python",
+      "created_at": "2026-03-11T00:12:46Z",
+      "updated_at": "2026-03-17T02:22:19Z"
+    },
+    {
+      "full_name": "rasbt/llm-architecture-gallery",
+      "html_url": "https://github.com/rasbt/llm-architecture-gallery",
+      "description": "LLM Architecture Gallery source data",
+      "stargazers_count": 561,
+      "language": null,
+      "created_at": "2026-03-15T22:50:46Z",
+      "updated_at": "2026-03-17T03:11:52Z"
     }
   ]
 }
