@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-19T03:25:16.005Z",
-  "since": "2026-03-12",
+  "updatedAt": "2026-03-20T03:14:38.036Z",
+  "since": "2026-03-13",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "calesthio/Crucix",
       "html_url": "https://github.com/calesthio/Crucix",
       "description": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
-      "stargazers_count": 4575,
+      "stargazers_count": 5199,
       "language": "JavaScript",
       "created_at": "2026-03-14T07:33:06Z",
-      "updated_at": "2026-03-19T03:24:59Z"
-    },
-    {
-      "full_name": "pasky/chrome-cdp-skill",
-      "html_url": "https://github.com/pasky/chrome-cdp-skill",
-      "description": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open",
-      "stargazers_count": 2228,
-      "language": "JavaScript",
-      "created_at": "2026-03-13T00:35:39Z",
-      "updated_at": "2026-03-19T03:18:30Z"
+      "updated_at": "2026-03-20T03:13:37Z"
     },
     {
       "full_name": "jackwener/opencli",
       "html_url": "https://github.com/jackwener/opencli",
       "description": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction.",
-      "stargazers_count": 1941,
+      "stargazers_count": 2541,
       "language": "TypeScript",
       "created_at": "2026-03-14T22:10:23Z",
-      "updated_at": "2026-03-19T03:24:19Z"
+      "updated_at": "2026-03-20T03:13:41Z"
     },
     {
       "full_name": "HKUDS/ClawTeam",
       "html_url": "https://github.com/HKUDS/ClawTeam",
       "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stargazers_count": 1141,
+      "stargazers_count": 1724,
       "language": "Python",
       "created_at": "2026-03-17T14:42:46Z",
-      "updated_at": "2026-03-19T03:22:00Z"
+      "updated_at": "2026-03-20T03:11:30Z"
     },
     {
       "full_name": "Infatoshi/OpenSquirrel",
       "html_url": "https://github.com/Infatoshi/OpenSquirrel",
       "description": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it.",
-      "stargazers_count": 1094,
+      "stargazers_count": 1137,
       "language": "Rust",
       "created_at": "2026-03-15T21:54:35Z",
-      "updated_at": "2026-03-19T03:03:32Z"
+      "updated_at": "2026-03-20T01:59:25Z"
     },
     {
-      "full_name": "rasbt/llm-architecture-gallery",
-      "html_url": "https://github.com/rasbt/llm-architecture-gallery",
-      "description": "LLM Architecture Gallery source data",
-      "stargazers_count": 763,
-      "language": null,
-      "created_at": "2026-03-15T22:50:46Z",
-      "updated_at": "2026-03-19T02:37:53Z"
+      "full_name": "zerobootdev/zeroboot",
+      "html_url": "https://github.com/zerobootdev/zeroboot",
+      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
+      "stargazers_count": 830,
+      "language": "Rust",
+      "created_at": "2026-03-15T21:49:32Z",
+      "updated_at": "2026-03-20T03:12:04Z"
     },
     {
       "full_name": "nikmcfly/MiroFish-Offline",
       "html_url": "https://github.com/nikmcfly/MiroFish-Offline",
       "description": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.",
-      "stargazers_count": 692,
+      "stargazers_count": 790,
       "language": "Python",
       "created_at": "2026-03-14T22:54:19Z",
-      "updated_at": "2026-03-19T03:23:27Z"
+      "updated_at": "2026-03-20T03:14:06Z"
     },
     {
-      "full_name": "adammiribyan/zeroboot",
-      "html_url": "https://github.com/adammiribyan/zeroboot",
-      "description": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking",
-      "stargazers_count": 583,
-      "language": "Rust",
-      "created_at": "2026-03-15T21:49:32Z",
-      "updated_at": "2026-03-19T03:17:30Z"
-    },
-    {
-      "full_name": "sstklen/trump-code",
-      "html_url": "https://github.com/sstklen/trump-code",
-      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
-      "stargazers_count": 551,
-      "language": "Python",
-      "created_at": "2026-03-15T03:13:51Z",
-      "updated_at": "2026-03-19T03:14:41Z"
-    },
-    {
-      "full_name": "KeyID-AI/agent-kit",
-      "html_url": "https://github.com/KeyID-AI/agent-kit",
-      "description": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup.",
-      "stargazers_count": 507,
-      "language": "JavaScript",
-      "created_at": "2026-03-13T01:55:26Z",
-      "updated_at": "2026-03-19T03:19:41Z"
+      "full_name": "rasbt/llm-architecture-gallery",
+      "html_url": "https://github.com/rasbt/llm-architecture-gallery",
+      "description": "LLM Architecture Gallery source data",
+      "stargazers_count": 785,
+      "language": null,
+      "created_at": "2026-03-15T22:50:46Z",
+      "updated_at": "2026-03-20T01:52:37Z"
     },
     {
       "full_name": "frank890417/taiwan-md",
       "html_url": "https://github.com/frank890417/taiwan-md",
       "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stargazers_count": 452,
+      "stargazers_count": 625,
       "language": "Astro",
       "created_at": "2026-03-17T08:05:33Z",
-      "updated_at": "2026-03-19T03:19:31Z"
+      "updated_at": "2026-03-20T03:14:10Z"
+    },
+    {
+      "full_name": "mattprusak/autoresearch-genealogy",
+      "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
+      "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
+      "stargazers_count": 604,
+      "language": null,
+      "created_at": "2026-03-18T17:57:50Z",
+      "updated_at": "2026-03-20T03:14:19Z"
+    },
+    {
+      "full_name": "sstklen/trump-code",
+      "html_url": "https://github.com/sstklen/trump-code",
+      "description": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source",
+      "stargazers_count": 581,
+      "language": "Python",
+      "created_at": "2026-03-15T03:13:51Z",
+      "updated_at": "2026-03-20T02:31:57Z"
     },
     {
       "full_name": "collaborator-ai/collab-public",
       "html_url": "https://github.com/collaborator-ai/collab-public",
       "description": "Collaborator is a place to build with agents.",
-      "stargazers_count": 434,
+      "stargazers_count": 505,
       "language": "Shell",
       "created_at": "2026-03-15T07:46:32Z",
-      "updated_at": "2026-03-19T02:32:57Z"
+      "updated_at": "2026-03-20T02:52:18Z"
+    },
+    {
+      "full_name": "wuji-labs/nopua",
+      "html_url": "https://github.com/wuji-labs/nopua",
+      "description": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love.",
+      "stargazers_count": 423,
+      "language": "Python",
+      "created_at": "2026-03-14T01:47:20Z",
+      "updated_at": "2026-03-20T03:14:02Z"
     }
   ]
 }
