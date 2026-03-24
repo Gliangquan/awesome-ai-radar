@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T03:27:57.906Z",
-  "since": "2026-03-16",
+  "updatedAt": "2026-03-24T03:18:05.913Z",
+  "since": "2026-03-17",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "HKUDS/ClawTeam",
-      "html_url": "https://github.com/HKUDS/ClawTeam",
-      "description": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)",
-      "stargazers_count": 2906,
-      "language": "Python",
-      "created_at": "2026-03-17T14:42:46Z",
-      "updated_at": "2026-03-23T03:26:59Z"
-    },
-    {
-      "full_name": "MiniMax-AI/skills",
-      "html_url": "https://github.com/MiniMax-AI/skills",
-      "description": null,
-      "stargazers_count": 2098,
-      "language": "C#",
-      "created_at": "2026-03-17T07:19:25Z",
-      "updated_at": "2026-03-23T03:27:38Z"
-    },
-    {
       "full_name": "mattprusak/autoresearch-genealogy",
       "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
       "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stargazers_count": 879,
+      "stargazers_count": 906,
       "language": null,
       "created_at": "2026-03-18T17:57:50Z",
-      "updated_at": "2026-03-23T02:48:46Z"
+      "updated_at": "2026-03-24T01:50:44Z"
     },
     {
       "full_name": "truongduy2611/app-store-preflight-skills",
       "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stargazers_count": 855,
+      "stargazers_count": 900,
       "language": null,
       "created_at": "2026-03-19T05:39:43Z",
-      "updated_at": "2026-03-23T03:26:09Z"
-    },
-    {
-      "full_name": "frank890417/taiwan-md",
-      "html_url": "https://github.com/frank890417/taiwan-md",
-      "description": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan",
-      "stargazers_count": 725,
-      "language": "Astro",
-      "created_at": "2026-03-17T08:05:33Z",
-      "updated_at": "2026-03-23T03:21:32Z"
-    },
-    {
-      "full_name": "wangziqi06/724-office",
-      "html_url": "https://github.com/wangziqi06/724-office",
-      "description": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production.",
-      "stargazers_count": 623,
-      "language": "Python",
-      "created_at": "2026-03-17T05:56:13Z",
-      "updated_at": "2026-03-23T03:11:13Z"
-    },
-    {
-      "full_name": "lightningpixel/modly",
-      "html_url": "https://github.com/lightningpixel/modly",
-      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
-      "stargazers_count": 584,
-      "language": "TypeScript",
-      "created_at": "2026-03-17T18:02:35Z",
-      "updated_at": "2026-03-23T02:14:54Z"
-    },
-    {
-      "full_name": "win4r/ClawTeam-OpenClaw",
-      "html_url": "https://github.com/win4r/ClawTeam-OpenClaw",
-      "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "stargazers_count": 530,
-      "language": "Python",
-      "created_at": "2026-03-18T09:52:54Z",
-      "updated_at": "2026-03-23T03:27:03Z"
+      "updated_at": "2026-03-24T03:12:18Z"
     },
     {
       "full_name": "wong2/weixin-agent-sdk",
       "html_url": "https://github.com/wong2/weixin-agent-sdk",
       "description": null,
-      "stargazers_count": 491,
+      "stargazers_count": 774,
       "language": "TypeScript",
       "created_at": "2026-03-22T03:57:01Z",
-      "updated_at": "2026-03-23T03:26:17Z"
+      "updated_at": "2026-03-24T03:11:30Z"
+    },
+    {
+      "full_name": "win4r/ClawTeam-OpenClaw",
+      "html_url": "https://github.com/win4r/ClawTeam-OpenClaw",
+      "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
+      "stargazers_count": 614,
+      "language": "Python",
+      "created_at": "2026-03-18T09:52:54Z",
+      "updated_at": "2026-03-24T03:09:21Z"
     },
     {
       "full_name": "Shpigford/chops",
       "html_url": "https://github.com/Shpigford/chops",
       "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "stargazers_count": 395,
+      "stargazers_count": 524,
       "language": "Swift",
       "created_at": "2026-03-18T17:17:12Z",
-      "updated_at": "2026-03-23T03:23:22Z"
+      "updated_at": "2026-03-24T02:58:09Z"
+    },
+    {
+      "full_name": "fastclaw-ai/weclaw",
+      "html_url": "https://github.com/fastclaw-ai/weclaw",
+      "description": "Connect to any agents with WeChat ClawBot.",
+      "stargazers_count": 492,
+      "language": "Go",
+      "created_at": "2026-03-22T14:52:35Z",
+      "updated_at": "2026-03-24T03:15:34Z"
     },
     {
       "full_name": "rohitg00/ai-engineering-from-scratch",
       "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
-      "stargazers_count": 340,
+      "stargazers_count": 405,
       "language": "Python",
       "created_at": "2026-03-18T18:38:02Z",
-      "updated_at": "2026-03-23T02:59:17Z"
+      "updated_at": "2026-03-24T03:16:39Z"
+    },
+    {
+      "full_name": "K-Dense-AI/k-dense-byok",
+      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
+      "stargazers_count": 317,
+      "language": "TypeScript",
+      "created_at": "2026-03-19T22:43:52Z",
+      "updated_at": "2026-03-24T03:17:08Z"
     },
     {
       "full_name": "0din-ai/ai-scanner",
       "html_url": "https://github.com/0din-ai/ai-scanner",
       "description": "AI model safety scanner built on NVIDIA garak",
-      "stargazers_count": 267,
+      "stargazers_count": 308,
       "language": "Ruby",
       "created_at": "2026-03-19T21:41:41Z",
-      "updated_at": "2026-03-23T03:11:00Z"
+      "updated_at": "2026-03-24T02:43:38Z"
+    },
+    {
+      "full_name": "alvinunreal/awesome-autoresearch",
+      "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
+      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
+      "stargazers_count": 289,
+      "language": null,
+      "created_at": "2026-03-20T11:55:51Z",
+      "updated_at": "2026-03-24T03:17:46Z"
+    },
+    {
+      "full_name": "joeseesun/markdown-proxy",
+      "html_url": "https://github.com/joeseesun/markdown-proxy",
+      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "stargazers_count": 279,
+      "language": "Python",
+      "created_at": "2026-03-21T17:30:54Z",
+      "updated_at": "2026-03-24T03:09:12Z"
+    },
+    {
+      "full_name": "zengwenliang416/ppt-agent",
+      "html_url": "https://github.com/zengwenliang416/ppt-agent",
+      "description": null,
+      "stargazers_count": 238,
+      "language": "HTML",
+      "created_at": "2026-03-21T12:06:00Z",
+      "updated_at": "2026-03-24T03:16:18Z"
     }
   ]
 }
