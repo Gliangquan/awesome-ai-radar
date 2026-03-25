@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-24T03:18:05.913Z",
-  "since": "2026-03-17",
+  "updatedAt": "2026-03-25T03:22:49.922Z",
+  "since": "2026-03-18",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "mattprusak/autoresearch-genealogy",
-      "html_url": "https://github.com/mattprusak/autoresearch-genealogy",
-      "description": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code.",
-      "stargazers_count": 906,
-      "language": null,
-      "created_at": "2026-03-18T17:57:50Z",
-      "updated_at": "2026-03-24T01:50:44Z"
-    },
-    {
       "full_name": "truongduy2611/app-store-preflight-skills",
       "html_url": "https://github.com/truongduy2611/app-store-preflight-skills",
       "description": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission",
-      "stargazers_count": 900,
+      "stargazers_count": 926,
       "language": null,
       "created_at": "2026-03-19T05:39:43Z",
-      "updated_at": "2026-03-24T03:12:18Z"
+      "updated_at": "2026-03-25T03:04:37Z"
     },
     {
       "full_name": "wong2/weixin-agent-sdk",
       "html_url": "https://github.com/wong2/weixin-agent-sdk",
-      "description": null,
-      "stargazers_count": 774,
+      "description": "微信Clawbot接入任意Agent",
+      "stargazers_count": 857,
       "language": "TypeScript",
       "created_at": "2026-03-22T03:57:01Z",
-      "updated_at": "2026-03-24T03:11:30Z"
+      "updated_at": "2026-03-25T03:15:05Z"
     },
     {
-      "full_name": "win4r/ClawTeam-OpenClaw",
-      "html_url": "https://github.com/win4r/ClawTeam-OpenClaw",
-      "description": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent",
-      "stargazers_count": 614,
+      "full_name": "facebookresearch/HyperAgents",
+      "html_url": "https://github.com/facebookresearch/HyperAgents",
+      "description": "Self-referential self-improving agents that can optimize for any computable task",
+      "stargazers_count": 664,
       "language": "Python",
-      "created_at": "2026-03-18T09:52:54Z",
-      "updated_at": "2026-03-24T03:09:21Z"
-    },
-    {
-      "full_name": "Shpigford/chops",
-      "html_url": "https://github.com/Shpigford/chops",
-      "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "stargazers_count": 524,
-      "language": "Swift",
-      "created_at": "2026-03-18T17:17:12Z",
-      "updated_at": "2026-03-24T02:58:09Z"
+      "created_at": "2026-03-19T17:24:07Z",
+      "updated_at": "2026-03-25T03:19:42Z"
     },
     {
       "full_name": "fastclaw-ai/weclaw",
       "html_url": "https://github.com/fastclaw-ai/weclaw",
       "description": "Connect to any agents with WeChat ClawBot.",
-      "stargazers_count": 492,
+      "stargazers_count": 642,
       "language": "Go",
       "created_at": "2026-03-22T14:52:35Z",
-      "updated_at": "2026-03-24T03:15:34Z"
-    },
-    {
-      "full_name": "rohitg00/ai-engineering-from-scratch",
-      "html_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "stargazers_count": 405,
-      "language": "Python",
-      "created_at": "2026-03-18T18:38:02Z",
-      "updated_at": "2026-03-24T03:16:39Z"
-    },
-    {
-      "full_name": "K-Dense-AI/k-dense-byok",
-      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
-      "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
-      "stargazers_count": 317,
-      "language": "TypeScript",
-      "created_at": "2026-03-19T22:43:52Z",
-      "updated_at": "2026-03-24T03:17:08Z"
-    },
-    {
-      "full_name": "0din-ai/ai-scanner",
-      "html_url": "https://github.com/0din-ai/ai-scanner",
-      "description": "AI model safety scanner built on NVIDIA garak",
-      "stargazers_count": 308,
-      "language": "Ruby",
-      "created_at": "2026-03-19T21:41:41Z",
-      "updated_at": "2026-03-24T02:43:38Z"
+      "updated_at": "2026-03-25T03:14:52Z"
     },
     {
       "full_name": "alvinunreal/awesome-autoresearch",
       "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
       "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stargazers_count": 289,
+      "stargazers_count": 533,
       "language": null,
       "created_at": "2026-03-20T11:55:51Z",
-      "updated_at": "2026-03-24T03:17:46Z"
-    },
-    {
-      "full_name": "joeseesun/markdown-proxy",
-      "html_url": "https://github.com/joeseesun/markdown-proxy",
-      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
-      "stargazers_count": 279,
-      "language": "Python",
-      "created_at": "2026-03-21T17:30:54Z",
-      "updated_at": "2026-03-24T03:09:12Z"
+      "updated_at": "2026-03-25T03:13:28Z"
     },
     {
       "full_name": "zengwenliang416/ppt-agent",
       "html_url": "https://github.com/zengwenliang416/ppt-agent",
       "description": null,
-      "stargazers_count": 238,
+      "stargazers_count": 455,
       "language": "HTML",
       "created_at": "2026-03-21T12:06:00Z",
-      "updated_at": "2026-03-24T03:16:18Z"
+      "updated_at": "2026-03-25T03:03:22Z"
+    },
+    {
+      "full_name": "mnfst/awesome-free-llm-apis",
+      "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "Permanent Free LLM API List (API Keys) 😎🔑",
+      "stargazers_count": 451,
+      "language": null,
+      "created_at": "2026-03-21T18:14:07Z",
+      "updated_at": "2026-03-25T03:17:52Z"
+    },
+    {
+      "full_name": "K-Dense-AI/k-dense-byok",
+      "html_url": "https://github.com/K-Dense-AI/k-dense-byok",
+      "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
+      "stargazers_count": 377,
+      "language": "TypeScript",
+      "created_at": "2026-03-19T22:43:52Z",
+      "updated_at": "2026-03-25T03:01:55Z"
+    },
+    {
+      "full_name": "0din-ai/ai-scanner",
+      "html_url": "https://github.com/0din-ai/ai-scanner",
+      "description": "AI model safety scanner built on NVIDIA garak",
+      "stargazers_count": 320,
+      "language": "Ruby",
+      "created_at": "2026-03-19T21:41:41Z",
+      "updated_at": "2026-03-25T00:58:34Z"
+    },
+    {
+      "full_name": "SethGammon/Citadel",
+      "html_url": "https://github.com/SethGammon/Citadel",
+      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
+      "stargazers_count": 303,
+      "language": "JavaScript",
+      "created_at": "2026-03-20T05:42:54Z",
+      "updated_at": "2026-03-25T02:58:29Z"
+    },
+    {
+      "full_name": "joeseesun/markdown-proxy",
+      "html_url": "https://github.com/joeseesun/markdown-proxy",
+      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
+      "stargazers_count": 286,
+      "language": "Python",
+      "created_at": "2026-03-21T17:30:54Z",
+      "updated_at": "2026-03-25T01:19:38Z"
+    },
+    {
+      "full_name": "iflytek/astronclaw-tutorial",
+      "html_url": "https://github.com/iflytek/astronclaw-tutorial",
+      "description": "从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI)",
+      "stargazers_count": 267,
+      "language": "JavaScript",
+      "created_at": "2026-03-19T02:40:44Z",
+      "updated_at": "2026-03-25T03:15:27Z"
     }
   ]
 }
