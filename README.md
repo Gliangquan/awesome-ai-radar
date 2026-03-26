@@ -5,22 +5,22 @@ A public repo that curates fresh AI-related GitHub projects every day.
 ## Daily picks
 
 <!-- PICKS:START -->
-Updated: 2026-03-25T03:22:49.922Z
+Updated: 2026-03-26T03:34:38.046Z
 
 | Rank | Repository | Description | Language | Stars |
 |---:|---|---|---|---:|
-| 1 | [truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills) | AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission | Unknown | 926 |
-| 2 | [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) | 微信Clawbot接入任意Agent | TypeScript | 857 |
-| 3 | [facebookresearch/HyperAgents](https://github.com/facebookresearch/HyperAgents) | Self-referential self-improving agents that can optimize for any computable task | Python | 664 |
-| 4 | [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) | Connect to any agents with WeChat ClawBot. | Go | 642 |
-| 5 | [alvinunreal/awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch. | Unknown | 533 |
-| 6 | [zengwenliang416/ppt-agent](https://github.com/zengwenliang416/ppt-agent) | No description | HTML | 455 |
-| 7 | [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | Permanent Free LLM API List (API Keys) 😎🔑 | Unknown | 451 |
-| 8 | [K-Dense-AI/k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) | An AI co-scientist powered by Claude Scientific Skills running on your desktop. | TypeScript | 377 |
-| 9 | [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) | AI model safety scanner built on NVIDIA garak | Ruby | 320 |
-| 10 | [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale. | JavaScript | 303 |
-| 11 | [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) | Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh | Python | 286 |
-| 12 | [iflytek/astronclaw-tutorial](https://github.com/iflytek/astronclaw-tutorial) | 从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 \| A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI) | JavaScript | 267 |
+| 1 | [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) | "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/ | Python | 944 |
+| 2 | [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) | 微信Clawbot接入任意Agent | TypeScript | 897 |
+| 3 | [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) | Connect to any agents with WeChat ClawBot. | Go | 710 |
+| 4 | [mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) | Permanent Free LLM API List (API Keys) 😎🔑 | Unknown | 674 |
+| 5 | [alvinunreal/awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch. | Unknown | 637 |
+| 6 | [zengwenliang416/ppt-agent](https://github.com/zengwenliang416/ppt-agent) | No description | HTML | 486 |
+| 7 | [CoderLuii/HolyClaude](https://github.com/CoderLuii/HolyClaude) | AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools | Dockerfile | 458 |
+| 8 | [amitshekhariitbhu/ai-engineering-interview-questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) | Your Cheat Sheet for AI Engineering Interview – Questions and Answers. | Markdown | 389 |
+| 9 | [SethGammon/Citadel](https://github.com/SethGammon/Citadel) | Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale. | JavaScript | 329 |
+| 10 | [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) | 🧑‍🎨 A collection of Golang agentic skills that works | Go | 322 |
+| 11 | [patoles/agent-flow](https://github.com/patoles/agent-flow) | Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work. | TypeScript | 306 |
+| 12 | [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) | Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh | Python | 294 |
 <!-- PICKS:END -->
 
 ## How it works
