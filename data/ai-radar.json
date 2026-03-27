@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-26T03:34:38.046Z",
-  "since": "2026-03-19",
+  "updatedAt": "2026-03-27T03:37:44.422Z",
+  "since": "2026-03-20",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "HKUDS/OpenSpace",
       "html_url": "https://github.com/HKUDS/OpenSpace",
       "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stargazers_count": 944,
+      "stargazers_count": 1312,
       "language": "Python",
       "created_at": "2026-03-24T08:01:49Z",
-      "updated_at": "2026-03-26T03:33:24Z"
+      "updated_at": "2026-03-27T03:28:33Z"
+    },
+    {
+      "full_name": "alvinunreal/awesome-opensource-ai",
+      "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "stargazers_count": 1083,
+      "language": null,
+      "created_at": "2026-03-24T15:58:22Z",
+      "updated_at": "2026-03-27T03:37:20Z"
     },
     {
       "full_name": "wong2/weixin-agent-sdk",
       "html_url": "https://github.com/wong2/weixin-agent-sdk",
       "description": "微信Clawbot接入任意Agent",
-      "stargazers_count": 897,
+      "stargazers_count": 924,
       "language": "TypeScript",
       "created_at": "2026-03-22T03:57:01Z",
-      "updated_at": "2026-03-26T03:02:31Z"
-    },
-    {
-      "full_name": "fastclaw-ai/weclaw",
-      "html_url": "https://github.com/fastclaw-ai/weclaw",
-      "description": "Connect to any agents with WeChat ClawBot.",
-      "stargazers_count": 710,
-      "language": "Go",
-      "created_at": "2026-03-22T14:52:35Z",
-      "updated_at": "2026-03-26T03:25:57Z"
+      "updated_at": "2026-03-27T02:55:29Z"
     },
     {
       "full_name": "mnfst/awesome-free-llm-apis",
       "html_url": "https://github.com/mnfst/awesome-free-llm-apis",
       "description": "Permanent Free LLM API List (API Keys) 😎🔑",
-      "stargazers_count": 674,
+      "stargazers_count": 845,
       "language": null,
       "created_at": "2026-03-21T18:14:07Z",
-      "updated_at": "2026-03-26T03:26:01Z"
-    },
-    {
-      "full_name": "alvinunreal/awesome-autoresearch",
-      "html_url": "https://github.com/alvinunreal/awesome-autoresearch",
-      "description": "A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.",
-      "stargazers_count": 637,
-      "language": null,
-      "created_at": "2026-03-20T11:55:51Z",
-      "updated_at": "2026-03-26T03:01:58Z"
-    },
-    {
-      "full_name": "zengwenliang416/ppt-agent",
-      "html_url": "https://github.com/zengwenliang416/ppt-agent",
-      "description": null,
-      "stargazers_count": 486,
-      "language": "HTML",
-      "created_at": "2026-03-21T12:06:00Z",
-      "updated_at": "2026-03-26T03:13:09Z"
+      "updated_at": "2026-03-27T03:32:09Z"
     },
     {
       "full_name": "CoderLuii/HolyClaude",
       "html_url": "https://github.com/CoderLuii/HolyClaude",
       "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
-      "stargazers_count": 458,
+      "stargazers_count": 788,
       "language": "Dockerfile",
       "created_at": "2026-03-22T01:03:18Z",
-      "updated_at": "2026-03-26T03:33:59Z"
+      "updated_at": "2026-03-27T03:36:32Z"
+    },
+    {
+      "full_name": "fastclaw-ai/weclaw",
+      "html_url": "https://github.com/fastclaw-ai/weclaw",
+      "description": "Connect to any agents with WeChat ClawBot.",
+      "stargazers_count": 780,
+      "language": "Go",
+      "created_at": "2026-03-22T14:52:35Z",
+      "updated_at": "2026-03-27T03:29:09Z"
+    },
+    {
+      "full_name": "elder-plinius/G0DM0D3",
+      "html_url": "https://github.com/elder-plinius/G0DM0D3",
+      "description": "LIBERATED AI CHAT",
+      "stargazers_count": 540,
+      "language": "TypeScript",
+      "created_at": "2026-03-25T17:43:02Z",
+      "updated_at": "2026-03-27T03:36:54Z"
+    },
+    {
+      "full_name": "zengwenliang416/ppt-agent",
+      "html_url": "https://github.com/zengwenliang416/ppt-agent",
+      "description": null,
+      "stargazers_count": 523,
+      "language": "HTML",
+      "created_at": "2026-03-21T12:06:00Z",
+      "updated_at": "2026-03-27T03:34:42Z"
     },
     {
       "full_name": "amitshekhariitbhu/ai-engineering-interview-questions",
       "html_url": "https://github.com/amitshekhariitbhu/ai-engineering-interview-questions",
       "description": "Your Cheat Sheet for AI Engineering Interview – Questions and Answers.",
-      "stargazers_count": 389,
+      "stargazers_count": 486,
       "language": "Markdown",
       "created_at": "2026-03-21T07:28:38Z",
-      "updated_at": "2026-03-26T03:24:27Z"
-    },
-    {
-      "full_name": "SethGammon/Citadel",
-      "html_url": "https://github.com/SethGammon/Citadel",
-      "description": "Agent orchestration harness for Claude Code. Four-tier routing (/do), campaign persistence across sessions, parallel agents in isolated worktrees, discovery relay between waves, lifecycle hooks, circuit breaker, and 6 production-quality skills. From solo developer to institutional scale.",
-      "stargazers_count": 329,
-      "language": "JavaScript",
-      "created_at": "2026-03-20T05:42:54Z",
-      "updated_at": "2026-03-26T02:19:40Z"
-    },
-    {
-      "full_name": "samber/cc-skills-golang",
-      "html_url": "https://github.com/samber/cc-skills-golang",
-      "description": "🧑‍🎨 A collection of Golang agentic skills that works",
-      "stargazers_count": 322,
-      "language": "Go",
-      "created_at": "2026-03-21T23:10:11Z",
-      "updated_at": "2026-03-26T03:23:20Z"
+      "updated_at": "2026-03-27T03:30:32Z"
     },
     {
       "full_name": "patoles/agent-flow",
       "html_url": "https://github.com/patoles/agent-flow",
       "description": "Real-time visualization of Claude Code agent orchestration — see your agents think, branch, and coordinate as they work.",
-      "stargazers_count": 306,
+      "stargazers_count": 422,
       "language": "TypeScript",
       "created_at": "2026-03-21T08:53:27Z",
-      "updated_at": "2026-03-26T03:16:38Z"
+      "updated_at": "2026-03-27T03:24:35Z"
     },
     {
-      "full_name": "joeseesun/markdown-proxy",
-      "html_url": "https://github.com/joeseesun/markdown-proxy",
-      "description": "Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh",
-      "stargazers_count": 294,
+      "full_name": "ryanstephen/lil-agents",
+      "html_url": "https://github.com/ryanstephen/lil-agents",
+      "description": "tiny AI companions that live on your macOS dock",
+      "stargazers_count": 417,
+      "language": "Swift",
+      "created_at": "2026-03-23T04:28:40Z",
+      "updated_at": "2026-03-27T03:35:20Z"
+    },
+    {
+      "full_name": "walter-grace/mac-code",
+      "html_url": "https://github.com/walter-grace/mac-code",
+      "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
+      "stargazers_count": 382,
       "language": "Python",
-      "created_at": "2026-03-21T17:30:54Z",
-      "updated_at": "2026-03-26T02:29:00Z"
+      "created_at": "2026-03-23T22:08:54Z",
+      "updated_at": "2026-03-27T03:36:07Z"
     }
   ]
 }
