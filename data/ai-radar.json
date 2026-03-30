@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-29T03:42:48.731Z",
-  "since": "2026-03-22",
+  "updatedAt": "2026-03-30T03:46:48.366Z",
+  "since": "2026-03-23",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "HKUDS/OpenSpace",
-      "html_url": "https://github.com/HKUDS/OpenSpace",
-      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "stargazers_count": 2009,
-      "language": "Python",
-      "created_at": "2026-03-24T08:01:49Z",
-      "updated_at": "2026-03-29T03:41:53Z"
-    },
-    {
       "full_name": "larksuite/cli",
       "html_url": "https://github.com/larksuite/cli",
       "description": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.",
-      "stargazers_count": 1953,
+      "stargazers_count": 3579,
       "language": "Go",
       "created_at": "2026-03-25T07:13:30Z",
-      "updated_at": "2026-03-29T03:42:45Z"
+      "updated_at": "2026-03-30T03:46:39Z"
     },
     {
-      "full_name": "alvinunreal/awesome-opensource-ai",
-      "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
-      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
-      "stargazers_count": 1762,
-      "language": null,
-      "created_at": "2026-03-24T15:58:22Z",
-      "updated_at": "2026-03-29T03:35:50Z"
+      "full_name": "HKUDS/OpenSpace",
+      "html_url": "https://github.com/HKUDS/OpenSpace",
+      "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "stargazers_count": 2512,
+      "language": "Python",
+      "created_at": "2026-03-24T08:01:49Z",
+      "updated_at": "2026-03-30T03:44:39Z"
     },
     {
       "full_name": "elder-plinius/G0DM0D3",
       "html_url": "https://github.com/elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
-      "stargazers_count": 1565,
+      "stargazers_count": 2023,
       "language": "TypeScript",
       "created_at": "2026-03-25T17:43:02Z",
-      "updated_at": "2026-03-29T03:31:57Z"
+      "updated_at": "2026-03-30T03:46:16Z"
+    },
+    {
+      "full_name": "alvinunreal/awesome-opensource-ai",
+      "html_url": "https://github.com/alvinunreal/awesome-opensource-ai",
+      "description": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "stargazers_count": 1941,
+      "language": null,
+      "created_at": "2026-03-24T15:58:22Z",
+      "updated_at": "2026-03-30T03:35:49Z"
     },
     {
       "full_name": "oaker-io/wewrite",
       "html_url": "https://github.com/oaker-io/wewrite",
       "description": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱",
-      "stargazers_count": 724,
+      "stargazers_count": 862,
       "language": "Python",
       "created_at": "2026-03-26T14:18:54Z",
-      "updated_at": "2026-03-29T03:24:18Z"
-    },
-    {
-      "full_name": "ryanstephen/lil-agents",
-      "html_url": "https://github.com/ryanstephen/lil-agents",
-      "description": "tiny AI companions that live on your macOS dock",
-      "stargazers_count": 605,
-      "language": "Swift",
-      "created_at": "2026-03-23T04:28:40Z",
-      "updated_at": "2026-03-29T03:09:25Z"
+      "updated_at": "2026-03-30T03:34:31Z"
     },
     {
       "full_name": "tonbistudio/turboquant-pytorch",
       "html_url": "https://github.com/tonbistudio/turboquant-pytorch",
       "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
-      "stargazers_count": 524,
+      "stargazers_count": 579,
       "language": "Python",
       "created_at": "2026-03-25T08:03:23Z",
-      "updated_at": "2026-03-29T03:27:58Z"
+      "updated_at": "2026-03-30T03:09:18Z"
     },
     {
-      "full_name": "walter-grace/mac-code",
-      "html_url": "https://github.com/walter-grace/mac-code",
-      "description": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. ",
-      "stargazers_count": 461,
-      "language": "Python",
-      "created_at": "2026-03-23T22:08:54Z",
-      "updated_at": "2026-03-29T00:59:17Z"
+      "full_name": "revfactory/harness",
+      "html_url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stargazers_count": 506,
+      "language": "HTML",
+      "created_at": "2026-03-26T21:22:07Z",
+      "updated_at": "2026-03-30T03:46:44Z"
     },
     {
       "full_name": "realkimbarrett/advertising-skills",
       "html_url": "https://github.com/realkimbarrett/advertising-skills",
       "description": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems.",
-      "stargazers_count": 394,
+      "stargazers_count": 493,
       "language": null,
       "created_at": "2026-03-26T07:58:48Z",
-      "updated_at": "2026-03-29T03:42:30Z"
+      "updated_at": "2026-03-30T03:10:40Z"
     },
     {
       "full_name": "ryfineZ/codex-session-patcher",
       "html_url": "https://github.com/ryfineZ/codex-session-patcher",
       "description": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files",
-      "stargazers_count": 338,
+      "stargazers_count": 363,
       "language": "Python",
       "created_at": "2026-03-25T14:22:53Z",
-      "updated_at": "2026-03-29T02:47:21Z"
+      "updated_at": "2026-03-30T03:21:39Z"
     },
     {
-      "full_name": "verialabs/ctf-agent",
-      "html_url": "https://github.com/verialabs/ctf-agent",
-      "description": "Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.",
-      "stargazers_count": 302,
+      "full_name": "0xSero/turboquant",
+      "html_url": "https://github.com/0xSero/turboquant",
+      "description": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration",
+      "stargazers_count": 343,
       "language": "Python",
-      "created_at": "2026-03-23T19:03:10Z",
-      "updated_at": "2026-03-29T02:13:18Z"
+      "created_at": "2026-03-25T20:32:26Z",
+      "updated_at": "2026-03-30T03:46:26Z"
     },
     {
-      "full_name": "formulahendry/wechat-acp",
-      "html_url": "https://github.com/formulahendry/wechat-acp",
-      "description": "Bridge WeChat chat messages to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode and more)",
-      "stargazers_count": 301,
-      "language": "TypeScript",
-      "created_at": "2026-03-23T14:21:00Z",
-      "updated_at": "2026-03-29T02:10:54Z"
+      "full_name": "ericboy0224/learn-docker-and-k8s",
+      "html_url": "https://github.com/ericboy0224/learn-docker-and-k8s",
+      "description": "Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open in Claude Code or Cursor, type 'let's play'.",
+      "stargazers_count": 306,
+      "language": "Shell",
+      "created_at": "2026-03-26T15:59:03Z",
+      "updated_at": "2026-03-30T03:18:16Z"
+    },
+    {
+      "full_name": "runesleo/ai-health-vault",
+      "html_url": "https://github.com/runesleo/ai-health-vault",
+      "description": "用 AI + Obsidian 为自己和家人搭建私有化健康管理系统。模板 + Prompt + 搭建指南。",
+      "stargazers_count": 270,
+      "language": null,
+      "created_at": "2026-03-25T07:00:56Z",
+      "updated_at": "2026-03-30T03:17:17Z"
     }
   ]
 }
