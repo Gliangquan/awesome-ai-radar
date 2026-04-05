@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-04T03:20:27.088Z",
-  "since": "2026-03-28",
+  "updatedAt": "2026-04-05T03:42:21.253Z",
+  "since": "2026-03-29",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "Gitlawb/openclaude",
       "html_url": "https://github.com/Gitlawb/openclaude",
       "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-      "stargazers_count": 12065,
+      "stargazers_count": 14884,
       "language": "TypeScript",
       "created_at": "2026-04-01T03:15:49Z",
-      "updated_at": "2026-04-04T03:19:17Z"
+      "updated_at": "2026-04-05T03:41:48Z"
     },
     {
       "full_name": "sanbuphy/learn-coding-agent",
       "html_url": "https://github.com/sanbuphy/learn-coding-agent",
       "description": "Research on Coding Agents",
-      "stargazers_count": 11184,
+      "stargazers_count": 11272,
       "language": null,
       "created_at": "2026-03-31T09:07:08Z",
-      "updated_at": "2026-04-04T03:04:16Z"
-    },
-    {
-      "full_name": "Kuberwastaken/claurst",
-      "html_url": "https://github.com/Kuberwastaken/claurst",
-      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
-      "stargazers_count": 7814,
-      "language": "Rust",
-      "created_at": "2026-03-31T09:23:58Z",
-      "updated_at": "2026-04-04T03:16:27Z"
-    },
-    {
-      "full_name": "tvytlx/ai-agent-deep-dive",
-      "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
-      "description": "AI Agent 源码深度研究报告",
-      "stargazers_count": 4980,
-      "language": "Python",
-      "created_at": "2026-03-31T11:27:01Z",
-      "updated_at": "2026-04-04T03:15:31Z"
+      "updated_at": "2026-04-05T03:42:15Z"
     },
     {
       "full_name": "VoltAgent/awesome-design-md",
       "html_url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.",
-      "stargazers_count": 4827,
+      "stargazers_count": 8898,
       "language": "HTML",
       "created_at": "2026-03-31T16:37:01Z",
-      "updated_at": "2026-04-04T03:19:11Z"
+      "updated_at": "2026-04-05T03:42:16Z"
+    },
+    {
+      "full_name": "Kuberwastaken/claurst",
+      "html_url": "https://github.com/Kuberwastaken/claurst",
+      "description": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries",
+      "stargazers_count": 8073,
+      "language": "Rust",
+      "created_at": "2026-03-31T09:23:58Z",
+      "updated_at": "2026-04-05T03:36:00Z"
+    },
+    {
+      "full_name": "tvytlx/ai-agent-deep-dive",
+      "html_url": "https://github.com/tvytlx/ai-agent-deep-dive",
+      "description": "AI Agent 源码深度研究报告",
+      "stargazers_count": 5071,
+      "language": "Python",
+      "created_at": "2026-03-31T11:27:01Z",
+      "updated_at": "2026-04-05T03:24:26Z"
     },
     {
       "full_name": "JackChen-me/open-multi-agent",
       "html_url": "https://github.com/JackChen-me/open-multi-agent",
       "description": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
-      "stargazers_count": 3259,
+      "stargazers_count": 4179,
       "language": "TypeScript",
       "created_at": "2026-03-31T19:07:34Z",
-      "updated_at": "2026-04-04T03:16:40Z"
-    },
-    {
-      "full_name": "codeany-ai/open-agent-sdk-typescript",
-      "html_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
-      "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source",
-      "stargazers_count": 2281,
-      "language": "TypeScript",
-      "created_at": "2026-03-31T14:16:24Z",
-      "updated_at": "2026-04-04T02:30:55Z"
-    },
-    {
-      "full_name": "motiful/cc-gateway",
-      "html_url": "https://github.com/motiful/cc-gateway",
-      "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
-      "stargazers_count": 2260,
-      "language": "TypeScript",
-      "created_at": "2026-03-31T22:07:01Z",
-      "updated_at": "2026-04-04T03:11:31Z"
+      "updated_at": "2026-04-05T03:40:21Z"
     },
     {
       "full_name": "HKUDS/OpenHarness",
       "html_url": "https://github.com/HKUDS/OpenHarness",
       "description": "\"OpenHarness: Open Agent Harness\"",
-      "stargazers_count": 2246,
+      "stargazers_count": 3708,
       "language": "Python",
       "created_at": "2026-04-01T15:37:13Z",
-      "updated_at": "2026-04-04T03:20:06Z"
+      "updated_at": "2026-04-05T03:41:56Z"
     },
     {
       "full_name": "therealXiaomanChu/ex-skill",
       "html_url": "https://github.com/therealXiaomanChu/ex-skill",
       "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ",
-      "stargazers_count": 2007,
+      "stargazers_count": 2482,
       "language": "Python",
       "created_at": "2026-03-31T09:36:56Z",
-      "updated_at": "2026-04-04T03:18:58Z"
+      "updated_at": "2026-04-05T03:32:19Z"
+    },
+    {
+      "full_name": "motiful/cc-gateway",
+      "html_url": "https://github.com/motiful/cc-gateway",
+      "description": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying",
+      "stargazers_count": 2333,
+      "language": "TypeScript",
+      "created_at": "2026-03-31T22:07:01Z",
+      "updated_at": "2026-04-05T03:32:11Z"
+    },
+    {
+      "full_name": "codeany-ai/open-agent-sdk-typescript",
+      "html_url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+      "description": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source",
+      "stargazers_count": 2308,
+      "language": "TypeScript",
+      "created_at": "2026-03-31T14:16:24Z",
+      "updated_at": "2026-04-05T02:31:32Z"
     },
     {
       "full_name": "Leonxlnx/agentic-ai-prompt-research",
       "html_url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
       "description": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification",
-      "stargazers_count": 1992,
+      "stargazers_count": 2054,
       "language": null,
       "created_at": "2026-03-31T11:47:04Z",
-      "updated_at": "2026-04-04T02:43:48Z"
+      "updated_at": "2026-04-05T03:30:30Z"
     },
     {
       "full_name": "lintsinghua/claude-code-book",
       "html_url": "https://github.com/lintsinghua/claude-code-book",
       "description": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
-      "stargazers_count": 1709,
+      "stargazers_count": 1973,
       "language": null,
       "created_at": "2026-03-31T18:00:16Z",
-      "updated_at": "2026-04-04T03:12:54Z"
+      "updated_at": "2026-04-05T03:39:05Z"
     }
   ]
 }
