@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-07T03:36:26.527Z",
-  "since": "2026-03-31",
+  "updatedAt": "2026-04-08T03:37:52.751Z",
+  "since": "2026-04-01",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "Gitlawb/openclaude",
-      "html_url": "https://github.com/Gitlawb/openclaude",
-      "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-      "stargazers_count": 18158,
-      "language": "TypeScript",
-      "created_at": "2026-04-01T03:15:49Z",
-      "updated_at": "2026-04-07T03:36:01Z"
-    },
-    {
       "full_name": "santifer/career-ops",
       "html_url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "stargazers_count": 11852,
-      "language": "Go",
+      "stargazers_count": 19090,
+      "language": "JavaScript",
       "created_at": "2026-04-04T18:21:18Z",
-      "updated_at": "2026-04-07T03:34:56Z"
-    },
-    {
-      "full_name": "HKUDS/OpenHarness",
-      "html_url": "https://github.com/HKUDS/OpenHarness",
-      "description": "\"OpenHarness: Open Agent Harness\"",
-      "stargazers_count": 6462,
-      "language": "Python",
-      "created_at": "2026-04-01T15:37:13Z",
-      "updated_at": "2026-04-07T03:35:56Z"
-    },
-    {
-      "full_name": "safishamsi/graphify",
-      "html_url": "https://github.com/safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
-      "stargazers_count": 2437,
-      "language": "Python",
-      "created_at": "2026-04-03T15:49:07Z",
-      "updated_at": "2026-04-07T03:36:10Z"
-    },
-    {
-      "full_name": "sooryathejas/METATRON",
-      "html_url": "https://github.com/sooryathejas/METATRON",
-      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
-      "stargazers_count": 1323,
-      "language": "Python",
-      "created_at": "2026-04-02T06:06:43Z",
-      "updated_at": "2026-04-07T03:33:14Z"
-    },
-    {
-      "full_name": "luyao618/Claude-Code-Source-Study",
-      "html_url": "https://github.com/luyao618/Claude-Code-Source-Study",
-      "description": "深入Claude Code源码，学习目前最好的agent实现",
-      "stargazers_count": 974,
-      "language": null,
-      "created_at": "2026-04-02T07:12:06Z",
-      "updated_at": "2026-04-07T03:29:48Z"
-    },
-    {
-      "full_name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "html_url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "description": "Harness Engineering From Claude Code source code to AI Coding",
-      "stargazers_count": 824,
-      "language": "HTML",
-      "created_at": "2026-04-01T06:22:00Z",
-      "updated_at": "2026-04-07T03:17:26Z"
-    },
-    {
-      "full_name": "repowise-dev/claude-code-prompts",
-      "html_url": "https://github.com/repowise-dev/claude-code-prompts",
-      "description": "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code.",
-      "stargazers_count": 811,
-      "language": null,
-      "created_at": "2026-04-01T06:59:09Z",
-      "updated_at": "2026-04-07T01:56:54Z"
-    },
-    {
-      "full_name": "fikrikarim/parlor",
-      "html_url": "https://github.com/fikrikarim/parlor",
-      "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
-      "stargazers_count": 778,
-      "language": "HTML",
-      "created_at": "2026-04-05T17:33:55Z",
-      "updated_at": "2026-04-07T03:10:41Z"
-    },
-    {
-      "full_name": "PrathamLearnsToCode/paper2code",
-      "html_url": "https://github.com/PrathamLearnsToCode/paper2code",
-      "description": "Agent skill to turn any arxiv paper into a working implementation",
-      "stargazers_count": 572,
-      "language": "Python",
-      "created_at": "2026-04-03T11:56:42Z",
-      "updated_at": "2026-04-07T03:36:20Z"
-    },
-    {
-      "full_name": "hilash/cabinet",
-      "html_url": "https://github.com/hilash/cabinet",
-      "description": "AI-first knowledge base and startup OS",
-      "stargazers_count": 549,
-      "language": "TypeScript",
-      "created_at": "2026-04-03T03:22:23Z",
-      "updated_at": "2026-04-07T03:21:39Z"
+      "updated_at": "2026-04-08T03:37:36Z"
     },
     {
       "full_name": "milla-jovovich/mempalace",
       "html_url": "https://github.com/milla-jovovich/mempalace",
       "description": "The highest-scoring AI memory system ever benchmarked. And it's free.",
-      "stargazers_count": 536,
+      "stargazers_count": 18603,
       "language": "Python",
       "created_at": "2026-04-05T01:12:07Z",
-      "updated_at": "2026-04-07T03:36:13Z"
+      "updated_at": "2026-04-08T03:37:50Z"
+    },
+    {
+      "full_name": "safishamsi/graphify",
+      "html_url": "https://github.com/safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "stargazers_count": 7592,
+      "language": "Python",
+      "created_at": "2026-04-03T15:49:07Z",
+      "updated_at": "2026-04-08T03:37:50Z"
+    },
+    {
+      "full_name": "sooryathejas/METATRON",
+      "html_url": "https://github.com/sooryathejas/METATRON",
+      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+      "stargazers_count": 1747,
+      "language": "Python",
+      "created_at": "2026-04-02T06:06:43Z",
+      "updated_at": "2026-04-08T03:15:00Z"
+    },
+    {
+      "full_name": "luyao618/Claude-Code-Source-Study",
+      "html_url": "https://github.com/luyao618/Claude-Code-Source-Study",
+      "description": "深入Claude Code源码，学习目前最好的agent实现",
+      "stargazers_count": 1021,
+      "language": null,
+      "created_at": "2026-04-02T07:12:06Z",
+      "updated_at": "2026-04-08T03:27:29Z"
+    },
+    {
+      "full_name": "KKKKhazix/khazix-skills",
+      "html_url": "https://github.com/KKKKhazix/khazix-skills",
+      "description": "数字生命卡兹克开源的 AI Skills 合集",
+      "stargazers_count": 1000,
+      "language": null,
+      "created_at": "2026-04-06T07:37:02Z",
+      "updated_at": "2026-04-08T03:36:22Z"
+    },
+    {
+      "full_name": "fikrikarim/parlor",
+      "html_url": "https://github.com/fikrikarim/parlor",
+      "description": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.",
+      "stargazers_count": 913,
+      "language": "HTML",
+      "created_at": "2026-04-05T17:33:55Z",
+      "updated_at": "2026-04-08T03:11:50Z"
+    },
+    {
+      "full_name": "PrathamLearnsToCode/paper2code",
+      "html_url": "https://github.com/PrathamLearnsToCode/paper2code",
+      "description": "Agent skill to turn any arxiv paper into a working implementation",
+      "stargazers_count": 690,
+      "language": "Python",
+      "created_at": "2026-04-03T11:56:42Z",
+      "updated_at": "2026-04-08T03:10:44Z"
+    },
+    {
+      "full_name": "hilash/cabinet",
+      "html_url": "https://github.com/hilash/cabinet",
+      "description": "AI-first knowledge base and startup OS",
+      "stargazers_count": 629,
+      "language": "TypeScript",
+      "created_at": "2026-04-03T03:22:23Z",
+      "updated_at": "2026-04-08T03:34:26Z"
+    },
+    {
+      "full_name": "karpathy/KarpathyTalk",
+      "html_url": "https://github.com/karpathy/KarpathyTalk",
+      "description": "A positive developer community for builders and agents.",
+      "stargazers_count": 443,
+      "language": "Go",
+      "created_at": "2026-04-06T03:29:19Z",
+      "updated_at": "2026-04-08T03:37:11Z"
+    },
+    {
+      "full_name": "rasbt/mini-coding-agent",
+      "html_url": "https://github.com/rasbt/mini-coding-agent",
+      "description": "Minimal and readable coding agent harness implementation in Python to explain the core components of coding agents.",
+      "stargazers_count": 417,
+      "language": "Python",
+      "created_at": "2026-04-02T02:35:06Z",
+      "updated_at": "2026-04-08T03:33:49Z"
+    },
+    {
+      "full_name": "kellyvv/PhoneClaw",
+      "html_url": "https://github.com/kellyvv/PhoneClaw",
+      "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
+      "stargazers_count": 369,
+      "language": "Swift",
+      "created_at": "2026-04-04T18:53:07Z",
+      "updated_at": "2026-04-08T03:03:33Z"
     }
   ]
 }
