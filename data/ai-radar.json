@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-14T03:48:02.877Z",
-  "since": "2026-04-07",
+  "updatedAt": "2026-04-15T03:46:28.227Z",
+  "since": "2026-04-08",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "alchaincyf/hermes-agent-orange-book",
-      "html_url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-      "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "stargazers_count": 2325,
-      "language": null,
-      "created_at": "2026-04-08T02:49:02Z",
-      "updated_at": "2026-04-14T03:46:57Z"
-    },
-    {
       "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
       "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
       "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stargazers_count": 2090,
+      "stargazers_count": 2555,
       "language": "Python",
       "created_at": "2026-04-10T15:07:10Z",
-      "updated_at": "2026-04-14T03:47:14Z"
+      "updated_at": "2026-04-15T03:45:14Z"
     },
     {
-      "full_name": "nashsu/llm_wiki",
-      "html_url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "stargazers_count": 1168,
+      "full_name": "AgentSeal/codeburn",
+      "html_url": "https://github.com/AgentSeal/codeburn",
+      "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+      "stargazers_count": 997,
       "language": "TypeScript",
-      "created_at": "2026-04-08T11:24:01Z",
-      "updated_at": "2026-04-14T03:41:28Z"
+      "created_at": "2026-04-13T22:11:53Z",
+      "updated_at": "2026-04-15T03:45:19Z"
     },
     {
       "full_name": "joeynyc/hermes-hudui",
       "html_url": "https://github.com/joeynyc/hermes-hudui",
       "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "stargazers_count": 843,
-      "language": "Python",
+      "stargazers_count": 883,
+      "language": "TypeScript",
       "created_at": "2026-04-09T00:22:33Z",
-      "updated_at": "2026-04-14T03:30:15Z"
-    },
-    {
-      "full_name": "hexiecs/talk-normal",
-      "html_url": "https://github.com/hexiecs/talk-normal",
-      "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
-      "stargazers_count": 716,
-      "language": "Shell",
-      "created_at": "2026-04-08T23:58:35Z",
-      "updated_at": "2026-04-14T03:40:37Z"
-    },
-    {
-      "full_name": "alchaincyf/obsidian-ai-orange-book",
-      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stargazers_count": 562,
-      "language": null,
-      "created_at": "2026-04-11T13:50:24Z",
-      "updated_at": "2026-04-14T03:38:53Z"
-    },
-    {
-      "full_name": "brooks376/Happy-Horse-1.0",
-      "html_url": "https://github.com/brooks376/Happy-Horse-1.0",
-      "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
-      "stargazers_count": 556,
-      "language": null,
-      "created_at": "2026-04-08T03:15:48Z",
-      "updated_at": "2026-04-14T02:55:24Z"
-    },
-    {
-      "full_name": "AMAP-ML/SkillClaw",
-      "html_url": "https://github.com/AMAP-ML/SkillClaw",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stargazers_count": 507,
-      "language": "Python",
-      "created_at": "2026-04-10T03:25:47Z",
-      "updated_at": "2026-04-14T03:04:53Z"
+      "updated_at": "2026-04-15T03:42:51Z"
     },
     {
       "full_name": "OpenMOSS/MOSS-TTS-Nano",
       "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
       "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stargazers_count": 428,
+      "stargazers_count": 803,
       "language": "Python",
       "created_at": "2026-04-10T16:25:07Z",
-      "updated_at": "2026-04-14T03:47:55Z"
+      "updated_at": "2026-04-15T03:44:22Z"
     },
     {
       "full_name": "Mouseww/anything-analyzer",
       "html_url": "https://github.com/Mouseww/anything-analyzer",
-      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档",
-      "stargazers_count": 421,
+      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
+      "stargazers_count": 656,
       "language": "TypeScript",
       "created_at": "2026-04-12T09:12:57Z",
-      "updated_at": "2026-04-14T03:47:52Z"
+      "updated_at": "2026-04-15T03:39:07Z"
     },
     {
-      "full_name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-      "html_url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
-      "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
-      "stargazers_count": 403,
+      "full_name": "alchaincyf/obsidian-ai-orange-book",
+      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+      "stargazers_count": 609,
+      "language": null,
+      "created_at": "2026-04-11T13:50:24Z",
+      "updated_at": "2026-04-15T03:36:36Z"
+    },
+    {
+      "full_name": "AMAP-ML/SkillClaw",
+      "html_url": "https://github.com/AMAP-ML/SkillClaw",
+      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+      "stargazers_count": 541,
       "language": "Python",
-      "created_at": "2026-04-08T04:48:26Z",
-      "updated_at": "2026-04-14T03:46:38Z"
+      "created_at": "2026-04-10T03:25:47Z",
+      "updated_at": "2026-04-15T03:24:25Z"
+    },
+    {
+      "full_name": "yaojingang/GEOFlow",
+      "html_url": "https://github.com/yaojingang/GEOFlow",
+      "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+      "stargazers_count": 534,
+      "language": "PHP",
+      "created_at": "2026-04-13T11:42:03Z",
+      "updated_at": "2026-04-15T03:37:28Z"
+    },
+    {
+      "full_name": "amitshekhariitbhu/llm-internals",
+      "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+      "stargazers_count": 340,
+      "language": null,
+      "created_at": "2026-04-12T06:17:33Z",
+      "updated_at": "2026-04-15T03:45:31Z"
     },
     {
       "full_name": "imbue-ai/bouncer",
       "html_url": "https://github.com/imbue-ai/bouncer",
       "description": "Heal your social media feeds",
-      "stargazers_count": 298,
+      "stargazers_count": 309,
       "language": "TypeScript",
       "created_at": "2026-04-10T18:10:44Z",
-      "updated_at": "2026-04-14T03:36:01Z"
+      "updated_at": "2026-04-15T02:37:52Z"
+    },
+    {
+      "full_name": "863401402/she-love-me",
+      "html_url": "https://github.com/863401402/she-love-me",
+      "description": "她不一样   恋情分析室 — 微信聊天记录恋爱分析 Agent Skill  （曾用名：她爱我吗？）",
+      "stargazers_count": 254,
+      "language": "Python",
+      "created_at": "2026-04-09T02:25:29Z",
+      "updated_at": "2026-04-15T02:21:11Z"
+    },
+    {
+      "full_name": "ConardLi/easy-agent",
+      "html_url": "https://github.com/ConardLi/easy-agent",
+      "description": "Fully recreating Claude Code from scratch, so anyone can learn how it works.",
+      "stargazers_count": 237,
+      "language": "TypeScript",
+      "created_at": "2026-04-10T14:25:59Z",
+      "updated_at": "2026-04-15T02:51:04Z"
     }
   ]
 }
