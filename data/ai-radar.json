@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-16T03:52:21.743Z",
-  "since": "2026-04-09",
+  "updatedAt": "2026-04-17T03:49:52.300Z",
+  "since": "2026-04-10",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "html_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "stargazers_count": 3026,
-      "language": "Python",
-      "created_at": "2026-04-10T15:07:10Z",
-      "updated_at": "2026-04-16T03:50:17Z"
-    },
-    {
       "full_name": "AgentSeal/codeburn",
       "html_url": "https://github.com/AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stargazers_count": 1835,
+      "stargazers_count": 2316,
       "language": "TypeScript",
       "created_at": "2026-04-13T22:11:53Z",
-      "updated_at": "2026-04-16T03:52:10Z"
-    },
-    {
-      "full_name": "OpenMOSS/MOSS-TTS-Nano",
-      "html_url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-      "stargazers_count": 1053,
-      "language": "Python",
-      "created_at": "2026-04-10T16:25:07Z",
-      "updated_at": "2026-04-16T03:49:52Z"
+      "updated_at": "2026-04-17T03:37:49Z"
     },
     {
       "full_name": "Mouseww/anything-analyzer",
       "html_url": "https://github.com/Mouseww/anything-analyzer",
       "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stargazers_count": 810,
+      "stargazers_count": 1089,
       "language": "TypeScript",
       "created_at": "2026-04-12T09:12:57Z",
-      "updated_at": "2026-04-16T03:25:43Z"
+      "updated_at": "2026-04-17T03:49:31Z"
+    },
+    {
+      "full_name": "BuilderPulse/BuilderPulse",
+      "html_url": "https://github.com/BuilderPulse/BuilderPulse",
+      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+      "stargazers_count": 770,
+      "language": null,
+      "created_at": "2026-04-14T11:48:05Z",
+      "updated_at": "2026-04-17T03:37:04Z"
     },
     {
       "full_name": "yaojingang/GEOFlow",
       "html_url": "https://github.com/yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stargazers_count": 695,
+      "stargazers_count": 768,
       "language": "PHP",
       "created_at": "2026-04-13T11:42:03Z",
-      "updated_at": "2026-04-16T03:48:43Z"
-    },
-    {
-      "full_name": "alchaincyf/obsidian-ai-orange-book",
-      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stargazers_count": 637,
-      "language": null,
-      "created_at": "2026-04-11T13:50:24Z",
-      "updated_at": "2026-04-16T03:41:31Z"
-    },
-    {
-      "full_name": "AMAP-ML/SkillClaw",
-      "html_url": "https://github.com/AMAP-ML/SkillClaw",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "stargazers_count": 622,
-      "language": "Python",
-      "created_at": "2026-04-10T03:25:47Z",
-      "updated_at": "2026-04-16T03:25:02Z"
-    },
-    {
-      "full_name": "amitshekhariitbhu/llm-internals",
-      "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
-      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
-      "stargazers_count": 409,
-      "language": null,
-      "created_at": "2026-04-12T06:17:33Z",
-      "updated_at": "2026-04-16T03:45:20Z"
+      "updated_at": "2026-04-17T03:28:45Z"
     },
     {
       "full_name": "WeaveMindAI/weft",
       "html_url": "https://github.com/WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stargazers_count": 394,
+      "stargazers_count": 680,
       "language": "Rust",
       "created_at": "2026-04-15T04:09:40Z",
-      "updated_at": "2026-04-16T03:51:23Z"
+      "updated_at": "2026-04-17T03:49:09Z"
     },
     {
-      "full_name": "mohi-devhub/antivibe",
-      "html_url": "https://github.com/mohi-devhub/antivibe",
-      "description": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.",
-      "stargazers_count": 391,
-      "language": "Shell",
-      "created_at": "2026-04-10T18:07:20Z",
-      "updated_at": "2026-04-16T03:09:44Z"
+      "full_name": "alchaincyf/obsidian-ai-orange-book",
+      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+      "stargazers_count": 648,
+      "language": null,
+      "created_at": "2026-04-11T13:50:24Z",
+      "updated_at": "2026-04-17T03:16:20Z"
+    },
+    {
+      "full_name": "EKKOLearnAI/hermes-web-ui",
+      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stargazers_count": 524,
+      "language": "TypeScript",
+      "created_at": "2026-04-11T07:38:18Z",
+      "updated_at": "2026-04-17T03:49:08Z"
+    },
+    {
+      "full_name": "amitshekhariitbhu/llm-internals",
+      "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
+      "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
+      "stargazers_count": 454,
+      "language": null,
+      "created_at": "2026-04-12T06:17:33Z",
+      "updated_at": "2026-04-17T03:22:22Z"
     },
     {
       "full_name": "Unclecheng-li/AI_Animation",
       "html_url": "https://github.com/Unclecheng-li/AI_Animation",
       "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-      "stargazers_count": 315,
+      "stargazers_count": 336,
       "language": "HTML",
       "created_at": "2026-04-11T09:54:15Z",
-      "updated_at": "2026-04-16T03:43:45Z"
+      "updated_at": "2026-04-17T03:05:02Z"
     },
     {
-      "full_name": "imbue-ai/bouncer",
-      "html_url": "https://github.com/imbue-ai/bouncer",
-      "description": "Heal your social media feeds",
-      "stargazers_count": 313,
-      "language": "TypeScript",
-      "created_at": "2026-04-10T18:10:44Z",
-      "updated_at": "2026-04-16T02:06:45Z"
+      "full_name": "bergside/design-md-chrome",
+      "html_url": "https://github.com/bergside/design-md-chrome",
+      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+      "stargazers_count": 290,
+      "language": "JavaScript",
+      "created_at": "2026-04-14T14:10:22Z",
+      "updated_at": "2026-04-17T03:39:10Z"
+    },
+    {
+      "full_name": "getlago/inside-lago-voice-skill",
+      "html_url": "https://github.com/getlago/inside-lago-voice-skill",
+      "description": "A framework for teaching AI to write like you. Not like a better version of you. Like you.",
+      "stargazers_count": 257,
+      "language": null,
+      "created_at": "2026-04-13T01:20:05Z",
+      "updated_at": "2026-04-16T20:01:47Z"
+    },
+    {
+      "full_name": "0xquqi/crypto-kol-quant",
+      "html_url": "https://github.com/0xquqi/crypto-kol-quant",
+      "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM",
+      "stargazers_count": 215,
+      "language": "HTML",
+      "created_at": "2026-04-12T06:14:56Z",
+      "updated_at": "2026-04-16T13:43:51Z"
     }
   ]
 }
