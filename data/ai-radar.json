@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-17T03:49:52.300Z",
-  "since": "2026-04-10",
+  "updatedAt": "2026-04-18T03:35:25.120Z",
+  "since": "2026-04-11",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "AgentSeal/codeburn",
       "html_url": "https://github.com/AgentSeal/codeburn",
       "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
-      "stargazers_count": 2316,
+      "stargazers_count": 2597,
       "language": "TypeScript",
       "created_at": "2026-04-13T22:11:53Z",
-      "updated_at": "2026-04-17T03:37:49Z"
+      "updated_at": "2026-04-18T03:31:16Z"
     },
     {
       "full_name": "Mouseww/anything-analyzer",
       "html_url": "https://github.com/Mouseww/anything-analyzer",
-      "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
-      "stargazers_count": 1089,
+      "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
+      "stargazers_count": 1286,
       "language": "TypeScript",
       "created_at": "2026-04-12T09:12:57Z",
-      "updated_at": "2026-04-17T03:49:31Z"
+      "updated_at": "2026-04-18T03:30:58Z"
     },
     {
       "full_name": "BuilderPulse/BuilderPulse",
       "html_url": "https://github.com/BuilderPulse/BuilderPulse",
       "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
-      "stargazers_count": 770,
+      "stargazers_count": 888,
       "language": null,
       "created_at": "2026-04-14T11:48:05Z",
-      "updated_at": "2026-04-17T03:37:04Z"
+      "updated_at": "2026-04-18T03:24:41Z"
     },
     {
       "full_name": "yaojingang/GEOFlow",
       "html_url": "https://github.com/yaojingang/GEOFlow",
       "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
-      "stargazers_count": 768,
+      "stargazers_count": 800,
       "language": "PHP",
       "created_at": "2026-04-13T11:42:03Z",
-      "updated_at": "2026-04-17T03:28:45Z"
+      "updated_at": "2026-04-18T03:20:10Z"
     },
     {
       "full_name": "WeaveMindAI/weft",
       "html_url": "https://github.com/WeaveMindAI/weft",
       "description": "A programming language for AI systems",
-      "stargazers_count": 680,
+      "stargazers_count": 778,
       "language": "Rust",
       "created_at": "2026-04-15T04:09:40Z",
-      "updated_at": "2026-04-17T03:49:09Z"
-    },
-    {
-      "full_name": "alchaincyf/obsidian-ai-orange-book",
-      "html_url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
-      "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
-      "stargazers_count": 648,
-      "language": null,
-      "created_at": "2026-04-11T13:50:24Z",
-      "updated_at": "2026-04-17T03:16:20Z"
-    },
-    {
-      "full_name": "EKKOLearnAI/hermes-web-ui",
-      "html_url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
-      "stargazers_count": 524,
-      "language": "TypeScript",
-      "created_at": "2026-04-11T07:38:18Z",
-      "updated_at": "2026-04-17T03:49:08Z"
+      "updated_at": "2026-04-18T03:13:33Z"
     },
     {
       "full_name": "amitshekhariitbhu/llm-internals",
       "html_url": "https://github.com/amitshekhariitbhu/llm-internals",
       "description": "Learn LLM internals step by step - from tokenization to attention to inference optimization.",
-      "stargazers_count": 454,
+      "stargazers_count": 513,
       "language": null,
       "created_at": "2026-04-12T06:17:33Z",
-      "updated_at": "2026-04-17T03:22:22Z"
+      "updated_at": "2026-04-18T02:38:12Z"
     },
     {
-      "full_name": "Unclecheng-li/AI_Animation",
-      "html_url": "https://github.com/Unclecheng-li/AI_Animation",
-      "description": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。",
-      "stargazers_count": 336,
-      "language": "HTML",
-      "created_at": "2026-04-11T09:54:15Z",
-      "updated_at": "2026-04-17T03:05:02Z"
+      "full_name": "Lazarus-AI/clearwing",
+      "html_url": "https://github.com/Lazarus-AI/clearwing",
+      "description": null,
+      "stargazers_count": 500,
+      "language": "Python",
+      "created_at": "2026-04-14T20:00:22Z",
+      "updated_at": "2026-04-18T03:33:38Z"
     },
     {
       "full_name": "bergside/design-md-chrome",
       "html_url": "https://github.com/bergside/design-md-chrome",
       "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
-      "stargazers_count": 290,
+      "stargazers_count": 372,
       "language": "JavaScript",
       "created_at": "2026-04-14T14:10:22Z",
-      "updated_at": "2026-04-17T03:39:10Z"
+      "updated_at": "2026-04-18T03:32:41Z"
+    },
+    {
+      "full_name": "codejunkie99/agentic-stack",
+      "html_url": "https://github.com/codejunkie99/agentic-stack",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "stargazers_count": 359,
+      "language": "Python",
+      "created_at": "2026-04-15T13:45:41Z",
+      "updated_at": "2026-04-18T03:16:50Z"
+    },
+    {
+      "full_name": "h4ckf0r0day/obscura",
+      "html_url": "https://github.com/h4ckf0r0day/obscura",
+      "description": "The headless browser for AI agents and web scraping",
+      "stargazers_count": 276,
+      "language": "Rust",
+      "created_at": "2026-04-13T10:31:41Z",
+      "updated_at": "2026-04-18T02:07:18Z"
+    },
+    {
+      "full_name": "koffuxu/ai-influence-digest",
+      "html_url": "https://github.com/koffuxu/ai-influence-digest",
+      "description": null,
+      "stargazers_count": 268,
+      "language": "Python",
+      "created_at": "2026-04-15T15:38:09Z",
+      "updated_at": "2026-04-18T02:37:18Z"
     },
     {
       "full_name": "getlago/inside-lago-voice-skill",
       "html_url": "https://github.com/getlago/inside-lago-voice-skill",
       "description": "A framework for teaching AI to write like you. Not like a better version of you. Like you.",
-      "stargazers_count": 257,
+      "stargazers_count": 260,
       "language": null,
       "created_at": "2026-04-13T01:20:05Z",
-      "updated_at": "2026-04-16T20:01:47Z"
-    },
-    {
-      "full_name": "0xquqi/crypto-kol-quant",
-      "html_url": "https://github.com/0xquqi/crypto-kol-quant",
-      "description": "首个将99位加密KOL交易经验LLM蒸馏为可回测量化因子的开源项目 | First to distill 99 crypto KOL trading experience into backtestable quant factors via LLM",
-      "stargazers_count": 215,
-      "language": "HTML",
-      "created_at": "2026-04-12T06:14:56Z",
-      "updated_at": "2026-04-16T13:43:51Z"
+      "updated_at": "2026-04-17T23:12:37Z"
     }
   ]
 }
