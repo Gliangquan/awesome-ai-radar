@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-22T03:46:27.452Z",
-  "since": "2026-04-15",
+  "updatedAt": "2026-04-23T03:52:20.394Z",
+  "since": "2026-04-16",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "browser-use/browser-harness",
       "html_url": "https://github.com/browser-use/browser-harness",
       "description": "Self-healing browser harness that enables LLMs to complete any task.",
-      "stargazers_count": 4538,
+      "stargazers_count": 5129,
       "language": "Python",
       "created_at": "2026-04-17T01:56:15Z",
-      "updated_at": "2026-04-22T03:44:21Z"
+      "updated_at": "2026-04-23T03:50:32Z"
     },
     {
       "full_name": "alchaincyf/huashu-design",
       "html_url": "https://github.com/alchaincyf/huashu-design",
       "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stargazers_count": 3460,
+      "stargazers_count": 4606,
       "language": "HTML",
       "created_at": "2026-04-19T14:42:06Z",
-      "updated_at": "2026-04-22T03:45:43Z"
+      "updated_at": "2026-04-23T03:50:58Z"
     },
     {
       "full_name": "ZeroZ-lab/cc-design",
       "html_url": "https://github.com/ZeroZ-lab/cc-design",
       "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
-      "stargazers_count": 569,
+      "stargazers_count": 597,
       "language": "JavaScript",
       "created_at": "2026-04-19T01:35:57Z",
-      "updated_at": "2026-04-22T03:28:06Z"
-    },
-    {
-      "full_name": "kangarooking/cangjie-skill",
-      "html_url": "https://github.com/kangarooking/cangjie-skill",
-      "description": "把一本书蒸馏成一组可执行的 Agent Skills",
-      "stargazers_count": 459,
-      "language": null,
-      "created_at": "2026-04-16T05:54:32Z",
-      "updated_at": "2026-04-22T03:45:09Z"
-    },
-    {
-      "full_name": "TheRealSeanDonahoe/agents-md",
-      "html_url": "https://github.com/TheRealSeanDonahoe/agents-md",
-      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.",
-      "stargazers_count": 398,
-      "language": null,
-      "created_at": "2026-04-19T03:40:28Z",
-      "updated_at": "2026-04-22T03:42:37Z"
-    },
-    {
-      "full_name": "Quorinex/Freebuff2API",
-      "html_url": "https://github.com/Quorinex/Freebuff2API",
-      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
-      "stargazers_count": 380,
-      "language": "Go",
-      "created_at": "2026-04-18T01:08:34Z",
-      "updated_at": "2026-04-22T00:57:06Z"
+      "updated_at": "2026-04-23T03:37:32Z"
     },
     {
       "full_name": "cosmicstack-labs/mercury-agent",
       "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
       "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stargazers_count": 341,
+      "stargazers_count": 508,
       "language": "TypeScript",
       "created_at": "2026-04-20T12:46:31Z",
-      "updated_at": "2026-04-22T03:30:43Z"
+      "updated_at": "2026-04-23T03:45:25Z"
     },
     {
-      "full_name": "GainSec/AutoProber",
-      "html_url": "https://github.com/GainSec/AutoProber",
-      "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.",
-      "stargazers_count": 275,
-      "language": "Python",
-      "created_at": "2026-04-16T06:18:47Z",
-      "updated_at": "2026-04-21T22:18:30Z"
+      "full_name": "TheRealSeanDonahoe/agents-md",
+      "html_url": "https://github.com/TheRealSeanDonahoe/agents-md",
+      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.",
+      "stargazers_count": 472,
+      "language": null,
+      "created_at": "2026-04-19T03:40:28Z",
+      "updated_at": "2026-04-23T03:52:11Z"
     },
     {
-      "full_name": "YeQing17-2026/OmniAgent",
-      "html_url": "https://github.com/YeQing17-2026/OmniAgent",
-      "description": "An agent capable of self-evolving and dynamically hardening security",
-      "stargazers_count": 263,
-      "language": "Python",
-      "created_at": "2026-04-16T14:04:36Z",
-      "updated_at": "2026-04-22T03:35:29Z"
+      "full_name": "leigest519/OpenGame",
+      "html_url": "https://github.com/leigest519/OpenGame",
+      "description": "OpenGame: Open Agentic Coding for Games",
+      "stargazers_count": 456,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T15:28:16Z",
+      "updated_at": "2026-04-23T03:44:16Z"
     },
     {
-      "full_name": "unclebob/swarm-forge",
-      "html_url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "stargazers_count": 245,
-      "language": "Shell",
-      "created_at": "2026-04-17T15:18:26Z",
-      "updated_at": "2026-04-22T03:40:59Z"
+      "full_name": "Quorinex/Freebuff2API",
+      "html_url": "https://github.com/Quorinex/Freebuff2API",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "stargazers_count": 381,
+      "language": "Go",
+      "created_at": "2026-04-18T01:08:34Z",
+      "updated_at": "2026-04-23T02:34:36Z"
     },
     {
       "full_name": "oritera/Cairn",
       "html_url": "https://github.com/oritera/Cairn",
       "description": "AI 自动化通用问题解决 / AI 自动化渗透测试系统",
-      "stargazers_count": 231,
+      "stargazers_count": 371,
       "language": null,
       "created_at": "2026-04-19T03:28:41Z",
-      "updated_at": "2026-04-22T03:08:57Z"
+      "updated_at": "2026-04-23T03:14:52Z"
     },
     {
-      "full_name": "yzhao062/agent-style",
-      "html_url": "https://github.com/yzhao062/agent-style",
-      "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
-      "stargazers_count": 214,
-      "language": "Python",
-      "created_at": "2026-04-19T08:12:16Z",
-      "updated_at": "2026-04-22T03:38:14Z"
+      "full_name": "ConardLi/web-design-skill",
+      "html_url": "https://github.com/ConardLi/web-design-skill",
+      "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
+      "stargazers_count": 367,
+      "language": "CSS",
+      "created_at": "2026-04-21T11:56:17Z",
+      "updated_at": "2026-04-23T03:50:53Z"
+    },
+    {
+      "full_name": "brexhq/CrabTrap",
+      "html_url": "https://github.com/brexhq/CrabTrap",
+      "description": "An LLM-as-a-judge HTTP proxy to secure agents in production ",
+      "stargazers_count": 319,
+      "language": "Go",
+      "created_at": "2026-04-17T18:47:45Z",
+      "updated_at": "2026-04-23T03:01:58Z"
+    },
+    {
+      "full_name": "unclebob/swarm-forge",
+      "html_url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "stargazers_count": 290,
+      "language": "Shell",
+      "created_at": "2026-04-17T15:18:26Z",
+      "updated_at": "2026-04-23T02:30:17Z"
+    },
+    {
+      "full_name": "injaneity/pi-computer-use",
+      "html_url": "https://github.com/injaneity/pi-computer-use",
+      "description": "control your applications using pi-coding-agent. fully invisible.",
+      "stargazers_count": 271,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T10:18:18Z",
+      "updated_at": "2026-04-23T03:42:16Z"
     }
   ]
 }
