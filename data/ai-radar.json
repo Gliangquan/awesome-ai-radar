@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-25T03:38:04.848Z",
-  "since": "2026-04-18",
+  "updatedAt": "2026-04-26T04:00:45.204Z",
+  "since": "2026-04-19",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "alchaincyf/huashu-design",
-      "html_url": "https://github.com/alchaincyf/huashu-design",
-      "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
-      "stargazers_count": 6136,
-      "language": "HTML",
-      "created_at": "2026-04-19T14:42:06Z",
-      "updated_at": "2026-04-25T03:30:02Z"
-    },
-    {
       "full_name": "deepseek-ai/TileKernels",
       "html_url": "https://github.com/deepseek-ai/TileKernels",
       "description": "A kernel library written in tilelang",
-      "stargazers_count": 1082,
+      "stargazers_count": 1169,
       "language": "Python",
       "created_at": "2026-04-22T05:38:31Z",
-      "updated_at": "2026-04-25T03:16:27Z"
-    },
-    {
-      "full_name": "ConardLi/web-design-skill",
-      "html_url": "https://github.com/ConardLi/web-design-skill",
-      "description": "An AI agent skill that transforms AI-generated web pages from \"functional\" to \"stunning.\"(Inspired by Claude Design)",
-      "stargazers_count": 1037,
-      "language": "CSS",
-      "created_at": "2026-04-21T11:56:17Z",
-      "updated_at": "2026-04-25T03:31:20Z"
-    },
-    {
-      "full_name": "leigest519/OpenGame",
-      "html_url": "https://github.com/leigest519/OpenGame",
-      "description": "OpenGame: Open Agentic Coding for Games",
-      "stargazers_count": 988,
-      "language": "TypeScript",
-      "created_at": "2026-04-20T15:28:16Z",
-      "updated_at": "2026-04-25T03:24:59Z"
+      "updated_at": "2026-04-26T03:46:03Z"
     },
     {
       "full_name": "cosmicstack-labs/mercury-agent",
       "html_url": "https://github.com/cosmicstack-labs/mercury-agent",
       "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-      "stargazers_count": 757,
+      "stargazers_count": 1144,
       "language": "TypeScript",
       "created_at": "2026-04-20T12:46:31Z",
-      "updated_at": "2026-04-25T03:36:34Z"
+      "updated_at": "2026-04-26T03:56:38Z"
     },
     {
-      "full_name": "ZeroZ-lab/cc-design",
-      "html_url": "https://github.com/ZeroZ-lab/cc-design",
-      "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
-      "stargazers_count": 628,
-      "language": "JavaScript",
-      "created_at": "2026-04-19T01:35:57Z",
-      "updated_at": "2026-04-24T23:14:29Z"
-    },
-    {
-      "full_name": "TheRealSeanDonahoe/agents-md",
-      "html_url": "https://github.com/TheRealSeanDonahoe/agents-md",
-      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.",
-      "stargazers_count": 504,
-      "language": null,
-      "created_at": "2026-04-19T03:40:28Z",
-      "updated_at": "2026-04-24T22:37:23Z"
-    },
-    {
-      "full_name": "oritera/Cairn",
-      "html_url": "https://github.com/oritera/Cairn",
-      "description": "AI 自动化通用问题解决 / AI 自动化渗透测试系统",
-      "stargazers_count": 418,
-      "language": null,
-      "created_at": "2026-04-19T03:28:41Z",
-      "updated_at": "2026-04-24T16:05:02Z"
-    },
-    {
-      "full_name": "levelsio/superlevels",
-      "html_url": "https://github.com/levelsio/superlevels",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "stargazers_count": 373,
-      "language": "JavaScript",
-      "created_at": "2026-04-23T12:06:46Z",
-      "updated_at": "2026-04-25T02:41:59Z"
+      "full_name": "leigest519/OpenGame",
+      "html_url": "https://github.com/leigest519/OpenGame",
+      "description": "OpenGame: Open Agentic Coding for Games",
+      "stargazers_count": 1102,
+      "language": "TypeScript",
+      "created_at": "2026-04-20T15:28:16Z",
+      "updated_at": "2026-04-26T03:51:34Z"
     },
     {
       "full_name": "GammaLabTechnologies/harmonist",
       "html_url": "https://github.com/GammaLabTechnologies/harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stargazers_count": 364,
+      "stargazers_count": 618,
       "language": "Python",
       "created_at": "2026-04-23T05:42:29Z",
-      "updated_at": "2026-04-25T03:37:45Z"
+      "updated_at": "2026-04-26T03:54:40Z"
+    },
+    {
+      "full_name": "wuyoscar/gpt_image_2_skill",
+      "html_url": "https://github.com/wuyoscar/gpt_image_2_skill",
+      "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+      "stargazers_count": 455,
+      "language": "Python",
+      "created_at": "2026-04-22T11:27:21Z",
+      "updated_at": "2026-04-26T03:52:11Z"
+    },
+    {
+      "full_name": "tashfeenahmed/freellmapi",
+      "html_url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.",
+      "stargazers_count": 446,
+      "language": "TypeScript",
+      "created_at": "2026-04-21T13:38:59Z",
+      "updated_at": "2026-04-26T03:34:37Z"
+    },
+    {
+      "full_name": "future-agi/future-agi",
+      "html_url": "https://github.com/future-agi/future-agi",
+      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+      "stargazers_count": 431,
+      "language": "Python",
+      "created_at": "2026-04-23T14:11:31Z",
+      "updated_at": "2026-04-26T04:00:14Z"
+    },
+    {
+      "full_name": "0x0funky/agent-sprite-forge",
+      "html_url": "https://github.com/0x0funky/agent-sprite-forge",
+      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
+      "stargazers_count": 429,
+      "language": "Python",
+      "created_at": "2026-04-23T20:52:52Z",
+      "updated_at": "2026-04-26T03:25:19Z"
+    },
+    {
+      "full_name": "levelsio/superlevels",
+      "html_url": "https://github.com/levelsio/superlevels",
+      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
+      "stargazers_count": 406,
+      "language": "JavaScript",
+      "created_at": "2026-04-23T12:06:46Z",
+      "updated_at": "2026-04-26T04:00:22Z"
     },
     {
       "full_name": "injaneity/pi-computer-use",
       "html_url": "https://github.com/injaneity/pi-computer-use",
       "description": "control your applications using pi-coding-agent. fully invisible.",
-      "stargazers_count": 343,
+      "stargazers_count": 384,
       "language": "TypeScript",
       "created_at": "2026-04-20T10:18:18Z",
-      "updated_at": "2026-04-25T03:30:09Z"
+      "updated_at": "2026-04-26T03:31:50Z"
     },
     {
-      "full_name": "xiaochong/hi-kid",
-      "html_url": "https://github.com/xiaochong/hi-kid",
-      "description": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
-      "stargazers_count": 319,
+      "full_name": "chekusu/wanman",
+      "html_url": "https://github.com/chekusu/wanman",
+      "description": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.",
+      "stargazers_count": 301,
       "language": "TypeScript",
-      "created_at": "2026-04-19T14:37:15Z",
-      "updated_at": "2026-04-25T02:43:46Z"
+      "created_at": "2026-04-22T14:17:57Z",
+      "updated_at": "2026-04-26T03:48:10Z"
+    },
+    {
+      "full_name": "thClaws/thClaws",
+      "html_url": "https://github.com/thClaws/thClaws",
+      "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+      "stargazers_count": 259,
+      "language": "Rust",
+      "created_at": "2026-04-20T01:27:39Z",
+      "updated_at": "2026-04-26T03:59:45Z"
     }
   ]
 }
