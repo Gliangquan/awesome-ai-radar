@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-29T04:07:58.082Z",
-  "since": "2026-04-22",
+  "updatedAt": "2026-04-30T04:10:11.784Z",
+  "since": "2026-04-23",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "0x0funky/agent-sprite-forge",
-      "html_url": "https://github.com/0x0funky/agent-sprite-forge",
-      "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-      "stargazers_count": 1061,
-      "language": "Python",
-      "created_at": "2026-04-23T20:52:52Z",
-      "updated_at": "2026-04-29T03:57:05Z"
-    },
-    {
-      "full_name": "GammaLabTechnologies/harmonist",
-      "html_url": "https://github.com/GammaLabTechnologies/harmonist",
-      "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-      "stargazers_count": 844,
-      "language": "Python",
-      "created_at": "2026-04-23T05:42:29Z",
-      "updated_at": "2026-04-29T04:07:14Z"
-    },
-    {
-      "full_name": "future-agi/future-agi",
-      "html_url": "https://github.com/future-agi/future-agi",
-      "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-      "stargazers_count": 711,
-      "language": "Python",
-      "created_at": "2026-04-23T14:11:31Z",
-      "updated_at": "2026-04-29T03:46:30Z"
-    },
-    {
       "full_name": "epoko77-ai/im-not-ai",
       "html_url": "https://github.com/epoko77-ai/im-not-ai",
       "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stargazers_count": 596,
+      "stargazers_count": 652,
       "language": "Python",
       "created_at": "2026-04-24T12:48:40Z",
-      "updated_at": "2026-04-29T02:20:34Z"
+      "updated_at": "2026-04-30T04:09:13Z"
     },
     {
       "full_name": "alash3al/stash",
       "html_url": "https://github.com/alash3al/stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stargazers_count": 523,
+      "stargazers_count": 562,
       "language": "Go",
       "created_at": "2026-04-24T22:05:12Z",
-      "updated_at": "2026-04-29T04:07:20Z"
+      "updated_at": "2026-04-30T02:42:05Z"
     },
     {
-      "full_name": "levelsio/superlevels",
-      "html_url": "https://github.com/levelsio/superlevels",
-      "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-      "stargazers_count": 427,
-      "language": "JavaScript",
-      "created_at": "2026-04-23T12:06:46Z",
-      "updated_at": "2026-04-28T17:15:56Z"
-    },
-    {
-      "full_name": "machinepulse-ai/world2agent",
-      "html_url": "https://github.com/machinepulse-ai/world2agent",
-      "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
-      "stargazers_count": 260,
+      "full_name": "GENEXIS-AI/chromex",
+      "html_url": "https://github.com/GENEXIS-AI/chromex",
+      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+      "stargazers_count": 462,
       "language": "TypeScript",
-      "created_at": "2026-04-23T08:49:29Z",
-      "updated_at": "2026-04-29T03:46:55Z"
+      "created_at": "2026-04-28T11:08:06Z",
+      "updated_at": "2026-04-30T03:56:17Z"
     },
     {
       "full_name": "browser-use/bux",
       "html_url": "https://github.com/browser-use/bux",
       "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
-      "stargazers_count": 255,
+      "stargazers_count": 265,
       "language": "Python",
       "created_at": "2026-04-26T20:53:37Z",
-      "updated_at": "2026-04-29T03:55:58Z"
+      "updated_at": "2026-04-29T23:37:56Z"
     },
     {
-      "full_name": "TheTom/vllm-swift",
-      "html_url": "https://github.com/TheTom/vllm-swift",
-      "description": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon",
-      "stargazers_count": 227,
-      "language": "Python",
-      "created_at": "2026-04-23T01:17:07Z",
-      "updated_at": "2026-04-29T03:03:12Z"
+      "full_name": "ka-pi-ba-la/AIbijia",
+      "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
+      "description": "分享便宜靠谱Token，抹平信息差",
+      "stargazers_count": 245,
+      "language": null,
+      "created_at": "2026-04-27T12:55:00Z",
+      "updated_at": "2026-04-30T04:06:39Z"
+    },
+    {
+      "full_name": "stainlu/hermes-labyrinth",
+      "html_url": "https://github.com/stainlu/hermes-labyrinth",
+      "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
+      "stargazers_count": 226,
+      "language": "HTML",
+      "created_at": "2026-04-25T15:12:11Z",
+      "updated_at": "2026-04-30T04:05:29Z"
+    },
+    {
+      "full_name": "deepseek-ai/awesome-deepseek-agent",
+      "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "description": null,
+      "stargazers_count": 206,
+      "language": null,
+      "created_at": "2026-04-27T06:37:38Z",
+      "updated_at": "2026-04-30T04:09:10Z"
     },
     {
       "full_name": "sweriko/ai4anim-webgpu",
       "html_url": "https://github.com/sweriko/ai4anim-webgpu",
       "description": null,
-      "stargazers_count": 198,
+      "stargazers_count": 206,
       "language": "TypeScript",
       "created_at": "2026-04-26T17:35:08Z",
-      "updated_at": "2026-04-29T03:01:07Z"
+      "updated_at": "2026-04-29T21:47:11Z"
+    },
+    {
+      "full_name": "arcsin1/oh-my-ppt",
+      "html_url": "https://github.com/arcsin1/oh-my-ppt",
+      "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck.",
+      "stargazers_count": 190,
+      "language": "TypeScript",
+      "created_at": "2026-04-24T10:29:13Z",
+      "updated_at": "2026-04-30T03:32:09Z"
     },
     {
       "full_name": "AndrewVos/endless-toil",
       "html_url": "https://github.com/AndrewVos/endless-toil",
       "description": "Hear your agent suffer through your code",
-      "stargazers_count": 177,
+      "stargazers_count": 180,
       "language": "Python",
       "created_at": "2026-04-24T09:49:53Z",
-      "updated_at": "2026-04-28T15:07:08Z"
+      "updated_at": "2026-04-29T23:28:33Z"
     },
     {
       "full_name": "MentalPrism42/FL-Production-25.2.5-DAW",
       "html_url": "https://github.com/MentalPrism42/FL-Production-25.2.5-DAW",
       "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
-      "stargazers_count": 168,
+      "stargazers_count": 171,
       "language": "C++",
       "created_at": "2026-04-24T16:05:03Z",
-      "updated_at": "2026-04-28T22:17:39Z"
+      "updated_at": "2026-04-30T03:56:23Z"
+    },
+    {
+      "full_name": "sandeco/reversa",
+      "html_url": "https://github.com/sandeco/reversa",
+      "description": "Transform legacy systems into executable specifications for AI coding agents",
+      "stargazers_count": 169,
+      "language": "JavaScript",
+      "created_at": "2026-04-26T13:47:10Z",
+      "updated_at": "2026-04-30T04:09:57Z"
     }
   ]
 }
