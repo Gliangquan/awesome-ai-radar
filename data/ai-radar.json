@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-30T04:10:11.784Z",
-  "since": "2026-04-23",
+  "updatedAt": "2026-05-01T04:34:31.298Z",
+  "since": "2026-04-24",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "epoko77-ai/im-not-ai",
-      "html_url": "https://github.com/epoko77-ai/im-not-ai",
-      "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-      "stargazers_count": 652,
-      "language": "Python",
-      "created_at": "2026-04-24T12:48:40Z",
-      "updated_at": "2026-04-30T04:09:13Z"
-    },
-    {
-      "full_name": "alash3al/stash",
-      "html_url": "https://github.com/alash3al/stash",
-      "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-      "stargazers_count": 562,
-      "language": "Go",
-      "created_at": "2026-04-24T22:05:12Z",
-      "updated_at": "2026-04-30T02:42:05Z"
+      "full_name": "willchen96/mike",
+      "html_url": "https://github.com/willchen96/mike",
+      "description": "OSS AI Legal Platform",
+      "stargazers_count": 809,
+      "language": "TypeScript",
+      "created_at": "2026-04-29T17:41:12Z",
+      "updated_at": "2026-05-01T04:29:26Z"
     },
     {
       "full_name": "GENEXIS-AI/chromex",
       "html_url": "https://github.com/GENEXIS-AI/chromex",
       "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stargazers_count": 462,
+      "stargazers_count": 699,
       "language": "TypeScript",
       "created_at": "2026-04-28T11:08:06Z",
-      "updated_at": "2026-04-30T03:56:17Z"
-    },
-    {
-      "full_name": "browser-use/bux",
-      "html_url": "https://github.com/browser-use/bux",
-      "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
-      "stargazers_count": 265,
-      "language": "Python",
-      "created_at": "2026-04-26T20:53:37Z",
-      "updated_at": "2026-04-29T23:37:56Z"
+      "updated_at": "2026-05-01T04:31:39Z"
     },
     {
       "full_name": "ka-pi-ba-la/AIbijia",
       "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
       "description": "分享便宜靠谱Token，抹平信息差",
-      "stargazers_count": 245,
+      "stargazers_count": 462,
       "language": null,
       "created_at": "2026-04-27T12:55:00Z",
-      "updated_at": "2026-04-30T04:06:39Z"
-    },
-    {
-      "full_name": "stainlu/hermes-labyrinth",
-      "html_url": "https://github.com/stainlu/hermes-labyrinth",
-      "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
-      "stargazers_count": 226,
-      "language": "HTML",
-      "created_at": "2026-04-25T15:12:11Z",
-      "updated_at": "2026-04-30T04:05:29Z"
+      "updated_at": "2026-05-01T04:25:45Z"
     },
     {
       "full_name": "deepseek-ai/awesome-deepseek-agent",
       "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
       "description": null,
-      "stargazers_count": 206,
+      "stargazers_count": 446,
       "language": null,
       "created_at": "2026-04-27T06:37:38Z",
-      "updated_at": "2026-04-30T04:09:10Z"
-    },
-    {
-      "full_name": "sweriko/ai4anim-webgpu",
-      "html_url": "https://github.com/sweriko/ai4anim-webgpu",
-      "description": null,
-      "stargazers_count": 206,
-      "language": "TypeScript",
-      "created_at": "2026-04-26T17:35:08Z",
-      "updated_at": "2026-04-29T21:47:11Z"
-    },
-    {
-      "full_name": "arcsin1/oh-my-ppt",
-      "html_url": "https://github.com/arcsin1/oh-my-ppt",
-      "description": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck.",
-      "stargazers_count": 190,
-      "language": "TypeScript",
-      "created_at": "2026-04-24T10:29:13Z",
-      "updated_at": "2026-04-30T03:32:09Z"
-    },
-    {
-      "full_name": "AndrewVos/endless-toil",
-      "html_url": "https://github.com/AndrewVos/endless-toil",
-      "description": "Hear your agent suffer through your code",
-      "stargazers_count": 180,
-      "language": "Python",
-      "created_at": "2026-04-24T09:49:53Z",
-      "updated_at": "2026-04-29T23:28:33Z"
-    },
-    {
-      "full_name": "MentalPrism42/FL-Production-25.2.5-DAW",
-      "html_url": "https://github.com/MentalPrism42/FL-Production-25.2.5-DAW",
-      "description": "25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual Instruments Producer Edition Professional Audio Resource",
-      "stargazers_count": 171,
-      "language": "C++",
-      "created_at": "2026-04-24T16:05:03Z",
-      "updated_at": "2026-04-30T03:56:23Z"
+      "updated_at": "2026-05-01T04:11:50Z"
     },
     {
       "full_name": "sandeco/reversa",
       "html_url": "https://github.com/sandeco/reversa",
       "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "stargazers_count": 169,
+      "stargazers_count": 338,
       "language": "JavaScript",
       "created_at": "2026-04-26T13:47:10Z",
-      "updated_at": "2026-04-30T04:09:57Z"
+      "updated_at": "2026-05-01T04:29:36Z"
+    },
+    {
+      "full_name": "browser-use/bux",
+      "html_url": "https://github.com/browser-use/bux",
+      "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
+      "stargazers_count": 282,
+      "language": "Python",
+      "created_at": "2026-04-26T20:53:37Z",
+      "updated_at": "2026-05-01T02:42:03Z"
+    },
+    {
+      "full_name": "stainlu/hermes-labyrinth",
+      "html_url": "https://github.com/stainlu/hermes-labyrinth",
+      "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
+      "stargazers_count": 240,
+      "language": "HTML",
+      "created_at": "2026-04-25T15:12:11Z",
+      "updated_at": "2026-05-01T01:35:11Z"
+    },
+    {
+      "full_name": "skydoves/compose-performance-skills",
+      "html_url": "https://github.com/skydoves/compose-performance-skills",
+      "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
+      "stargazers_count": 223,
+      "language": "Shell",
+      "created_at": "2026-04-29T08:02:27Z",
+      "updated_at": "2026-05-01T04:23:54Z"
+    },
+    {
+      "full_name": "noonghunna/club-3090",
+      "html_url": "https://github.com/noonghunna/club-3090",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "stargazers_count": 219,
+      "language": "Shell",
+      "created_at": "2026-04-28T10:08:59Z",
+      "updated_at": "2026-05-01T03:47:33Z"
+    },
+    {
+      "full_name": "sweriko/ai4anim-webgpu",
+      "html_url": "https://github.com/sweriko/ai4anim-webgpu",
+      "description": null,
+      "stargazers_count": 214,
+      "language": "TypeScript",
+      "created_at": "2026-04-26T17:35:08Z",
+      "updated_at": "2026-05-01T03:43:55Z"
+    },
+    {
+      "full_name": "99xAgency/GodModeSkill",
+      "html_url": "https://github.com/99xAgency/GodModeSkill",
+      "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate.",
+      "stargazers_count": 185,
+      "language": "Shell",
+      "created_at": "2026-04-28T05:42:27Z",
+      "updated_at": "2026-05-01T00:27:23Z"
+    },
+    {
+      "full_name": "ForecastForge/coinbase-trading-bot",
+      "html_url": "https://github.com/ForecastForge/coinbase-trading-bot",
+      "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
+      "stargazers_count": 175,
+      "language": "TypeScript",
+      "created_at": "2026-04-27T18:35:31Z",
+      "updated_at": "2026-05-01T04:08:33Z"
     }
   ]
 }
