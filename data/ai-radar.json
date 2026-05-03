@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-02T03:58:11.684Z",
-  "since": "2026-04-25",
+  "updatedAt": "2026-05-03T04:26:26.677Z",
+  "since": "2026-04-26",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "willchen96/mike",
       "html_url": "https://github.com/willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stargazers_count": 1112,
+      "stargazers_count": 1435,
       "language": "TypeScript",
       "created_at": "2026-04-29T17:41:12Z",
-      "updated_at": "2026-05-02T03:56:07Z"
+      "updated_at": "2026-05-03T04:11:06Z"
     },
     {
       "full_name": "GENEXIS-AI/chromex",
       "html_url": "https://github.com/GENEXIS-AI/chromex",
       "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stargazers_count": 740,
+      "stargazers_count": 756,
       "language": "TypeScript",
       "created_at": "2026-04-28T11:08:06Z",
-      "updated_at": "2026-05-02T02:52:19Z"
-    },
-    {
-      "full_name": "ka-pi-ba-la/AIbijia",
-      "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
-      "description": "分享便宜靠谱Token，抹平信息差",
-      "stargazers_count": 602,
-      "language": null,
-      "created_at": "2026-04-27T12:55:00Z",
-      "updated_at": "2026-05-02T03:58:05Z"
-    },
-    {
-      "full_name": "deepseek-ai/awesome-deepseek-agent",
-      "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "description": null,
-      "stargazers_count": 550,
-      "language": null,
-      "created_at": "2026-04-27T06:37:38Z",
-      "updated_at": "2026-05-02T03:27:30Z"
+      "updated_at": "2026-05-03T04:17:01Z"
     },
     {
       "full_name": "mattpocock/dictionary-of-ai-coding",
       "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
       "description": "AI coding jargon, explained in plain English.",
-      "stargazers_count": 412,
+      "stargazers_count": 696,
       "language": "TypeScript",
       "created_at": "2026-05-01T10:17:05Z",
-      "updated_at": "2026-05-02T03:57:56Z"
+      "updated_at": "2026-05-03T04:12:41Z"
     },
     {
-      "full_name": "sandeco/reversa",
-      "html_url": "https://github.com/sandeco/reversa",
-      "description": "Transform legacy systems into executable specifications for AI coding agents",
-      "stargazers_count": 407,
-      "language": "JavaScript",
-      "created_at": "2026-04-26T13:47:10Z",
-      "updated_at": "2026-05-02T03:40:08Z"
+      "full_name": "ka-pi-ba-la/AIbijia",
+      "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
+      "description": "分享便宜靠谱Token，抹平信息差",
+      "stargazers_count": 650,
+      "language": null,
+      "created_at": "2026-04-27T12:55:00Z",
+      "updated_at": "2026-05-03T03:36:06Z"
     },
     {
-      "full_name": "browser-use/bux",
-      "html_url": "https://github.com/browser-use/bux",
-      "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
-      "stargazers_count": 290,
-      "language": "Python",
-      "created_at": "2026-04-26T20:53:37Z",
-      "updated_at": "2026-05-02T03:44:03Z"
-    },
-    {
-      "full_name": "noonghunna/club-3090",
-      "html_url": "https://github.com/noonghunna/club-3090",
-      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
-      "stargazers_count": 285,
-      "language": "Shell",
-      "created_at": "2026-04-28T10:08:59Z",
-      "updated_at": "2026-05-02T03:49:25Z"
-    },
-    {
-      "full_name": "tiangolo/library-skills",
-      "html_url": "https://github.com/tiangolo/library-skills",
-      "description": "Library Agent Skills",
-      "stargazers_count": 264,
-      "language": "Python",
-      "created_at": "2026-04-26T16:15:07Z",
-      "updated_at": "2026-05-02T03:54:43Z"
-    },
-    {
-      "full_name": "skydoves/compose-performance-skills",
-      "html_url": "https://github.com/skydoves/compose-performance-skills",
-      "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
-      "stargazers_count": 243,
-      "language": "Shell",
-      "created_at": "2026-04-29T08:02:27Z",
-      "updated_at": "2026-05-02T01:04:15Z"
+      "full_name": "deepseek-ai/awesome-deepseek-agent",
+      "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "description": null,
+      "stargazers_count": 606,
+      "language": null,
+      "created_at": "2026-04-27T06:37:38Z",
+      "updated_at": "2026-05-03T03:48:21Z"
     },
     {
       "full_name": "appergb/openless",
       "html_url": "https://github.com/appergb/openless",
       "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-      "stargazers_count": 229,
+      "stargazers_count": 408,
       "language": "HTML",
       "created_at": "2026-04-27T07:25:49Z",
-      "updated_at": "2026-05-02T03:53:28Z"
+      "updated_at": "2026-05-03T04:20:16Z"
     },
     {
-      "full_name": "sweriko/ai4anim-webgpu",
-      "html_url": "https://github.com/sweriko/ai4anim-webgpu",
-      "description": null,
-      "stargazers_count": 217,
+      "full_name": "noonghunna/club-3090",
+      "html_url": "https://github.com/noonghunna/club-3090",
+      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
+      "stargazers_count": 388,
+      "language": "Shell",
+      "created_at": "2026-04-28T10:08:59Z",
+      "updated_at": "2026-05-03T04:18:33Z"
+    },
+    {
+      "full_name": "skydoves/compose-performance-skills",
+      "html_url": "https://github.com/skydoves/compose-performance-skills",
+      "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
+      "stargazers_count": 262,
+      "language": "Shell",
+      "created_at": "2026-04-29T08:02:27Z",
+      "updated_at": "2026-05-03T02:53:41Z"
+    },
+    {
+      "full_name": "Julpygo/Claude-Code-AI-Design",
+      "html_url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+      "stargazers_count": 211,
+      "language": "C++",
+      "created_at": "2026-04-29T15:04:46Z",
+      "updated_at": "2026-05-02T18:56:42Z"
+    },
+    {
+      "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "html_url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+      "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
+      "stargazers_count": 207,
+      "language": "C++",
+      "created_at": "2026-04-29T14:44:41Z",
+      "updated_at": "2026-05-03T03:37:55Z"
+    },
+    {
+      "full_name": "Snaplii-Inc/agent-to-merchant-payments",
+      "html_url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+      "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
+      "stargazers_count": 206,
+      "language": "Python",
+      "created_at": "2026-04-27T23:12:18Z",
+      "updated_at": "2026-05-03T04:16:14Z"
+    },
+    {
+      "full_name": "ForecastForge/coinbase-trading-bot",
+      "html_url": "https://github.com/ForecastForge/coinbase-trading-bot",
+      "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
+      "stargazers_count": 205,
       "language": "TypeScript",
-      "created_at": "2026-04-26T17:35:08Z",
-      "updated_at": "2026-05-02T02:27:28Z"
+      "created_at": "2026-04-27T18:35:31Z",
+      "updated_at": "2026-05-03T03:37:42Z"
     }
   ]
 }
