@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-03T04:26:26.677Z",
-  "since": "2026-04-26",
+  "updatedAt": "2026-05-04T04:26:28.503Z",
+  "since": "2026-04-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "willchen96/mike",
       "html_url": "https://github.com/willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stargazers_count": 1435,
+      "stargazers_count": 1717,
       "language": "TypeScript",
       "created_at": "2026-04-29T17:41:12Z",
-      "updated_at": "2026-05-03T04:11:06Z"
-    },
-    {
-      "full_name": "GENEXIS-AI/chromex",
-      "html_url": "https://github.com/GENEXIS-AI/chromex",
-      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stargazers_count": 756,
-      "language": "TypeScript",
-      "created_at": "2026-04-28T11:08:06Z",
-      "updated_at": "2026-05-03T04:17:01Z"
+      "updated_at": "2026-05-04T04:26:10Z"
     },
     {
       "full_name": "mattpocock/dictionary-of-ai-coding",
       "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
       "description": "AI coding jargon, explained in plain English.",
-      "stargazers_count": 696,
+      "stargazers_count": 858,
       "language": "TypeScript",
       "created_at": "2026-05-01T10:17:05Z",
-      "updated_at": "2026-05-03T04:12:41Z"
+      "updated_at": "2026-05-04T03:54:42Z"
     },
     {
-      "full_name": "ka-pi-ba-la/AIbijia",
-      "html_url": "https://github.com/ka-pi-ba-la/AIbijia",
-      "description": "分享便宜靠谱Token，抹平信息差",
-      "stargazers_count": 650,
-      "language": null,
-      "created_at": "2026-04-27T12:55:00Z",
-      "updated_at": "2026-05-03T03:36:06Z"
-    },
-    {
-      "full_name": "deepseek-ai/awesome-deepseek-agent",
-      "html_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
-      "description": null,
-      "stargazers_count": 606,
-      "language": null,
-      "created_at": "2026-04-27T06:37:38Z",
-      "updated_at": "2026-05-03T03:48:21Z"
-    },
-    {
-      "full_name": "appergb/openless",
-      "html_url": "https://github.com/appergb/openless",
-      "description": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)",
-      "stargazers_count": 408,
-      "language": "HTML",
-      "created_at": "2026-04-27T07:25:49Z",
-      "updated_at": "2026-05-03T04:20:16Z"
+      "full_name": "GENEXIS-AI/chromex",
+      "html_url": "https://github.com/GENEXIS-AI/chromex",
+      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+      "stargazers_count": 774,
+      "language": "TypeScript",
+      "created_at": "2026-04-28T11:08:06Z",
+      "updated_at": "2026-05-04T03:57:17Z"
     },
     {
       "full_name": "noonghunna/club-3090",
       "html_url": "https://github.com/noonghunna/club-3090",
       "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
-      "stargazers_count": 388,
+      "stargazers_count": 450,
       "language": "Shell",
       "created_at": "2026-04-28T10:08:59Z",
-      "updated_at": "2026-05-03T04:18:33Z"
+      "updated_at": "2026-05-04T04:21:43Z"
+    },
+    {
+      "full_name": "Tommy-yw/RunbookHermes",
+      "html_url": "https://github.com/Tommy-yw/RunbookHermes",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "stargazers_count": 359,
+      "language": "Python",
+      "created_at": "2026-05-01T07:30:53Z",
+      "updated_at": "2026-05-04T04:24:47Z"
     },
     {
       "full_name": "skydoves/compose-performance-skills",
       "html_url": "https://github.com/skydoves/compose-performance-skills",
       "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
-      "stargazers_count": 262,
+      "stargazers_count": 286,
       "language": "Shell",
       "created_at": "2026-04-29T08:02:27Z",
-      "updated_at": "2026-05-03T02:53:41Z"
+      "updated_at": "2026-05-04T00:04:26Z"
     },
     {
-      "full_name": "Julpygo/Claude-Code-AI-Design",
-      "html_url": "https://github.com/Julpygo/Claude-Code-AI-Design",
-      "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-      "stargazers_count": 211,
-      "language": "C++",
-      "created_at": "2026-04-29T15:04:46Z",
-      "updated_at": "2026-05-02T18:56:42Z"
+      "full_name": "aattaran/deepclaude",
+      "html_url": "https://github.com/aattaran/deepclaude",
+      "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+      "stargazers_count": 227,
+      "language": "JavaScript",
+      "created_at": "2026-05-03T21:27:49Z",
+      "updated_at": "2026-05-04T04:26:26Z"
     },
     {
       "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
       "html_url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
       "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-      "stargazers_count": 207,
+      "stargazers_count": 221,
       "language": "C++",
       "created_at": "2026-04-29T14:44:41Z",
-      "updated_at": "2026-05-03T03:37:55Z"
+      "updated_at": "2026-05-04T04:11:06Z"
     },
     {
-      "full_name": "Snaplii-Inc/agent-to-merchant-payments",
-      "html_url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
-      "description": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.",
-      "stargazers_count": 206,
+      "full_name": "Julpygo/Claude-Code-AI-Design",
+      "html_url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
+      "stargazers_count": 221,
+      "language": "C++",
+      "created_at": "2026-04-29T15:04:46Z",
+      "updated_at": "2026-05-04T02:43:24Z"
+    },
+    {
+      "full_name": "lukiIabs/trading-agents",
+      "html_url": "https://github.com/lukiIabs/trading-agents",
+      "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
+      "stargazers_count": 212,
       "language": "Python",
-      "created_at": "2026-04-27T23:12:18Z",
-      "updated_at": "2026-05-03T04:16:14Z"
+      "created_at": "2026-05-01T08:27:19Z",
+      "updated_at": "2026-05-04T02:59:41Z"
     },
     {
-      "full_name": "ForecastForge/coinbase-trading-bot",
-      "html_url": "https://github.com/ForecastForge/coinbase-trading-bot",
-      "description": "coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automation",
-      "stargazers_count": 205,
+      "full_name": "warpdot-dev/composio",
+      "html_url": "https://github.com/warpdot-dev/composio",
+      "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
+      "stargazers_count": 206,
       "language": "TypeScript",
-      "created_at": "2026-04-27T18:35:31Z",
-      "updated_at": "2026-05-03T03:37:42Z"
+      "created_at": "2026-05-01T07:19:17Z",
+      "updated_at": "2026-05-04T00:20:35Z"
+    },
+    {
+      "full_name": "endless-sky-team/ai-trading-agent",
+      "html_url": "https://github.com/endless-sky-team/ai-trading-agent",
+      "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+      "stargazers_count": 206,
+      "language": "TypeScript",
+      "created_at": "2026-04-29T21:48:01Z",
+      "updated_at": "2026-05-03T20:51:44Z"
     }
   ]
 }
