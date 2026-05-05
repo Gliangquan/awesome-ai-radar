@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-04T04:26:28.503Z",
-  "since": "2026-04-27",
+  "updatedAt": "2026-05-05T03:55:20.328Z",
+  "since": "2026-04-28",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "willchen96/mike",
       "html_url": "https://github.com/willchen96/mike",
       "description": "OSS AI Legal Platform",
-      "stargazers_count": 1717,
+      "stargazers_count": 2041,
       "language": "TypeScript",
       "created_at": "2026-04-29T17:41:12Z",
-      "updated_at": "2026-05-04T04:26:10Z"
-    },
-    {
-      "full_name": "mattpocock/dictionary-of-ai-coding",
-      "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
-      "description": "AI coding jargon, explained in plain English.",
-      "stargazers_count": 858,
-      "language": "TypeScript",
-      "created_at": "2026-05-01T10:17:05Z",
-      "updated_at": "2026-05-04T03:54:42Z"
-    },
-    {
-      "full_name": "GENEXIS-AI/chromex",
-      "html_url": "https://github.com/GENEXIS-AI/chromex",
-      "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
-      "stargazers_count": 774,
-      "language": "TypeScript",
-      "created_at": "2026-04-28T11:08:06Z",
-      "updated_at": "2026-05-04T03:57:17Z"
-    },
-    {
-      "full_name": "noonghunna/club-3090",
-      "html_url": "https://github.com/noonghunna/club-3090",
-      "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
-      "stargazers_count": 450,
-      "language": "Shell",
-      "created_at": "2026-04-28T10:08:59Z",
-      "updated_at": "2026-05-04T04:21:43Z"
-    },
-    {
-      "full_name": "Tommy-yw/RunbookHermes",
-      "html_url": "https://github.com/Tommy-yw/RunbookHermes",
-      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-      "stargazers_count": 359,
-      "language": "Python",
-      "created_at": "2026-05-01T07:30:53Z",
-      "updated_at": "2026-05-04T04:24:47Z"
-    },
-    {
-      "full_name": "skydoves/compose-performance-skills",
-      "html_url": "https://github.com/skydoves/compose-performance-skills",
-      "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
-      "stargazers_count": 286,
-      "language": "Shell",
-      "created_at": "2026-04-29T08:02:27Z",
-      "updated_at": "2026-05-04T00:04:26Z"
+      "updated_at": "2026-05-05T03:37:46Z"
     },
     {
       "full_name": "aattaran/deepclaude",
       "html_url": "https://github.com/aattaran/deepclaude",
       "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-      "stargazers_count": 227,
+      "stargazers_count": 1076,
       "language": "JavaScript",
       "created_at": "2026-05-03T21:27:49Z",
-      "updated_at": "2026-05-04T04:26:26Z"
+      "updated_at": "2026-05-05T03:48:17Z"
     },
     {
-      "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
-      "html_url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
-      "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
-      "stargazers_count": 221,
-      "language": "C++",
-      "created_at": "2026-04-29T14:44:41Z",
-      "updated_at": "2026-05-04T04:11:06Z"
+      "full_name": "mattpocock/dictionary-of-ai-coding",
+      "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "description": "AI coding jargon, explained in plain English.",
+      "stargazers_count": 981,
+      "language": "TypeScript",
+      "created_at": "2026-05-01T10:17:05Z",
+      "updated_at": "2026-05-05T03:47:46Z"
+    },
+    {
+      "full_name": "Tommy-yw/RunbookHermes",
+      "html_url": "https://github.com/Tommy-yw/RunbookHermes",
+      "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+      "stargazers_count": 505,
+      "language": "Python",
+      "created_at": "2026-05-01T07:30:53Z",
+      "updated_at": "2026-05-05T02:39:10Z"
+    },
+    {
+      "full_name": "JustLikeCheese/LGBT-Prompt",
+      "html_url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+      "description": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求",
+      "stargazers_count": 382,
+      "language": "HTML",
+      "created_at": "2026-05-03T06:11:46Z",
+      "updated_at": "2026-05-05T03:25:49Z"
+    },
+    {
+      "full_name": "vercel-labs/deepsec",
+      "html_url": "https://github.com/vercel-labs/deepsec",
+      "description": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents",
+      "stargazers_count": 370,
+      "language": "TypeScript",
+      "created_at": "2026-04-30T16:16:11Z",
+      "updated_at": "2026-05-05T03:54:28Z"
+    },
+    {
+      "full_name": "skydoves/compose-performance-skills",
+      "html_url": "https://github.com/skydoves/compose-performance-skills",
+      "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
+      "stargazers_count": 300,
+      "language": "Shell",
+      "created_at": "2026-04-29T08:02:27Z",
+      "updated_at": "2026-05-05T02:54:24Z"
+    },
+    {
+      "full_name": "raiyanyahya/how-to-train-your-gpt",
+      "html_url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+      "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+      "stargazers_count": 273,
+      "language": null,
+      "created_at": "2026-05-03T21:41:33Z",
+      "updated_at": "2026-05-05T03:53:33Z"
     },
     {
       "full_name": "Julpygo/Claude-Code-AI-Design",
       "html_url": "https://github.com/Julpygo/Claude-Code-AI-Design",
       "description": "Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial",
-      "stargazers_count": 221,
+      "stargazers_count": 233,
       "language": "C++",
       "created_at": "2026-04-29T15:04:46Z",
-      "updated_at": "2026-05-04T02:43:24Z"
+      "updated_at": "2026-05-05T03:12:28Z"
+    },
+    {
+      "full_name": "StartupHakk/OpenMonoAgent.ai",
+      "html_url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+      "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
+      "stargazers_count": 231,
+      "language": "C#",
+      "created_at": "2026-04-30T17:32:21Z",
+      "updated_at": "2026-05-05T03:41:54Z"
+    },
+    {
+      "full_name": "Senabayu08989/Stable-Diffusion-AI-Free",
+      "html_url": "https://github.com/Senabayu08989/Stable-Diffusion-AI-Free",
+      "description": "Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool",
+      "stargazers_count": 228,
+      "language": "C++",
+      "created_at": "2026-04-29T14:44:41Z",
+      "updated_at": "2026-05-04T16:00:55Z"
     },
     {
       "full_name": "lukiIabs/trading-agents",
       "html_url": "https://github.com/lukiIabs/trading-agents",
       "description": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS",
-      "stargazers_count": 212,
+      "stargazers_count": 223,
       "language": "Python",
       "created_at": "2026-05-01T08:27:19Z",
-      "updated_at": "2026-05-04T02:59:41Z"
-    },
-    {
-      "full_name": "warpdot-dev/composio",
-      "html_url": "https://github.com/warpdot-dev/composio",
-      "description": "typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers",
-      "stargazers_count": 206,
-      "language": "TypeScript",
-      "created_at": "2026-05-01T07:19:17Z",
-      "updated_at": "2026-05-04T00:20:35Z"
-    },
-    {
-      "full_name": "endless-sky-team/ai-trading-agent",
-      "html_url": "https://github.com/endless-sky-team/ai-trading-agent",
-      "description": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
-      "stargazers_count": 206,
-      "language": "TypeScript",
-      "created_at": "2026-04-29T21:48:01Z",
-      "updated_at": "2026-05-03T20:51:44Z"
+      "updated_at": "2026-05-05T00:36:13Z"
     }
   ]
 }
