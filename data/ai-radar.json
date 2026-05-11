@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T04:30:20.071Z",
-  "since": "2026-05-03",
+  "updatedAt": "2026-05-11T04:42:11.025Z",
+  "since": "2026-05-04",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "strukto-ai/mirage",
       "html_url": "https://github.com/strukto-ai/mirage",
       "description": "A Unified Virtual Filesystem For AI Agents",
-      "stargazers_count": 1655,
+      "stargazers_count": 1808,
       "language": "TypeScript",
       "created_at": "2026-05-06T17:00:48Z",
-      "updated_at": "2026-05-10T04:27:51Z"
+      "updated_at": "2026-05-11T04:34:18Z"
     },
     {
       "full_name": "yaojingang/yao-open-prompts",
       "html_url": "https://github.com/yaojingang/yao-open-prompts",
       "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "stargazers_count": 1503,
+      "stargazers_count": 1583,
       "language": "Python",
       "created_at": "2026-05-06T13:04:20Z",
-      "updated_at": "2026-05-10T04:12:27Z"
+      "updated_at": "2026-05-11T04:19:15Z"
     },
     {
       "full_name": "lightseekorg/tokenspeed",
       "html_url": "https://github.com/lightseekorg/tokenspeed",
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "stargazers_count": 865,
+      "stargazers_count": 922,
       "language": "Python",
       "created_at": "2026-05-06T13:13:21Z",
-      "updated_at": "2026-05-10T04:07:41Z"
+      "updated_at": "2026-05-11T03:41:31Z"
+    },
+    {
+      "full_name": "huangserva/3DCellForge",
+      "html_url": "https://github.com/huangserva/3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "stargazers_count": 887,
+      "language": "JavaScript",
+      "created_at": "2026-05-10T10:34:50Z",
+      "updated_at": "2026-05-11T04:41:06Z"
     },
     {
       "full_name": "zarazhangrui/beautiful-html-templates",
       "html_url": "https://github.com/zarazhangrui/beautiful-html-templates",
       "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
-      "stargazers_count": 626,
+      "stargazers_count": 766,
       "language": "HTML",
       "created_at": "2026-05-05T06:18:21Z",
-      "updated_at": "2026-05-10T04:25:08Z"
+      "updated_at": "2026-05-11T04:39:20Z"
     },
     {
-      "full_name": "WenyuChiou/awesome-agentic-ai-zh",
-      "html_url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
-      "stargazers_count": 559,
-      "language": "Python",
-      "created_at": "2026-05-04T22:18:51Z",
-      "updated_at": "2026-05-10T04:17:20Z"
-    },
-    {
-      "full_name": "butthtio/solidity-cot-auditor",
-      "html_url": "https://github.com/butthtio/solidity-cot-auditor",
-      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
-      "stargazers_count": 405,
-      "language": "Python",
-      "created_at": "2026-05-04T02:37:55Z",
-      "updated_at": "2026-05-10T04:25:54Z"
-    },
-    {
-      "full_name": "joshawome/chainreason",
-      "html_url": "https://github.com/joshawome/chainreason",
-      "description": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks",
-      "stargazers_count": 397,
-      "language": "Python",
-      "created_at": "2026-05-04T02:20:05Z",
-      "updated_at": "2026-05-10T04:08:10Z"
-    },
-    {
-      "full_name": "jmerelnyc/Photo-agents",
-      "html_url": "https://github.com/jmerelnyc/Photo-agents",
-      "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
-      "stargazers_count": 364,
-      "language": "Python",
-      "created_at": "2026-05-04T09:14:09Z",
-      "updated_at": "2026-05-09T15:23:02Z"
-    },
-    {
-      "full_name": "TQ-trade-agent/tq-trading-agent",
-      "html_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
-      "stargazers_count": 292,
-      "language": "Vue",
-      "created_at": "2026-05-06T14:52:16Z",
-      "updated_at": "2026-05-10T04:10:51Z"
-    },
-    {
-      "full_name": "darkrishabh/agent-skills-eval",
-      "html_url": "https://github.com/darkrishabh/agent-skills-eval",
-      "description": "A test runner for agentskills.io-style AI agent skills",
-      "stargazers_count": 265,
-      "language": "TypeScript",
-      "created_at": "2026-05-06T05:10:29Z",
-      "updated_at": "2026-05-10T02:24:27Z"
-    },
-    {
-      "full_name": "iam567/LifeManga",
-      "html_url": "https://github.com/iam567/LifeManga",
-      "description": "ios swift swiftui openai gpt-image manga ai-art",
-      "stargazers_count": 265,
-      "language": "Swift",
-      "created_at": "2026-05-07T10:39:09Z",
-      "updated_at": "2026-05-09T16:13:30Z"
+      "full_name": "alchaincyf/huashu-md-html",
+      "html_url": "https://github.com/alchaincyf/huashu-md-html",
+      "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "stargazers_count": 371,
+      "language": "CSS",
+      "created_at": "2026-05-09T15:34:26Z",
+      "updated_at": "2026-05-11T04:40:32Z"
     },
     {
       "full_name": "nickvasilescu/hermes-desktop-os1",
       "html_url": "https://github.com/nickvasilescu/hermes-desktop-os1",
       "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
-      "stargazers_count": 251,
+      "stargazers_count": 346,
       "language": "Swift",
       "created_at": "2026-05-09T04:32:48Z",
-      "updated_at": "2026-05-10T04:22:05Z"
+      "updated_at": "2026-05-11T04:28:35Z"
+    },
+    {
+      "full_name": "TQ-trade-agent/tq-trading-agent",
+      "html_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "stargazers_count": 294,
+      "language": "Vue",
+      "created_at": "2026-05-06T14:52:16Z",
+      "updated_at": "2026-05-11T03:57:18Z"
+    },
+    {
+      "full_name": "darkrishabh/agent-skills-eval",
+      "html_url": "https://github.com/darkrishabh/agent-skills-eval",
+      "description": "A test runner for agentskills.io-style AI agent skills",
+      "stargazers_count": 293,
+      "language": "TypeScript",
+      "created_at": "2026-05-06T05:10:29Z",
+      "updated_at": "2026-05-11T04:35:17Z"
+    },
+    {
+      "full_name": "iam567/LifeManga",
+      "html_url": "https://github.com/iam567/LifeManga",
+      "description": "ios swift swiftui openai gpt-image manga ai-art",
+      "stargazers_count": 274,
+      "language": "Swift",
+      "created_at": "2026-05-07T10:39:09Z",
+      "updated_at": "2026-05-11T01:24:18Z"
+    },
+    {
+      "full_name": "NirDiamant/Agent_Memory_Techniques",
+      "html_url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "stargazers_count": 268,
+      "language": "Jupyter Notebook",
+      "created_at": "2026-05-05T21:08:23Z",
+      "updated_at": "2026-05-11T00:56:12Z"
+    },
+    {
+      "full_name": "anthropics/cwc-long-running-agents",
+      "html_url": "https://github.com/anthropics/cwc-long-running-agents",
+      "description": null,
+      "stargazers_count": 256,
+      "language": "Shell",
+      "created_at": "2026-05-06T00:23:37Z",
+      "updated_at": "2026-05-11T04:05:22Z"
     }
   ]
 }
