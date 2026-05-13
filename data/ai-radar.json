@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-12T04:12:46.039Z",
-  "since": "2026-05-05",
+  "updatedAt": "2026-05-13T04:27:53.234Z",
+  "since": "2026-05-06",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "strukto-ai/mirage",
-      "html_url": "https://github.com/strukto-ai/mirage",
-      "description": "A Unified Virtual Filesystem For AI Agents",
-      "stargazers_count": 1952,
-      "language": "TypeScript",
-      "created_at": "2026-05-06T17:00:48Z",
-      "updated_at": "2026-05-12T04:01:31Z"
-    },
-    {
-      "full_name": "yaojingang/yao-open-prompts",
-      "html_url": "https://github.com/yaojingang/yao-open-prompts",
-      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-      "stargazers_count": 1638,
-      "language": "Python",
-      "created_at": "2026-05-06T13:04:20Z",
-      "updated_at": "2026-05-12T03:58:41Z"
-    },
-    {
       "full_name": "huangserva/3DCellForge",
       "html_url": "https://github.com/huangserva/3DCellForge",
       "description": "AI-powered interactive 3D cell generation and exploration studio.",
-      "stargazers_count": 1496,
+      "stargazers_count": 1727,
       "language": "JavaScript",
       "created_at": "2026-05-10T10:34:50Z",
-      "updated_at": "2026-05-12T04:12:32Z"
-    },
-    {
-      "full_name": "lightseekorg/tokenspeed",
-      "html_url": "https://github.com/lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "stargazers_count": 945,
-      "language": "Python",
-      "created_at": "2026-05-06T13:13:21Z",
-      "updated_at": "2026-05-12T02:02:40Z"
+      "updated_at": "2026-05-13T04:24:51Z"
     },
     {
       "full_name": "alchaincyf/huashu-md-html",
       "html_url": "https://github.com/alchaincyf/huashu-md-html",
       "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-      "stargazers_count": 448,
+      "stargazers_count": 489,
       "language": "CSS",
       "created_at": "2026-05-09T15:34:26Z",
-      "updated_at": "2026-05-12T03:55:12Z"
-    },
-    {
-      "full_name": "darkrishabh/agent-skills-eval",
-      "html_url": "https://github.com/darkrishabh/agent-skills-eval",
-      "description": "A test runner for agentskills.io-style AI agent skills",
-      "stargazers_count": 430,
-      "language": "TypeScript",
-      "created_at": "2026-05-06T05:10:29Z",
-      "updated_at": "2026-05-12T02:14:24Z"
+      "updated_at": "2026-05-13T03:50:04Z"
     },
     {
       "full_name": "nickvasilescu/hermes-desktop-os1",
       "html_url": "https://github.com/nickvasilescu/hermes-desktop-os1",
       "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
-      "stargazers_count": 372,
+      "stargazers_count": 393,
       "language": "Swift",
       "created_at": "2026-05-09T04:32:48Z",
-      "updated_at": "2026-05-12T04:10:30Z"
+      "updated_at": "2026-05-13T03:53:25Z"
+    },
+    {
+      "full_name": "ChristianJR19/Goblin-Agent",
+      "html_url": "https://github.com/ChristianJR19/Goblin-Agent",
+      "description": null,
+      "stargazers_count": 358,
+      "language": "Python",
+      "created_at": "2026-05-09T04:18:30Z",
+      "updated_at": "2026-05-13T04:23:37Z"
     },
     {
       "full_name": "iam567/LifeManga",
       "html_url": "https://github.com/iam567/LifeManga",
       "description": "ios swift swiftui openai gpt-image manga ai-art",
-      "stargazers_count": 314,
+      "stargazers_count": 326,
       "language": "Swift",
       "created_at": "2026-05-07T10:39:09Z",
-      "updated_at": "2026-05-12T04:11:55Z"
-    },
-    {
-      "full_name": "TQ-trade-agent/tq-trading-agent",
-      "html_url": "https://github.com/TQ-trade-agent/tq-trading-agent",
-      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
-      "stargazers_count": 295,
-      "language": "Vue",
-      "created_at": "2026-05-06T14:52:16Z",
-      "updated_at": "2026-05-11T07:14:18Z"
+      "updated_at": "2026-05-13T01:34:58Z"
     },
     {
       "full_name": "HiDream-ai/HiDream-O1-Image",
       "html_url": "https://github.com/HiDream-ai/HiDream-O1-Image",
       "description": null,
-      "stargazers_count": 278,
+      "stargazers_count": 318,
       "language": "Python",
       "created_at": "2026-05-08T13:36:17Z",
-      "updated_at": "2026-05-12T04:00:59Z"
+      "updated_at": "2026-05-13T04:06:32Z"
     },
     {
-      "full_name": "anthropics/cwc-long-running-agents",
-      "html_url": "https://github.com/anthropics/cwc-long-running-agents",
+      "full_name": "simonlin1212/a-stock-data",
+      "html_url": "https://github.com/simonlin1212/a-stock-data",
+      "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+      "stargazers_count": 312,
+      "language": null,
+      "created_at": "2026-05-11T01:08:15Z",
+      "updated_at": "2026-05-13T04:15:40Z"
+    },
+    {
+      "full_name": "zoyluoblue/mc_aiplayer",
+      "html_url": "https://github.com/zoyluoblue/mc_aiplayer",
       "description": null,
-      "stargazers_count": 276,
-      "language": "Shell",
-      "created_at": "2026-05-06T00:23:37Z",
-      "updated_at": "2026-05-12T03:33:49Z"
+      "stargazers_count": 261,
+      "language": "Java",
+      "created_at": "2026-05-10T06:59:59Z",
+      "updated_at": "2026-05-12T20:36:17Z"
     },
     {
-      "full_name": "ChristianJR19/GoblinOS",
-      "html_url": "https://github.com/ChristianJR19/GoblinOS",
-      "description": "a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona",
-      "stargazers_count": 252,
-      "language": "Python",
-      "created_at": "2026-05-09T04:18:30Z",
-      "updated_at": "2026-05-12T03:59:11Z"
+      "full_name": "yaassin12/DeepSeek-V4-Pro-App",
+      "html_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+      "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
+      "stargazers_count": 244,
+      "language": "C++",
+      "created_at": "2026-05-12T15:00:14Z",
+      "updated_at": "2026-05-13T04:27:27Z"
+    },
+    {
+      "full_name": "sunyouzhi2003/LSFG-Desktop",
+      "html_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+      "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
+      "stargazers_count": 244,
+      "language": "C++",
+      "created_at": "2026-05-12T13:36:32Z",
+      "updated_at": "2026-05-13T04:25:59Z"
+    },
+    {
+      "full_name": "Salomondiei08/oh-my-hermes",
+      "html_url": "https://github.com/Salomondiei08/oh-my-hermes",
+      "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+      "stargazers_count": 237,
+      "language": "Shell",
+      "created_at": "2026-05-08T16:20:54Z",
+      "updated_at": "2026-05-13T04:25:26Z"
+    },
+    {
+      "full_name": "ProjectKumo/KumoApp",
+      "html_url": "https://github.com/ProjectKumo/KumoApp",
+      "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
+      "stargazers_count": 234,
+      "language": "Swift",
+      "created_at": "2026-05-09T05:29:55Z",
+      "updated_at": "2026-05-13T03:57:16Z"
     }
   ]
 }
