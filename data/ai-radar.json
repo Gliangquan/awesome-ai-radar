@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-13T04:27:53.234Z",
-  "since": "2026-05-06",
+  "updatedAt": "2026-05-14T04:27:14.000Z",
+  "since": "2026-05-07",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -10,110 +10,110 @@
     {
       "full_name": "huangserva/3DCellForge",
       "html_url": "https://github.com/huangserva/3DCellForge",
-      "description": "AI-powered interactive 3D cell generation and exploration studio.",
-      "stargazers_count": 1727,
+      "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+      "stargazers_count": 1826,
       "language": "JavaScript",
       "created_at": "2026-05-10T10:34:50Z",
-      "updated_at": "2026-05-13T04:24:51Z"
+      "updated_at": "2026-05-14T04:12:03Z"
     },
     {
       "full_name": "alchaincyf/huashu-md-html",
       "html_url": "https://github.com/alchaincyf/huashu-md-html",
       "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-      "stargazers_count": 489,
+      "stargazers_count": 517,
       "language": "CSS",
       "created_at": "2026-05-09T15:34:26Z",
-      "updated_at": "2026-05-13T03:50:04Z"
-    },
-    {
-      "full_name": "nickvasilescu/hermes-desktop-os1",
-      "html_url": "https://github.com/nickvasilescu/hermes-desktop-os1",
-      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
-      "stargazers_count": 393,
-      "language": "Swift",
-      "created_at": "2026-05-09T04:32:48Z",
-      "updated_at": "2026-05-13T03:53:25Z"
-    },
-    {
-      "full_name": "ChristianJR19/Goblin-Agent",
-      "html_url": "https://github.com/ChristianJR19/Goblin-Agent",
-      "description": null,
-      "stargazers_count": 358,
-      "language": "Python",
-      "created_at": "2026-05-09T04:18:30Z",
-      "updated_at": "2026-05-13T04:23:37Z"
-    },
-    {
-      "full_name": "iam567/LifeManga",
-      "html_url": "https://github.com/iam567/LifeManga",
-      "description": "ios swift swiftui openai gpt-image manga ai-art",
-      "stargazers_count": 326,
-      "language": "Swift",
-      "created_at": "2026-05-07T10:39:09Z",
-      "updated_at": "2026-05-13T01:34:58Z"
-    },
-    {
-      "full_name": "HiDream-ai/HiDream-O1-Image",
-      "html_url": "https://github.com/HiDream-ai/HiDream-O1-Image",
-      "description": null,
-      "stargazers_count": 318,
-      "language": "Python",
-      "created_at": "2026-05-08T13:36:17Z",
-      "updated_at": "2026-05-13T04:06:32Z"
+      "updated_at": "2026-05-14T03:17:45Z"
     },
     {
       "full_name": "simonlin1212/a-stock-data",
       "html_url": "https://github.com/simonlin1212/a-stock-data",
       "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-      "stargazers_count": 312,
+      "stargazers_count": 501,
       "language": null,
       "created_at": "2026-05-11T01:08:15Z",
-      "updated_at": "2026-05-13T04:15:40Z"
+      "updated_at": "2026-05-14T04:09:36Z"
     },
     {
-      "full_name": "zoyluoblue/mc_aiplayer",
-      "html_url": "https://github.com/zoyluoblue/mc_aiplayer",
+      "full_name": "ChristianJR19/Goblin-Agent",
+      "html_url": "https://github.com/ChristianJR19/Goblin-Agent",
       "description": null,
-      "stargazers_count": 261,
-      "language": "Java",
-      "created_at": "2026-05-10T06:59:59Z",
-      "updated_at": "2026-05-12T20:36:17Z"
+      "stargazers_count": 429,
+      "language": "Python",
+      "created_at": "2026-05-09T04:18:30Z",
+      "updated_at": "2026-05-14T04:26:58Z"
+    },
+    {
+      "full_name": "nickvasilescu/hermes-desktop-os1",
+      "html_url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "stargazers_count": 398,
+      "language": "Swift",
+      "created_at": "2026-05-09T04:32:48Z",
+      "updated_at": "2026-05-14T02:58:28Z"
     },
     {
       "full_name": "yaassin12/DeepSeek-V4-Pro-App",
       "html_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
       "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
-      "stargazers_count": 244,
+      "stargazers_count": 363,
       "language": "C++",
       "created_at": "2026-05-12T15:00:14Z",
-      "updated_at": "2026-05-13T04:27:27Z"
+      "updated_at": "2026-05-14T04:26:34Z"
     },
     {
       "full_name": "sunyouzhi2003/LSFG-Desktop",
       "html_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
       "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
-      "stargazers_count": 244,
+      "stargazers_count": 358,
       "language": "C++",
       "created_at": "2026-05-12T13:36:32Z",
-      "updated_at": "2026-05-13T04:25:59Z"
+      "updated_at": "2026-05-14T04:25:18Z"
     },
     {
       "full_name": "Salomondiei08/oh-my-hermes",
       "html_url": "https://github.com/Salomondiei08/oh-my-hermes",
       "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
-      "stargazers_count": 237,
+      "stargazers_count": 352,
       "language": "Shell",
       "created_at": "2026-05-08T16:20:54Z",
-      "updated_at": "2026-05-13T04:25:26Z"
+      "updated_at": "2026-05-14T04:25:15Z"
+    },
+    {
+      "full_name": "HiDream-ai/HiDream-O1-Image",
+      "html_url": "https://github.com/HiDream-ai/HiDream-O1-Image",
+      "description": null,
+      "stargazers_count": 336,
+      "language": "Python",
+      "created_at": "2026-05-08T13:36:17Z",
+      "updated_at": "2026-05-14T04:10:33Z"
+    },
+    {
+      "full_name": "zoyluoblue/mc_aiplayer",
+      "html_url": "https://github.com/zoyluoblue/mc_aiplayer",
+      "description": null,
+      "stargazers_count": 262,
+      "language": "Java",
+      "created_at": "2026-05-10T06:59:59Z",
+      "updated_at": "2026-05-14T01:52:18Z"
     },
     {
       "full_name": "ProjectKumo/KumoApp",
       "html_url": "https://github.com/ProjectKumo/KumoApp",
       "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
-      "stargazers_count": 234,
+      "stargazers_count": 240,
       "language": "Swift",
       "created_at": "2026-05-09T05:29:55Z",
-      "updated_at": "2026-05-13T03:57:16Z"
+      "updated_at": "2026-05-14T01:44:16Z"
+    },
+    {
+      "full_name": "yliust/Tactile",
+      "html_url": "https://github.com/yliust/Tactile",
+      "description": "Tactile: an accessibility-first operating layer for agents.",
+      "stargazers_count": 214,
+      "language": "Python",
+      "created_at": "2026-05-11T12:21:23Z",
+      "updated_at": "2026-05-14T04:16:37Z"
     }
   ]
 }
