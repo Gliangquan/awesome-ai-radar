@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-17T04:37:10.027Z",
-  "since": "2026-05-10",
+  "updatedAt": "2026-05-18T04:49:17.135Z",
+  "since": "2026-05-11",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,67 +8,85 @@
   ],
   "items": [
     {
-      "full_name": "nexu-io/html-anything",
-      "html_url": "https://github.com/nexu-io/html-anything",
-      "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-      "stargazers_count": 2504,
-      "language": "HTML",
-      "created_at": "2026-05-11T09:40:38Z",
-      "updated_at": "2026-05-17T04:36:46Z"
+      "full_name": "vercel-labs/zero",
+      "html_url": "https://github.com/vercel-labs/zero",
+      "description": "The programming language for agents",
+      "stargazers_count": 1786,
+      "language": "C",
+      "created_at": "2026-05-15T16:55:16Z",
+      "updated_at": "2026-05-18T04:48:56Z"
     },
     {
       "full_name": "yetone/native-feel-skill",
       "html_url": "https://github.com/yetone/native-feel-skill",
       "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-      "stargazers_count": 1238,
+      "stargazers_count": 1285,
       "language": null,
       "created_at": "2026-05-14T19:28:43Z",
-      "updated_at": "2026-05-17T04:14:42Z"
-    },
-    {
-      "full_name": "vercel-labs/zero",
-      "html_url": "https://github.com/vercel-labs/zero",
-      "description": "The programming language for agents",
-      "stargazers_count": 1119,
-      "language": "C",
-      "created_at": "2026-05-15T16:55:16Z",
-      "updated_at": "2026-05-17T04:35:02Z"
-    },
-    {
-      "full_name": "simonlin1212/a-stock-data",
-      "html_url": "https://github.com/simonlin1212/a-stock-data",
-      "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-      "stargazers_count": 1016,
-      "language": null,
-      "created_at": "2026-05-11T01:08:15Z",
-      "updated_at": "2026-05-17T04:37:04Z"
+      "updated_at": "2026-05-18T04:35:36Z"
     },
     {
       "full_name": "DenisSergeevitch/agents-best-practices",
       "html_url": "https://github.com/DenisSergeevitch/agents-best-practices",
       "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-      "stargazers_count": 589,
+      "stargazers_count": 728,
       "language": null,
       "created_at": "2026-05-15T21:32:21Z",
-      "updated_at": "2026-05-17T04:23:25Z"
+      "updated_at": "2026-05-18T04:16:10Z"
     },
     {
       "full_name": "yaassin12/DeepSeek-V4-Pro-App",
       "html_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
       "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
-      "stargazers_count": 506,
+      "stargazers_count": 616,
       "language": "C++",
       "created_at": "2026-05-12T15:00:14Z",
-      "updated_at": "2026-05-17T04:35:07Z"
+      "updated_at": "2026-05-18T04:42:33Z"
     },
     {
       "full_name": "sunyouzhi2003/LSFG-Desktop",
       "html_url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
       "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
-      "stargazers_count": 502,
+      "stargazers_count": 610,
       "language": "C++",
       "created_at": "2026-05-12T13:36:32Z",
-      "updated_at": "2026-05-17T04:33:18Z"
+      "updated_at": "2026-05-18T04:30:16Z"
+    },
+    {
+      "full_name": "gi-dellav/zerostack",
+      "html_url": "https://github.com/gi-dellav/zerostack",
+      "description": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance",
+      "stargazers_count": 567,
+      "language": "Rust",
+      "created_at": "2026-05-12T19:31:49Z",
+      "updated_at": "2026-05-18T04:09:20Z"
+    },
+    {
+      "full_name": "KenKaneki18/CloakBrowser",
+      "html_url": "https://github.com/KenKaneki18/CloakBrowser",
+      "description": "CloakBrowser: Anti-detect browser download, browser fingerprinting spoofing, multi-accounting tool, Canvas WebGL modification. Proxy manager HTTP SOCKS5, cookie isolation, session import export, user-agent switcher. Puppeteer Playwright automation API, profile sharing, web scraping, free.",
+      "stargazers_count": 436,
+      "language": "TypeScript",
+      "created_at": "2026-05-16T17:28:57Z",
+      "updated_at": "2026-05-18T04:48:12Z"
+    },
+    {
+      "full_name": "BharathKumarSuresh/claude-design-system-hooks",
+      "html_url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+      "description": "🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install",
+      "stargazers_count": 422,
+      "language": null,
+      "created_at": "2026-05-14T21:25:55Z",
+      "updated_at": "2026-05-18T01:27:16Z"
+    },
+    {
+      "full_name": "2508965-ship-it/harmonist-orchestral",
+      "html_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+      "description": "🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code",
+      "stargazers_count": 421,
+      "language": null,
+      "created_at": "2026-05-14T21:32:21Z",
+      "updated_at": "2026-05-18T00:06:39Z"
     },
     {
       "full_name": "Scratch-191/Canva-Pro-Toolkit",
@@ -80,40 +98,22 @@
       "updated_at": "2026-05-16T16:33:47Z"
     },
     {
-      "full_name": "2508965-ship-it/harmonist-orchestral",
-      "html_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-      "description": "🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code",
-      "stargazers_count": 420,
-      "language": null,
-      "created_at": "2026-05-14T21:32:21Z",
-      "updated_at": "2026-05-16T16:33:31Z"
-    },
-    {
-      "full_name": "BharathKumarSuresh/claude-design-system-hooks",
-      "html_url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
-      "description": "🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install",
-      "stargazers_count": 420,
-      "language": null,
-      "created_at": "2026-05-14T21:25:55Z",
-      "updated_at": "2026-05-16T16:32:39Z"
-    },
-    {
       "full_name": "mikesheehan54/Claude-Code-Design-AI",
       "html_url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
       "description": "Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.",
-      "stargazers_count": 379,
+      "stargazers_count": 404,
       "language": "TypeScript",
       "created_at": "2026-05-13T16:28:07Z",
-      "updated_at": "2026-05-16T10:21:42Z"
+      "updated_at": "2026-05-17T22:30:53Z"
     },
     {
       "full_name": "simonlin1212/TradingAgents-astock",
       "html_url": "https://github.com/simonlin1212/TradingAgents-astock",
       "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
-      "stargazers_count": 287,
+      "stargazers_count": 324,
       "language": "Python",
       "created_at": "2026-05-13T00:22:30Z",
-      "updated_at": "2026-05-17T03:52:53Z"
+      "updated_at": "2026-05-18T04:29:25Z"
     }
   ]
 }
