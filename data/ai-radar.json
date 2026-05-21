@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-20T04:44:11.611Z",
-  "since": "2026-05-13",
+  "updatedAt": "2026-05-21T04:51:27.419Z",
+  "since": "2026-05-14",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "vercel-labs/zerolang",
       "html_url": "https://github.com/vercel-labs/zerolang",
       "description": "The programming language for agents",
-      "stargazers_count": 3426,
+      "stargazers_count": 4027,
       "language": "C",
       "created_at": "2026-05-15T16:55:16Z",
-      "updated_at": "2026-05-20T04:41:06Z"
-    },
-    {
-      "full_name": "yetone/native-feel-skill",
-      "html_url": "https://github.com/yetone/native-feel-skill",
-      "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-      "stargazers_count": 1336,
-      "language": null,
-      "created_at": "2026-05-14T19:28:43Z",
-      "updated_at": "2026-05-20T04:19:35Z"
+      "updated_at": "2026-05-21T04:49:14Z"
     },
     {
       "full_name": "DenisSergeevitch/agents-best-practices",
       "html_url": "https://github.com/DenisSergeevitch/agents-best-practices",
       "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-      "stargazers_count": 856,
+      "stargazers_count": 910,
       "language": null,
       "created_at": "2026-05-15T21:32:21Z",
-      "updated_at": "2026-05-20T03:04:54Z"
+      "updated_at": "2026-05-21T04:47:31Z"
     },
     {
       "full_name": "Doorman11991/smallcode",
       "html_url": "https://github.com/Doorman11991/smallcode",
       "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "stargazers_count": 737,
+      "stargazers_count": 855,
       "language": "JavaScript",
       "created_at": "2026-05-18T06:19:44Z",
-      "updated_at": "2026-05-20T04:37:07Z"
+      "updated_at": "2026-05-21T04:47:54Z"
     },
     {
       "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
       "html_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
       "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
-      "stargazers_count": 481,
+      "stargazers_count": 592,
       "language": "C#",
       "created_at": "2026-05-18T17:01:42Z",
-      "updated_at": "2026-05-20T04:39:21Z"
+      "updated_at": "2026-05-21T04:36:21Z"
     },
     {
-      "full_name": "BharathKumarSuresh/claude-design-system-hooks",
-      "html_url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
-      "description": "🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install",
-      "stargazers_count": 425,
-      "language": null,
-      "created_at": "2026-05-14T21:25:55Z",
-      "updated_at": "2026-05-19T01:58:00Z"
-    },
-    {
-      "full_name": "2508965-ship-it/harmonist-orchestral",
-      "html_url": "https://github.com/2508965-ship-it/harmonist-orchestral",
-      "description": "🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code",
-      "stargazers_count": 422,
-      "language": null,
-      "created_at": "2026-05-14T21:32:21Z",
-      "updated_at": "2026-05-19T11:27:10Z"
-    },
-    {
-      "full_name": "Scratch-191/Canva-Pro-Toolkit",
-      "html_url": "https://github.com/Scratch-191/Canva-Pro-Toolkit",
-      "description": "🚀 Canva Pro Lifetime 2026 – Free Access & AI Design Suite by Mr. Craft",
-      "stargazers_count": 420,
-      "language": null,
-      "created_at": "2026-05-14T21:24:47Z",
-      "updated_at": "2026-05-16T16:33:47Z"
+      "full_name": "SalhaNabil/CloakBrowser",
+      "html_url": "https://github.com/SalhaNabil/CloakBrowser",
+      "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
+      "stargazers_count": 481,
+      "language": "TypeScript",
+      "created_at": "2026-05-19T17:26:20Z",
+      "updated_at": "2026-05-21T04:41:13Z"
     },
     {
       "full_name": "shannhk/hermes-agent-control-room",
       "html_url": "https://github.com/shannhk/hermes-agent-control-room",
       "description": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows",
-      "stargazers_count": 381,
+      "stargazers_count": 390,
       "language": "Shell",
       "created_at": "2026-05-15T14:18:45Z",
-      "updated_at": "2026-05-20T03:05:23Z"
-    },
-    {
-      "full_name": "agentic-in/elephant-agent",
-      "html_url": "https://github.com/agentic-in/elephant-agent",
-      "description": "Personal-Model First Self Evolving AI Agent 🐘",
-      "stargazers_count": 347,
-      "language": "Python",
-      "created_at": "2026-05-15T07:08:17Z",
-      "updated_at": "2026-05-20T04:31:02Z"
-    },
-    {
-      "full_name": "nhutdang198/AI-Final-fantasy-6-remake",
-      "html_url": "https://github.com/nhutdang198/AI-Final-fantasy-6-remake",
-      "description": "ai final fantasy 6 remake: Release download free github fan made game pcwatch viral 3d trailer, , hironobu sakaguchi awesome tweet reaction, square enix 20 years kitase. desusanJP x video, sabin phantom train suplex ai, tina terra theme bgm teaser, ai slop controversy reddit, akitoshi kawazu response, play pixel remaster hd graphics mod.",
-      "stargazers_count": 315,
-      "language": "C++",
-      "created_at": "2026-05-19T16:46:14Z",
-      "updated_at": "2026-05-20T04:34:56Z"
+      "updated_at": "2026-05-21T03:18:21Z"
     },
     {
       "full_name": "evilsocket/audit",
       "html_url": "https://github.com/evilsocket/audit",
       "description": "An 8-stage vulnerability-discovery agent.",
-      "stargazers_count": 309,
+      "stargazers_count": 377,
       "language": "Python",
       "created_at": "2026-05-18T20:42:44Z",
-      "updated_at": "2026-05-20T04:40:20Z"
+      "updated_at": "2026-05-21T03:54:25Z"
+    },
+    {
+      "full_name": "agentic-in/elephant-agent",
+      "html_url": "https://github.com/agentic-in/elephant-agent",
+      "description": "Personal-Model First Self Evolving AI Agent 🐘",
+      "stargazers_count": 369,
+      "language": "Python",
+      "created_at": "2026-05-15T07:08:17Z",
+      "updated_at": "2026-05-21T04:07:55Z"
+    },
+    {
+      "full_name": "CylinderChairman/aida64",
+      "html_url": "https://github.com/CylinderChairman/aida64",
+      "description": "aida64 unlocker extreme edition",
+      "stargazers_count": 360,
+      "language": "PowerShell",
+      "created_at": "2026-05-20T10:52:40Z",
+      "updated_at": "2026-05-21T04:41:15Z"
+    },
+    {
+      "full_name": "husu/loom",
+      "html_url": "https://github.com/husu/loom",
+      "description": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具",
+      "stargazers_count": 339,
+      "language": null,
+      "created_at": "2026-05-15T09:19:02Z",
+      "updated_at": "2026-05-21T04:43:01Z"
+    },
+    {
+      "full_name": "MFS9628/Deepseek-v4-pro-app",
+      "html_url": "https://github.com/MFS9628/Deepseek-v4-pro-app",
+      "description": "DeepSeek v4 Pro github Flash chat: API flash gemma 4 gemini qwen claude chatgpt 4  key pricing tier, open source weights, huggingface model repository, local execution ollama setup. context window token limit, coding benchmark leaderboard ranking, reasoning model architecture v4,  .visual studio code extension integration, cursor ai ",
+      "stargazers_count": 333,
+      "language": null,
+      "created_at": "2026-05-20T13:56:54Z",
+      "updated_at": "2026-05-21T04:42:31Z"
+    },
+    {
+      "full_name": "basketikun/infinite-canvas",
+      "html_url": "https://github.com/basketikun/infinite-canvas",
+      "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
+      "stargazers_count": 263,
+      "language": "TypeScript",
+      "created_at": "2026-05-18T23:45:50Z",
+      "updated_at": "2026-05-21T04:46:41Z"
     }
   ]
 }
