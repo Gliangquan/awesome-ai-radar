@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T04:46:39.409Z",
-  "since": "2026-05-17",
+  "updatedAt": "2026-05-25T05:00:16.155Z",
+  "since": "2026-05-18",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,67 +8,13 @@
   ],
   "items": [
     {
-      "full_name": "Doorman11991/smallcode",
-      "html_url": "https://github.com/Doorman11991/smallcode",
-      "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-      "stargazers_count": 1331,
-      "language": "JavaScript",
-      "created_at": "2026-05-18T06:19:44Z",
-      "updated_at": "2026-05-24T04:18:28Z"
-    },
-    {
-      "full_name": "lynote-ai/humanize-text",
-      "html_url": "https://github.com/lynote-ai/humanize-text",
-      "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
-      "stargazers_count": 569,
-      "language": "Python",
-      "created_at": "2026-05-18T10:12:15Z",
-      "updated_at": "2026-05-24T04:44:16Z"
-    },
-    {
-      "full_name": "basketikun/infinite-canvas",
-      "html_url": "https://github.com/basketikun/infinite-canvas",
-      "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
-      "stargazers_count": 456,
-      "language": "TypeScript",
-      "created_at": "2026-05-18T23:45:50Z",
-      "updated_at": "2026-05-24T04:18:53Z"
-    },
-    {
-      "full_name": "evilsocket/audit",
-      "html_url": "https://github.com/evilsocket/audit",
-      "description": "An 8-stage vulnerability-discovery agent.",
-      "stargazers_count": 449,
-      "language": "Python",
-      "created_at": "2026-05-18T20:42:44Z",
-      "updated_at": "2026-05-24T04:18:32Z"
-    },
-    {
-      "full_name": "paradigmxyz/centaur",
-      "html_url": "https://github.com/paradigmxyz/centaur",
-      "description": "Multiplayer, self-hosted, secure agents.",
-      "stargazers_count": 436,
-      "language": "Python",
-      "created_at": "2026-05-18T17:30:29Z",
-      "updated_at": "2026-05-24T03:25:39Z"
-    },
-    {
-      "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-      "html_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-      "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
-      "stargazers_count": 435,
-      "language": "C#",
-      "created_at": "2026-05-18T17:01:42Z",
-      "updated_at": "2026-05-23T19:33:40Z"
-    },
-    {
       "full_name": "larajuniorlara/Claude-Design-Studio",
       "html_url": "https://github.com/larajuniorlara/Claude-Design-Studio",
       "description": "🚀 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite – Free Download",
       "stargazers_count": 422,
       "language": null,
       "created_at": "2026-05-22T10:19:50Z",
-      "updated_at": "2026-05-23T23:15:19Z"
+      "updated_at": "2026-05-25T02:11:23Z"
     },
     {
       "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
@@ -92,19 +38,37 @@
       "full_name": "SalhaNabil/CloakBrowser",
       "html_url": "https://github.com/SalhaNabil/CloakBrowser",
       "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
-      "stargazers_count": 368,
+      "stargazers_count": 388,
       "language": "TypeScript",
       "created_at": "2026-05-19T17:26:20Z",
-      "updated_at": "2026-05-24T04:37:25Z"
+      "updated_at": "2026-05-25T04:00:28Z"
     },
     {
       "full_name": "CylinderChairman/aida64",
       "html_url": "https://github.com/CylinderChairman/aida64",
       "description": "aida64 unlocker extreme edition",
-      "stargazers_count": 289,
+      "stargazers_count": 309,
       "language": "PowerShell",
       "created_at": "2026-05-20T10:52:40Z",
-      "updated_at": "2026-05-24T04:38:09Z"
+      "updated_at": "2026-05-25T03:27:34Z"
+    },
+    {
+      "full_name": "testerlingcodo/gemini-antigravity-cli",
+      "html_url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
+      "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
+      "stargazers_count": 300,
+      "language": "TypeScript",
+      "created_at": "2026-05-22T16:57:47Z",
+      "updated_at": "2026-05-25T04:35:11Z"
+    },
+    {
+      "full_name": "MoonshotAI/kimi-code",
+      "html_url": "https://github.com/MoonshotAI/kimi-code",
+      "description": "The Starting Point for Next-Gen Agents",
+      "stargazers_count": 284,
+      "language": "TypeScript",
+      "created_at": "2026-05-22T08:02:03Z",
+      "updated_at": "2026-05-25T04:52:31Z"
     },
     {
       "full_name": "edgenuitybot/exodusbot",
@@ -114,6 +78,42 @@
       "language": "JavaScript",
       "created_at": "2026-05-19T00:45:04Z",
       "updated_at": "2026-05-22T18:42:29Z"
+    },
+    {
+      "full_name": "orchestration-agent/AgentOrchestration",
+      "html_url": "https://github.com/orchestration-agent/AgentOrchestration",
+      "description": null,
+      "stargazers_count": 270,
+      "language": "Python",
+      "created_at": "2026-05-19T14:28:31Z",
+      "updated_at": "2026-05-25T04:26:06Z"
+    },
+    {
+      "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "html_url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+      "stargazers_count": 256,
+      "language": "TypeScript",
+      "created_at": "2026-05-23T17:05:57Z",
+      "updated_at": "2026-05-25T04:37:17Z"
+    },
+    {
+      "full_name": "jianshuo/ccglass",
+      "html_url": "https://github.com/jianshuo/ccglass",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "stargazers_count": 253,
+      "language": "JavaScript",
+      "created_at": "2026-05-22T05:35:11Z",
+      "updated_at": "2026-05-25T04:51:26Z"
+    },
+    {
+      "full_name": "VILA-Lab/FigMirror",
+      "html_url": "https://github.com/VILA-Lab/FigMirror",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "stargazers_count": 244,
+      "language": "Python",
+      "created_at": "2026-05-22T13:37:03Z",
+      "updated_at": "2026-05-25T04:21:14Z"
     }
   ]
 }
