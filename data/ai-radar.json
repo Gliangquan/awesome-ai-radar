@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-26T04:41:37.386Z",
-  "since": "2026-05-19",
+  "updatedAt": "2026-05-27T04:53:56.567Z",
+  "since": "2026-05-20",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "MoonshotAI/kimi-code",
       "html_url": "https://github.com/MoonshotAI/kimi-code",
       "description": "The Starting Point for Next-Gen Agents",
-      "stargazers_count": 564,
+      "stargazers_count": 758,
       "language": "TypeScript",
       "created_at": "2026-05-22T08:02:03Z",
-      "updated_at": "2026-05-26T04:40:27Z"
+      "updated_at": "2026-05-27T04:50:24Z"
     },
     {
-      "full_name": "jianshuo/ccglass",
-      "html_url": "https://github.com/jianshuo/ccglass",
-      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-      "stargazers_count": 295,
-      "language": "JavaScript",
-      "created_at": "2026-05-22T05:35:11Z",
-      "updated_at": "2026-05-26T03:50:25Z"
-    },
-    {
-      "full_name": "VILA-Lab/FigMirror",
-      "html_url": "https://github.com/VILA-Lab/FigMirror",
-      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-      "stargazers_count": 284,
-      "language": "Python",
-      "created_at": "2026-05-22T13:37:03Z",
-      "updated_at": "2026-05-26T03:58:58Z"
+      "full_name": "study8677/awesome-architecture",
+      "html_url": "https://github.com/study8677/awesome-architecture",
+      "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+      "stargazers_count": 335,
+      "language": "Vue",
+      "created_at": "2026-05-23T02:44:43Z",
+      "updated_at": "2026-05-27T04:52:23Z"
     },
     {
       "full_name": "XingYu-Zhong/DeepSeek-GUI",
       "html_url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
       "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
-      "stargazers_count": 265,
+      "stargazers_count": 317,
       "language": "TypeScript",
       "created_at": "2026-05-21T13:22:06Z",
-      "updated_at": "2026-05-26T03:51:00Z"
+      "updated_at": "2026-05-27T03:20:49Z"
+    },
+    {
+      "full_name": "VILA-Lab/FigMirror",
+      "html_url": "https://github.com/VILA-Lab/FigMirror",
+      "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+      "stargazers_count": 313,
+      "language": "Python",
+      "created_at": "2026-05-22T13:37:03Z",
+      "updated_at": "2026-05-27T04:22:37Z"
+    },
+    {
+      "full_name": "jianshuo/ccglass",
+      "html_url": "https://github.com/jianshuo/ccglass",
+      "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+      "stargazers_count": 307,
+      "language": "JavaScript",
+      "created_at": "2026-05-22T05:35:11Z",
+      "updated_at": "2026-05-27T02:37:54Z"
     },
     {
       "full_name": "akitaonrails/ai-memory",
       "html_url": "https://github.com/akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "stargazers_count": 240,
+      "stargazers_count": 290,
       "language": "Rust",
       "created_at": "2026-05-21T23:23:51Z",
-      "updated_at": "2026-05-26T03:49:50Z"
-    },
-    {
-      "full_name": "modaic-ai/gepa-viz",
-      "html_url": "https://github.com/modaic-ai/gepa-viz",
-      "description": "Interactive live visualizer for gepa runs",
-      "stargazers_count": 235,
-      "language": "TypeScript",
-      "created_at": "2026-05-24T01:41:29Z",
-      "updated_at": "2026-05-26T04:25:12Z"
-    },
-    {
-      "full_name": "CylinderChairman/aida64",
-      "html_url": "https://github.com/CylinderChairman/aida64",
-      "description": "aida64 unlocker extreme edition",
-      "stargazers_count": 227,
-      "language": "PowerShell",
-      "created_at": "2026-05-20T10:52:40Z",
-      "updated_at": "2026-05-26T04:22:08Z"
-    },
-    {
-      "full_name": "bryanyzhu/agentic-ai-system-course",
-      "html_url": "https://github.com/bryanyzhu/agentic-ai-system-course",
-      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
-      "stargazers_count": 214,
-      "language": "Shell",
-      "created_at": "2026-05-23T03:59:52Z",
-      "updated_at": "2026-05-26T04:38:16Z"
+      "updated_at": "2026-05-27T04:46:07Z"
     },
     {
       "full_name": "open-gsd/gsd-pi",
       "html_url": "https://github.com/open-gsd/gsd-pi",
       "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
-      "stargazers_count": 205,
+      "stargazers_count": 269,
       "language": "TypeScript",
       "created_at": "2026-05-22T11:03:33Z",
-      "updated_at": "2026-05-26T04:01:20Z"
+      "updated_at": "2026-05-27T03:26:43Z"
     },
     {
-      "full_name": "scheidydude/codeindex",
-      "html_url": "https://github.com/scheidydude/codeindex",
-      "description": "Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.",
-      "stargazers_count": 193,
-      "language": "Python",
-      "created_at": "2026-05-20T09:42:57Z",
-      "updated_at": "2026-05-26T03:38:00Z"
-    },
-    {
-      "full_name": "Eynzof/hermes-agent-cn-desktop",
-      "html_url": "https://github.com/Eynzof/hermes-agent-cn-desktop",
-      "description": "Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust. Isolated Hermes Agent core insides. ",
-      "stargazers_count": 181,
+      "full_name": "modaic-ai/gepa-viz",
+      "html_url": "https://github.com/modaic-ai/gepa-viz",
+      "description": "Interactive live visualizer for gepa runs",
+      "stargazers_count": 260,
       "language": "TypeScript",
-      "created_at": "2026-05-21T03:58:05Z",
-      "updated_at": "2026-05-26T02:43:06Z"
+      "created_at": "2026-05-24T01:41:29Z",
+      "updated_at": "2026-05-27T03:06:07Z"
     },
     {
-      "full_name": "testerlingcodo/gemini-antigravity-cli",
-      "html_url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
-      "description": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
-      "stargazers_count": 169,
+      "full_name": "bryanyzhu/agentic-ai-system-course",
+      "html_url": "https://github.com/bryanyzhu/agentic-ai-system-course",
+      "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+      "stargazers_count": 246,
+      "language": "Shell",
+      "created_at": "2026-05-23T03:59:52Z",
+      "updated_at": "2026-05-27T04:47:37Z"
+    },
+    {
+      "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+      "html_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "stargazers_count": 213,
+      "language": null,
+      "created_at": "2026-05-25T00:29:21Z",
+      "updated_at": "2026-05-27T04:30:09Z"
+    },
+    {
+      "full_name": "UditAkhourii/adhd",
+      "html_url": "https://github.com/UditAkhourii/adhd",
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "stargazers_count": 202,
       "language": "TypeScript",
-      "created_at": "2026-05-22T16:57:47Z",
-      "updated_at": "2026-05-26T02:35:00Z"
+      "created_at": "2026-05-25T11:06:35Z",
+      "updated_at": "2026-05-27T04:51:18Z"
+    },
+    {
+      "full_name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "html_url": "https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "description": "deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment",
+      "stargazers_count": 188,
+      "language": "TypeScript",
+      "created_at": "2026-05-23T17:05:57Z",
+      "updated_at": "2026-05-27T04:40:53Z"
     }
   ]
 }
