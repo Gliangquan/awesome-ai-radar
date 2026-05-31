@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T04:32:18.774Z",
-  "since": "2026-05-23",
+  "updatedAt": "2026-05-31T04:58:17.511Z",
+  "since": "2026-05-24",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -10,110 +10,110 @@
     {
       "full_name": "UditAkhourii/adhd",
       "html_url": "https://github.com/UditAkhourii/adhd",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-      "stargazers_count": 519,
+      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+      "stargazers_count": 612,
       "language": "TypeScript",
       "created_at": "2026-05-25T11:06:35Z",
-      "updated_at": "2026-05-30T03:18:25Z"
+      "updated_at": "2026-05-31T04:46:25Z"
     },
     {
       "full_name": "withkynam/vibecode-pro-max-kit",
       "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
       "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "stargazers_count": 514,
+      "stargazers_count": 608,
       "language": "JavaScript",
       "created_at": "2026-05-27T05:46:25Z",
-      "updated_at": "2026-05-30T04:21:54Z"
+      "updated_at": "2026-05-31T04:47:36Z"
     },
     {
       "full_name": "baoweise-bot/aimili-vpngate",
       "html_url": "https://github.com/baoweise-bot/aimili-vpngate",
       "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "stargazers_count": 441,
+      "stargazers_count": 525,
       "language": "Python",
       "created_at": "2026-05-25T14:13:24Z",
-      "updated_at": "2026-05-30T04:26:30Z"
+      "updated_at": "2026-05-31T04:57:06Z"
     },
     {
       "full_name": "2aronS/Duel-Agents",
       "html_url": "https://github.com/2aronS/Duel-Agents",
       "description": "CLI, SDK, and IDE plugins for Duel Agents",
-      "stargazers_count": 383,
+      "stargazers_count": 467,
       "language": "TypeScript",
       "created_at": "2026-05-28T10:45:44Z",
-      "updated_at": "2026-05-30T04:30:06Z"
-    },
-    {
-      "full_name": "modaic-ai/gepa-viz",
-      "html_url": "https://github.com/modaic-ai/gepa-viz",
-      "description": "Interactive live visualizer for gepa runs",
-      "stargazers_count": 352,
-      "language": "TypeScript",
-      "created_at": "2026-05-24T01:41:29Z",
-      "updated_at": "2026-05-30T03:16:21Z"
+      "updated_at": "2026-05-31T04:49:01Z"
     },
     {
       "full_name": "nv-tlabs/Gamma-World",
       "html_url": "https://github.com/nv-tlabs/Gamma-World",
       "description": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-      "stargazers_count": 307,
+      "stargazers_count": 436,
       "language": null,
       "created_at": "2026-05-25T02:35:01Z",
-      "updated_at": "2026-05-30T04:20:52Z"
+      "updated_at": "2026-05-31T04:37:15Z"
     },
     {
       "full_name": "GordenSun/GordenPPTSkill",
       "html_url": "https://github.com/GordenSun/GordenPPTSkill",
       "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "stargazers_count": 299,
+      "stargazers_count": 382,
       "language": "Python",
       "created_at": "2026-05-27T10:25:58Z",
-      "updated_at": "2026-05-30T04:27:00Z"
+      "updated_at": "2026-05-31T04:56:33Z"
     },
     {
       "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
       "html_url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
       "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
-      "stargazers_count": 292,
+      "stargazers_count": 332,
       "language": "TypeScript",
       "created_at": "2026-05-26T18:00:11Z",
-      "updated_at": "2026-05-30T04:15:20Z"
-    },
-    {
-      "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-      "html_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-      "stargazers_count": 262,
-      "language": null,
-      "created_at": "2026-05-25T00:29:21Z",
-      "updated_at": "2026-05-30T02:01:12Z"
+      "updated_at": "2026-05-31T04:55:25Z"
     },
     {
       "full_name": "Harkirat1462/claude-code-cli",
       "html_url": "https://github.com/Harkirat1462/claude-code-cli",
       "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**",
-      "stargazers_count": 241,
+      "stargazers_count": 289,
       "language": "TypeScript",
       "created_at": "2026-05-27T17:17:32Z",
-      "updated_at": "2026-05-30T04:16:27Z"
+      "updated_at": "2026-05-31T04:53:08Z"
     },
     {
       "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
       "html_url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
       "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
-      "stargazers_count": 224,
+      "stargazers_count": 283,
       "language": "C#",
       "created_at": "2026-05-28T17:20:58Z",
-      "updated_at": "2026-05-30T04:27:20Z"
+      "updated_at": "2026-05-31T04:50:26Z"
     },
     {
-      "full_name": "bandyah/uni-mm-trainer",
-      "html_url": "https://github.com/bandyah/uni-mm-trainer",
-      "description": "A small library for training multimodal LLMs combining text, vision, and audio",
-      "stargazers_count": 224,
-      "language": "Python",
-      "created_at": "2026-05-24T14:21:30Z",
-      "updated_at": "2026-05-29T15:23:47Z"
+      "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
+      "html_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
+      "stargazers_count": 269,
+      "language": null,
+      "created_at": "2026-05-25T00:29:21Z",
+      "updated_at": "2026-05-31T01:19:17Z"
+    },
+    {
+      "full_name": "cellinlab/how-pi-agent-works",
+      "html_url": "https://github.com/cellinlab/how-pi-agent-works",
+      "description": "Pi Agent 原理与实现",
+      "stargazers_count": 267,
+      "language": null,
+      "created_at": "2026-05-26T06:37:08Z",
+      "updated_at": "2026-05-31T04:31:25Z"
+    },
+    {
+      "full_name": "PolyMomentum-Labs/.github",
+      "html_url": "https://github.com/PolyMomentum-Labs/.github",
+      "description": "Official docs for PolyMomentum — Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
+      "stargazers_count": 239,
+      "language": null,
+      "created_at": "2026-05-28T12:49:38Z",
+      "updated_at": "2026-05-31T04:34:21Z"
     }
   ]
 }
