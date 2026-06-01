@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T04:58:17.511Z",
-  "since": "2026-05-24",
+  "updatedAt": "2026-06-01T05:23:23.868Z",
+  "since": "2026-05-25",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "UditAkhourii/adhd",
-      "html_url": "https://github.com/UditAkhourii/adhd",
-      "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-      "stargazers_count": 612,
-      "language": "TypeScript",
-      "created_at": "2026-05-25T11:06:35Z",
-      "updated_at": "2026-05-31T04:46:25Z"
-    },
-    {
-      "full_name": "withkynam/vibecode-pro-max-kit",
-      "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "stargazers_count": 608,
+      "full_name": "pewdiepie-archdaemon/odysseus",
+      "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+      "description": "Self-hosted AI workspace. ",
+      "stargazers_count": 9682,
       "language": "JavaScript",
-      "created_at": "2026-05-27T05:46:25Z",
-      "updated_at": "2026-05-31T04:47:36Z"
-    },
-    {
-      "full_name": "baoweise-bot/aimili-vpngate",
-      "html_url": "https://github.com/baoweise-bot/aimili-vpngate",
-      "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-      "stargazers_count": 525,
-      "language": "Python",
-      "created_at": "2026-05-25T14:13:24Z",
-      "updated_at": "2026-05-31T04:57:06Z"
-    },
-    {
-      "full_name": "2aronS/Duel-Agents",
-      "html_url": "https://github.com/2aronS/Duel-Agents",
-      "description": "CLI, SDK, and IDE plugins for Duel Agents",
-      "stargazers_count": 467,
-      "language": "TypeScript",
-      "created_at": "2026-05-28T10:45:44Z",
-      "updated_at": "2026-05-31T04:49:01Z"
-    },
-    {
-      "full_name": "nv-tlabs/Gamma-World",
-      "html_url": "https://github.com/nv-tlabs/Gamma-World",
-      "description": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-      "stargazers_count": 436,
-      "language": null,
-      "created_at": "2026-05-25T02:35:01Z",
-      "updated_at": "2026-05-31T04:37:15Z"
+      "created_at": "2026-05-31T14:05:51Z",
+      "updated_at": "2026-06-01T05:23:15Z"
     },
     {
       "full_name": "GordenSun/GordenPPTSkill",
       "html_url": "https://github.com/GordenSun/GordenPPTSkill",
       "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "stargazers_count": 382,
+      "stargazers_count": 1094,
       "language": "Python",
       "created_at": "2026-05-27T10:25:58Z",
-      "updated_at": "2026-05-31T04:56:33Z"
+      "updated_at": "2026-06-01T05:22:52Z"
+    },
+    {
+      "full_name": "withkynam/vibecode-pro-max-kit",
+      "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+      "stargazers_count": 676,
+      "language": "JavaScript",
+      "created_at": "2026-05-27T05:46:25Z",
+      "updated_at": "2026-06-01T05:08:08Z"
+    },
+    {
+      "full_name": "2aronS/Duel-Agents",
+      "html_url": "https://github.com/2aronS/Duel-Agents",
+      "description": "CLI, SDK, and IDE plugins for Duel Agents",
+      "stargazers_count": 584,
+      "language": "TypeScript",
+      "created_at": "2026-05-28T10:45:44Z",
+      "updated_at": "2026-06-01T05:02:11Z"
     },
     {
       "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
       "html_url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
       "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
-      "stargazers_count": 332,
+      "stargazers_count": 372,
       "language": "TypeScript",
       "created_at": "2026-05-26T18:00:11Z",
-      "updated_at": "2026-05-31T04:55:25Z"
+      "updated_at": "2026-06-01T05:12:43Z"
     },
     {
       "full_name": "Harkirat1462/claude-code-cli",
       "html_url": "https://github.com/Harkirat1462/claude-code-cli",
       "description": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**",
-      "stargazers_count": 289,
+      "stargazers_count": 327,
       "language": "TypeScript",
       "created_at": "2026-05-27T17:17:32Z",
-      "updated_at": "2026-05-31T04:53:08Z"
+      "updated_at": "2026-06-01T05:06:28Z"
     },
     {
       "full_name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
       "html_url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
       "description": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026",
-      "stargazers_count": 283,
+      "stargazers_count": 322,
       "language": "C#",
       "created_at": "2026-05-28T17:20:58Z",
-      "updated_at": "2026-05-31T04:50:26Z"
+      "updated_at": "2026-06-01T05:10:23Z"
     },
     {
-      "full_name": "realrossmanngroup/no_ai_slop_writing_rules",
-      "html_url": "https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
-      "description": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills.",
-      "stargazers_count": 269,
+      "full_name": "liyue-aigc/female-portrait-director",
+      "html_url": "https://github.com/liyue-aigc/female-portrait-director",
+      "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+      "stargazers_count": 304,
       "language": null,
-      "created_at": "2026-05-25T00:29:21Z",
-      "updated_at": "2026-05-31T01:19:17Z"
+      "created_at": "2026-05-30T06:32:54Z",
+      "updated_at": "2026-06-01T05:17:24Z"
     },
     {
       "full_name": "cellinlab/how-pi-agent-works",
       "html_url": "https://github.com/cellinlab/how-pi-agent-works",
       "description": "Pi Agent 原理与实现",
-      "stargazers_count": 267,
+      "stargazers_count": 291,
       "language": null,
       "created_at": "2026-05-26T06:37:08Z",
-      "updated_at": "2026-05-31T04:31:25Z"
+      "updated_at": "2026-06-01T03:58:28Z"
     },
     {
       "full_name": "PolyMomentum-Labs/.github",
       "html_url": "https://github.com/PolyMomentum-Labs/.github",
       "description": "Official docs for PolyMomentum — Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
-      "stargazers_count": 239,
+      "stargazers_count": 287,
       "language": null,
       "created_at": "2026-05-28T12:49:38Z",
-      "updated_at": "2026-05-31T04:34:21Z"
+      "updated_at": "2026-05-31T12:28:03Z"
+    },
+    {
+      "full_name": "jdevalk/specification.website",
+      "html_url": "https://github.com/jdevalk/specification.website",
+      "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+      "stargazers_count": 284,
+      "language": "TypeScript",
+      "created_at": "2026-05-29T09:13:26Z",
+      "updated_at": "2026-06-01T05:05:32Z"
+    },
+    {
+      "full_name": "yb2460/harness-anything",
+      "html_url": "https://github.com/yb2460/harness-anything",
+      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
+      "stargazers_count": 238,
+      "language": "Python",
+      "created_at": "2026-05-27T08:25:28Z",
+      "updated_at": "2026-06-01T05:08:18Z"
     }
   ]
 }
