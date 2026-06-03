@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T05:09:27.799Z",
-  "since": "2026-05-26",
+  "updatedAt": "2026-06-03T05:24:00.902Z",
+  "since": "2026-05-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,100 +11,91 @@
       "full_name": "pewdiepie-archdaemon/odysseus",
       "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "description": "Self-hosted AI workspace. ",
-      "stargazers_count": 22332,
+      "stargazers_count": 34861,
       "language": "JavaScript",
       "created_at": "2026-05-31T14:05:51Z",
-      "updated_at": "2026-06-02T05:09:23Z"
-    },
-    {
-      "full_name": "GordenSun/GordenPPTSkill",
-      "html_url": "https://github.com/GordenSun/GordenPPTSkill",
-      "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-      "stargazers_count": 1460,
-      "language": "Python",
-      "created_at": "2026-05-27T10:25:58Z",
-      "updated_at": "2026-06-02T05:02:04Z"
-    },
-    {
-      "full_name": "withkynam/vibecode-pro-max-kit",
-      "html_url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-      "stargazers_count": 704,
-      "language": "JavaScript",
-      "created_at": "2026-05-27T05:46:25Z",
-      "updated_at": "2026-06-02T04:47:07Z"
+      "updated_at": "2026-06-03T05:23:57Z"
     },
     {
       "full_name": "asz798838958/aBaiAutoplus",
       "html_url": "https://github.com/asz798838958/aBaiAutoplus",
       "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "stargazers_count": 694,
+      "stargazers_count": 1136,
       "language": "Python",
       "created_at": "2026-05-31T14:29:52Z",
-      "updated_at": "2026-06-02T05:06:29Z"
+      "updated_at": "2026-06-03T05:23:37Z"
     },
     {
       "full_name": "2aronS/Duel-Agents",
       "html_url": "https://github.com/2aronS/Duel-Agents",
       "description": "CLI, SDK, and IDE plugins for Duel Agents",
-      "stargazers_count": 637,
+      "stargazers_count": 690,
       "language": "TypeScript",
       "created_at": "2026-05-28T10:45:44Z",
-      "updated_at": "2026-06-02T05:08:38Z"
+      "updated_at": "2026-06-03T04:58:37Z"
+    },
+    {
+      "full_name": "ClaudioDrews/memory-os",
+      "html_url": "https://github.com/ClaudioDrews/memory-os",
+      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+      "stargazers_count": 658,
+      "language": "Python",
+      "created_at": "2026-05-31T19:50:25Z",
+      "updated_at": "2026-06-03T05:11:38Z"
     },
     {
       "full_name": "liyue-aigc/female-portrait-director",
       "html_url": "https://github.com/liyue-aigc/female-portrait-director",
       "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-      "stargazers_count": 442,
+      "stargazers_count": 491,
       "language": null,
       "created_at": "2026-05-30T06:32:54Z",
-      "updated_at": "2026-06-02T05:08:30Z"
+      "updated_at": "2026-06-03T04:56:09Z"
     },
     {
       "full_name": "jdevalk/specification.website",
       "html_url": "https://github.com/jdevalk/specification.website",
       "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-      "stargazers_count": 403,
+      "stargazers_count": 461,
       "language": "TypeScript",
       "created_at": "2026-05-29T09:13:26Z",
-      "updated_at": "2026-06-02T04:24:47Z"
+      "updated_at": "2026-06-03T05:00:21Z"
     },
     {
       "full_name": "DannyMac180/skills",
       "html_url": "https://github.com/DannyMac180/skills",
       "description": "AI agent skills created by me: Dan McAteer",
-      "stargazers_count": 340,
+      "stargazers_count": 390,
       "language": "Python",
       "created_at": "2026-05-29T14:54:55Z",
-      "updated_at": "2026-06-02T05:04:49Z"
+      "updated_at": "2026-06-03T05:23:00Z"
     },
     {
-      "full_name": "PolyMomentum-Labs/.github",
-      "html_url": "https://github.com/PolyMomentum-Labs/.github",
-      "description": "Official docs for PolyMomentum — Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.",
-      "stargazers_count": 287,
-      "language": null,
-      "created_at": "2026-05-28T12:49:38Z",
-      "updated_at": "2026-05-31T12:28:03Z"
-    },
-    {
-      "full_name": "yb2460/harness-anything",
-      "html_url": "https://github.com/yb2460/harness-anything",
-      "description": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation",
-      "stargazers_count": 279,
+      "full_name": "VAST-AI-Research/TripoSplat",
+      "html_url": "https://github.com/VAST-AI-Research/TripoSplat",
+      "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+      "stargazers_count": 248,
       "language": "Python",
-      "created_at": "2026-05-27T08:25:28Z",
-      "updated_at": "2026-06-02T04:34:12Z"
+      "created_at": "2026-06-01T12:50:21Z",
+      "updated_at": "2026-06-03T04:42:21Z"
     },
     {
-      "full_name": "JuneYaooo/nihaixia-tcm",
-      "html_url": "https://github.com/JuneYaooo/nihaixia-tcm",
-      "description": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haixia TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.",
+      "full_name": "OnlyTerp/UltraCode-Shim",
+      "html_url": "https://github.com/OnlyTerp/UltraCode-Shim",
+      "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
+      "stargazers_count": 223,
+      "language": "Python",
+      "created_at": "2026-05-30T18:48:20Z",
+      "updated_at": "2026-06-03T04:58:20Z"
+    },
+    {
+      "full_name": "johnbean393/KeyType",
+      "html_url": "https://github.com/johnbean393/KeyType",
+      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
       "stargazers_count": 217,
-      "language": "Python",
-      "created_at": "2026-05-27T02:01:16Z",
-      "updated_at": "2026-06-02T04:48:00Z"
+      "language": "Swift",
+      "created_at": "2026-05-31T16:08:48Z",
+      "updated_at": "2026-06-03T00:49:49Z"
     },
     {
       "full_name": "fxyz666/LogicPipe",
@@ -114,6 +105,15 @@
       "language": "Python",
       "created_at": "2026-05-29T11:29:48Z",
       "updated_at": "2026-06-01T03:19:33Z"
+    },
+    {
+      "full_name": "PentesterFlow/agent",
+      "html_url": "https://github.com/PentesterFlow/agent",
+      "description": "Agentic offensive-security in your terminal",
+      "stargazers_count": 188,
+      "language": "TypeScript",
+      "created_at": "2026-05-31T11:14:35Z",
+      "updated_at": "2026-06-03T01:49:29Z"
     }
   ]
 }
