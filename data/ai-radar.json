@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-03T05:24:00.902Z",
-  "since": "2026-05-27",
+  "updatedAt": "2026-06-04T05:19:23.954Z",
+  "since": "2026-05-28",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "pewdiepie-archdaemon/odysseus",
       "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
       "description": "Self-hosted AI workspace. ",
-      "stargazers_count": 34861,
+      "stargazers_count": 45124,
       "language": "JavaScript",
       "created_at": "2026-05-31T14:05:51Z",
-      "updated_at": "2026-06-03T05:23:57Z"
+      "updated_at": "2026-06-04T05:19:14Z"
     },
     {
       "full_name": "asz798838958/aBaiAutoplus",
       "html_url": "https://github.com/asz798838958/aBaiAutoplus",
       "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "stargazers_count": 1136,
+      "stargazers_count": 1418,
       "language": "Python",
       "created_at": "2026-05-31T14:29:52Z",
-      "updated_at": "2026-06-03T05:23:37Z"
-    },
-    {
-      "full_name": "2aronS/Duel-Agents",
-      "html_url": "https://github.com/2aronS/Duel-Agents",
-      "description": "CLI, SDK, and IDE plugins for Duel Agents",
-      "stargazers_count": 690,
-      "language": "TypeScript",
-      "created_at": "2026-05-28T10:45:44Z",
-      "updated_at": "2026-06-03T04:58:37Z"
+      "updated_at": "2026-06-04T05:16:22Z"
     },
     {
       "full_name": "ClaudioDrews/memory-os",
       "html_url": "https://github.com/ClaudioDrews/memory-os",
       "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-      "stargazers_count": 658,
+      "stargazers_count": 772,
       "language": "Python",
       "created_at": "2026-05-31T19:50:25Z",
-      "updated_at": "2026-06-03T05:11:38Z"
+      "updated_at": "2026-06-04T05:07:53Z"
     },
     {
       "full_name": "liyue-aigc/female-portrait-director",
       "html_url": "https://github.com/liyue-aigc/female-portrait-director",
       "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-      "stargazers_count": 491,
+      "stargazers_count": 506,
       "language": null,
       "created_at": "2026-05-30T06:32:54Z",
-      "updated_at": "2026-06-03T04:56:09Z"
+      "updated_at": "2026-06-04T02:50:57Z"
     },
     {
       "full_name": "jdevalk/specification.website",
       "html_url": "https://github.com/jdevalk/specification.website",
       "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-      "stargazers_count": 461,
+      "stargazers_count": 481,
       "language": "TypeScript",
       "created_at": "2026-05-29T09:13:26Z",
-      "updated_at": "2026-06-03T05:00:21Z"
+      "updated_at": "2026-06-04T01:30:20Z"
     },
     {
       "full_name": "DannyMac180/skills",
       "html_url": "https://github.com/DannyMac180/skills",
       "description": "AI agent skills created by me: Dan McAteer",
-      "stargazers_count": 390,
+      "stargazers_count": 403,
       "language": "Python",
       "created_at": "2026-05-29T14:54:55Z",
-      "updated_at": "2026-06-03T05:23:00Z"
+      "updated_at": "2026-06-04T05:15:52Z"
     },
     {
       "full_name": "VAST-AI-Research/TripoSplat",
       "html_url": "https://github.com/VAST-AI-Research/TripoSplat",
       "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-      "stargazers_count": 248,
+      "stargazers_count": 330,
       "language": "Python",
       "created_at": "2026-06-01T12:50:21Z",
-      "updated_at": "2026-06-03T04:42:21Z"
+      "updated_at": "2026-06-04T05:17:16Z"
+    },
+    {
+      "full_name": "jd-opensource/JoyAI-Echo",
+      "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "stargazers_count": 296,
+      "language": "Python",
+      "created_at": "2026-06-02T03:25:51Z",
+      "updated_at": "2026-06-04T05:08:00Z"
     },
     {
       "full_name": "OnlyTerp/UltraCode-Shim",
       "html_url": "https://github.com/OnlyTerp/UltraCode-Shim",
       "description": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.",
-      "stargazers_count": 223,
+      "stargazers_count": 249,
       "language": "Python",
       "created_at": "2026-05-30T18:48:20Z",
-      "updated_at": "2026-06-03T04:58:20Z"
+      "updated_at": "2026-06-04T00:55:44Z"
     },
     {
       "full_name": "johnbean393/KeyType",
       "html_url": "https://github.com/johnbean393/KeyType",
       "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-      "stargazers_count": 217,
+      "stargazers_count": 237,
       "language": "Swift",
       "created_at": "2026-05-31T16:08:48Z",
-      "updated_at": "2026-06-03T00:49:49Z"
+      "updated_at": "2026-06-04T05:10:14Z"
     },
     {
-      "full_name": "fxyz666/LogicPipe",
-      "html_url": "https://github.com/fxyz666/LogicPipe",
-      "description": "LogicPipe 是一个面向边缘多设备协同 LLM 推理的开源软件项目，提供离线管线规划、分布式 stage 权重加载、依赖感知任务调度和上下文 KV cache 复用能力。",
-      "stargazers_count": 198,
-      "language": "Python",
-      "created_at": "2026-05-29T11:29:48Z",
-      "updated_at": "2026-06-01T03:19:33Z"
+      "full_name": "Mochocyang/QMAI",
+      "html_url": "https://github.com/Mochocyang/QMAI",
+      "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+      "stargazers_count": 230,
+      "language": "TypeScript",
+      "created_at": "2026-05-31T00:41:43Z",
+      "updated_at": "2026-06-04T04:32:38Z"
     },
     {
       "full_name": "PentesterFlow/agent",
       "html_url": "https://github.com/PentesterFlow/agent",
       "description": "Agentic offensive-security in your terminal",
-      "stargazers_count": 188,
+      "stargazers_count": 214,
       "language": "TypeScript",
       "created_at": "2026-05-31T11:14:35Z",
-      "updated_at": "2026-06-03T01:49:29Z"
+      "updated_at": "2026-06-04T05:12:31Z"
     }
   ]
 }
