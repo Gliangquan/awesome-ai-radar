@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T04:34:30.270Z",
-  "since": "2026-05-30",
+  "updatedAt": "2026-06-07T05:05:10.700Z",
+  "since": "2026-05-31",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "pewdiepie-archdaemon/odysseus",
-      "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "description": "Self-hosted AI workspace. ",
-      "stargazers_count": 56118,
-      "language": "Python",
-      "created_at": "2026-05-31T14:05:51Z",
-      "updated_at": "2026-06-06T04:33:19Z"
-    },
-    {
-      "full_name": "asz798838958/aBaiAutoplus",
-      "html_url": "https://github.com/asz798838958/aBaiAutoplus",
-      "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-      "stargazers_count": 1538,
-      "language": "Python",
-      "created_at": "2026-05-31T14:29:52Z",
-      "updated_at": "2026-06-06T04:23:00Z"
-    },
-    {
-      "full_name": "ClaudioDrews/memory-os",
-      "html_url": "https://github.com/ClaudioDrews/memory-os",
-      "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-      "stargazers_count": 887,
-      "language": "Python",
-      "created_at": "2026-05-31T19:50:25Z",
-      "updated_at": "2026-06-06T04:30:41Z"
-    },
-    {
       "full_name": "jd-opensource/JoyAI-Echo",
       "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
       "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "stargazers_count": 590,
+      "stargazers_count": 744,
       "language": "Python",
       "created_at": "2026-06-02T03:25:51Z",
-      "updated_at": "2026-06-06T04:18:12Z"
+      "updated_at": "2026-06-07T05:02:04Z"
     },
     {
       "full_name": "VAST-AI-Research/TripoSplat",
       "html_url": "https://github.com/VAST-AI-Research/TripoSplat",
       "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-      "stargazers_count": 439,
+      "stargazers_count": 498,
       "language": "Python",
       "created_at": "2026-06-01T12:50:21Z",
-      "updated_at": "2026-06-06T04:00:02Z"
+      "updated_at": "2026-06-07T04:42:27Z"
     },
     {
       "full_name": "tastyeffectco/sandboxes",
       "html_url": "https://github.com/tastyeffectco/sandboxes",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "stargazers_count": 439,
+      "stargazers_count": 472,
       "language": "Go",
       "created_at": "2026-06-03T18:55:02Z",
-      "updated_at": "2026-06-06T03:35:14Z"
-    },
-    {
-      "full_name": "Mochocyang/QMAI",
-      "html_url": "https://github.com/Mochocyang/QMAI",
-      "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
-      "stargazers_count": 363,
-      "language": "TypeScript",
-      "created_at": "2026-05-31T00:41:43Z",
-      "updated_at": "2026-06-06T03:39:49Z"
-    },
-    {
-      "full_name": "chaitanyagiri/munder-difflin",
-      "html_url": "https://github.com/chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "stargazers_count": 338,
-      "language": "TypeScript",
-      "created_at": "2026-05-31T15:25:05Z",
-      "updated_at": "2026-06-06T04:12:41Z"
+      "updated_at": "2026-06-07T03:37:37Z"
     },
     {
       "full_name": "Fullive-AI/Anima",
       "html_url": "https://github.com/Fullive-AI/Anima",
       "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
-      "stargazers_count": 331,
+      "stargazers_count": 394,
       "language": "Python",
       "created_at": "2026-06-01T10:06:21Z",
-      "updated_at": "2026-06-06T02:51:47Z"
+      "updated_at": "2026-06-07T02:55:35Z"
     },
     {
-      "full_name": "PentesterFlow/agent",
-      "html_url": "https://github.com/PentesterFlow/agent",
-      "description": "Agentic offensive-security in your terminal",
-      "stargazers_count": 296,
+      "full_name": "CWS6206/ai-coding-starter-kit",
+      "html_url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stargazers_count": 260,
+      "language": null,
+      "created_at": "2026-06-05T08:46:35Z",
+      "updated_at": "2026-06-06T21:04:38Z"
+    },
+    {
+      "full_name": "razr001/align-dev",
+      "html_url": "https://github.com/razr001/align-dev",
+      "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
+      "stargazers_count": 257,
       "language": "TypeScript",
-      "created_at": "2026-05-31T11:14:35Z",
-      "updated_at": "2026-06-06T04:12:43Z"
+      "created_at": "2026-06-03T14:19:33Z",
+      "updated_at": "2026-06-07T05:02:43Z"
     },
     {
-      "full_name": "duncatzat/vigils",
-      "html_url": "https://github.com/duncatzat/vigils",
-      "description": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.",
-      "stargazers_count": 281,
+      "full_name": "best-spicy-ai/ai-naughty-tools",
+      "html_url": "https://github.com/best-spicy-ai/ai-naughty-tools",
+      "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
+      "stargazers_count": 216,
+      "language": null,
+      "created_at": "2026-06-04T17:54:56Z",
+      "updated_at": "2026-06-07T04:59:22Z"
+    },
+    {
+      "full_name": "zarazhangrui/beautiful-feishu-whiteboard",
+      "html_url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+      "description": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.",
+      "stargazers_count": 214,
+      "language": "Shell",
+      "created_at": "2026-06-01T07:20:50Z",
+      "updated_at": "2026-06-07T04:39:39Z"
+    },
+    {
+      "full_name": "zonghaoyuan/infiplot",
+      "html_url": "https://github.com/zonghaoyuan/infiplot",
+      "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
+      "stargazers_count": 214,
+      "language": "TypeScript",
+      "created_at": "2026-06-02T02:49:30Z",
+      "updated_at": "2026-06-07T04:17:20Z"
+    },
+    {
+      "full_name": "zaydmulani09/mnemo",
+      "html_url": "https://github.com/zaydmulani09/mnemo",
+      "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
+      "stargazers_count": 193,
       "language": "Rust",
-      "created_at": "2026-05-31T15:45:25Z",
-      "updated_at": "2026-06-06T01:25:43Z"
+      "created_at": "2026-06-02T23:15:18Z",
+      "updated_at": "2026-06-06T23:41:12Z"
     },
     {
-      "full_name": "johnbean393/KeyType",
-      "html_url": "https://github.com/johnbean393/KeyType",
-      "description": "An open-source Cotypist with macOS system wide AI autocomplete",
-      "stargazers_count": 266,
-      "language": "Swift",
-      "created_at": "2026-05-31T16:08:48Z",
-      "updated_at": "2026-06-05T20:35:42Z"
+      "full_name": "krispuckett/SwiftUIShaders",
+      "html_url": "https://github.com/krispuckett/SwiftUIShaders",
+      "description": "41 hand-curated drop-in SwiftUI Metal shader effects — holographic foil, kaleidoscope, magnetic fields, glitch, neon edges and more. Typed View modifiers, agent-friendly docs.",
+      "stargazers_count": 164,
+      "language": "Metal",
+      "created_at": "2026-06-01T21:29:12Z",
+      "updated_at": "2026-06-06T22:24:38Z"
+    },
+    {
+      "full_name": "cellebrite-labs/ghidra-rpc",
+      "html_url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "description": "A Ghidra agentic reverse engineering skill.",
+      "stargazers_count": 162,
+      "language": "Python",
+      "created_at": "2026-06-04T18:41:57Z",
+      "updated_at": "2026-06-07T04:00:50Z"
     }
   ]
 }
