@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T05:10:41.081Z",
-  "since": "2026-06-01",
+  "updatedAt": "2026-06-09T04:43:34.413Z",
+  "since": "2026-06-02",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "jd-opensource/JoyAI-Echo",
-      "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-      "stargazers_count": 885,
-      "language": "Python",
-      "created_at": "2026-06-02T03:25:51Z",
-      "updated_at": "2026-06-08T05:01:20Z"
+      "full_name": "JimLiu/baoyu-design",
+      "html_url": "https://github.com/JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "stargazers_count": 546,
+      "language": "JavaScript",
+      "created_at": "2026-06-07T01:16:18Z",
+      "updated_at": "2026-06-09T04:24:08Z"
     },
     {
       "full_name": "tastyeffectco/sandboxd",
       "html_url": "https://github.com/tastyeffectco/sandboxd",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-      "stargazers_count": 500,
+      "stargazers_count": 516,
       "language": "Go",
       "created_at": "2026-06-03T18:55:02Z",
-      "updated_at": "2026-06-08T04:33:53Z"
-    },
-    {
-      "full_name": "JimLiu/baoyu-design",
-      "html_url": "https://github.com/JimLiu/baoyu-design",
-      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "stargazers_count": 357,
-      "language": "JavaScript",
-      "created_at": "2026-06-07T01:16:18Z",
-      "updated_at": "2026-06-08T05:10:30Z"
+      "updated_at": "2026-06-09T03:02:35Z"
     },
     {
       "full_name": "amElnagdy/guard-skills",
       "html_url": "https://github.com/amElnagdy/guard-skills",
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "stargazers_count": 347,
+      "stargazers_count": 474,
       "language": null,
       "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-08T05:10:32Z"
+      "updated_at": "2026-06-09T02:56:22Z"
+    },
+    {
+      "full_name": "GordenSun/GordenSuperPPTSkills",
+      "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "stargazers_count": 465,
+      "language": "Python",
+      "created_at": "2026-06-07T16:20:13Z",
+      "updated_at": "2026-06-09T04:28:26Z"
     },
     {
       "full_name": "razr001/align-dev",
       "html_url": "https://github.com/razr001/align-dev",
       "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-      "stargazers_count": 289,
+      "stargazers_count": 346,
       "language": "TypeScript",
       "created_at": "2026-06-03T14:19:33Z",
-      "updated_at": "2026-06-08T04:24:19Z"
-    },
-    {
-      "full_name": "CWS6206/ai-coding-starter-kit",
-      "html_url": "https://github.com/CWS6206/ai-coding-starter-kit",
-      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-      "stargazers_count": 261,
-      "language": null,
-      "created_at": "2026-06-05T08:46:35Z",
-      "updated_at": "2026-06-08T04:12:39Z"
+      "updated_at": "2026-06-09T04:18:12Z"
     },
     {
       "full_name": "Parcle-AI/parcle-memory",
       "html_url": "https://github.com/Parcle-AI/parcle-memory",
       "description": null,
-      "stargazers_count": 260,
+      "stargazers_count": 314,
       "language": null,
       "created_at": "2026-06-06T02:15:35Z",
-      "updated_at": "2026-06-08T04:42:07Z"
+      "updated_at": "2026-06-09T03:44:33Z"
     },
     {
-      "full_name": "zonghaoyuan/infiplot",
-      "html_url": "https://github.com/zonghaoyuan/infiplot",
-      "description": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏",
-      "stargazers_count": 217,
-      "language": "TypeScript",
-      "created_at": "2026-06-02T02:49:30Z",
-      "updated_at": "2026-06-07T10:18:46Z"
+      "full_name": "CWS6206/ai-coding-starter-kit",
+      "html_url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "stargazers_count": 262,
+      "language": null,
+      "created_at": "2026-06-05T08:46:35Z",
+      "updated_at": "2026-06-08T05:34:08Z"
     },
     {
       "full_name": "FerroxLabs/wayland",
       "html_url": "https://github.com/FerroxLabs/wayland",
       "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-      "stargazers_count": 213,
+      "stargazers_count": 255,
       "language": "TypeScript",
       "created_at": "2026-06-05T17:38:22Z",
-      "updated_at": "2026-06-08T03:49:43Z"
-    },
-    {
-      "full_name": "zaydmulani09/mnemo",
-      "html_url": "https://github.com/zaydmulani09/mnemo",
-      "description": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend.",
-      "stargazers_count": 194,
-      "language": "Rust",
-      "created_at": "2026-06-02T23:15:18Z",
-      "updated_at": "2026-06-08T00:09:04Z"
-    },
-    {
-      "full_name": "best-spicy-ai/ai-naughty-tools",
-      "html_url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-      "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
-      "stargazers_count": 189,
-      "language": null,
-      "created_at": "2026-06-04T17:54:56Z",
-      "updated_at": "2026-06-07T21:49:02Z"
+      "updated_at": "2026-06-09T04:36:31Z"
     },
     {
       "full_name": "cellebrite-labs/ghidra-rpc",
       "html_url": "https://github.com/cellebrite-labs/ghidra-rpc",
       "description": "A Ghidra agentic reverse engineering skill.",
-      "stargazers_count": 176,
+      "stargazers_count": 185,
       "language": "Python",
       "created_at": "2026-06-04T18:41:57Z",
-      "updated_at": "2026-06-08T04:13:16Z"
+      "updated_at": "2026-06-08T19:47:56Z"
+    },
+    {
+      "full_name": "xiaohuailabs/xiaohu-video-translate",
+      "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "stargazers_count": 169,
+      "language": "Python",
+      "created_at": "2026-06-08T09:55:55Z",
+      "updated_at": "2026-06-09T04:40:16Z"
+    },
+    {
+      "full_name": "adamallcock/codex-chatgpt-control",
+      "html_url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "stargazers_count": 161,
+      "language": "JavaScript",
+      "created_at": "2026-06-06T21:09:56Z",
+      "updated_at": "2026-06-09T04:00:03Z"
+    },
+    {
+      "full_name": "techjarves/Local-AI-Image-Generator",
+      "html_url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "stargazers_count": 151,
+      "language": "JavaScript",
+      "created_at": "2026-06-04T03:45:01Z",
+      "updated_at": "2026-06-08T20:06:35Z"
     }
   ]
 }
