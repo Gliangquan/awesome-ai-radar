@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T05:07:24.832Z",
-  "since": "2026-06-04",
+  "updatedAt": "2026-06-12T05:12:42.365Z",
+  "since": "2026-06-05",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "GordenSun/GordenSuperPPTSkills",
       "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills",
       "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-      "stargazers_count": 739,
+      "stargazers_count": 805,
       "language": "Python",
       "created_at": "2026-06-07T16:20:13Z",
-      "updated_at": "2026-06-11T04:57:06Z"
+      "updated_at": "2026-06-12T05:09:44Z"
     },
     {
       "full_name": "JimLiu/baoyu-design",
       "html_url": "https://github.com/JimLiu/baoyu-design",
       "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "stargazers_count": 702,
+      "stargazers_count": 788,
       "language": "JavaScript",
       "created_at": "2026-06-07T01:16:18Z",
-      "updated_at": "2026-06-11T04:57:19Z"
+      "updated_at": "2026-06-12T05:11:47Z"
     },
     {
       "full_name": "apple/coreai-models",
       "html_url": "https://github.com/apple/coreai-models",
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "stargazers_count": 634,
+      "stargazers_count": 762,
       "language": "Python",
       "created_at": "2026-06-08T04:32:27Z",
-      "updated_at": "2026-06-11T05:01:03Z"
+      "updated_at": "2026-06-12T05:09:16Z"
     },
     {
       "full_name": "amElnagdy/guard-skills",
       "html_url": "https://github.com/amElnagdy/guard-skills",
       "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "stargazers_count": 556,
+      "stargazers_count": 572,
       "language": null,
       "created_at": "2026-06-06T16:59:27Z",
-      "updated_at": "2026-06-11T03:43:31Z"
+      "updated_at": "2026-06-12T04:40:29Z"
     },
     {
       "full_name": "xiaohuailabs/xiaohu-video-translate",
       "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
       "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "stargazers_count": 448,
+      "stargazers_count": 468,
       "language": "Python",
       "created_at": "2026-06-08T09:55:55Z",
-      "updated_at": "2026-06-11T04:48:46Z"
+      "updated_at": "2026-06-12T04:59:02Z"
     },
     {
       "full_name": "Parcle-AI/parcle-memory",
       "html_url": "https://github.com/Parcle-AI/parcle-memory",
       "description": null,
-      "stargazers_count": 377,
+      "stargazers_count": 393,
       "language": "Python",
       "created_at": "2026-06-06T02:15:35Z",
-      "updated_at": "2026-06-11T04:04:58Z"
-    },
-    {
-      "full_name": "FerroxLabs/wayland",
-      "html_url": "https://github.com/FerroxLabs/wayland",
-      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-      "stargazers_count": 372,
-      "language": "TypeScript",
-      "created_at": "2026-06-05T17:38:22Z",
-      "updated_at": "2026-06-11T04:14:15Z"
+      "updated_at": "2026-06-12T04:34:22Z"
     },
     {
       "full_name": "ziqihe10-droid/xuefeng-agent",
       "html_url": "https://github.com/ziqihe10-droid/xuefeng-agent",
       "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-      "stargazers_count": 296,
-      "language": "Python",
+      "stargazers_count": 355,
+      "language": "HTML",
       "created_at": "2026-06-07T15:33:07Z",
-      "updated_at": "2026-06-11T05:03:24Z"
-    },
-    {
-      "full_name": "CWS6206/ai-coding-starter-kit",
-      "html_url": "https://github.com/CWS6206/ai-coding-starter-kit",
-      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-      "stargazers_count": 263,
-      "language": null,
-      "created_at": "2026-06-05T08:46:35Z",
-      "updated_at": "2026-06-10T21:22:10Z"
+      "updated_at": "2026-06-12T05:10:13Z"
     },
     {
       "full_name": "valkor-ai/loom",
       "html_url": "https://github.com/valkor-ai/loom",
-      "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-      "stargazers_count": 200,
+      "description": "Loop engineering for agentic software delivery.",
+      "stargazers_count": 239,
       "language": "TypeScript",
       "created_at": "2026-06-09T03:46:34Z",
-      "updated_at": "2026-06-11T04:39:05Z"
+      "updated_at": "2026-06-12T05:09:15Z"
     },
     {
-      "full_name": "adamallcock/codex-chatgpt-control",
-      "html_url": "https://github.com/adamallcock/codex-chatgpt-control",
-      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
-      "stargazers_count": 196,
+      "full_name": "XBuilderLAB/cheat-on-money",
+      "html_url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "stargazers_count": 235,
       "language": "JavaScript",
-      "created_at": "2026-06-06T21:09:56Z",
-      "updated_at": "2026-06-11T03:54:52Z"
+      "created_at": "2026-06-08T13:30:36Z",
+      "updated_at": "2026-06-12T05:08:48Z"
+    },
+    {
+      "full_name": "BuilderIO/skills",
+      "html_url": "https://github.com/BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "stargazers_count": 217,
+      "language": "JavaScript",
+      "created_at": "2026-06-10T16:04:20Z",
+      "updated_at": "2026-06-12T05:06:00Z"
     },
     {
       "full_name": "TwoSevenOneT/EDRChoker",
       "html_url": "https://github.com/TwoSevenOneT/EDRChoker",
       "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
-      "stargazers_count": 196,
+      "stargazers_count": 208,
       "language": "C#",
       "created_at": "2026-06-07T08:48:55Z",
-      "updated_at": "2026-06-11T03:29:37Z"
+      "updated_at": "2026-06-12T05:04:20Z"
+    },
+    {
+      "full_name": "adamallcock/codex-chatgpt-control",
+      "html_url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "stargazers_count": 207,
+      "language": "JavaScript",
+      "created_at": "2026-06-06T21:09:56Z",
+      "updated_at": "2026-06-12T02:26:45Z"
     }
   ]
 }
