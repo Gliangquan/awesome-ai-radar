@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T05:34:45.459Z",
-  "since": "2026-06-08",
+  "updatedAt": "2026-06-16T05:43:46.404Z",
+  "since": "2026-06-09",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "DietrichGebert/ponytail",
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stargazers_count": 9098,
+      "stargazers_count": 17758,
       "language": "JavaScript",
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-06-15T05:34:44Z"
+      "updated_at": "2026-06-16T05:43:11Z"
     },
     {
       "full_name": "omnigent-ai/omnigent",
       "html_url": "https://github.com/omnigent-ai/omnigent",
       "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "stargazers_count": 1317,
+      "stargazers_count": 2043,
       "language": "Python",
       "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-06-15T05:29:37Z"
+      "updated_at": "2026-06-16T05:43:17Z"
     },
     {
       "full_name": "SkyBlue997/enableMacosAI",
       "html_url": "https://github.com/SkyBlue997/enableMacosAI",
       "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "stargazers_count": 1223,
+      "stargazers_count": 1299,
       "language": "Shell",
       "created_at": "2026-06-10T13:23:39Z",
-      "updated_at": "2026-06-15T05:33:53Z"
-    },
-    {
-      "full_name": "plannotator/effective-html",
-      "html_url": "https://github.com/plannotator/effective-html",
-      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-      "stargazers_count": 852,
-      "language": "HTML",
-      "created_at": "2026-06-09T23:24:51Z",
-      "updated_at": "2026-06-15T05:32:05Z"
+      "updated_at": "2026-06-16T05:40:56Z"
     },
     {
       "full_name": "orange2ai/renwei-writing",
       "html_url": "https://github.com/orange2ai/renwei-writing",
       "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stargazers_count": 611,
+      "stargazers_count": 686,
       "language": null,
       "created_at": "2026-06-12T21:45:48Z",
-      "updated_at": "2026-06-15T05:23:34Z"
-    },
-    {
-      "full_name": "khrisat/text-humanizer",
-      "html_url": "https://github.com/khrisat/text-humanizer",
-      "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-      "stargazers_count": 579,
-      "language": "Python",
-      "created_at": "2026-06-09T18:11:45Z",
-      "updated_at": "2026-06-15T01:19:28Z"
+      "updated_at": "2026-06-16T05:35:08Z"
     },
     {
       "full_name": "alchaincyf/fanbox",
       "html_url": "https://github.com/alchaincyf/fanbox",
       "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-      "stargazers_count": 532,
+      "stargazers_count": 582,
       "language": "JavaScript",
       "created_at": "2026-06-10T01:01:42Z",
-      "updated_at": "2026-06-15T05:32:03Z"
-    },
-    {
-      "full_name": "DanMcInerney/architect-loop",
-      "html_url": "https://github.com/DanMcInerney/architect-loop",
-      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-      "stargazers_count": 407,
-      "language": "HTML",
-      "created_at": "2026-06-12T01:54:12Z",
-      "updated_at": "2026-06-15T05:25:25Z"
+      "updated_at": "2026-06-16T05:20:21Z"
     },
     {
       "full_name": "nolangz/pixel2motion",
       "html_url": "https://github.com/nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stargazers_count": 352,
+      "stargazers_count": 509,
       "language": "Python",
       "created_at": "2026-06-12T04:25:17Z",
-      "updated_at": "2026-06-15T05:31:44Z"
+      "updated_at": "2026-06-16T05:37:06Z"
+    },
+    {
+      "full_name": "DanMcInerney/architect-loop",
+      "html_url": "https://github.com/DanMcInerney/architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "stargazers_count": 462,
+      "language": "HTML",
+      "created_at": "2026-06-12T01:54:12Z",
+      "updated_at": "2026-06-16T05:34:43Z"
     },
     {
       "full_name": "mrtooher/fable-mode",
       "html_url": "https://github.com/mrtooher/fable-mode",
       "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "stargazers_count": 345,
+      "stargazers_count": 413,
       "language": null,
       "created_at": "2026-06-13T05:33:14Z",
-      "updated_at": "2026-06-15T05:20:45Z"
-    },
-    {
-      "full_name": "BuilderIO/skills",
-      "html_url": "https://github.com/BuilderIO/skills",
-      "description": "Skills for coding agents",
-      "stargazers_count": 309,
-      "language": "JavaScript",
-      "created_at": "2026-06-10T16:04:20Z",
-      "updated_at": "2026-06-15T03:11:21Z"
+      "updated_at": "2026-06-16T05:06:03Z"
     },
     {
       "full_name": "LearnPrompt/luban-skill",
       "html_url": "https://github.com/LearnPrompt/luban-skill",
       "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
-      "stargazers_count": 291,
+      "stargazers_count": 345,
       "language": "Shell",
       "created_at": "2026-06-11T08:49:42Z",
-      "updated_at": "2026-06-15T05:12:16Z"
+      "updated_at": "2026-06-16T05:24:55Z"
+    },
+    {
+      "full_name": "BuilderIO/skills",
+      "html_url": "https://github.com/BuilderIO/skills",
+      "description": "Skills for coding agents",
+      "stargazers_count": 328,
+      "language": "JavaScript",
+      "created_at": "2026-06-10T16:04:20Z",
+      "updated_at": "2026-06-16T05:43:45Z"
+    },
+    {
+      "full_name": "Nanako0129/coralline",
+      "html_url": "https://github.com/Nanako0129/coralline",
+      "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "stargazers_count": 299,
+      "language": "Shell",
+      "created_at": "2026-06-12T07:44:56Z",
+      "updated_at": "2026-06-16T05:40:09Z"
+    },
+    {
+      "full_name": "MiniMax-AI/MSA",
+      "html_url": "https://github.com/MiniMax-AI/MSA",
+      "description": null,
+      "stargazers_count": 297,
+      "language": "Python",
+      "created_at": "2026-06-11T09:20:28Z",
+      "updated_at": "2026-06-16T05:33:46Z"
     }
   ]
 }
