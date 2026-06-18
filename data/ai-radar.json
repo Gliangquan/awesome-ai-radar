@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T05:23:04.949Z",
-  "since": "2026-06-10",
+  "updatedAt": "2026-06-18T05:14:12.808Z",
+  "since": "2026-06-11",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "DietrichGebert/ponytail",
       "html_url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stargazers_count": 26553,
+      "stargazers_count": 32698,
       "language": "JavaScript",
       "created_at": "2026-06-12T00:52:37Z",
-      "updated_at": "2026-06-17T05:23:01Z"
+      "updated_at": "2026-06-18T05:13:48Z"
     },
     {
-      "full_name": "omnigent-ai/omnigent",
-      "html_url": "https://github.com/omnigent-ai/omnigent",
-      "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-      "stargazers_count": 2942,
-      "language": "Python",
-      "created_at": "2026-06-11T12:18:13Z",
-      "updated_at": "2026-06-17T05:21:32Z"
+      "full_name": "vercel/eve",
+      "html_url": "https://github.com/vercel/eve",
+      "description": "The Framework for Building Agents",
+      "stargazers_count": 840,
+      "language": "TypeScript",
+      "created_at": "2026-06-16T10:51:20Z",
+      "updated_at": "2026-06-18T05:11:46Z"
     },
     {
       "full_name": "orange2ai/renwei-writing",
       "html_url": "https://github.com/orange2ai/renwei-writing",
       "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-      "stargazers_count": 734,
+      "stargazers_count": 783,
       "language": null,
       "created_at": "2026-06-12T21:45:48Z",
-      "updated_at": "2026-06-17T05:05:37Z"
+      "updated_at": "2026-06-18T05:12:13Z"
     },
     {
       "full_name": "nolangz/pixel2motion",
       "html_url": "https://github.com/nolangz/pixel2motion",
       "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-      "stargazers_count": 624,
+      "stargazers_count": 733,
       "language": "Python",
       "created_at": "2026-06-12T04:25:17Z",
-      "updated_at": "2026-06-17T05:15:39Z"
+      "updated_at": "2026-06-18T05:10:14Z"
     },
     {
       "full_name": "DanMcInerney/architect-loop",
       "html_url": "https://github.com/DanMcInerney/architect-loop",
       "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-      "stargazers_count": 487,
+      "stargazers_count": 502,
       "language": "HTML",
       "created_at": "2026-06-12T01:54:12Z",
-      "updated_at": "2026-06-17T03:47:23Z"
+      "updated_at": "2026-06-18T04:32:58Z"
+    },
+    {
+      "full_name": "Plaer1/junction",
+      "html_url": "https://github.com/Plaer1/junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "stargazers_count": 501,
+      "language": "TypeScript",
+      "created_at": "2026-06-17T05:27:09Z",
+      "updated_at": "2026-06-18T03:11:54Z"
     },
     {
       "full_name": "mrtooher/fable-mode",
       "html_url": "https://github.com/mrtooher/fable-mode",
       "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "stargazers_count": 434,
+      "stargazers_count": 475,
       "language": null,
       "created_at": "2026-06-13T05:33:14Z",
-      "updated_at": "2026-06-17T05:22:19Z"
-    },
-    {
-      "full_name": "LearnPrompt/luban-skill",
-      "html_url": "https://github.com/LearnPrompt/luban-skill",
-      "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
-      "stargazers_count": 371,
-      "language": "Shell",
-      "created_at": "2026-06-11T08:49:42Z",
-      "updated_at": "2026-06-17T04:53:38Z"
+      "updated_at": "2026-06-18T04:07:14Z"
     },
     {
       "full_name": "Nanako0129/coralline",
       "html_url": "https://github.com/Nanako0129/coralline",
       "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "stargazers_count": 327,
+      "stargazers_count": 360,
       "language": "Shell",
       "created_at": "2026-06-12T07:44:56Z",
-      "updated_at": "2026-06-17T04:32:47Z"
-    },
-    {
-      "full_name": "TestSprite/testsprite-cli",
-      "html_url": "https://github.com/TestSprite/testsprite-cli",
-      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
-      "stargazers_count": 325,
-      "language": "TypeScript",
-      "created_at": "2026-06-11T10:44:15Z",
-      "updated_at": "2026-06-17T05:07:30Z"
-    },
-    {
-      "full_name": "MiniMax-AI/MSA",
-      "html_url": "https://github.com/MiniMax-AI/MSA",
-      "description": null,
-      "stargazers_count": 313,
-      "language": "Python",
-      "created_at": "2026-06-11T09:20:28Z",
-      "updated_at": "2026-06-17T00:54:34Z"
+      "updated_at": "2026-06-18T04:55:05Z"
     },
     {
       "full_name": "buynao/aipath",
       "html_url": "https://github.com/buynao/aipath",
       "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
-      "stargazers_count": 285,
+      "stargazers_count": 307,
       "language": "JavaScript",
       "created_at": "2026-06-12T10:58:35Z",
-      "updated_at": "2026-06-17T04:35:30Z"
+      "updated_at": "2026-06-18T03:37:27Z"
     },
     {
-      "full_name": "jd-opensource/JoyAI-VL-Interaction",
-      "html_url": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
-      "description": null,
-      "stargazers_count": 239,
-      "language": null,
-      "created_at": "2026-06-11T10:30:19Z",
-      "updated_at": "2026-06-17T04:45:52Z"
+      "full_name": "rebel0789/codexpro",
+      "html_url": "https://github.com/rebel0789/codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "stargazers_count": 297,
+      "language": "JavaScript",
+      "created_at": "2026-06-16T21:22:43Z",
+      "updated_at": "2026-06-18T05:13:48Z"
+    },
+    {
+      "full_name": "dongshuyan/compass-skills",
+      "html_url": "https://github.com/dongshuyan/compass-skills",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "stargazers_count": 287,
+      "language": "Python",
+      "created_at": "2026-06-15T06:28:04Z",
+      "updated_at": "2026-06-18T05:14:07Z"
+    },
+    {
+      "full_name": "baskduf/FableCodex",
+      "html_url": "https://github.com/baskduf/FableCodex",
+      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "stargazers_count": 275,
+      "language": "Python",
+      "created_at": "2026-06-14T13:11:00Z",
+      "updated_at": "2026-06-18T04:59:44Z"
     }
   ]
 }
