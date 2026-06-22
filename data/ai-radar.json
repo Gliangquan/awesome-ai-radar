@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-21T05:24:03.670Z",
-  "since": "2026-06-14",
+  "updatedAt": "2026-06-22T05:40:18.547Z",
+  "since": "2026-06-15",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "vercel/eve",
       "html_url": "https://github.com/vercel/eve",
       "description": "The Framework for Building Agents",
-      "stargazers_count": 1889,
+      "stargazers_count": 2119,
       "language": "TypeScript",
       "created_at": "2026-06-16T10:51:20Z",
-      "updated_at": "2026-06-21T05:08:29Z"
+      "updated_at": "2026-06-22T05:28:41Z"
     },
     {
       "full_name": "rebel0789/codexpro",
       "html_url": "https://github.com/rebel0789/codexpro",
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "stargazers_count": 569,
+      "stargazers_count": 639,
       "language": "JavaScript",
       "created_at": "2026-06-16T21:22:43Z",
-      "updated_at": "2026-06-21T05:23:09Z"
+      "updated_at": "2026-06-22T04:56:26Z"
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stargazers_count": 541,
+      "stargazers_count": 616,
       "language": null,
       "created_at": "2026-06-19T16:19:37Z",
-      "updated_at": "2026-06-21T05:23:17Z"
+      "updated_at": "2026-06-22T05:33:49Z"
     },
     {
       "full_name": "Plaer1/junction",
       "html_url": "https://github.com/Plaer1/junction",
       "description": "VS Code chat sidebar for local AI coding agents",
-      "stargazers_count": 516,
+      "stargazers_count": 518,
       "language": "TypeScript",
       "created_at": "2026-06-17T05:27:09Z",
-      "updated_at": "2026-06-20T09:40:48Z"
-    },
-    {
-      "full_name": "dongshuyan/compass-skills",
-      "html_url": "https://github.com/dongshuyan/compass-skills",
-      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
-      "stargazers_count": 399,
-      "language": "Python",
-      "created_at": "2026-06-15T06:28:04Z",
-      "updated_at": "2026-06-21T05:21:20Z"
+      "updated_at": "2026-06-22T01:59:40Z"
     },
     {
       "full_name": "nnecrkvenuOX/formcms",
       "html_url": "https://github.com/nnecrkvenuOX/formcms",
       "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stargazers_count": 341,
+      "stargazers_count": 365,
       "language": "C#",
       "created_at": "2026-06-17T10:16:06Z",
-      "updated_at": "2026-06-21T05:15:00Z"
-    },
-    {
-      "full_name": "fendouai/best-humanizer-handbook",
-      "html_url": "https://github.com/fendouai/best-humanizer-handbook",
-      "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "stargazers_count": 272,
-      "language": null,
-      "created_at": "2026-06-15T14:21:44Z",
-      "updated_at": "2026-06-21T04:01:27Z"
+      "updated_at": "2026-06-22T05:25:38Z"
     },
     {
       "full_name": "anthropics/launch-your-agent",
       "html_url": "https://github.com/anthropics/launch-your-agent",
       "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
-      "stargazers_count": 270,
+      "stargazers_count": 362,
       "language": "HTML",
       "created_at": "2026-06-16T14:49:50Z",
-      "updated_at": "2026-06-21T05:16:13Z"
+      "updated_at": "2026-06-22T05:36:13Z"
     },
     {
-      "full_name": "leyten/shard",
-      "html_url": "https://github.com/leyten/shard",
-      "description": "Pipeline-parallel LLM inference across GPUs on separate machines.",
-      "stargazers_count": 269,
+      "full_name": "lyra81604/zhengxi-views",
+      "html_url": "https://github.com/lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "stargazers_count": 325,
       "language": "Python",
-      "created_at": "2026-06-15T21:31:07Z",
-      "updated_at": "2026-06-21T05:01:58Z"
-    },
-    {
-      "full_name": "Sorathiya123/claude-ai-free-desktop-app",
-      "html_url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
-      "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
-      "stargazers_count": 179,
-      "language": "TypeScript",
-      "created_at": "2026-06-16T17:15:06Z",
-      "updated_at": "2026-06-21T00:23:45Z"
+      "created_at": "2026-06-20T04:27:07Z",
+      "updated_at": "2026-06-22T05:25:39Z"
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stargazers_count": 173,
+      "stargazers_count": 255,
       "language": "JavaScript",
       "created_at": "2026-06-18T14:08:44Z",
-      "updated_at": "2026-06-21T05:19:05Z"
+      "updated_at": "2026-06-22T05:39:10Z"
     },
     {
       "full_name": "yolfinance/yolfi-agent",
       "html_url": "https://github.com/yolfinance/yolfi-agent",
       "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
-      "stargazers_count": 170,
+      "stargazers_count": 180,
       "language": "JavaScript",
       "created_at": "2026-06-16T15:43:27Z",
-      "updated_at": "2026-06-21T04:27:15Z"
+      "updated_at": "2026-06-22T03:30:21Z"
+    },
+    {
+      "full_name": "Sorathiya123/claude-ai-free-desktop-app",
+      "html_url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+      "description": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant",
+      "stargazers_count": 180,
+      "language": "TypeScript",
+      "created_at": "2026-06-16T17:15:06Z",
+      "updated_at": "2026-06-22T00:58:57Z"
+    },
+    {
+      "full_name": "TrenchesofChirac/claude-fable-5-free-desktop-app",
+      "html_url": "https://github.com/TrenchesofChirac/claude-fable-5-free-desktop-app",
+      "description": "claude fable 5 free anthropic mythos class large language model llm chatbot free api  access desktop app github download proxy wrapper agentic coding autonomous agent token optimization bypass open source pro plan trial",
+      "stargazers_count": 155,
+      "language": "TypeScript",
+      "created_at": "2026-06-17T16:52:26Z",
+      "updated_at": "2026-06-22T03:01:15Z"
+    },
+    {
+      "full_name": "frtghyujkiolsas-lab/ai-sdd",
+      "html_url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
+      "description": "AI-SDD spec-driven MVP demo: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
+      "stargazers_count": 150,
+      "language": "TypeScript",
+      "created_at": "2026-06-17T15:17:17Z",
+      "updated_at": "2026-06-22T03:50:50Z"
     }
   ]
 }
