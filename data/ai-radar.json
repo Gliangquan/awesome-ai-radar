@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T04:39:04.291Z",
-  "since": "2026-06-16",
+  "updatedAt": "2026-06-24T04:45:24.524Z",
+  "since": "2026-06-17",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "lyra81604/zhengxi-views",
       "html_url": "https://github.com/lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "stargazers_count": 713,
+      "stargazers_count": 929,
       "language": "Python",
       "created_at": "2026-06-20T04:27:07Z",
-      "updated_at": "2026-06-23T04:38:38Z"
+      "updated_at": "2026-06-24T04:35:09Z"
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stargazers_count": 693,
+      "stargazers_count": 870,
       "language": null,
       "created_at": "2026-06-19T16:19:37Z",
-      "updated_at": "2026-06-23T04:38:45Z"
-    },
-    {
-      "full_name": "Plaer1/junction",
-      "html_url": "https://github.com/Plaer1/junction",
-      "description": "VS Code chat sidebar for local AI coding agents",
-      "stargazers_count": 526,
-      "language": "TypeScript",
-      "created_at": "2026-06-17T05:27:09Z",
-      "updated_at": "2026-06-23T01:51:30Z"
+      "updated_at": "2026-06-24T04:42:06Z"
     },
     {
       "full_name": "cloudflare/security-audit-skill",
       "html_url": "https://github.com/cloudflare/security-audit-skill",
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stargazers_count": 393,
+      "stargazers_count": 510,
       "language": "JavaScript",
       "created_at": "2026-06-18T14:08:44Z",
-      "updated_at": "2026-06-23T04:36:28Z"
-    },
-    {
-      "full_name": "nnecrkvenuOX/formcms",
-      "html_url": "https://github.com/nnecrkvenuOX/formcms",
-      "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-      "stargazers_count": 384,
-      "language": "C#",
-      "created_at": "2026-06-17T10:16:06Z",
-      "updated_at": "2026-06-23T04:36:19Z"
+      "updated_at": "2026-06-24T04:43:40Z"
     },
     {
       "full_name": "yo-WASSUP/Good-Badminton",
       "html_url": "https://github.com/yo-WASSUP/Good-Badminton",
       "description": "🏸  AI Badminton Hawk-Eye System",
-      "stargazers_count": 308,
+      "stargazers_count": 430,
       "language": "Python",
       "created_at": "2026-06-20T10:16:22Z",
-      "updated_at": "2026-06-23T04:32:10Z"
+      "updated_at": "2026-06-24T04:24:22Z"
     },
     {
       "full_name": "HKUDS/AgentSpace",
       "html_url": "https://github.com/HKUDS/AgentSpace",
       "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "stargazers_count": 256,
+      "stargazers_count": 320,
       "language": "TypeScript",
       "created_at": "2026-06-22T04:08:03Z",
-      "updated_at": "2026-06-23T04:38:47Z"
+      "updated_at": "2026-06-24T04:07:31Z"
     },
     {
-      "full_name": "shadcn-labs/agentcn",
-      "html_url": "https://github.com/shadcn-labs/agentcn",
-      "description": "shadcn/ui, but for building agents. 🤖",
-      "stargazers_count": 210,
-      "language": "TypeScript",
-      "created_at": "2026-06-17T10:40:21Z",
-      "updated_at": "2026-06-23T04:30:28Z"
+      "full_name": "ksimback/looper",
+      "html_url": "https://github.com/ksimback/looper",
+      "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
+      "stargazers_count": 233,
+      "language": "Python",
+      "created_at": "2026-06-18T19:44:20Z",
+      "updated_at": "2026-06-24T04:01:49Z"
     },
     {
-      "full_name": "briliwar0/glm-5.2-free-desktop-app",
-      "html_url": "https://github.com/briliwar0/glm-5.2-free-desktop-app",
-      "description": "glm 5.2 free z.ai  llm chatbot free api access local llm unsloth dynamic gguf llama.cpp ollama run coding assistant autonomous agent zcode opencode cloudflare workers ai hugging face model weights 1m context window long horizon tasks token bypass benchmark swe bench pro terminal bench setup installation windows macos linux ",
-      "stargazers_count": 197,
-      "language": "C#",
-      "created_at": "2026-06-19T17:19:19Z",
-      "updated_at": "2026-06-23T03:50:52Z"
+      "full_name": "Karovia/fullstack-ai-agent-roadmap",
+      "html_url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+      "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
+      "stargazers_count": 146,
+      "language": null,
+      "created_at": "2026-06-19T06:34:06Z",
+      "updated_at": "2026-06-24T03:44:38Z"
     },
     {
-      "full_name": "zyn26/minimax-m3-desktop-app-free-api",
-      "html_url": "https://github.com/zyn26/minimax-m3-desktop-app-free-api",
-      "description": "minimax m3 free model  ai model free  api  large language model llm 1m context window sparse attention msa architecture native multimodality computer use computer control autonomous coding assistant agentic ai framework swe bench pro software engineering workflow automation multi agent hugging face  api access local llm inference",
-      "stargazers_count": 193,
-      "language": "Go",
-      "created_at": "2026-06-19T17:33:34Z",
-      "updated_at": "2026-06-23T04:00:08Z"
+      "full_name": "i5ting/learn-ai-practice",
+      "html_url": "https://github.com/i5ting/learn-ai-practice",
+      "description": null,
+      "stargazers_count": 146,
+      "language": null,
+      "created_at": "2026-06-22T14:43:10Z",
+      "updated_at": "2026-06-24T03:03:38Z"
     },
     {
-      "full_name": "dikurdikur/palmier-pro-windows",
-      "html_url": "https://github.com/dikurdikur/palmier-pro-windows",
-      "description": "Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard audio prores metal automation rendering fx",
-      "stargazers_count": 165,
-      "language": "C#",
-      "created_at": "2026-06-20T17:09:00Z",
-      "updated_at": "2026-06-23T03:50:46Z"
+      "full_name": "Johell1NS/browser-search",
+      "html_url": "https://github.com/Johell1NS/browser-search",
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
+      "stargazers_count": 141,
+      "language": "JavaScript",
+      "created_at": "2026-06-22T13:43:13Z",
+      "updated_at": "2026-06-24T04:26:00Z"
     },
     {
-      "full_name": "frtghyujkiolsas-lab/ai-sdd",
-      "html_url": "https://github.com/frtghyujkiolsas-lab/ai-sdd",
-      "description": "AI-SDD spec-driven product delivery sample: from idea, PRD and prototype to frontend-backend integration, testing and delivery.",
-      "stargazers_count": 151,
-      "language": "TypeScript",
-      "created_at": "2026-06-17T15:17:17Z",
-      "updated_at": "2026-06-23T02:25:47Z"
+      "full_name": "flatkey-ai/awesome-images",
+      "html_url": "https://github.com/flatkey-ai/awesome-images",
+      "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
+      "stargazers_count": 140,
+      "language": "JavaScript",
+      "created_at": "2026-06-18T13:17:13Z",
+      "updated_at": "2026-06-24T04:25:17Z"
+    },
+    {
+      "full_name": "Valorant-AI/valorant-ai-aimbot-undetected",
+      "html_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
+      "description": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
+      "stargazers_count": 128,
+      "language": "C++",
+      "created_at": "2026-06-23T18:48:45Z",
+      "updated_at": "2026-06-24T04:44:16Z"
+    },
+    {
+      "full_name": "itssosunny/im-not-strange-ai",
+      "html_url": "https://github.com/itssosunny/im-not-strange-ai",
+      "description": null,
+      "stargazers_count": 118,
+      "language": "Python",
+      "created_at": "2026-06-20T00:46:34Z",
+      "updated_at": "2026-06-23T08:58:25Z"
     }
   ]
 }
