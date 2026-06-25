@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T04:45:24.524Z",
-  "since": "2026-06-17",
+  "updatedAt": "2026-06-25T04:42:47.333Z",
+  "since": "2026-06-18",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "lyra81604/zhengxi-views",
       "html_url": "https://github.com/lyra81604/zhengxi-views",
       "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-      "stargazers_count": 929,
+      "stargazers_count": 997,
       "language": "Python",
       "created_at": "2026-06-20T04:27:07Z",
-      "updated_at": "2026-06-24T04:35:09Z"
+      "updated_at": "2026-06-25T04:21:53Z"
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-      "stargazers_count": 870,
+      "stargazers_count": 915,
       "language": null,
       "created_at": "2026-06-19T16:19:37Z",
-      "updated_at": "2026-06-24T04:42:06Z"
-    },
-    {
-      "full_name": "cloudflare/security-audit-skill",
-      "html_url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "stargazers_count": 510,
-      "language": "JavaScript",
-      "created_at": "2026-06-18T14:08:44Z",
-      "updated_at": "2026-06-24T04:43:40Z"
+      "updated_at": "2026-06-25T04:03:41Z"
     },
     {
       "full_name": "yo-WASSUP/Good-Badminton",
       "html_url": "https://github.com/yo-WASSUP/Good-Badminton",
       "description": "🏸  AI Badminton Hawk-Eye System",
-      "stargazers_count": 430,
+      "stargazers_count": 483,
       "language": "Python",
       "created_at": "2026-06-20T10:16:22Z",
-      "updated_at": "2026-06-24T04:24:22Z"
+      "updated_at": "2026-06-25T03:47:09Z"
     },
     {
       "full_name": "HKUDS/AgentSpace",
       "html_url": "https://github.com/HKUDS/AgentSpace",
       "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "stargazers_count": 320,
+      "stargazers_count": 366,
       "language": "TypeScript",
       "created_at": "2026-06-22T04:08:03Z",
-      "updated_at": "2026-06-24T04:07:31Z"
+      "updated_at": "2026-06-25T04:39:19Z"
     },
     {
-      "full_name": "ksimback/looper",
-      "html_url": "https://github.com/ksimback/looper",
-      "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-      "stargazers_count": 233,
+      "full_name": "QwenLM/Qwen-AgentWorld",
+      "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "stargazers_count": 341,
       "language": "Python",
-      "created_at": "2026-06-18T19:44:20Z",
-      "updated_at": "2026-06-24T04:01:49Z"
+      "created_at": "2026-06-22T13:48:37Z",
+      "updated_at": "2026-06-25T04:14:02Z"
+    },
+    {
+      "full_name": "benchflow-ai/awesome-evals",
+      "html_url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stargazers_count": 198,
+      "language": null,
+      "created_at": "2026-06-24T08:10:33Z",
+      "updated_at": "2026-06-25T04:35:12Z"
+    },
+    {
+      "full_name": "krea-ai/krea-2",
+      "html_url": "https://github.com/krea-ai/krea-2",
+      "description": "Official inference code for Krea 2",
+      "stargazers_count": 196,
+      "language": "Python",
+      "created_at": "2026-06-22T21:41:41Z",
+      "updated_at": "2026-06-25T04:30:32Z"
+    },
+    {
+      "full_name": "iart-ai/motion-skills",
+      "html_url": "https://github.com/iart-ai/motion-skills",
+      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
+      "stargazers_count": 189,
+      "language": "HTML",
+      "created_at": "2026-06-22T12:40:08Z",
+      "updated_at": "2026-06-25T03:54:43Z"
     },
     {
       "full_name": "Karovia/fullstack-ai-agent-roadmap",
       "html_url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
       "description": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文",
-      "stargazers_count": 146,
+      "stargazers_count": 179,
       "language": null,
       "created_at": "2026-06-19T06:34:06Z",
-      "updated_at": "2026-06-24T03:44:38Z"
+      "updated_at": "2026-06-25T04:22:01Z"
     },
     {
       "full_name": "i5ting/learn-ai-practice",
       "html_url": "https://github.com/i5ting/learn-ai-practice",
       "description": null,
-      "stargazers_count": 146,
+      "stargazers_count": 169,
       "language": null,
       "created_at": "2026-06-22T14:43:10Z",
-      "updated_at": "2026-06-24T03:03:38Z"
+      "updated_at": "2026-06-25T01:49:49Z"
+    },
+    {
+      "full_name": "trotsky1997/OpenFugu",
+      "html_url": "https://github.com/trotsky1997/OpenFugu",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stargazers_count": 164,
+      "language": "Python",
+      "created_at": "2026-06-22T11:37:21Z",
+      "updated_at": "2026-06-25T04:36:19Z"
     },
     {
       "full_name": "Johell1NS/browser-search",
       "html_url": "https://github.com/Johell1NS/browser-search",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Self-hosted, free, unlimited.",
-      "stargazers_count": 141,
+      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
+      "stargazers_count": 162,
       "language": "JavaScript",
       "created_at": "2026-06-22T13:43:13Z",
-      "updated_at": "2026-06-24T04:26:00Z"
-    },
-    {
-      "full_name": "flatkey-ai/awesome-images",
-      "html_url": "https://github.com/flatkey-ai/awesome-images",
-      "description": "Try flatkey.ai for 40% saving! Generate practical images ready for all your work needs!!!",
-      "stargazers_count": 140,
-      "language": "JavaScript",
-      "created_at": "2026-06-18T13:17:13Z",
-      "updated_at": "2026-06-24T04:25:17Z"
-    },
-    {
-      "full_name": "Valorant-AI/valorant-ai-aimbot-undetected",
-      "html_url": "https://github.com/Valorant-AI/valorant-ai-aimbot-undetected",
-      "description": "Master Valorant with an undetectable AI aimbot and hardware-driven ESP overlay. Explore neural-network precision, Vanguard-safe external architecture, and humanized aiming algorithms designed for competitive dominance. Join our private Discord for instant access.",
-      "stargazers_count": 128,
-      "language": "C++",
-      "created_at": "2026-06-23T18:48:45Z",
-      "updated_at": "2026-06-24T04:44:16Z"
-    },
-    {
-      "full_name": "itssosunny/im-not-strange-ai",
-      "html_url": "https://github.com/itssosunny/im-not-strange-ai",
-      "description": null,
-      "stargazers_count": 118,
-      "language": "Python",
-      "created_at": "2026-06-20T00:46:34Z",
-      "updated_at": "2026-06-23T08:58:25Z"
+      "updated_at": "2026-06-25T02:15:05Z"
     }
   ]
 }
