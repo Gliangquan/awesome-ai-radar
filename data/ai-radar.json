@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-27T04:32:25.028Z",
-  "since": "2026-06-20",
+  "updatedAt": "2026-06-28T04:58:38.345Z",
+  "since": "2026-06-21",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "QwenLM/Qwen-AgentWorld",
-      "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
-      "description": "Qwen-AgentWorld: Language World Models for General Agents",
-      "stargazers_count": 569,
+      "full_name": "deepseek-ai/DeepSpec",
+      "html_url": "https://github.com/deepseek-ai/DeepSpec",
+      "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
+      "stargazers_count": 1489,
       "language": "Python",
-      "created_at": "2026-06-22T13:48:37Z",
-      "updated_at": "2026-06-27T03:14:18Z"
-    },
-    {
-      "full_name": "benchflow-ai/awesome-evals",
-      "html_url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stargazers_count": 479,
-      "language": null,
-      "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-27T04:31:00Z"
+      "created_at": "2026-06-26T12:36:05Z",
+      "updated_at": "2026-06-28T04:56:04Z"
     },
     {
       "full_name": "winsznx/theeleven",
       "html_url": "https://github.com/winsznx/theeleven",
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stargazers_count": 479,
+      "stargazers_count": 648,
       "language": "TypeScript",
       "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-06-27T04:24:04Z"
+      "updated_at": "2026-06-28T04:47:44Z"
+    },
+    {
+      "full_name": "QwenLM/Qwen-AgentWorld",
+      "html_url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "stargazers_count": 599,
+      "language": "Python",
+      "created_at": "2026-06-22T13:48:37Z",
+      "updated_at": "2026-06-28T03:21:16Z"
+    },
+    {
+      "full_name": "benchflow-ai/awesome-evals",
+      "html_url": "https://github.com/benchflow-ai/awesome-evals",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "stargazers_count": 537,
+      "language": null,
+      "created_at": "2026-06-24T08:10:33Z",
+      "updated_at": "2026-06-28T03:26:07Z"
     },
     {
       "full_name": "HKUDS/AgentSpace",
       "html_url": "https://github.com/HKUDS/AgentSpace",
       "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-      "stargazers_count": 457,
+      "stargazers_count": 486,
       "language": "TypeScript",
       "created_at": "2026-06-22T04:08:03Z",
-      "updated_at": "2026-06-27T04:28:56Z"
-    },
-    {
-      "full_name": "krea-ai/krea-2",
-      "html_url": "https://github.com/krea-ai/krea-2",
-      "description": "Official inference code for Krea 2",
-      "stargazers_count": 305,
-      "language": "Python",
-      "created_at": "2026-06-22T21:41:41Z",
-      "updated_at": "2026-06-27T03:52:35Z"
-    },
-    {
-      "full_name": "amplifthq/opentag",
-      "html_url": "https://github.com/amplifthq/opentag",
-      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-      "stargazers_count": 304,
-      "language": "TypeScript",
-      "created_at": "2026-06-24T08:05:12Z",
-      "updated_at": "2026-06-27T04:26:37Z"
-    },
-    {
-      "full_name": "trotsky1997/OpenFugu",
-      "html_url": "https://github.com/trotsky1997/OpenFugu",
-      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-      "stargazers_count": 252,
-      "language": "Python",
-      "created_at": "2026-06-22T11:37:21Z",
-      "updated_at": "2026-06-27T04:30:24Z"
+      "updated_at": "2026-06-28T04:57:38Z"
     },
     {
       "full_name": "Pluviobyte/video-production-skills",
       "html_url": "https://github.com/Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stargazers_count": 239,
+      "stargazers_count": 342,
       "language": "Python",
       "created_at": "2026-06-26T05:50:51Z",
-      "updated_at": "2026-06-27T04:29:59Z"
+      "updated_at": "2026-06-28T04:34:13Z"
     },
     {
-      "full_name": "iart-ai/motion-skills",
-      "html_url": "https://github.com/iart-ai/motion-skills",
-      "description": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.",
-      "stargazers_count": 213,
-      "language": "HTML",
-      "created_at": "2026-06-22T12:40:08Z",
-      "updated_at": "2026-06-27T00:44:07Z"
+      "full_name": "amplifthq/opentag",
+      "html_url": "https://github.com/amplifthq/opentag",
+      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+      "stargazers_count": 335,
+      "language": "TypeScript",
+      "created_at": "2026-06-24T08:05:12Z",
+      "updated_at": "2026-06-28T04:39:26Z"
     },
     {
-      "full_name": "i5ting/learn-ai-practice",
-      "html_url": "https://github.com/i5ting/learn-ai-practice",
-      "description": null,
-      "stargazers_count": 191,
-      "language": null,
-      "created_at": "2026-06-22T14:43:10Z",
-      "updated_at": "2026-06-27T04:13:38Z"
+      "full_name": "krea-ai/krea-2",
+      "html_url": "https://github.com/krea-ai/krea-2",
+      "description": "Official inference code for Krea 2",
+      "stargazers_count": 331,
+      "language": "Python",
+      "created_at": "2026-06-22T21:41:41Z",
+      "updated_at": "2026-06-28T01:37:12Z"
     },
     {
-      "full_name": "Johell1NS/browser-search",
-      "html_url": "https://github.com/Johell1NS/browser-search",
-      "description": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
-      "stargazers_count": 179,
-      "language": "JavaScript",
-      "created_at": "2026-06-22T13:43:13Z",
-      "updated_at": "2026-06-27T04:08:43Z"
+      "full_name": "trotsky1997/OpenFugu",
+      "html_url": "https://github.com/trotsky1997/OpenFugu",
+      "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
+      "stargazers_count": 268,
+      "language": "Python",
+      "created_at": "2026-06-22T11:37:21Z",
+      "updated_at": "2026-06-28T04:26:54Z"
     },
     {
       "full_name": "abundantbeing/hermes-browser-extension",
       "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
       "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "stargazers_count": 177,
+      "stargazers_count": 253,
       "language": "JavaScript",
       "created_at": "2026-06-24T02:20:56Z",
-      "updated_at": "2026-06-27T04:23:16Z"
+      "updated_at": "2026-06-28T04:43:45Z"
+    },
+    {
+      "full_name": "eli-labz/Godcoder",
+      "html_url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stargazers_count": 241,
+      "language": "Rust",
+      "created_at": "2026-06-27T00:56:36Z",
+      "updated_at": "2026-06-28T04:36:49Z"
+    },
+    {
+      "full_name": "tutusagi/ai-fishing-game",
+      "html_url": "https://github.com/tutusagi/ai-fishing-game",
+      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
+      "stargazers_count": 228,
+      "language": "Python",
+      "created_at": "2026-06-24T04:33:55Z",
+      "updated_at": "2026-06-28T04:28:47Z"
     }
   ]
 }
