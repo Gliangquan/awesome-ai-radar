@@ -5,22 +5,22 @@ A public repo that curates fresh AI-related GitHub projects every day.
 ## Daily picks
 
 <!-- PICKS:START -->
-Updated: 2026-06-30T04:41:52.554Z
+Updated: 2026-07-01T05:03:23.290Z
 
 | Rank | Repository | Description | Language | Stars |
 |---:|---|---|---|---:|
-| 1 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python | 4115 |
-| 2 | [winsznx/theeleven](https://github.com/winsznx/theeleven) | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript | 715 |
-| 3 | [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow. | Unknown | 592 |
-| 4 | [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python | 456 |
-| 5 | [amplifthq/opentag](https://github.com/amplifthq/opentag) | Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread. | TypeScript | 371 |
-| 6 | [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) | Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. | JavaScript | 317 |
-| 7 | [Einsia/Browser-BC](https://github.com/Einsia/Browser-BC) | Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting. | TypeScript | 315 |
-| 8 | [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game) | 🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼 | Python | 313 |
-| 9 | [eli-labz/Godcoder](https://github.com/eli-labz/Godcoder) | A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes. | Rust | 251 |
-| 10 | [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) | Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. | Swift | 230 |
-| 11 | [kentjuno/ainovel-cli](https://github.com/kentjuno/ainovel-cli) | CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli | Go | 194 |
-| 12 | [ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP](https://github.com/ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP) | Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience. | Python | 189 |
+| 1 | [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms | Python | 5417 |
+| 2 | [winsznx/theeleven](https://github.com/winsznx/theeleven) | Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking. | TypeScript | 692 |
+| 3 | [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump | Python | 630 |
+| 4 | [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills) | Reusable AI video production skills library for creation, recreation, motion design, openers, and QA. | Python | 485 |
+| 5 | [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) | Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices. | Swift | 348 |
+| 6 | [Einsia/Browser-BC](https://github.com/Einsia/Browser-BC) | Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting. | TypeScript | 345 |
+| 7 | [eli-labz/Godcoder](https://github.com/eli-labz/Godcoder) | A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes. | Rust | 257 |
+| 8 | [arenaasd/Roblox_BedWars_Auto-Farm___Aimbot](https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot) | Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources. | Python | 223 |
+| 9 | [Fdani007/PUBG_Battlegrounds_ESP___Aimbot](https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot) | ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP. | Python | 223 |
+| 10 | [omarabdelazez11/Valorant_TriggerBot_Elite](https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite) | AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass. | Python | 221 |
+| 11 | [ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot](https://github.com/ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot) | Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass. | Python | 221 |
+| 12 | [Mbovu222/League_of_Legends_Skillshot_Dodger](https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger) | AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes. | Python | 221 |
 <!-- PICKS:END -->
 
 ## How it works

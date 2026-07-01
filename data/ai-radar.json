@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-30T04:41:52.554Z",
-  "since": "2026-06-23",
+  "updatedAt": "2026-07-01T05:03:23.290Z",
+  "since": "2026-06-24",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "deepseek-ai/DeepSpec",
       "html_url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "stargazers_count": 4115,
+      "stargazers_count": 5417,
       "language": "Python",
       "created_at": "2026-06-26T12:36:05Z",
-      "updated_at": "2026-06-30T04:41:30Z"
+      "updated_at": "2026-07-01T05:03:09Z"
     },
     {
       "full_name": "winsznx/theeleven",
       "html_url": "https://github.com/winsznx/theeleven",
       "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stargazers_count": 715,
+      "stargazers_count": 692,
       "language": "TypeScript",
       "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-06-30T01:45:15Z"
+      "updated_at": "2026-07-01T03:18:58Z"
     },
     {
-      "full_name": "benchflow-ai/awesome-evals",
-      "html_url": "https://github.com/benchflow-ai/awesome-evals",
-      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "stargazers_count": 592,
-      "language": null,
-      "created_at": "2026-06-24T08:10:33Z",
-      "updated_at": "2026-06-30T04:28:25Z"
+      "full_name": "TianhangZhuzth/Fundamental-Ava",
+      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stargazers_count": 630,
+      "language": "Python",
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-01T04:54:22Z"
     },
     {
       "full_name": "Pluviobyte/video-production-skills",
       "html_url": "https://github.com/Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stargazers_count": 456,
+      "stargazers_count": 485,
       "language": "Python",
       "created_at": "2026-06-26T05:50:51Z",
-      "updated_at": "2026-06-30T03:58:10Z"
-    },
-    {
-      "full_name": "amplifthq/opentag",
-      "html_url": "https://github.com/amplifthq/opentag",
-      "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-      "stargazers_count": 371,
-      "language": "TypeScript",
-      "created_at": "2026-06-24T08:05:12Z",
-      "updated_at": "2026-06-30T00:46:27Z"
-    },
-    {
-      "full_name": "abundantbeing/hermes-browser-extension",
-      "html_url": "https://github.com/abundantbeing/hermes-browser-extension",
-      "description": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.",
-      "stargazers_count": 317,
-      "language": "JavaScript",
-      "created_at": "2026-06-24T02:20:56Z",
-      "updated_at": "2026-06-30T03:29:36Z"
-    },
-    {
-      "full_name": "Einsia/Browser-BC",
-      "html_url": "https://github.com/Einsia/Browser-BC",
-      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
-      "stargazers_count": 315,
-      "language": "TypeScript",
-      "created_at": "2026-06-26T14:37:26Z",
-      "updated_at": "2026-06-30T04:07:52Z"
-    },
-    {
-      "full_name": "tutusagi/ai-fishing-game",
-      "html_url": "https://github.com/tutusagi/ai-fishing-game",
-      "description": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼",
-      "stargazers_count": 313,
-      "language": "Python",
-      "created_at": "2026-06-24T04:33:55Z",
-      "updated_at": "2026-06-30T02:23:28Z"
-    },
-    {
-      "full_name": "eli-labz/Godcoder",
-      "html_url": "https://github.com/eli-labz/Godcoder",
-      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stargazers_count": 251,
-      "language": "Rust",
-      "created_at": "2026-06-27T00:56:36Z",
-      "updated_at": "2026-06-30T02:50:29Z"
+      "updated_at": "2026-07-01T04:18:01Z"
     },
     {
       "full_name": "lycorp-jp/sim-use",
       "html_url": "https://github.com/lycorp-jp/sim-use",
       "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stargazers_count": 230,
+      "stargazers_count": 348,
       "language": "Swift",
       "created_at": "2026-06-26T05:59:56Z",
-      "updated_at": "2026-06-30T04:30:42Z"
+      "updated_at": "2026-07-01T04:59:35Z"
     },
     {
-      "full_name": "kentjuno/ainovel-cli",
-      "html_url": "https://github.com/kentjuno/ainovel-cli",
-      "description": "CLI sáng tác tiểu thuyết AI đa agent — Bản tiếng Việt của voocel/ainovel-cli",
-      "stargazers_count": 194,
-      "language": "Go",
-      "created_at": "2026-06-25T15:28:12Z",
-      "updated_at": "2026-06-30T03:40:24Z"
+      "full_name": "Einsia/Browser-BC",
+      "html_url": "https://github.com/Einsia/Browser-BC",
+      "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
+      "stargazers_count": 345,
+      "language": "TypeScript",
+      "created_at": "2026-06-26T14:37:26Z",
+      "updated_at": "2026-07-01T04:47:54Z"
     },
     {
-      "full_name": "ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
-      "html_url": "https://github.com/ryancameron555/MECCHA-CHAMELEON-Trainer-Aimbot-ESP",
-      "description": "Ultimate 2026 external trainer for MECCHA CHAMELEON. Includes customizable ESP, aimbot, fly mode, and timer editor for the best hide-and-seek experience.",
-      "stargazers_count": 189,
+      "full_name": "eli-labz/Godcoder",
+      "html_url": "https://github.com/eli-labz/Godcoder",
+      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
+      "stargazers_count": 257,
+      "language": "Rust",
+      "created_at": "2026-06-27T00:56:36Z",
+      "updated_at": "2026-07-01T03:59:53Z"
+    },
+    {
+      "full_name": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
+      "html_url": "https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
+      "description": "Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
+      "stargazers_count": 223,
       "language": "Python",
-      "created_at": "2026-06-28T07:13:41Z",
-      "updated_at": "2026-06-29T15:22:11Z"
+      "created_at": "2026-07-01T00:19:26Z",
+      "updated_at": "2026-07-01T01:47:21Z"
+    },
+    {
+      "full_name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "html_url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "description": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
+      "stargazers_count": 223,
+      "language": "Python",
+      "created_at": "2026-07-01T00:19:19Z",
+      "updated_at": "2026-07-01T01:47:07Z"
+    },
+    {
+      "full_name": "omarabdelazez11/Valorant_TriggerBot_Elite",
+      "html_url": "https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite",
+      "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass.",
+      "stargazers_count": 221,
+      "language": "Python",
+      "created_at": "2026-07-01T00:20:53Z",
+      "updated_at": "2026-07-01T01:48:54Z"
+    },
+    {
+      "full_name": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "html_url": "https://github.com/ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
+      "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
+      "stargazers_count": 221,
+      "language": "Python",
+      "created_at": "2026-07-01T00:19:22Z",
+      "updated_at": "2026-07-01T01:47:15Z"
+    },
+    {
+      "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "html_url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
+      "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
+      "stargazers_count": 221,
+      "language": "Python",
+      "created_at": "2026-07-01T00:18:20Z",
+      "updated_at": "2026-07-01T01:45:54Z"
     }
   ]
 }
