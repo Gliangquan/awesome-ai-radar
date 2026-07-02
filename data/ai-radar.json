@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T05:03:23.290Z",
-  "since": "2026-06-24",
+  "updatedAt": "2026-07-02T04:38:06.509Z",
+  "since": "2026-06-25",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "deepseek-ai/DeepSpec",
       "html_url": "https://github.com/deepseek-ai/DeepSpec",
       "description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "stargazers_count": 5417,
+      "stargazers_count": 5781,
       "language": "Python",
       "created_at": "2026-06-26T12:36:05Z",
-      "updated_at": "2026-07-01T05:03:09Z"
+      "updated_at": "2026-07-02T04:27:08Z"
     },
     {
-      "full_name": "winsznx/theeleven",
-      "html_url": "https://github.com/winsznx/theeleven",
-      "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "stargazers_count": 692,
-      "language": "TypeScript",
-      "created_at": "2026-06-25T07:42:50Z",
-      "updated_at": "2026-07-01T03:18:58Z"
+      "full_name": "Kulaxyz/self-learning-skills",
+      "html_url": "https://github.com/Kulaxyz/self-learning-skills",
+      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "stargazers_count": 770,
+      "language": null,
+      "created_at": "2026-06-28T19:30:36Z",
+      "updated_at": "2026-07-02T04:27:46Z"
     },
     {
       "full_name": "TianhangZhuzth/Fundamental-Ava",
       "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
       "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stargazers_count": 630,
+      "stargazers_count": 724,
       "language": "Python",
       "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-01T04:54:22Z"
+      "updated_at": "2026-07-02T04:24:00Z"
     },
     {
       "full_name": "Pluviobyte/video-production-skills",
       "html_url": "https://github.com/Pluviobyte/video-production-skills",
       "description": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
-      "stargazers_count": 485,
+      "stargazers_count": 492,
       "language": "Python",
       "created_at": "2026-06-26T05:50:51Z",
-      "updated_at": "2026-07-01T04:18:01Z"
+      "updated_at": "2026-07-01T15:08:54Z"
+    },
+    {
+      "full_name": "Leron-X/leronx",
+      "html_url": "https://github.com/Leron-X/leronx",
+      "description": "LeronX — AI Image & Video Generation Platform",
+      "stargazers_count": 418,
+      "language": "Python",
+      "created_at": "2026-06-26T08:05:42Z",
+      "updated_at": "2026-07-01T20:51:29Z"
     },
     {
       "full_name": "lycorp-jp/sim-use",
       "html_url": "https://github.com/lycorp-jp/sim-use",
       "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.",
-      "stargazers_count": 348,
+      "stargazers_count": 405,
       "language": "Swift",
       "created_at": "2026-06-26T05:59:56Z",
-      "updated_at": "2026-07-01T04:59:35Z"
+      "updated_at": "2026-07-02T04:30:42Z"
     },
     {
       "full_name": "Einsia/Browser-BC",
       "html_url": "https://github.com/Einsia/Browser-BC",
       "description": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.",
-      "stargazers_count": 345,
+      "stargazers_count": 358,
       "language": "TypeScript",
       "created_at": "2026-06-26T14:37:26Z",
-      "updated_at": "2026-07-01T04:47:54Z"
+      "updated_at": "2026-07-02T02:04:33Z"
+    },
+    {
+      "full_name": "tryOpenRAM/OpenRAM",
+      "html_url": "https://github.com/tryOpenRAM/OpenRAM",
+      "description": "Rent GPUs and run any AI model, paid in SOL. Buy with $RAM and every $RAM spent gets burned. ",
+      "stargazers_count": 334,
+      "language": "Vue",
+      "created_at": "2026-06-26T22:59:46Z",
+      "updated_at": "2026-07-02T01:44:57Z"
     },
     {
       "full_name": "eli-labz/Godcoder",
       "html_url": "https://github.com/eli-labz/Godcoder",
       "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stargazers_count": 257,
+      "stargazers_count": 269,
       "language": "Rust",
       "created_at": "2026-06-27T00:56:36Z",
-      "updated_at": "2026-07-01T03:59:53Z"
+      "updated_at": "2026-07-02T03:49:00Z"
     },
     {
-      "full_name": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
-      "html_url": "https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
-      "description": "Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
-      "stargazers_count": 223,
+      "full_name": "montez27albert-collab/Arsenal_-_Aimbot___ESP",
+      "html_url": "https://github.com/montez27albert-collab/Arsenal_-_Aimbot___ESP",
+      "description": "Aimbot and ESP for Arsenal, the fast-paced FPS with 6.2 billion visits[reference:28]. Dominate every match with perfect aim, wallhacks, and no recoil.",
+      "stargazers_count": 262,
       "language": "Python",
-      "created_at": "2026-07-01T00:19:26Z",
-      "updated_at": "2026-07-01T01:47:21Z"
+      "created_at": "2026-07-01T09:11:06Z",
+      "updated_at": "2026-07-02T03:58:12Z"
     },
     {
-      "full_name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "html_url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "description": "ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
-      "stargazers_count": 223,
+      "full_name": "Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+      "html_url": "https://github.com/Prasadkolte07/Blade_Ball_-_Auto-Parry___Aimbot",
+      "description": "Auto-parry and aimbot for Blade Ball, the competitive ball game. Perfectly parry every ball, aim at opponents, and win every round.",
+      "stargazers_count": 261,
       "language": "Python",
-      "created_at": "2026-07-01T00:19:19Z",
-      "updated_at": "2026-07-01T01:47:07Z"
+      "created_at": "2026-07-01T09:12:00Z",
+      "updated_at": "2026-07-02T03:58:54Z"
     },
     {
-      "full_name": "omarabdelazez11/Valorant_TriggerBot_Elite",
-      "html_url": "https://github.com/omarabdelazez11/Valorant_TriggerBot_Elite",
-      "description": "AI-powered triggerbot and radar hack for Valorant with human-like behavior. Auto-shoot when crosshair locks on, reveal enemy positions, and unlock all skins. Works with Vanguard bypass.",
-      "stargazers_count": 221,
+      "full_name": "scolwell/Captcha_Solver_AI",
+      "html_url": "https://github.com/scolwell/Captcha_Solver_AI",
+      "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
+      "stargazers_count": 260,
       "language": "Python",
-      "created_at": "2026-07-01T00:20:53Z",
-      "updated_at": "2026-07-01T01:48:54Z"
-    },
-    {
-      "full_name": "ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
-      "html_url": "https://github.com/ahmedkuwity-source/Rainbow_Six_Siege_Wallhack___Aimbot",
-      "description": "Undetected ESP and aimbot for Rainbow Six Siege. See enemies through walls, auto-aim, and anti-recoil. Works with BattlEye bypass.",
-      "stargazers_count": 221,
-      "language": "Python",
-      "created_at": "2026-07-01T00:19:22Z",
-      "updated_at": "2026-07-01T01:47:15Z"
-    },
-    {
-      "full_name": "Mbovu222/League_of_Legends_Skillshot_Dodger",
-      "html_url": "https://github.com/Mbovu222/League_of_Legends_Skillshot_Dodger",
-      "description": "AI dodger and last-hit assistant for LoL (undetected by Vanguard). Auto-dodge skillshots, perfect CS, reveal fog, and execute combos. Works in all game modes.",
-      "stargazers_count": 221,
-      "language": "Python",
-      "created_at": "2026-07-01T00:18:20Z",
-      "updated_at": "2026-07-01T01:45:54Z"
+      "created_at": "2026-07-01T09:12:52Z",
+      "updated_at": "2026-07-02T03:59:37Z"
     }
   ]
 }
