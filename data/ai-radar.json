@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T04:23:49.617Z",
-  "since": "2026-06-26",
+  "updatedAt": "2026-07-04T04:09:02.199Z",
+  "since": "2026-06-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "Kulaxyz/self-learning-skills",
       "html_url": "https://github.com/Kulaxyz/self-learning-skills",
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stargazers_count": 902,
+      "stargazers_count": 806,
       "language": null,
       "created_at": "2026-06-28T19:30:36Z",
-      "updated_at": "2026-07-03T04:20:08Z"
-    },
-    {
-      "full_name": "TianhangZhuzth/Fundamental-Ava",
-      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stargazers_count": 756,
-      "language": "Python",
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-03T03:54:55Z"
-    },
-    {
-      "full_name": "JasonLiu0826/ackem",
-      "html_url": "https://github.com/JasonLiu0826/ackem",
-      "description": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0",
-      "stargazers_count": 294,
-      "language": "TypeScript",
-      "created_at": "2026-06-27T17:08:18Z",
-      "updated_at": "2026-07-03T02:28:36Z"
-    },
-    {
-      "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "html_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stargazers_count": 289,
-      "language": "Python",
-      "created_at": "2026-06-29T15:03:09Z",
-      "updated_at": "2026-07-02T22:43:25Z"
-    },
-    {
-      "full_name": "lingbol088-spec/reverse-flow-skill",
-      "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
-      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stargazers_count": 283,
-      "language": "Python",
-      "created_at": "2026-06-30T22:08:31Z",
-      "updated_at": "2026-07-03T04:16:01Z"
-    },
-    {
-      "full_name": "eli-labz/Godcoder",
-      "html_url": "https://github.com/eli-labz/Godcoder",
-      "description": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.",
-      "stargazers_count": 272,
-      "language": "Rust",
-      "created_at": "2026-06-27T00:56:36Z",
-      "updated_at": "2026-07-03T01:56:26Z"
-    },
-    {
-      "full_name": "scolwell/Captcha_Solver_AI",
-      "html_url": "https://github.com/scolwell/Captcha_Solver_AI",
-      "description": "Automatically solve text, image, and audio CAPTCHAs using AI. Supports reCAPTCHA, hCaptcha, and custom CAPTCHAs.",
-      "stargazers_count": 259,
-      "language": "Python",
-      "created_at": "2026-07-01T09:12:52Z",
-      "updated_at": "2026-07-02T15:58:57Z"
-    },
-    {
-      "full_name": "Kr3n3r/ARC_Raiders_ESP___Aimbot",
-      "html_url": "https://github.com/Kr3n3r/ARC_Raiders_ESP___Aimbot",
-      "description": "ESP, aimbot, and radar hack for ARC Raiders (upcoming). See enemies, loot, and objectives through walls. Dominate the battlefield.",
-      "stargazers_count": 259,
-      "language": "Python",
-      "created_at": "2026-07-01T09:11:06Z",
-      "updated_at": "2026-07-02T15:58:51Z"
-    },
-    {
-      "full_name": "Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
-      "html_url": "https://github.com/Sarmadk20/Call_of_Duty__Warzone_Wallhack___Aimbot",
-      "description": "ESP, aimbot, and loot filter for Warzone 2.0. See enemies through walls, auto-aim, and highlight rare loot. Dominate Al Mazrah.",
-      "stargazers_count": 258,
-      "language": "Python",
-      "created_at": "2026-07-01T09:12:49Z",
-      "updated_at": "2026-07-02T15:58:57Z"
-    },
-    {
-      "full_name": "didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot",
-      "html_url": "https://github.com/didulos/Blue_Lock_Rivals_-_Auto-Farm___Aimbot",
-      "description": "Auto-farm and aimbot for Blue Lock Rivals, the anime-inspired soccer competition[reference:36][reference:37]. Farm points, score goals, and dominate the field.",
-      "stargazers_count": 258,
-      "language": "Python",
-      "created_at": "2026-07-01T09:12:10Z",
-      "updated_at": "2026-07-02T15:58:55Z"
-    },
-    {
-      "full_name": "FallenRaven01/Fortnite_Aimbot___ESP_2026",
-      "html_url": "https://github.com/FallenRaven01/Fortnite_Aimbot___ESP_2026",
-      "description": "Undetected aimbot, ESP, and build hack for Fortnite Chapter 6. Perfect aim, see enemies through walls, and predict enemy builds. Works in all modes.",
-      "stargazers_count": 253,
-      "language": "Python",
-      "created_at": "2026-07-01T09:16:26Z",
-      "updated_at": "2026-07-02T15:37:32Z"
+      "updated_at": "2026-07-04T03:57:13Z"
     },
     {
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stargazers_count": 210,
+      "stargazers_count": 562,
       "language": "Python",
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-03T04:13:38Z"
+      "updated_at": "2026-07-04T04:05:29Z"
+    },
+    {
+      "full_name": "TianhangZhuzth/Fundamental-Ava",
+      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stargazers_count": 520,
+      "language": "Python",
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-04T01:30:56Z"
+    },
+    {
+      "full_name": "uzairansaruzi/hermex",
+      "html_url": "https://github.com/uzairansaruzi/hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "stargazers_count": 453,
+      "language": "Swift",
+      "created_at": "2026-07-02T12:47:31Z",
+      "updated_at": "2026-07-04T04:02:05Z"
+    },
+    {
+      "full_name": "jamesob/local-llm",
+      "html_url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "stargazers_count": 387,
+      "language": "Shell",
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-04T04:06:50Z"
+    },
+    {
+      "full_name": "lingbol088-spec/reverse-flow-skill",
+      "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "stargazers_count": 318,
+      "language": "Python",
+      "created_at": "2026-06-30T22:08:31Z",
+      "updated_at": "2026-07-04T02:56:47Z"
+    },
+    {
+      "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "html_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "stargazers_count": 294,
+      "language": "Python",
+      "created_at": "2026-06-29T15:03:09Z",
+      "updated_at": "2026-07-04T02:14:09Z"
+    },
+    {
+      "full_name": "revfactory/webtoon-harness",
+      "html_url": "https://github.com/revfactory/webtoon-harness",
+      "description": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+      "stargazers_count": 250,
+      "language": "HTML",
+      "created_at": "2026-06-28T12:02:16Z",
+      "updated_at": "2026-07-03T15:41:06Z"
+    },
+    {
+      "full_name": "xt4d/GameBlocks",
+      "html_url": "https://github.com/xt4d/GameBlocks",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "stargazers_count": 183,
+      "language": "JavaScript",
+      "created_at": "2026-07-01T16:38:56Z",
+      "updated_at": "2026-07-04T04:05:04Z"
+    },
+    {
+      "full_name": "haiou-666/haiou2.0-Claude-Code-",
+      "html_url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+      "description": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，跨平台支持 Windows/macOS/Linux，自动备份原配置，可一键卸载恢复，无侵入式安装。MIT License，仅供学习交流。",
+      "stargazers_count": 167,
+      "language": "Shell",
+      "created_at": "2026-06-28T05:24:38Z",
+      "updated_at": "2026-07-04T03:03:44Z"
+    },
+    {
+      "full_name": "Sakshxm1/hermes-agency-orchestrator",
+      "html_url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
+      "description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
+      "stargazers_count": 155,
+      "language": "HTML",
+      "created_at": "2026-06-28T19:45:35Z",
+      "updated_at": "2026-07-04T00:10:17Z"
+    },
+    {
+      "full_name": "skerry699/agent-symphony",
+      "html_url": "https://github.com/skerry699/agent-symphony",
+      "description": "Multi-Agent AI Task Orchestrator 2026",
+      "stargazers_count": 153,
+      "language": "HTML",
+      "created_at": "2026-06-28T20:52:33Z",
+      "updated_at": "2026-07-04T02:44:57Z"
     }
   ]
 }
