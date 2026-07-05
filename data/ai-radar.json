@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-04T04:09:02.199Z",
-  "since": "2026-06-27",
+  "updatedAt": "2026-07-05T04:37:59.352Z",
+  "since": "2026-06-28",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "Kulaxyz/self-learning-skills",
-      "html_url": "https://github.com/Kulaxyz/self-learning-skills",
-      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "stargazers_count": 806,
-      "language": null,
-      "created_at": "2026-06-28T19:30:36Z",
-      "updated_at": "2026-07-04T03:57:13Z"
+      "full_name": "jamesob/local-llm",
+      "html_url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "stargazers_count": 783,
+      "language": "Shell",
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-05T04:37:40Z"
     },
     {
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stargazers_count": 562,
+      "stargazers_count": 764,
       "language": "Python",
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-04T04:05:29Z"
-    },
-    {
-      "full_name": "TianhangZhuzth/Fundamental-Ava",
-      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stargazers_count": 520,
-      "language": "Python",
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-04T01:30:56Z"
+      "updated_at": "2026-07-05T04:30:41Z"
     },
     {
       "full_name": "uzairansaruzi/hermex",
       "html_url": "https://github.com/uzairansaruzi/hermex",
       "description": "Native iPhone app for your Hermes agent",
-      "stargazers_count": 453,
+      "stargazers_count": 560,
       "language": "Swift",
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-04T04:02:05Z"
+      "updated_at": "2026-07-05T04:33:08Z"
     },
     {
-      "full_name": "jamesob/local-llm",
-      "html_url": "https://github.com/jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "stargazers_count": 387,
+      "full_name": "TianhangZhuzth/Fundamental-Ava",
+      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stargazers_count": 523,
+      "language": "Python",
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-04T19:42:13Z"
+    },
+    {
+      "full_name": "Kulaxyz/token-diet",
+      "html_url": "https://github.com/Kulaxyz/token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "stargazers_count": 487,
       "language": "Shell",
-      "created_at": "2026-07-03T13:06:03Z",
-      "updated_at": "2026-07-04T04:06:50Z"
+      "created_at": "2026-07-03T15:20:04Z",
+      "updated_at": "2026-07-05T04:34:52Z"
     },
     {
       "full_name": "lingbol088-spec/reverse-flow-skill",
       "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
       "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stargazers_count": 318,
+      "stargazers_count": 354,
       "language": "Python",
       "created_at": "2026-06-30T22:08:31Z",
-      "updated_at": "2026-07-04T02:56:47Z"
+      "updated_at": "2026-07-05T04:21:34Z"
+    },
+    {
+      "full_name": "elder-plinius/T3MP3ST",
+      "html_url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stargazers_count": 346,
+      "language": "TypeScript",
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-05T04:36:11Z"
     },
     {
       "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
       "html_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
       "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stargazers_count": 294,
+      "stargazers_count": 299,
       "language": "Python",
       "created_at": "2026-06-29T15:03:09Z",
-      "updated_at": "2026-07-04T02:14:09Z"
-    },
-    {
-      "full_name": "revfactory/webtoon-harness",
-      "html_url": "https://github.com/revfactory/webtoon-harness",
-      "description": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
-      "stargazers_count": 250,
-      "language": "HTML",
-      "created_at": "2026-06-28T12:02:16Z",
-      "updated_at": "2026-07-03T15:41:06Z"
+      "updated_at": "2026-07-05T01:34:43Z"
     },
     {
       "full_name": "xt4d/GameBlocks",
       "html_url": "https://github.com/xt4d/GameBlocks",
       "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "stargazers_count": 183,
+      "stargazers_count": 232,
       "language": "JavaScript",
       "created_at": "2026-07-01T16:38:56Z",
-      "updated_at": "2026-07-04T04:05:04Z"
+      "updated_at": "2026-07-05T04:36:47Z"
     },
     {
-      "full_name": "haiou-666/haiou2.0-Claude-Code-",
-      "html_url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
-      "description": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，跨平台支持 Windows/macOS/Linux，自动备份原配置，可一键卸载恢复，无侵入式安装。MIT License，仅供学习交流。",
-      "stargazers_count": 167,
-      "language": "Shell",
-      "created_at": "2026-06-28T05:24:38Z",
-      "updated_at": "2026-07-04T03:03:44Z"
+      "full_name": "Archive228/loopkit",
+      "html_url": "https://github.com/Archive228/loopkit",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "stargazers_count": 164,
+      "language": "JavaScript",
+      "created_at": "2026-06-30T08:46:55Z",
+      "updated_at": "2026-07-05T04:37:35Z"
     },
     {
-      "full_name": "Sakshxm1/hermes-agency-orchestrator",
-      "html_url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
-      "description": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis",
-      "stargazers_count": 155,
-      "language": "HTML",
-      "created_at": "2026-06-28T19:45:35Z",
-      "updated_at": "2026-07-04T00:10:17Z"
+      "full_name": "oomol-lab/open-connector",
+      "html_url": "https://github.com/oomol-lab/open-connector",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "stargazers_count": 148,
+      "language": "TypeScript",
+      "created_at": "2026-06-29T10:49:36Z",
+      "updated_at": "2026-07-05T04:37:58Z"
     },
     {
-      "full_name": "skerry699/agent-symphony",
-      "html_url": "https://github.com/skerry699/agent-symphony",
-      "description": "Multi-Agent AI Task Orchestrator 2026",
-      "stargazers_count": 153,
-      "language": "HTML",
-      "created_at": "2026-06-28T20:52:33Z",
-      "updated_at": "2026-07-04T02:44:57Z"
+      "full_name": "Sophomoresty/gemini-search-mcp",
+      "html_url": "https://github.com/Sophomoresty/gemini-search-mcp",
+      "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
+      "stargazers_count": 138,
+      "language": "Python",
+      "created_at": "2026-06-29T13:17:52Z",
+      "updated_at": "2026-07-04T08:24:50Z"
     }
   ]
 }
