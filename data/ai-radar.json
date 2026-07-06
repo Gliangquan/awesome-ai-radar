@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T04:37:59.352Z",
-  "since": "2026-06-28",
+  "updatedAt": "2026-07-06T04:49:24.422Z",
+  "since": "2026-06-29",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "jamesob/local-llm",
-      "html_url": "https://github.com/jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "stargazers_count": 783,
-      "language": "Shell",
-      "created_at": "2026-07-03T13:06:03Z",
-      "updated_at": "2026-07-05T04:37:40Z"
+      "full_name": "elder-plinius/T3MP3ST",
+      "html_url": "https://github.com/elder-plinius/T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "stargazers_count": 1822,
+      "language": "TypeScript",
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-06T04:47:25Z"
     },
     {
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "stargazers_count": 764,
+      "stargazers_count": 1027,
       "language": "Python",
       "created_at": "2026-06-30T10:55:02Z",
-      "updated_at": "2026-07-05T04:30:41Z"
+      "updated_at": "2026-07-06T04:45:55Z"
+    },
+    {
+      "full_name": "jamesob/local-llm",
+      "html_url": "https://github.com/jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "stargazers_count": 930,
+      "language": "Shell",
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-06T04:02:22Z"
     },
     {
       "full_name": "uzairansaruzi/hermex",
       "html_url": "https://github.com/uzairansaruzi/hermex",
       "description": "Native iPhone app for your Hermes agent",
-      "stargazers_count": 560,
+      "stargazers_count": 625,
       "language": "Swift",
       "created_at": "2026-07-02T12:47:31Z",
-      "updated_at": "2026-07-05T04:33:08Z"
-    },
-    {
-      "full_name": "TianhangZhuzth/Fundamental-Ava",
-      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-      "stargazers_count": 523,
-      "language": "Python",
-      "created_at": "2026-06-30T01:04:13Z",
-      "updated_at": "2026-07-04T19:42:13Z"
+      "updated_at": "2026-07-06T04:33:48Z"
     },
     {
       "full_name": "Kulaxyz/token-diet",
       "html_url": "https://github.com/Kulaxyz/token-diet",
       "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
-      "stargazers_count": 487,
+      "stargazers_count": 590,
       "language": "Shell",
       "created_at": "2026-07-03T15:20:04Z",
-      "updated_at": "2026-07-05T04:34:52Z"
+      "updated_at": "2026-07-06T04:21:15Z"
+    },
+    {
+      "full_name": "TianhangZhuzth/Fundamental-Ava",
+      "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "stargazers_count": 525,
+      "language": "Python",
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-06T01:45:07Z"
+    },
+    {
+      "full_name": "HKUDS/OpenOPC",
+      "html_url": "https://github.com/HKUDS/OpenOPC",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "stargazers_count": 401,
+      "language": "Python",
+      "created_at": "2026-07-01T10:17:37Z",
+      "updated_at": "2026-07-06T04:17:17Z"
     },
     {
       "full_name": "lingbol088-spec/reverse-flow-skill",
       "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill",
       "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-      "stargazers_count": 354,
+      "stargazers_count": 399,
       "language": "Python",
       "created_at": "2026-06-30T22:08:31Z",
-      "updated_at": "2026-07-05T04:21:34Z"
-    },
-    {
-      "full_name": "elder-plinius/T3MP3ST",
-      "html_url": "https://github.com/elder-plinius/T3MP3ST",
-      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-      "stargazers_count": 346,
-      "language": "TypeScript",
-      "created_at": "2026-07-02T17:53:55Z",
-      "updated_at": "2026-07-05T04:36:11Z"
-    },
-    {
-      "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "html_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-      "stargazers_count": 299,
-      "language": "Python",
-      "created_at": "2026-06-29T15:03:09Z",
-      "updated_at": "2026-07-05T01:34:43Z"
-    },
-    {
-      "full_name": "xt4d/GameBlocks",
-      "html_url": "https://github.com/xt4d/GameBlocks",
-      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-      "stargazers_count": 232,
-      "language": "JavaScript",
-      "created_at": "2026-07-01T16:38:56Z",
-      "updated_at": "2026-07-05T04:36:47Z"
+      "updated_at": "2026-07-06T04:04:33Z"
     },
     {
       "full_name": "Archive228/loopkit",
       "html_url": "https://github.com/Archive228/loopkit",
       "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
-      "stargazers_count": 164,
+      "stargazers_count": 326,
       "language": "JavaScript",
       "created_at": "2026-06-30T08:46:55Z",
-      "updated_at": "2026-07-05T04:37:35Z"
+      "updated_at": "2026-07-06T04:48:52Z"
     },
     {
-      "full_name": "oomol-lab/open-connector",
-      "html_url": "https://github.com/oomol-lab/open-connector",
-      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-      "stargazers_count": 148,
+      "full_name": "xt4d/GameBlocks",
+      "html_url": "https://github.com/xt4d/GameBlocks",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "stargazers_count": 301,
+      "language": "JavaScript",
+      "created_at": "2026-07-01T16:38:56Z",
+      "updated_at": "2026-07-06T04:23:58Z"
+    },
+    {
+      "full_name": "Pluviobyte/rnskill",
+      "html_url": "https://github.com/Pluviobyte/rnskill",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "stargazers_count": 245,
+      "language": null,
+      "created_at": "2026-07-04T18:43:42Z",
+      "updated_at": "2026-07-06T04:46:48Z"
+    },
+    {
+      "full_name": "synthetic-sciences/openscience",
+      "html_url": "https://github.com/synthetic-sciences/openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "stargazers_count": 201,
       "language": "TypeScript",
-      "created_at": "2026-06-29T10:49:36Z",
-      "updated_at": "2026-07-05T04:37:58Z"
-    },
-    {
-      "full_name": "Sophomoresty/gemini-search-mcp",
-      "html_url": "https://github.com/Sophomoresty/gemini-search-mcp",
-      "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
-      "stargazers_count": 138,
-      "language": "Python",
-      "created_at": "2026-06-29T13:17:52Z",
-      "updated_at": "2026-07-04T08:24:50Z"
+      "created_at": "2026-07-03T15:06:45Z",
+      "updated_at": "2026-07-06T04:48:00Z"
     }
   ]
 }
