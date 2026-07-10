@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T04:28:30.905Z",
-  "since": "2026-07-02",
+  "updatedAt": "2026-07-10T04:31:14.751Z",
+  "since": "2026-07-03",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,76 +8,49 @@
   ],
   "items": [
     {
-      "full_name": "synthetic-sciences/openscience",
-      "html_url": "https://github.com/synthetic-sciences/openscience",
-      "description": "The open-source AI workbench for scientific research",
-      "stargazers_count": 1804,
-      "language": "TypeScript",
-      "created_at": "2026-07-03T15:06:45Z",
-      "updated_at": "2026-07-09T04:07:26Z"
-    },
-    {
-      "full_name": "jamesob/local-llm",
-      "html_url": "https://github.com/jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "stargazers_count": 1280,
-      "language": "Shell",
-      "created_at": "2026-07-03T13:06:03Z",
-      "updated_at": "2026-07-09T04:18:02Z"
-    },
-    {
-      "full_name": "Kulaxyz/token-diet",
-      "html_url": "https://github.com/Kulaxyz/token-diet",
-      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
-      "stargazers_count": 566,
-      "language": "Shell",
-      "created_at": "2026-07-03T15:20:04Z",
-      "updated_at": "2026-07-08T22:23:04Z"
-    },
-    {
       "full_name": "simonlin1212/Vibe-Research",
       "html_url": "https://github.com/simonlin1212/Vibe-Research",
       "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-      "stargazers_count": 557,
+      "stargazers_count": 597,
       "language": "TypeScript",
       "created_at": "2026-07-05T06:30:55Z",
-      "updated_at": "2026-07-09T03:20:24Z"
-    },
-    {
-      "full_name": "ai4s-research/open-science",
-      "html_url": "https://github.com/ai4s-research/open-science",
-      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
-      "stargazers_count": 404,
-      "language": "TypeScript",
-      "created_at": "2026-07-03T09:22:31Z",
-      "updated_at": "2026-07-09T04:28:20Z"
+      "updated_at": "2026-07-10T04:23:42Z"
     },
     {
       "full_name": "Pluviobyte/rnskill",
       "html_url": "https://github.com/Pluviobyte/rnskill",
       "description": "雪踏乌云的 AI Agent Skills 集合",
-      "stargazers_count": 382,
+      "stargazers_count": 392,
       "language": "Python",
       "created_at": "2026-07-04T18:43:42Z",
-      "updated_at": "2026-07-09T03:35:15Z"
+      "updated_at": "2026-07-10T01:03:06Z"
     },
     {
-      "full_name": "SmileLikeYe/agent-chief",
-      "html_url": "https://github.com/SmileLikeYe/agent-chief",
-      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
-      "stargazers_count": 319,
-      "language": "Python",
-      "created_at": "2026-07-04T15:28:56Z",
-      "updated_at": "2026-07-09T04:15:56Z"
+      "full_name": "xiaotianfotos/homerail",
+      "html_url": "https://github.com/xiaotianfotos/homerail",
+      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
+      "stargazers_count": 369,
+      "language": "TypeScript",
+      "created_at": "2026-07-07T12:11:18Z",
+      "updated_at": "2026-07-10T04:05:26Z"
     },
     {
       "full_name": "nexu-io/motion-anything",
       "html_url": "https://github.com/nexu-io/motion-anything",
       "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stargazers_count": 310,
+      "stargazers_count": 345,
       "language": "JavaScript",
       "created_at": "2026-07-06T14:56:20Z",
-      "updated_at": "2026-07-09T04:04:17Z"
+      "updated_at": "2026-07-10T00:32:40Z"
+    },
+    {
+      "full_name": "SmileLikeYe/agent-chief",
+      "html_url": "https://github.com/SmileLikeYe/agent-chief",
+      "description": "Attention is your scarcest resource. Chief is the local-first layer that guards it — turning every agent, alert, and feed into one honest call: interrupt, or not.",
+      "stargazers_count": 320,
+      "language": "Python",
+      "created_at": "2026-07-04T15:28:56Z",
+      "updated_at": "2026-07-09T23:02:35Z"
     },
     {
       "full_name": "eli-labz/Cognitive-Core-Skills",
@@ -86,16 +59,34 @@
       "stargazers_count": 273,
       "language": "Python",
       "created_at": "2026-07-05T21:25:55Z",
-      "updated_at": "2026-07-08T08:58:38Z"
+      "updated_at": "2026-07-09T18:02:40Z"
     },
     {
-      "full_name": "xiaotianfotos/homerail",
-      "html_url": "https://github.com/xiaotianfotos/homerail",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "stargazers_count": 265,
+      "full_name": "wassermanproductions/motion-previs-studio",
+      "html_url": "https://github.com/wassermanproductions/motion-previs-studio",
+      "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
+      "stargazers_count": 247,
       "language": "TypeScript",
-      "created_at": "2026-07-07T12:11:18Z",
-      "updated_at": "2026-07-09T04:17:07Z"
+      "created_at": "2026-07-06T07:30:10Z",
+      "updated_at": "2026-07-10T04:07:50Z"
+    },
+    {
+      "full_name": "ronak-create/FableCut",
+      "html_url": "https://github.com/ronak-create/FableCut",
+      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+      "stargazers_count": 239,
+      "language": "JavaScript",
+      "created_at": "2026-07-06T16:18:57Z",
+      "updated_at": "2026-07-10T04:17:51Z"
+    },
+    {
+      "full_name": "OmarH-creator/Autonomous-Forge",
+      "html_url": "https://github.com/OmarH-creator/Autonomous-Forge",
+      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "stargazers_count": 229,
+      "language": "Python",
+      "created_at": "2026-07-06T21:12:03Z",
+      "updated_at": "2026-07-10T02:09:08Z"
     },
     {
       "full_name": "CWS6206/EasyLastSkill",
@@ -104,16 +95,25 @@
       "stargazers_count": 228,
       "language": "Python",
       "created_at": "2026-07-08T11:15:29Z",
-      "updated_at": "2026-07-08T22:40:01Z"
+      "updated_at": "2026-07-09T10:43:11Z"
     },
     {
-      "full_name": "OmarH-creator/Autonomous-Forge",
-      "html_url": "https://github.com/OmarH-creator/Autonomous-Forge",
-      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
+      "full_name": "fendouai/humanize-text-skill",
+      "html_url": "https://github.com/fendouai/humanize-text-skill",
+      "description": "Free AI Humanizer: Humanize AI Text Online",
       "stargazers_count": 210,
-      "language": "Python",
-      "created_at": "2026-07-06T21:12:03Z",
-      "updated_at": "2026-07-09T04:28:00Z"
+      "language": "JavaScript",
+      "created_at": "2026-07-04T00:48:19Z",
+      "updated_at": "2026-07-10T04:18:27Z"
+    },
+    {
+      "full_name": "shlokkhemani/rabbithole",
+      "html_url": "https://github.com/shlokkhemani/rabbithole",
+      "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
+      "stargazers_count": 205,
+      "language": "JavaScript",
+      "created_at": "2026-07-06T06:03:00Z",
+      "updated_at": "2026-07-10T04:26:04Z"
     }
   ]
 }
