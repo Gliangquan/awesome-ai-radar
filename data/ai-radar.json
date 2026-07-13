@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T04:05:40.362Z",
-  "since": "2026-07-05",
+  "updatedAt": "2026-07-13T04:07:47.828Z",
+  "since": "2026-07-06",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
+      "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "stargazers_count": 641,
+      "language": "TypeScript",
+      "created_at": "2026-07-12T10:35:44Z",
+      "updated_at": "2026-07-13T02:43:22Z"
+    },
+    {
       "full_name": "xiaotianfotos/homerail",
       "html_url": "https://github.com/xiaotianfotos/homerail",
       "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "stargazers_count": 453,
+      "stargazers_count": 490,
       "language": "TypeScript",
       "created_at": "2026-07-07T12:11:18Z",
-      "updated_at": "2026-07-12T03:00:26Z"
-    },
-    {
-      "full_name": "nexu-io/motion-anything",
-      "html_url": "https://github.com/nexu-io/motion-anything",
-      "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "stargazers_count": 395,
-      "language": "JavaScript",
-      "created_at": "2026-07-06T14:56:20Z",
-      "updated_at": "2026-07-12T02:38:28Z"
-    },
-    {
-      "full_name": "yusukebe/ax",
-      "html_url": "https://github.com/yusukebe/ax",
-      "description": "The AI-era curl",
-      "stargazers_count": 339,
-      "language": "TypeScript",
-      "created_at": "2026-07-06T09:39:01Z",
-      "updated_at": "2026-07-12T03:57:26Z"
-    },
-    {
-      "full_name": "ronak-create/FableCut",
-      "html_url": "https://github.com/ronak-create/FableCut",
-      "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-      "stargazers_count": 339,
-      "language": "JavaScript",
-      "created_at": "2026-07-06T16:18:57Z",
-      "updated_at": "2026-07-12T00:01:24Z"
+      "updated_at": "2026-07-13T02:53:49Z"
     },
     {
       "full_name": "Raymondhou0917/speak-human-tw",
       "html_url": "https://github.com/Raymondhou0917/speak-human-tw",
       "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stargazers_count": 286,
+      "stargazers_count": 406,
       "language": null,
       "created_at": "2026-07-08T09:23:53Z",
-      "updated_at": "2026-07-12T04:02:58Z"
-    },
-    {
-      "full_name": "wassermanproductions/motion-previs-studio",
-      "html_url": "https://github.com/wassermanproductions/motion-previs-studio",
-      "description": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "stargazers_count": 279,
-      "language": "JavaScript",
-      "created_at": "2026-07-06T07:30:10Z",
-      "updated_at": "2026-07-11T22:10:07Z"
-    },
-    {
-      "full_name": "bkingfilm/lapian-notes",
-      "html_url": "https://github.com/bkingfilm/lapian-notes",
-      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "stargazers_count": 270,
-      "language": "TypeScript",
-      "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-12T01:46:28Z"
-    },
-    {
-      "full_name": "OmarH-creator/Autonomous-Forge",
-      "html_url": "https://github.com/OmarH-creator/Autonomous-Forge",
-      "description": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-      "stargazers_count": 247,
-      "language": "Python",
-      "created_at": "2026-07-06T21:12:03Z",
-      "updated_at": "2026-07-11T21:27:12Z"
-    },
-    {
-      "full_name": "yetone/kill-ai-slop",
-      "html_url": "https://github.com/yetone/kill-ai-slop",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stargazers_count": 237,
-      "language": "TypeScript",
-      "created_at": "2026-07-10T08:59:16Z",
-      "updated_at": "2026-07-12T03:34:48Z"
+      "updated_at": "2026-07-13T04:06:29Z"
     },
     {
       "full_name": "CoscoAI/luxy-aisre",
       "html_url": "https://github.com/CoscoAI/luxy-aisre",
       "description": "AISRE for Cosco",
-      "stargazers_count": 230,
+      "stargazers_count": 396,
       "language": "Python",
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-12T04:00:50Z"
+      "updated_at": "2026-07-13T04:00:38Z"
+    },
+    {
+      "full_name": "cosmtrek/mindwalk",
+      "html_url": "https://github.com/cosmtrek/mindwalk",
+      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+      "stargazers_count": 338,
+      "language": "Go",
+      "created_at": "2026-07-09T11:41:46Z",
+      "updated_at": "2026-07-13T03:55:32Z"
+    },
+    {
+      "full_name": "yetone/kill-ai-slop",
+      "html_url": "https://github.com/yetone/kill-ai-slop",
+      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "stargazers_count": 336,
+      "language": "TypeScript",
+      "created_at": "2026-07-10T08:59:16Z",
+      "updated_at": "2026-07-13T03:36:19Z"
+    },
+    {
+      "full_name": "bkingfilm/lapian-notes",
+      "html_url": "https://github.com/bkingfilm/lapian-notes",
+      "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+      "stargazers_count": 291,
+      "language": "TypeScript",
+      "created_at": "2026-07-08T06:06:31Z",
+      "updated_at": "2026-07-13T04:00:27Z"
     },
     {
       "full_name": "CWS6206/EasyLastSkill",
       "html_url": "https://github.com/CWS6206/EasyLastSkill",
       "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
-      "stargazers_count": 228,
+      "stargazers_count": 235,
       "language": "Python",
       "created_at": "2026-07-08T11:15:29Z",
-      "updated_at": "2026-07-09T10:43:11Z"
+      "updated_at": "2026-07-13T01:31:47Z"
     },
     {
-      "full_name": "shlokkhemani/rabbithole",
-      "html_url": "https://github.com/shlokkhemani/rabbithole",
-      "description": "An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
-      "stargazers_count": 222,
-      "language": "JavaScript",
-      "created_at": "2026-07-06T06:03:00Z",
-      "updated_at": "2026-07-12T01:35:21Z"
+      "full_name": "dongguatanglinux/grok-build-auth",
+      "html_url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stargazers_count": 193,
+      "language": "Python",
+      "created_at": "2026-07-10T10:36:31Z",
+      "updated_at": "2026-07-13T00:33:02Z"
+    },
+    {
+      "full_name": "KORAYTEACHER/fintech-advisor",
+      "html_url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "stargazers_count": 167,
+      "language": "TypeScript",
+      "created_at": "2026-07-09T06:23:12Z",
+      "updated_at": "2026-07-13T03:19:01Z"
+    },
+    {
+      "full_name": "nicobailon/grill-for-unknowns",
+      "html_url": "https://github.com/nicobailon/grill-for-unknowns",
+      "description": "Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+      "stargazers_count": 166,
+      "language": null,
+      "created_at": "2026-07-09T18:55:30Z",
+      "updated_at": "2026-07-13T03:34:06Z"
+    },
+    {
+      "full_name": "jakubkrehel/skills",
+      "html_url": "https://github.com/jakubkrehel/skills",
+      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+      "stargazers_count": 160,
+      "language": null,
+      "created_at": "2026-07-10T08:58:36Z",
+      "updated_at": "2026-07-13T03:42:23Z"
     }
   ]
 }
