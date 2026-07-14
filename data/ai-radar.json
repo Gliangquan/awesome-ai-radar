@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T04:07:47.828Z",
-  "since": "2026-07-06",
+  "updatedAt": "2026-07-14T03:43:14.854Z",
+  "since": "2026-07-07",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
       "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "stargazers_count": 641,
+      "stargazers_count": 698,
       "language": "TypeScript",
       "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-13T02:43:22Z"
+      "updated_at": "2026-07-14T02:54:58Z"
     },
     {
-      "full_name": "xiaotianfotos/homerail",
-      "html_url": "https://github.com/xiaotianfotos/homerail",
-      "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-      "stargazers_count": 490,
-      "language": "TypeScript",
-      "created_at": "2026-07-07T12:11:18Z",
-      "updated_at": "2026-07-13T02:53:49Z"
-    },
-    {
-      "full_name": "Raymondhou0917/speak-human-tw",
-      "html_url": "https://github.com/Raymondhou0917/speak-human-tw",
-      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-      "stargazers_count": 406,
-      "language": null,
-      "created_at": "2026-07-08T09:23:53Z",
-      "updated_at": "2026-07-13T04:06:29Z"
-    },
-    {
-      "full_name": "CoscoAI/luxy-aisre",
-      "html_url": "https://github.com/CoscoAI/luxy-aisre",
-      "description": "AISRE for Cosco",
-      "stargazers_count": 396,
+      "full_name": "William-Lu-stack/LuxyAI",
+      "html_url": "https://github.com/William-Lu-stack/LuxyAI",
+      "description": "AgenticOps for Kubernetes and cloud infrastructure.",
+      "stargazers_count": 563,
       "language": "Python",
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-13T04:00:38Z"
+      "updated_at": "2026-07-14T03:40:10Z"
     },
     {
       "full_name": "cosmtrek/mindwalk",
       "html_url": "https://github.com/cosmtrek/mindwalk",
       "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "stargazers_count": 338,
+      "stargazers_count": 498,
       "language": "Go",
       "created_at": "2026-07-09T11:41:46Z",
-      "updated_at": "2026-07-13T03:55:32Z"
+      "updated_at": "2026-07-14T03:10:03Z"
+    },
+    {
+      "full_name": "Raymondhou0917/speak-human-tw",
+      "html_url": "https://github.com/Raymondhou0917/speak-human-tw",
+      "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+      "stargazers_count": 487,
+      "language": null,
+      "created_at": "2026-07-08T09:23:53Z",
+      "updated_at": "2026-07-14T03:42:37Z"
     },
     {
       "full_name": "yetone/kill-ai-slop",
       "html_url": "https://github.com/yetone/kill-ai-slop",
       "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stargazers_count": 336,
+      "stargazers_count": 405,
       "language": "TypeScript",
       "created_at": "2026-07-10T08:59:16Z",
-      "updated_at": "2026-07-13T03:36:19Z"
+      "updated_at": "2026-07-14T03:09:04Z"
     },
     {
       "full_name": "bkingfilm/lapian-notes",
       "html_url": "https://github.com/bkingfilm/lapian-notes",
       "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-      "stargazers_count": 291,
+      "stargazers_count": 312,
       "language": "TypeScript",
       "created_at": "2026-07-08T06:06:31Z",
-      "updated_at": "2026-07-13T04:00:27Z"
-    },
-    {
-      "full_name": "CWS6206/EasyLastSkill",
-      "html_url": "https://github.com/CWS6206/EasyLastSkill",
-      "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
-      "stargazers_count": 235,
-      "language": "Python",
-      "created_at": "2026-07-08T11:15:29Z",
-      "updated_at": "2026-07-13T01:31:47Z"
-    },
-    {
-      "full_name": "dongguatanglinux/grok-build-auth",
-      "html_url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stargazers_count": 193,
-      "language": "Python",
-      "created_at": "2026-07-10T10:36:31Z",
-      "updated_at": "2026-07-13T00:33:02Z"
-    },
-    {
-      "full_name": "KORAYTEACHER/fintech-advisor",
-      "html_url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "description": "ai fintech financial advisor for your portfolio",
-      "stargazers_count": 167,
-      "language": "TypeScript",
-      "created_at": "2026-07-09T06:23:12Z",
-      "updated_at": "2026-07-13T03:19:01Z"
-    },
-    {
-      "full_name": "nicobailon/grill-for-unknowns",
-      "html_url": "https://github.com/nicobailon/grill-for-unknowns",
-      "description": "Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
-      "stargazers_count": 166,
-      "language": null,
-      "created_at": "2026-07-09T18:55:30Z",
-      "updated_at": "2026-07-13T03:34:06Z"
+      "updated_at": "2026-07-14T03:11:57Z"
     },
     {
       "full_name": "jakubkrehel/skills",
       "html_url": "https://github.com/jakubkrehel/skills",
       "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "stargazers_count": 160,
+      "stargazers_count": 292,
       "language": null,
       "created_at": "2026-07-10T08:58:36Z",
-      "updated_at": "2026-07-13T03:42:23Z"
+      "updated_at": "2026-07-14T03:36:54Z"
+    },
+    {
+      "full_name": "CWS6206/EasyLastSkill",
+      "html_url": "https://github.com/CWS6206/EasyLastSkill",
+      "description": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten.",
+      "stargazers_count": 234,
+      "language": "Python",
+      "created_at": "2026-07-08T11:15:29Z",
+      "updated_at": "2026-07-13T09:20:50Z"
+    },
+    {
+      "full_name": "dongguatanglinux/grok-build-auth",
+      "html_url": "https://github.com/dongguatanglinux/grok-build-auth",
+      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "stargazers_count": 221,
+      "language": "Python",
+      "created_at": "2026-07-10T10:36:31Z",
+      "updated_at": "2026-07-14T02:48:29Z"
+    },
+    {
+      "full_name": "KORAYTEACHER/fintech-advisor",
+      "html_url": "https://github.com/KORAYTEACHER/fintech-advisor",
+      "description": "ai fintech financial advisor for your portfolio",
+      "stargazers_count": 176,
+      "language": "TypeScript",
+      "created_at": "2026-07-09T06:23:12Z",
+      "updated_at": "2026-07-13T22:59:49Z"
+    },
+    {
+      "full_name": "xiaolongbao0709/ai-virtual-phone",
+      "html_url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
+      "description": null,
+      "stargazers_count": 175,
+      "language": "TypeScript",
+      "created_at": "2026-07-09T15:28:47Z",
+      "updated_at": "2026-07-14T03:32:17Z"
+    },
+    {
+      "full_name": "chordswallowthrust/undress-design",
+      "html_url": "https://github.com/chordswallowthrust/undress-design",
+      "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
+      "stargazers_count": 174,
+      "language": null,
+      "created_at": "2026-07-10T15:34:39Z",
+      "updated_at": "2026-07-14T02:10:01Z"
     }
   ]
 }
