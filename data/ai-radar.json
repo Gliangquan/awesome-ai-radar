@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T03:43:14.996Z",
-  "since": "2026-07-08",
+  "updatedAt": "2026-07-16T03:45:51.584Z",
+  "since": "2026-07-09",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
+      "full_name": "xai-org/grok-build",
+      "html_url": "https://github.com/xai-org/grok-build",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "stargazers_count": 5107,
+      "language": "Rust",
+      "created_at": "2026-07-14T20:04:23Z",
+      "updated_at": "2026-07-16T03:45:42Z"
+    },
+    {
       "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
       "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "stargazers_count": 801,
+      "stargazers_count": 812,
       "language": "TypeScript",
       "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-15T03:20:08Z"
+      "updated_at": "2026-07-16T02:22:40Z"
     },
     {
       "full_name": "William-Lu-stack/Flawless",
       "html_url": "https://github.com/William-Lu-stack/Flawless",
       "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stargazers_count": 618,
+      "stargazers_count": 643,
       "language": "Python",
       "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-15T03:09:35Z"
-    },
-    {
-      "full_name": "cosmtrek/mindwalk",
-      "html_url": "https://github.com/cosmtrek/mindwalk",
-      "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-      "stargazers_count": 584,
-      "language": "Go",
-      "created_at": "2026-07-09T11:41:46Z",
-      "updated_at": "2026-07-15T03:29:28Z"
+      "updated_at": "2026-07-16T03:24:41Z"
     },
     {
       "full_name": "yetone/kill-ai-slop",
       "html_url": "https://github.com/yetone/kill-ai-slop",
       "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stargazers_count": 438,
+      "stargazers_count": 465,
       "language": "TypeScript",
       "created_at": "2026-07-10T08:59:16Z",
-      "updated_at": "2026-07-15T02:57:40Z"
+      "updated_at": "2026-07-16T02:58:42Z"
     },
     {
       "full_name": "jakubkrehel/skills",
       "html_url": "https://github.com/jakubkrehel/skills",
       "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "stargazers_count": 331,
+      "stargazers_count": 411,
       "language": null,
       "created_at": "2026-07-10T08:58:36Z",
-      "updated_at": "2026-07-15T03:14:42Z"
+      "updated_at": "2026-07-16T03:37:05Z"
     },
     {
       "full_name": "dongguatanglinux/grok-build-auth",
       "html_url": "https://github.com/dongguatanglinux/grok-build-auth",
       "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stargazers_count": 226,
+      "stargazers_count": 243,
       "language": "Python",
       "created_at": "2026-07-10T10:36:31Z",
-      "updated_at": "2026-07-15T03:13:40Z"
+      "updated_at": "2026-07-16T03:06:58Z"
     },
     {
-      "full_name": "xiaolongbao0709/ai-virtual-phone",
-      "html_url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
-      "description": null,
-      "stargazers_count": 198,
+      "full_name": "vshulcz/deja-vu",
+      "html_url": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+      "stargazers_count": 221,
+      "language": "Go",
+      "created_at": "2026-07-14T07:45:44Z",
+      "updated_at": "2026-07-16T03:15:59Z"
+    },
+    {
+      "full_name": "barretlee/agent-pulse",
+      "html_url": "https://github.com/barretlee/agent-pulse",
+      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stargazers_count": 189,
       "language": "TypeScript",
-      "created_at": "2026-07-09T15:28:47Z",
-      "updated_at": "2026-07-15T02:30:44Z"
+      "created_at": "2026-07-11T14:38:25Z",
+      "updated_at": "2026-07-16T00:05:42Z"
     },
     {
       "full_name": "chordswallowthrust/undress-design",
       "html_url": "https://github.com/chordswallowthrust/undress-design",
       "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stargazers_count": 185,
+      "stargazers_count": 188,
       "language": null,
       "created_at": "2026-07-10T15:34:39Z",
-      "updated_at": "2026-07-15T03:33:52Z"
+      "updated_at": "2026-07-16T02:48:28Z"
     },
     {
-      "full_name": "nicobailon/grill-for-unknowns",
-      "html_url": "https://github.com/nicobailon/grill-for-unknowns",
-      "description": "Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
-      "stargazers_count": 177,
-      "language": null,
-      "created_at": "2026-07-09T18:55:30Z",
-      "updated_at": "2026-07-14T13:56:27Z"
-    },
-    {
-      "full_name": "SilentFleetKK/ai-market-pulse",
-      "html_url": "https://github.com/SilentFleetKK/ai-market-pulse",
-      "description": "Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+      "full_name": "nihe0909/xiaohongshu-ai-workbench",
+      "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+      "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
       "stargazers_count": 161,
       "language": "Python",
-      "created_at": "2026-07-09T07:34:37Z",
-      "updated_at": "2026-07-15T02:26:32Z"
+      "created_at": "2026-07-13T15:44:06Z",
+      "updated_at": "2026-07-16T03:27:48Z"
     },
     {
-      "full_name": "KORAYTEACHER/fintech-advisor",
-      "html_url": "https://github.com/KORAYTEACHER/fintech-advisor",
-      "description": "ai fintech financial advisor for your portfolio",
+      "full_name": "ShenSeanChen/waku-agent",
+      "html_url": "https://github.com/ShenSeanChen/waku-agent",
+      "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
       "stargazers_count": 160,
-      "language": "TypeScript",
-      "created_at": "2026-07-09T06:23:12Z",
-      "updated_at": "2026-07-14T09:22:48Z"
+      "language": "Python",
+      "created_at": "2026-07-10T12:20:50Z",
+      "updated_at": "2026-07-16T03:39:13Z"
     },
     {
-      "full_name": "cursor-grok/Cursor-Grok-4.5-xAI-free",
-      "html_url": "https://github.com/cursor-grok/Cursor-Grok-4.5-xAI-free",
-      "description": " cursor-sdk cursor grok 4.5 xai free cursor ai editor spacexai coding model agentic tasks free access grok build setup guide installation tutorial workflow optimization api key configuration reasoning levels token efficiency troubleshooting code completion composer mode windows 11 desktop utility",
-      "stargazers_count": 155,
-      "language": null,
-      "created_at": "2026-07-09T18:24:47Z",
-      "updated_at": "2026-07-15T02:10:03Z"
+      "full_name": "Alisa0808/vox-director",
+      "html_url": "https://github.com/Alisa0808/vox-director",
+      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+      "stargazers_count": 158,
+      "language": "Python",
+      "created_at": "2026-07-10T15:32:05Z",
+      "updated_at": "2026-07-16T03:31:38Z"
     }
   ]
 }
