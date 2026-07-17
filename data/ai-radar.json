@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T03:45:51.584Z",
-  "since": "2026-07-09",
+  "updatedAt": "2026-07-17T03:45:33.726Z",
+  "since": "2026-07-10",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "xai-org/grok-build",
       "html_url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "stargazers_count": 5107,
+      "stargazers_count": 12945,
       "language": "Rust",
       "created_at": "2026-07-14T20:04:23Z",
-      "updated_at": "2026-07-16T03:45:42Z"
+      "updated_at": "2026-07-17T03:45:30Z"
     },
     {
       "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
       "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "stargazers_count": 812,
+      "stargazers_count": 829,
       "language": "TypeScript",
       "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-16T02:22:40Z"
+      "updated_at": "2026-07-17T01:32:23Z"
     },
     {
-      "full_name": "William-Lu-stack/Flawless",
-      "html_url": "https://github.com/William-Lu-stack/Flawless",
-      "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-      "stargazers_count": 643,
+      "full_name": "Blueturboguy07/cue",
+      "html_url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "stargazers_count": 311,
+      "language": "JavaScript",
+      "created_at": "2026-07-15T22:17:25Z",
+      "updated_at": "2026-07-17T03:39:02Z"
+    },
+    {
+      "full_name": "PengZhang64/circuit-framework",
+      "html_url": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "stargazers_count": 308,
       "language": "Python",
-      "created_at": "2026-07-10T05:57:02Z",
-      "updated_at": "2026-07-16T03:24:41Z"
-    },
-    {
-      "full_name": "yetone/kill-ai-slop",
-      "html_url": "https://github.com/yetone/kill-ai-slop",
-      "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "stargazers_count": 465,
-      "language": "TypeScript",
-      "created_at": "2026-07-10T08:59:16Z",
-      "updated_at": "2026-07-16T02:58:42Z"
-    },
-    {
-      "full_name": "jakubkrehel/skills",
-      "html_url": "https://github.com/jakubkrehel/skills",
-      "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-      "stargazers_count": 411,
-      "language": null,
-      "created_at": "2026-07-10T08:58:36Z",
-      "updated_at": "2026-07-16T03:37:05Z"
-    },
-    {
-      "full_name": "dongguatanglinux/grok-build-auth",
-      "html_url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "description": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "stargazers_count": 243,
-      "language": "Python",
-      "created_at": "2026-07-10T10:36:31Z",
-      "updated_at": "2026-07-16T03:06:58Z"
+      "created_at": "2026-07-16T15:02:10Z",
+      "updated_at": "2026-07-17T03:36:14Z"
     },
     {
       "full_name": "vshulcz/deja-vu",
       "html_url": "https://github.com/vshulcz/deja-vu",
       "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-      "stargazers_count": 221,
+      "stargazers_count": 306,
       "language": "Go",
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-16T03:15:59Z"
-    },
-    {
-      "full_name": "barretlee/agent-pulse",
-      "html_url": "https://github.com/barretlee/agent-pulse",
-      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stargazers_count": 189,
-      "language": "TypeScript",
-      "created_at": "2026-07-11T14:38:25Z",
-      "updated_at": "2026-07-16T00:05:42Z"
-    },
-    {
-      "full_name": "chordswallowthrust/undress-design",
-      "html_url": "https://github.com/chordswallowthrust/undress-design",
-      "description": "AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.design/edit?utm_source=gist.github.com/chordswallowthrust/undress-design",
-      "stargazers_count": 188,
-      "language": null,
-      "created_at": "2026-07-10T15:34:39Z",
-      "updated_at": "2026-07-16T02:48:28Z"
+      "updated_at": "2026-07-17T03:23:40Z"
     },
     {
       "full_name": "nihe0909/xiaohongshu-ai-workbench",
       "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
       "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stargazers_count": 161,
+      "stargazers_count": 225,
       "language": "Python",
       "created_at": "2026-07-13T15:44:06Z",
-      "updated_at": "2026-07-16T03:27:48Z"
+      "updated_at": "2026-07-17T02:15:33Z"
     },
     {
-      "full_name": "ShenSeanChen/waku-agent",
-      "html_url": "https://github.com/ShenSeanChen/waku-agent",
-      "description": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval",
-      "stargazers_count": 160,
+      "full_name": "pyang5166/gbro-collage-broll",
+      "html_url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "stargazers_count": 217,
       "language": "Python",
-      "created_at": "2026-07-10T12:20:50Z",
-      "updated_at": "2026-07-16T03:39:13Z"
+      "created_at": "2026-07-15T12:45:47Z",
+      "updated_at": "2026-07-17T03:20:44Z"
     },
     {
-      "full_name": "Alisa0808/vox-director",
-      "html_url": "https://github.com/Alisa0808/vox-director",
-      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-      "stargazers_count": 158,
+      "full_name": "barretlee/agent-pulse",
+      "html_url": "https://github.com/barretlee/agent-pulse",
+      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
+      "stargazers_count": 198,
+      "language": "TypeScript",
+      "created_at": "2026-07-11T14:38:25Z",
+      "updated_at": "2026-07-17T03:32:46Z"
+    },
+    {
+      "full_name": "Encod3d-Sec/ClaudeBrain",
+      "html_url": "https://github.com/Encod3d-Sec/ClaudeBrain",
+      "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stargazers_count": 179,
       "language": "Python",
-      "created_at": "2026-07-10T15:32:05Z",
-      "updated_at": "2026-07-16T03:31:38Z"
+      "created_at": "2026-07-14T07:25:10Z",
+      "updated_at": "2026-07-17T03:01:26Z"
+    },
+    {
+      "full_name": "stackblitz/bolt-slides",
+      "html_url": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "stargazers_count": 168,
+      "language": "TypeScript",
+      "created_at": "2026-07-14T18:23:27Z",
+      "updated_at": "2026-07-17T03:44:32Z"
+    },
+    {
+      "full_name": "sandbaseai/managed-agents",
+      "html_url": "https://github.com/sandbaseai/managed-agents",
+      "description": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams.",
+      "stargazers_count": 167,
+      "language": "TypeScript",
+      "created_at": "2026-07-11T08:48:07Z",
+      "updated_at": "2026-07-17T02:48:45Z"
+    },
+    {
+      "full_name": "videlalvaro/inference-school",
+      "html_url": "https://github.com/videlalvaro/inference-school",
+      "description": "A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon, with 48 guided lessons, runnable exercises, a native macOS Studio, and a complete companion book.",
+      "stargazers_count": 162,
+      "language": "Swift",
+      "created_at": "2026-07-13T21:05:06Z",
+      "updated_at": "2026-07-17T00:31:59Z"
     }
   ]
 }
