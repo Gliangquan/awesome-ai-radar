@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T03:45:33.726Z",
-  "since": "2026-07-10",
+  "updatedAt": "2026-07-18T03:40:27.945Z",
+  "since": "2026-07-11",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "xai-org/grok-build",
       "html_url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "stargazers_count": 12945,
+      "stargazers_count": 16782,
       "language": "Rust",
       "created_at": "2026-07-14T20:04:23Z",
-      "updated_at": "2026-07-17T03:45:30Z"
+      "updated_at": "2026-07-18T03:40:07Z"
     },
     {
       "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
       "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "stargazers_count": 829,
+      "stargazers_count": 833,
       "language": "TypeScript",
       "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-17T01:32:23Z"
+      "updated_at": "2026-07-17T22:24:36Z"
     },
     {
       "full_name": "Blueturboguy07/cue",
       "html_url": "https://github.com/Blueturboguy07/cue",
       "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stargazers_count": 311,
+      "stargazers_count": 485,
       "language": "JavaScript",
       "created_at": "2026-07-15T22:17:25Z",
-      "updated_at": "2026-07-17T03:39:02Z"
+      "updated_at": "2026-07-18T03:13:25Z"
     },
     {
       "full_name": "PengZhang64/circuit-framework",
       "html_url": "https://github.com/PengZhang64/circuit-framework",
       "description": "Circuit Framework — multi-agent LLM trading research system",
-      "stargazers_count": 308,
+      "stargazers_count": 479,
       "language": "Python",
       "created_at": "2026-07-16T15:02:10Z",
-      "updated_at": "2026-07-17T03:36:14Z"
+      "updated_at": "2026-07-18T00:52:28Z"
     },
     {
       "full_name": "vshulcz/deja-vu",
       "html_url": "https://github.com/vshulcz/deja-vu",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-      "stargazers_count": 306,
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "stargazers_count": 339,
       "language": "Go",
       "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-17T03:23:40Z"
-    },
-    {
-      "full_name": "nihe0909/xiaohongshu-ai-workbench",
-      "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-      "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stargazers_count": 225,
-      "language": "Python",
-      "created_at": "2026-07-13T15:44:06Z",
-      "updated_at": "2026-07-17T02:15:33Z"
-    },
-    {
-      "full_name": "pyang5166/gbro-collage-broll",
-      "html_url": "https://github.com/pyang5166/gbro-collage-broll",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "stargazers_count": 217,
-      "language": "Python",
-      "created_at": "2026-07-15T12:45:47Z",
-      "updated_at": "2026-07-17T03:20:44Z"
-    },
-    {
-      "full_name": "barretlee/agent-pulse",
-      "html_url": "https://github.com/barretlee/agent-pulse",
-      "description": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs.",
-      "stargazers_count": 198,
-      "language": "TypeScript",
-      "created_at": "2026-07-11T14:38:25Z",
-      "updated_at": "2026-07-17T03:32:46Z"
-    },
-    {
-      "full_name": "Encod3d-Sec/ClaudeBrain",
-      "html_url": "https://github.com/Encod3d-Sec/ClaudeBrain",
-      "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stargazers_count": 179,
-      "language": "Python",
-      "created_at": "2026-07-14T07:25:10Z",
-      "updated_at": "2026-07-17T03:01:26Z"
+      "updated_at": "2026-07-18T02:51:58Z"
     },
     {
       "full_name": "stackblitz/bolt-slides",
       "html_url": "https://github.com/stackblitz/bolt-slides",
       "description": "Use any agent to create stunning, interactive presentations",
-      "stargazers_count": 168,
+      "stargazers_count": 316,
       "language": "TypeScript",
       "created_at": "2026-07-14T18:23:27Z",
-      "updated_at": "2026-07-17T03:44:32Z"
+      "updated_at": "2026-07-18T03:35:18Z"
     },
     {
-      "full_name": "sandbaseai/managed-agents",
-      "html_url": "https://github.com/sandbaseai/managed-agents",
-      "description": "Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built for enterprise teams.",
-      "stargazers_count": 167,
-      "language": "TypeScript",
-      "created_at": "2026-07-11T08:48:07Z",
-      "updated_at": "2026-07-17T02:48:45Z"
+      "full_name": "nethical6/conversation-steganography",
+      "html_url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMS to hide secret messages inside normal-looking chat text",
+      "stargazers_count": 304,
+      "language": "Go",
+      "created_at": "2026-07-17T04:58:22Z",
+      "updated_at": "2026-07-18T03:39:53Z"
     },
     {
-      "full_name": "videlalvaro/inference-school",
-      "html_url": "https://github.com/videlalvaro/inference-school",
-      "description": "A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon, with 48 guided lessons, runnable exercises, a native macOS Studio, and a complete companion book.",
-      "stargazers_count": 162,
-      "language": "Swift",
-      "created_at": "2026-07-13T21:05:06Z",
-      "updated_at": "2026-07-17T00:31:59Z"
+      "full_name": "pyang5166/gbro-collage-broll",
+      "html_url": "https://github.com/pyang5166/gbro-collage-broll",
+      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+      "stargazers_count": 282,
+      "language": "Python",
+      "created_at": "2026-07-15T12:45:47Z",
+      "updated_at": "2026-07-18T03:39:20Z"
+    },
+    {
+      "full_name": "nihe0909/xiaohongshu-ai-workbench",
+      "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+      "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stargazers_count": 234,
+      "language": "Python",
+      "created_at": "2026-07-13T15:44:06Z",
+      "updated_at": "2026-07-17T23:46:35Z"
+    },
+    {
+      "full_name": "yuwen-cool/yuwen-publish-precheck",
+      "html_url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+      "stargazers_count": 221,
+      "language": "Python",
+      "created_at": "2026-07-15T13:53:48Z",
+      "updated_at": "2026-07-18T03:21:02Z"
+    },
+    {
+      "full_name": "Encod3d-Sec/ClaudeBrain",
+      "html_url": "https://github.com/Encod3d-Sec/ClaudeBrain",
+      "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
+      "stargazers_count": 195,
+      "language": "Python",
+      "created_at": "2026-07-14T07:25:10Z",
+      "updated_at": "2026-07-18T02:57:20Z"
+    },
+    {
+      "full_name": "h9-tec/Awesome_ai_learning",
+      "html_url": "https://github.com/h9-tec/Awesome_ai_learning",
+      "description": null,
+      "stargazers_count": 181,
+      "language": null,
+      "created_at": "2026-07-16T16:43:25Z",
+      "updated_at": "2026-07-18T02:30:55Z"
     }
   ]
 }
