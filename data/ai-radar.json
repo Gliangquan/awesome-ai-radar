@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T03:40:27.945Z",
-  "since": "2026-07-11",
+  "updatedAt": "2026-07-19T04:02:36.669Z",
+  "since": "2026-07-12",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "xai-org/grok-build",
       "html_url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "stargazers_count": 16782,
+      "stargazers_count": 19077,
       "language": "Rust",
       "created_at": "2026-07-14T20:04:23Z",
-      "updated_at": "2026-07-18T03:40:07Z"
+      "updated_at": "2026-07-19T04:02:21Z"
     },
     {
-      "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-      "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "stargazers_count": 833,
-      "language": "TypeScript",
-      "created_at": "2026-07-12T10:35:44Z",
-      "updated_at": "2026-07-17T22:24:36Z"
+      "full_name": "nethical6/conversation-steganography",
+      "html_url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "stargazers_count": 713,
+      "language": "Go",
+      "created_at": "2026-07-17T04:58:22Z",
+      "updated_at": "2026-07-19T03:56:10Z"
     },
     {
       "full_name": "Blueturboguy07/cue",
       "html_url": "https://github.com/Blueturboguy07/cue",
       "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stargazers_count": 485,
+      "stargazers_count": 554,
       "language": "JavaScript",
       "created_at": "2026-07-15T22:17:25Z",
-      "updated_at": "2026-07-18T03:13:25Z"
+      "updated_at": "2026-07-19T03:20:00Z"
     },
     {
       "full_name": "PengZhang64/circuit-framework",
       "html_url": "https://github.com/PengZhang64/circuit-framework",
       "description": "Circuit Framework — multi-agent LLM trading research system",
-      "stargazers_count": 479,
+      "stargazers_count": 482,
       "language": "Python",
       "created_at": "2026-07-16T15:02:10Z",
-      "updated_at": "2026-07-18T00:52:28Z"
-    },
-    {
-      "full_name": "vshulcz/deja-vu",
-      "html_url": "https://github.com/vshulcz/deja-vu",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
-      "stargazers_count": 339,
-      "language": "Go",
-      "created_at": "2026-07-14T07:45:44Z",
-      "updated_at": "2026-07-18T02:51:58Z"
+      "updated_at": "2026-07-19T03:41:34Z"
     },
     {
       "full_name": "stackblitz/bolt-slides",
       "html_url": "https://github.com/stackblitz/bolt-slides",
       "description": "Use any agent to create stunning, interactive presentations",
-      "stargazers_count": 316,
+      "stargazers_count": 388,
       "language": "TypeScript",
       "created_at": "2026-07-14T18:23:27Z",
-      "updated_at": "2026-07-18T03:35:18Z"
+      "updated_at": "2026-07-19T03:58:21Z"
     },
     {
-      "full_name": "nethical6/conversation-steganography",
-      "html_url": "https://github.com/nethical6/conversation-steganography",
-      "description": "Use LLMS to hide secret messages inside normal-looking chat text",
-      "stargazers_count": 304,
+      "full_name": "vshulcz/deja-vu",
+      "html_url": "https://github.com/vshulcz/deja-vu",
+      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+      "stargazers_count": 365,
       "language": "Go",
-      "created_at": "2026-07-17T04:58:22Z",
-      "updated_at": "2026-07-18T03:39:53Z"
+      "created_at": "2026-07-14T07:45:44Z",
+      "updated_at": "2026-07-19T01:57:20Z"
     },
     {
       "full_name": "pyang5166/gbro-collage-broll",
       "html_url": "https://github.com/pyang5166/gbro-collage-broll",
       "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "stargazers_count": 282,
+      "stargazers_count": 364,
       "language": "Python",
       "created_at": "2026-07-15T12:45:47Z",
-      "updated_at": "2026-07-18T03:39:20Z"
+      "updated_at": "2026-07-19T03:07:12Z"
     },
     {
-      "full_name": "nihe0909/xiaohongshu-ai-workbench",
-      "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
-      "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
-      "stargazers_count": 234,
-      "language": "Python",
-      "created_at": "2026-07-13T15:44:06Z",
-      "updated_at": "2026-07-17T23:46:35Z"
+      "full_name": "PromptPartner/agentsmith",
+      "html_url": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stargazers_count": 308,
+      "language": "Shell",
+      "created_at": "2026-07-16T11:37:15Z",
+      "updated_at": "2026-07-18T16:20:28Z"
     },
     {
       "full_name": "yuwen-cool/yuwen-publish-precheck",
       "html_url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
       "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stargazers_count": 221,
+      "stargazers_count": 249,
       "language": "Python",
       "created_at": "2026-07-15T13:53:48Z",
-      "updated_at": "2026-07-18T03:21:02Z"
+      "updated_at": "2026-07-19T02:43:26Z"
     },
     {
-      "full_name": "Encod3d-Sec/ClaudeBrain",
-      "html_url": "https://github.com/Encod3d-Sec/ClaudeBrain",
-      "description": "Karpathy LLM based claude harness for PenetrationTesting / Bugbounty using obsidian",
-      "stargazers_count": 195,
+      "full_name": "nihe0909/xiaohongshu-ai-workbench",
+      "html_url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+      "description": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations",
+      "stargazers_count": 240,
       "language": "Python",
-      "created_at": "2026-07-14T07:25:10Z",
-      "updated_at": "2026-07-18T02:57:20Z"
+      "created_at": "2026-07-13T15:44:06Z",
+      "updated_at": "2026-07-18T18:30:56Z"
     },
     {
-      "full_name": "h9-tec/Awesome_ai_learning",
-      "html_url": "https://github.com/h9-tec/Awesome_ai_learning",
-      "description": null,
-      "stargazers_count": 181,
-      "language": null,
-      "created_at": "2026-07-16T16:43:25Z",
-      "updated_at": "2026-07-18T02:30:55Z"
+      "full_name": "erickong/penecho",
+      "html_url": "https://github.com/erickong/penecho",
+      "description": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+      "stargazers_count": 217,
+      "language": "JavaScript",
+      "created_at": "2026-07-14T14:45:23Z",
+      "updated_at": "2026-07-19T03:21:52Z"
+    },
+    {
+      "full_name": "JimLiu/baocut",
+      "html_url": "https://github.com/JimLiu/baocut",
+      "description": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents",
+      "stargazers_count": 215,
+      "language": "Shell",
+      "created_at": "2026-07-13T07:06:42Z",
+      "updated_at": "2026-07-19T02:57:57Z"
     }
   ]
 }
