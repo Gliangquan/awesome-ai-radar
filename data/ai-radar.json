@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T03:54:02.151Z",
-  "since": "2026-07-14",
+  "updatedAt": "2026-07-22T03:55:52.906Z",
+  "since": "2026-07-15",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "nethical6/conversation-steganography",
-      "html_url": "https://github.com/nethical6/conversation-steganography",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "stargazers_count": 884,
-      "language": "Go",
-      "created_at": "2026-07-17T04:58:22Z",
-      "updated_at": "2026-07-21T02:10:35Z"
-    },
-    {
       "full_name": "lopopolo/harness-engineering",
       "html_url": "https://github.com/lopopolo/harness-engineering",
       "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "stargazers_count": 863,
+      "stargazers_count": 1717,
       "language": "Python",
       "created_at": "2026-07-18T21:42:28Z",
-      "updated_at": "2026-07-21T03:51:37Z"
+      "updated_at": "2026-07-22T03:55:07Z"
     },
     {
-      "full_name": "Blueturboguy07/cue",
-      "html_url": "https://github.com/Blueturboguy07/cue",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "stargazers_count": 664,
-      "language": "JavaScript",
-      "created_at": "2026-07-15T22:17:25Z",
-      "updated_at": "2026-07-21T03:45:59Z"
+      "full_name": "nethical6/conversation-steganography",
+      "html_url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "stargazers_count": 915,
+      "language": "Go",
+      "created_at": "2026-07-17T04:58:22Z",
+      "updated_at": "2026-07-22T02:49:02Z"
     },
     {
       "full_name": "v-modal/vmodal_sdk_flutter",
       "html_url": "https://github.com/v-modal/vmodal_sdk_flutter",
       "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-      "stargazers_count": 623,
+      "stargazers_count": 781,
       "language": "Dart",
       "created_at": "2026-07-16T12:25:48Z",
-      "updated_at": "2026-07-21T02:46:20Z"
-    },
-    {
-      "full_name": "pyang5166/gbro-collage-broll",
-      "html_url": "https://github.com/pyang5166/gbro-collage-broll",
-      "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-      "stargazers_count": 488,
-      "language": "Python",
-      "created_at": "2026-07-15T12:45:47Z",
-      "updated_at": "2026-07-21T03:47:19Z"
-    },
-    {
-      "full_name": "EthanXiang777/circuit-framework",
-      "html_url": "https://github.com/EthanXiang777/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "stargazers_count": 486,
-      "language": "Python",
-      "created_at": "2026-07-16T15:02:10Z",
-      "updated_at": "2026-07-20T05:34:45Z"
-    },
-    {
-      "full_name": "yuwen-cool/yuwen-publish-precheck",
-      "html_url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
-      "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-      "stargazers_count": 358,
-      "language": "Python",
-      "created_at": "2026-07-15T13:53:48Z",
-      "updated_at": "2026-07-21T03:25:58Z"
-    },
-    {
-      "full_name": "PromptPartner/agentsmith",
-      "html_url": "https://github.com/PromptPartner/agentsmith",
-      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-      "stargazers_count": 313,
-      "language": "Shell",
-      "created_at": "2026-07-16T11:37:15Z",
-      "updated_at": "2026-07-21T03:51:57Z"
-    },
-    {
-      "full_name": "smixs/pohuy",
-      "html_url": "https://github.com/smixs/pohuy",
-      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stargazers_count": 284,
-      "language": null,
-      "created_at": "2026-07-17T15:22:53Z",
-      "updated_at": "2026-07-21T03:30:40Z"
-    },
-    {
-      "full_name": "paxlabs-inc/machine-genome",
-      "html_url": "https://github.com/paxlabs-inc/machine-genome",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "stargazers_count": 271,
-      "language": "Go",
-      "created_at": "2026-07-20T12:41:33Z",
-      "updated_at": "2026-07-21T01:48:44Z"
+      "updated_at": "2026-07-22T03:39:00Z"
     },
     {
       "full_name": "Blaizzy/nativ",
       "html_url": "https://github.com/Blaizzy/nativ",
       "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stargazers_count": 255,
+      "stargazers_count": 644,
       "language": "Swift",
       "created_at": "2026-07-20T15:37:29Z",
-      "updated_at": "2026-07-21T03:50:40Z"
+      "updated_at": "2026-07-22T03:44:47Z"
+    },
+    {
+      "full_name": "EthanXiang777/circuit-framework",
+      "html_url": "https://github.com/EthanXiang777/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "stargazers_count": 487,
+      "language": "Python",
+      "created_at": "2026-07-16T15:02:10Z",
+      "updated_at": "2026-07-21T06:25:26Z"
+    },
+    {
+      "full_name": "smixs/pohuy",
+      "html_url": "https://github.com/smixs/pohuy",
+      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+      "stargazers_count": 470,
+      "language": null,
+      "created_at": "2026-07-17T15:22:53Z",
+      "updated_at": "2026-07-22T03:23:27Z"
+    },
+    {
+      "full_name": "Vincentwei1021/video-shotcraft",
+      "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "stargazers_count": 449,
+      "language": "TypeScript",
+      "created_at": "2026-07-19T11:44:41Z",
+      "updated_at": "2026-07-22T03:50:00Z"
     },
     {
       "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
       "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
-      "description": "he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stargazers_count": 243,
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+      "stargazers_count": 348,
       "language": null,
       "created_at": "2026-07-19T06:09:52Z",
-      "updated_at": "2026-07-21T03:46:54Z"
+      "updated_at": "2026-07-22T03:24:02Z"
+    },
+    {
+      "full_name": "PromptPartner/agentsmith",
+      "html_url": "https://github.com/PromptPartner/agentsmith",
+      "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "stargazers_count": 314,
+      "language": "Shell",
+      "created_at": "2026-07-16T11:37:15Z",
+      "updated_at": "2026-07-21T09:43:50Z"
+    },
+    {
+      "full_name": "yc-duan/fastctx",
+      "html_url": "https://github.com/yc-duan/fastctx",
+      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+      "stargazers_count": 284,
+      "language": "Rust",
+      "created_at": "2026-07-17T03:05:57Z",
+      "updated_at": "2026-07-22T03:51:33Z"
+    },
+    {
+      "full_name": "paxlabs-inc/machine-genome",
+      "html_url": "https://github.com/paxlabs-inc/machine-genome",
+      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+      "stargazers_count": 284,
+      "language": "Go",
+      "created_at": "2026-07-20T12:41:33Z",
+      "updated_at": "2026-07-21T18:20:37Z"
+    },
+    {
+      "full_name": "Kritt-ai/open-kritt",
+      "html_url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+      "stargazers_count": 260,
+      "language": "JavaScript",
+      "created_at": "2026-07-20T20:26:24Z",
+      "updated_at": "2026-07-22T03:17:16Z"
     }
   ]
 }
