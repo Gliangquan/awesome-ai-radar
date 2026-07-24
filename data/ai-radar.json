@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T03:52:22.050Z",
-  "since": "2026-07-16",
+  "updatedAt": "2026-07-24T03:51:46.651Z",
+  "since": "2026-07-17",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "lopopolo/harness-engineering",
       "html_url": "https://github.com/lopopolo/harness-engineering",
       "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-      "stargazers_count": 2202,
+      "stargazers_count": 2281,
       "language": "Python",
       "created_at": "2026-07-18T21:42:28Z",
-      "updated_at": "2026-07-23T03:46:15Z"
-    },
-    {
-      "full_name": "nethical6/conversation-steganography",
-      "html_url": "https://github.com/nethical6/conversation-steganography",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "stargazers_count": 1000,
-      "language": "Go",
-      "created_at": "2026-07-17T04:58:22Z",
-      "updated_at": "2026-07-23T03:52:02Z"
-    },
-    {
-      "full_name": "Blaizzy/nativ",
-      "html_url": "https://github.com/Blaizzy/nativ",
-      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stargazers_count": 766,
-      "language": "Swift",
-      "created_at": "2026-07-20T15:37:29Z",
-      "updated_at": "2026-07-23T03:01:15Z"
-    },
-    {
-      "full_name": "Jakubantalik/thinking-orbs",
-      "html_url": "https://github.com/Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stargazers_count": 652,
-      "language": "TypeScript",
-      "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-23T03:48:41Z"
+      "updated_at": "2026-07-24T03:44:59Z"
     },
     {
       "full_name": "Vincentwei1021/video-shotcraft",
       "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stargazers_count": 545,
+      "stargazers_count": 995,
       "language": "TypeScript",
       "created_at": "2026-07-19T11:44:41Z",
-      "updated_at": "2026-07-23T03:50:40Z"
+      "updated_at": "2026-07-24T03:51:42Z"
     },
     {
-      "full_name": "smixs/pohuy",
-      "html_url": "https://github.com/smixs/pohuy",
-      "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-      "stargazers_count": 538,
-      "language": null,
-      "created_at": "2026-07-17T15:22:53Z",
-      "updated_at": "2026-07-22T23:14:59Z"
+      "full_name": "Jakubantalik/thinking-orbs",
+      "html_url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "stargazers_count": 841,
+      "language": "TypeScript",
+      "created_at": "2026-07-21T07:01:53Z",
+      "updated_at": "2026-07-24T03:50:31Z"
+    },
+    {
+      "full_name": "Blaizzy/nativ",
+      "html_url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "stargazers_count": 821,
+      "language": "Swift",
+      "created_at": "2026-07-20T15:37:29Z",
+      "updated_at": "2026-07-24T02:57:54Z"
     },
     {
       "full_name": "pireel/pireel",
       "html_url": "https://github.com/pireel/pireel",
       "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stargazers_count": 488,
+      "stargazers_count": 664,
       "language": "TypeScript",
       "created_at": "2026-07-20T09:34:24Z",
-      "updated_at": "2026-07-23T03:52:20Z"
+      "updated_at": "2026-07-24T03:49:25Z"
     },
     {
       "full_name": "gnipbao/story-to-handdrawn-video",
       "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
       "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "stargazers_count": 415,
+      "stargazers_count": 570,
       "language": "JavaScript",
       "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-23T03:46:09Z"
+      "updated_at": "2026-07-24T03:25:52Z"
     },
     {
       "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
       "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
       "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stargazers_count": 379,
+      "stargazers_count": 396,
       "language": null,
       "created_at": "2026-07-19T06:09:52Z",
-      "updated_at": "2026-07-23T03:16:11Z"
-    },
-    {
-      "full_name": "yc-duan/fastctx",
-      "html_url": "https://github.com/yc-duan/fastctx",
-      "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-      "stargazers_count": 347,
-      "language": "Rust",
-      "created_at": "2026-07-17T03:05:57Z",
-      "updated_at": "2026-07-23T03:30:14Z"
+      "updated_at": "2026-07-24T01:49:58Z"
     },
     {
       "full_name": "Kritt-ai/open-kritt",
       "html_url": "https://github.com/Kritt-ai/open-kritt",
       "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stargazers_count": 324,
+      "stargazers_count": 359,
       "language": "JavaScript",
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-07-23T03:43:22Z"
+      "updated_at": "2026-07-23T23:04:18Z"
     },
     {
-      "full_name": "paxlabs-inc/machine-genome",
-      "html_url": "https://github.com/paxlabs-inc/machine-genome",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "stargazers_count": 283,
-      "language": "Go",
-      "created_at": "2026-07-20T12:41:33Z",
-      "updated_at": "2026-07-22T15:21:21Z"
+      "full_name": "SeanJ1ang/design-judge-skills",
+      "html_url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "stargazers_count": 304,
+      "language": "Python",
+      "created_at": "2026-07-18T07:27:32Z",
+      "updated_at": "2026-07-24T03:40:40Z"
+    },
+    {
+      "full_name": "realfishsam/agent-notch",
+      "html_url": "https://github.com/realfishsam/agent-notch",
+      "description": "The open-source alternative to vibe-island",
+      "stargazers_count": 261,
+      "language": "Swift",
+      "created_at": "2026-07-21T01:33:21Z",
+      "updated_at": "2026-07-24T00:25:23Z"
+    },
+    {
+      "full_name": "joeseesun/qiaomu-cut-skill",
+      "html_url": "https://github.com/joeseesun/qiaomu-cut-skill",
+      "description": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering",
+      "stargazers_count": 258,
+      "language": "JavaScript",
+      "created_at": "2026-07-18T20:00:46Z",
+      "updated_at": "2026-07-24T03:34:39Z"
+    },
+    {
+      "full_name": "RinDig/icm-architect",
+      "html_url": "https://github.com/RinDig/icm-architect",
+      "description": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one",
+      "stargazers_count": 243,
+      "language": null,
+      "created_at": "2026-07-18T14:11:04Z",
+      "updated_at": "2026-07-24T03:20:21Z"
     }
   ]
 }
