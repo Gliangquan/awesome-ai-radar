@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T03:46:00.656Z",
-  "since": "2026-07-18",
+  "updatedAt": "2026-07-26T04:04:33.933Z",
+  "since": "2026-07-19",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "Vincentwei1021/video-shotcraft",
-      "html_url": "https://github.com/Vincentwei1021/video-shotcraft",
-      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-      "stargazers_count": 1491,
-      "language": "TypeScript",
-      "created_at": "2026-07-19T11:44:41Z",
-      "updated_at": "2026-07-25T03:45:36Z"
-    },
-    {
       "full_name": "Jakubantalik/thinking-orbs",
       "html_url": "https://github.com/Jakubantalik/thinking-orbs",
       "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stargazers_count": 936,
+      "stargazers_count": 1020,
       "language": "TypeScript",
       "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-25T02:57:48Z"
+      "updated_at": "2026-07-26T04:03:03Z"
     },
     {
       "full_name": "Blaizzy/nativ",
       "html_url": "https://github.com/Blaizzy/nativ",
       "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-      "stargazers_count": 863,
+      "stargazers_count": 886,
       "language": "Swift",
       "created_at": "2026-07-20T15:37:29Z",
-      "updated_at": "2026-07-25T02:33:15Z"
-    },
-    {
-      "full_name": "pireel/pireel",
-      "html_url": "https://github.com/pireel/pireel",
-      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-      "stargazers_count": 715,
-      "language": "TypeScript",
-      "created_at": "2026-07-20T09:34:24Z",
-      "updated_at": "2026-07-25T03:21:01Z"
-    },
-    {
-      "full_name": "gnipbao/story-to-handdrawn-video",
-      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "stargazers_count": 610,
-      "language": "JavaScript",
-      "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-25T03:44:19Z"
+      "updated_at": "2026-07-26T04:03:52Z"
     },
     {
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
-      "stargazers_count": 455,
+      "stargazers_count": 868,
       "language": "Python",
       "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-25T03:42:11Z"
+      "updated_at": "2026-07-26T04:03:53Z"
     },
     {
-      "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
-      "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
-      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-      "stargazers_count": 408,
-      "language": null,
-      "created_at": "2026-07-19T06:09:52Z",
-      "updated_at": "2026-07-25T02:08:45Z"
+      "full_name": "pireel/pireel",
+      "html_url": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "stargazers_count": 756,
+      "language": "TypeScript",
+      "created_at": "2026-07-20T09:34:24Z",
+      "updated_at": "2026-07-26T03:31:53Z"
+    },
+    {
+      "full_name": "gnipbao/story-to-handdrawn-video",
+      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "stargazers_count": 630,
+      "language": "JavaScript",
+      "created_at": "2026-07-21T08:54:45Z",
+      "updated_at": "2026-07-26T03:58:04Z"
+    },
+    {
+      "full_name": "mikiarlo3/ai-copywriter",
+      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stargazers_count": 614,
+      "language": "Python",
+      "created_at": "2026-07-24T19:52:13Z",
+      "updated_at": "2026-07-26T04:04:07Z"
     },
     {
       "full_name": "Kritt-ai/open-kritt",
       "html_url": "https://github.com/Kritt-ai/open-kritt",
       "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-      "stargazers_count": 374,
+      "stargazers_count": 392,
       "language": "JavaScript",
       "created_at": "2026-07-20T20:26:24Z",
-      "updated_at": "2026-07-24T23:40:24Z"
-    },
-    {
-      "full_name": "realfishsam/agent-notch",
-      "html_url": "https://github.com/realfishsam/agent-notch",
-      "description": "The open-source alternative to vibe-island",
-      "stargazers_count": 266,
-      "language": "Swift",
-      "created_at": "2026-07-21T01:33:21Z",
-      "updated_at": "2026-07-24T18:23:02Z"
-    },
-    {
-      "full_name": "TryCaspian/caspian-sdk",
-      "html_url": "https://github.com/TryCaspian/caspian-sdk",
-      "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
-      "stargazers_count": 219,
-      "language": "Python",
-      "created_at": "2026-07-20T10:47:56Z",
-      "updated_at": "2026-07-25T03:32:28Z"
-    },
-    {
-      "full_name": "paxlabs-inc/machine-genome",
-      "html_url": "https://github.com/paxlabs-inc/machine-genome",
-      "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-      "stargazers_count": 213,
-      "language": "Go",
-      "created_at": "2026-07-20T12:41:33Z",
-      "updated_at": "2026-07-24T21:27:34Z"
+      "updated_at": "2026-07-26T03:47:56Z"
     },
     {
       "full_name": "mikehasa/agentacct",
       "html_url": "https://github.com/mikehasa/agentacct",
       "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "stargazers_count": 188,
+      "stargazers_count": 328,
       "language": "Python",
       "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-07-25T03:43:57Z"
+      "updated_at": "2026-07-26T03:20:21Z"
+    },
+    {
+      "full_name": "realfishsam/agent-notch",
+      "html_url": "https://github.com/realfishsam/agent-notch",
+      "description": "The open-source alternative to vibe-island",
+      "stargazers_count": 272,
+      "language": "Swift",
+      "created_at": "2026-07-21T01:33:21Z",
+      "updated_at": "2026-07-26T01:28:03Z"
+    },
+    {
+      "full_name": "TryCaspian/caspian-sdk",
+      "html_url": "https://github.com/TryCaspian/caspian-sdk",
+      "description": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI.",
+      "stargazers_count": 237,
+      "language": "Python",
+      "created_at": "2026-07-20T10:47:56Z",
+      "updated_at": "2026-07-26T03:55:15Z"
+    },
+    {
+      "full_name": "hahhforest/pi-textbook",
+      "html_url": "https://github.com/hahhforest/pi-textbook",
+      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
+      "stargazers_count": 221,
+      "language": "TypeScript",
+      "created_at": "2026-07-21T04:17:35Z",
+      "updated_at": "2026-07-26T03:50:46Z"
+    },
+    {
+      "full_name": "NVIDIA-NeMo/labs-OO-Agents",
+      "html_url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+      "description": "labs-OO-agents",
+      "stargazers_count": 215,
+      "language": "Python",
+      "created_at": "2026-07-20T15:48:25Z",
+      "updated_at": "2026-07-26T03:47:57Z"
     }
   ]
 }
