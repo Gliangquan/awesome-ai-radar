@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-27T04:11:32.569Z",
-  "since": "2026-07-20",
+  "updatedAt": "2026-07-28T03:44:29.558Z",
+  "since": "2026-07-21",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
-      "stargazers_count": 1429,
+      "stargazers_count": 1784,
       "language": "Python",
       "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-27T04:06:10Z"
-    },
-    {
-      "full_name": "Jakubantalik/thinking-orbs",
-      "html_url": "https://github.com/Jakubantalik/thinking-orbs",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-      "stargazers_count": 1104,
-      "language": "TypeScript",
-      "created_at": "2026-07-21T07:01:53Z",
-      "updated_at": "2026-07-27T02:57:27Z"
+      "updated_at": "2026-07-28T03:43:54Z"
     },
     {
       "full_name": "mikiarlo3/ai-copywriter",
       "html_url": "https://github.com/mikiarlo3/ai-copywriter",
       "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stargazers_count": 861,
+      "stargazers_count": 941,
       "language": "Python",
       "created_at": "2026-07-24T19:52:13Z",
-      "updated_at": "2026-07-27T03:55:36Z"
+      "updated_at": "2026-07-28T03:42:32Z"
     },
     {
-      "full_name": "gnipbao/story-to-handdrawn-video",
-      "html_url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-      "stargazers_count": 654,
-      "language": "JavaScript",
-      "created_at": "2026-07-21T08:54:45Z",
-      "updated_at": "2026-07-27T03:17:12Z"
+      "full_name": "kvcache-ai/AgentENV",
+      "html_url": "https://github.com/kvcache-ai/AgentENV",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "stargazers_count": 889,
+      "language": "Rust",
+      "created_at": "2026-07-23T02:48:07Z",
+      "updated_at": "2026-07-28T03:44:05Z"
     },
     {
       "full_name": "makecindy/cindy",
       "html_url": "https://github.com/makecindy/cindy",
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stargazers_count": 602,
+      "stargazers_count": 884,
       "language": "TypeScript",
       "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-07-27T04:11:25Z"
-    },
-    {
-      "full_name": "hahhforest/pi-textbook",
-      "html_url": "https://github.com/hahhforest/pi-textbook",
-      "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
-      "stargazers_count": 499,
-      "language": "TypeScript",
-      "created_at": "2026-07-21T04:17:35Z",
-      "updated_at": "2026-07-27T04:11:17Z"
-    },
-    {
-      "full_name": "mikehasa/agentacct",
-      "html_url": "https://github.com/mikehasa/agentacct",
-      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "stargazers_count": 415,
-      "language": "Python",
-      "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-07-27T04:08:54Z"
+      "updated_at": "2026-07-28T03:39:35Z"
     },
     {
       "full_name": "VictorTaelin/OptMem",
       "html_url": "https://github.com/VictorTaelin/OptMem",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stargazers_count": 382,
+      "stargazers_count": 659,
       "language": "Python",
       "created_at": "2026-07-25T16:58:43Z",
-      "updated_at": "2026-07-27T04:11:05Z"
+      "updated_at": "2026-07-28T03:39:09Z"
     },
     {
-      "full_name": "realfishsam/agent-notch",
-      "html_url": "https://github.com/realfishsam/agent-notch",
-      "description": "The open-source alternative to vibe-island",
-      "stargazers_count": 278,
-      "language": "Swift",
-      "created_at": "2026-07-21T01:33:21Z",
-      "updated_at": "2026-07-26T21:22:31Z"
-    },
-    {
-      "full_name": "Role1776/netmon",
-      "html_url": "https://github.com/Role1776/netmon",
-      "description": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord.",
-      "stargazers_count": 226,
+      "full_name": "mikehasa/agentacct",
+      "html_url": "https://github.com/mikehasa/agentacct",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "stargazers_count": 489,
       "language": "Python",
-      "created_at": "2026-07-21T21:49:54Z",
-      "updated_at": "2026-07-27T03:40:21Z"
+      "created_at": "2026-07-24T16:28:06Z",
+      "updated_at": "2026-07-28T03:42:23Z"
+    },
+    {
+      "full_name": "XYZ-AI-Lab/axrl",
+      "html_url": "https://github.com/XYZ-AI-Lab/axrl",
+      "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
+      "stargazers_count": 312,
+      "language": "Python",
+      "created_at": "2026-07-23T06:07:23Z",
+      "updated_at": "2026-07-28T02:12:54Z"
     },
     {
       "full_name": "Eversmile12/leaked-llm-prompts",
       "html_url": "https://github.com/Eversmile12/leaked-llm-prompts",
       "description": "collections-of-leaked-prompts",
-      "stargazers_count": 221,
+      "stargazers_count": 293,
       "language": null,
       "created_at": "2026-07-24T18:16:06Z",
-      "updated_at": "2026-07-27T04:08:37Z"
+      "updated_at": "2026-07-28T03:17:37Z"
     },
     {
-      "full_name": "finna/Finn-loop",
-      "html_url": "https://github.com/finna/Finn-loop",
-      "description": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge.",
-      "stargazers_count": 220,
-      "language": "JavaScript",
-      "created_at": "2026-07-22T16:48:50Z",
-      "updated_at": "2026-07-27T02:49:40Z"
+      "full_name": "XYZ-AI-Lab/AxisAgentic",
+      "html_url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+      "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
+      "stargazers_count": 287,
+      "language": "Python",
+      "created_at": "2026-07-23T04:03:31Z",
+      "updated_at": "2026-07-28T03:40:09Z"
+    },
+    {
+      "full_name": "MarcosSete/awesome-free-ai-books",
+      "html_url": "https://github.com/MarcosSete/awesome-free-ai-books",
+      "description": "A curated list of free, legitimate AI/ML books",
+      "stargazers_count": 281,
+      "language": null,
+      "created_at": "2026-07-22T21:43:31Z",
+      "updated_at": "2026-07-28T03:44:29Z"
+    },
+    {
+      "full_name": "deerwork-ai/deer-workflow",
+      "html_url": "https://github.com/deerwork-ai/deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "stargazers_count": 264,
+      "language": "TypeScript",
+      "created_at": "2026-07-26T04:20:50Z",
+      "updated_at": "2026-07-28T03:43:53Z"
+    },
+    {
+      "full_name": "ddcat-ai/open-ai-canvas",
+      "html_url": "https://github.com/ddcat-ai/open-ai-canvas",
+      "description": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
+      "stargazers_count": 239,
+      "language": "TypeScript",
+      "created_at": "2026-07-22T06:22:34Z",
+      "updated_at": "2026-07-28T03:36:10Z"
     }
   ]
 }
