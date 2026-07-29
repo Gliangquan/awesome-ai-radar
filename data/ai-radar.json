@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T03:44:29.558Z",
-  "since": "2026-07-21",
+  "updatedAt": "2026-07-29T03:48:27.804Z",
+  "since": "2026-07-22",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "slvDev/esp32-ai",
       "html_url": "https://github.com/slvDev/esp32-ai",
       "description": null,
-      "stargazers_count": 1784,
+      "stargazers_count": 2094,
       "language": "Python",
       "created_at": "2026-07-23T14:53:51Z",
-      "updated_at": "2026-07-28T03:43:54Z"
-    },
-    {
-      "full_name": "mikiarlo3/ai-copywriter",
-      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "stargazers_count": 941,
-      "language": "Python",
-      "created_at": "2026-07-24T19:52:13Z",
-      "updated_at": "2026-07-28T03:42:32Z"
+      "updated_at": "2026-07-29T03:44:04Z"
     },
     {
       "full_name": "kvcache-ai/AgentENV",
       "html_url": "https://github.com/kvcache-ai/AgentENV",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "stargazers_count": 889,
+      "stargazers_count": 1481,
       "language": "Rust",
       "created_at": "2026-07-23T02:48:07Z",
-      "updated_at": "2026-07-28T03:44:05Z"
+      "updated_at": "2026-07-29T03:41:37Z"
     },
     {
-      "full_name": "makecindy/cindy",
-      "html_url": "https://github.com/makecindy/cindy",
-      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-      "stargazers_count": 884,
-      "language": "TypeScript",
-      "created_at": "2026-07-22T17:49:34Z",
-      "updated_at": "2026-07-28T03:39:35Z"
+      "full_name": "mikiarlo3/ai-copywriter",
+      "html_url": "https://github.com/mikiarlo3/ai-copywriter",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "stargazers_count": 995,
+      "language": "Python",
+      "created_at": "2026-07-24T19:52:13Z",
+      "updated_at": "2026-07-29T03:24:42Z"
     },
     {
       "full_name": "VictorTaelin/OptMem",
       "html_url": "https://github.com/VictorTaelin/OptMem",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "stargazers_count": 659,
+      "stargazers_count": 813,
       "language": "Python",
       "created_at": "2026-07-25T16:58:43Z",
-      "updated_at": "2026-07-28T03:39:09Z"
+      "updated_at": "2026-07-29T03:31:46Z"
     },
     {
       "full_name": "mikehasa/agentacct",
       "html_url": "https://github.com/mikehasa/agentacct",
       "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-      "stargazers_count": 489,
+      "stargazers_count": 519,
       "language": "Python",
       "created_at": "2026-07-24T16:28:06Z",
-      "updated_at": "2026-07-28T03:42:23Z"
+      "updated_at": "2026-07-29T01:37:27Z"
+    },
+    {
+      "full_name": "0xwilliamortiz/ponytail-improved",
+      "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stargazers_count": 474,
+      "language": "JavaScript",
+      "created_at": "2026-07-28T14:16:19Z",
+      "updated_at": "2026-07-29T03:37:54Z"
     },
     {
       "full_name": "XYZ-AI-Lab/axrl",
       "html_url": "https://github.com/XYZ-AI-Lab/axrl",
       "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
-      "stargazers_count": 312,
+      "stargazers_count": 445,
       "language": "Python",
       "created_at": "2026-07-23T06:07:23Z",
-      "updated_at": "2026-07-28T02:12:54Z"
-    },
-    {
-      "full_name": "Eversmile12/leaked-llm-prompts",
-      "html_url": "https://github.com/Eversmile12/leaked-llm-prompts",
-      "description": "collections-of-leaked-prompts",
-      "stargazers_count": 293,
-      "language": null,
-      "created_at": "2026-07-24T18:16:06Z",
-      "updated_at": "2026-07-28T03:17:37Z"
+      "updated_at": "2026-07-28T08:25:10Z"
     },
     {
       "full_name": "XYZ-AI-Lab/AxisAgentic",
       "html_url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
       "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
-      "stargazers_count": 287,
+      "stargazers_count": 372,
       "language": "Python",
       "created_at": "2026-07-23T04:03:31Z",
-      "updated_at": "2026-07-28T03:40:09Z"
-    },
-    {
-      "full_name": "MarcosSete/awesome-free-ai-books",
-      "html_url": "https://github.com/MarcosSete/awesome-free-ai-books",
-      "description": "A curated list of free, legitimate AI/ML books",
-      "stargazers_count": 281,
-      "language": null,
-      "created_at": "2026-07-22T21:43:31Z",
-      "updated_at": "2026-07-28T03:44:29Z"
+      "updated_at": "2026-07-29T03:40:16Z"
     },
     {
       "full_name": "deerwork-ai/deer-workflow",
       "html_url": "https://github.com/deerwork-ai/deer-workflow",
       "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-      "stargazers_count": 264,
+      "stargazers_count": 328,
       "language": "TypeScript",
       "created_at": "2026-07-26T04:20:50Z",
-      "updated_at": "2026-07-28T03:43:53Z"
+      "updated_at": "2026-07-29T03:27:24Z"
     },
     {
-      "full_name": "ddcat-ai/open-ai-canvas",
-      "html_url": "https://github.com/ddcat-ai/open-ai-canvas",
-      "description": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。",
-      "stargazers_count": 239,
-      "language": "TypeScript",
-      "created_at": "2026-07-22T06:22:34Z",
-      "updated_at": "2026-07-28T03:36:10Z"
+      "full_name": "Eversmile12/leaked-llm-prompts",
+      "html_url": "https://github.com/Eversmile12/leaked-llm-prompts",
+      "description": "collections-of-leaked-prompts",
+      "stargazers_count": 315,
+      "language": null,
+      "created_at": "2026-07-24T18:16:06Z",
+      "updated_at": "2026-07-29T02:43:58Z"
+    },
+    {
+      "full_name": "codejunkie99/graph-engineering",
+      "html_url": "https://github.com/codejunkie99/graph-engineering",
+      "description": "Graph engineering for AI agents: the 9-stage knowledge-graph pipeline (translated from SEU's graduate course) + task-graph orchestration patterns, as a Claude skill with teaching mode and paste-ready workflows",
+      "stargazers_count": 165,
+      "language": null,
+      "created_at": "2026-07-23T14:10:49Z",
+      "updated_at": "2026-07-28T22:17:36Z"
+    },
+    {
+      "full_name": "LYiHub/pub-local-jarvis",
+      "html_url": "https://github.com/LYiHub/pub-local-jarvis",
+      "description": "Windows 本地多模态 AI 桌面桌宠，支持屏幕与音频感知。",
+      "stargazers_count": 151,
+      "language": "Python",
+      "created_at": "2026-07-24T07:07:31Z",
+      "updated_at": "2026-07-29T03:39:20Z"
     }
   ]
 }
