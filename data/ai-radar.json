@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T04:02:25.354Z",
-  "since": "2026-07-26",
+  "updatedAt": "2026-08-03T04:04:45.178Z",
+  "since": "2026-07-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
-      "stargazers_count": 5196,
+      "stargazers_count": 7566,
       "language": "TypeScript",
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-02T04:02:02Z"
+      "updated_at": "2026-08-03T04:04:41Z"
     },
     {
-      "full_name": "QwenAudio/qwen-audio-agent",
-      "html_url": "https://github.com/QwenAudio/qwen-audio-agent",
-      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
-      "stargazers_count": 1383,
-      "language": "JavaScript",
-      "created_at": "2026-07-27T05:04:26Z",
-      "updated_at": "2026-08-02T04:02:12Z"
+      "full_name": "trycompai/crm",
+      "html_url": "https://github.com/trycompai/crm",
+      "description": "An open-source, agentic-first CRM.",
+      "stargazers_count": 1916,
+      "language": "TypeScript",
+      "created_at": "2026-07-31T21:38:51Z",
+      "updated_at": "2026-08-03T03:58:52Z"
     },
     {
       "full_name": "gavamedia/deltafin",
       "html_url": "https://github.com/gavamedia/deltafin",
       "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "stargazers_count": 595,
-      "language": "Python",
+      "stargazers_count": 627,
+      "language": "Rust",
       "created_at": "2026-07-28T01:01:23Z",
-      "updated_at": "2026-08-02T02:01:03Z"
+      "updated_at": "2026-08-03T03:53:35Z"
     },
     {
       "full_name": "0xwilliamortiz/ponytail-improved",
       "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stargazers_count": 577,
+      "stargazers_count": 580,
       "language": "JavaScript",
       "created_at": "2026-07-28T14:16:19Z",
-      "updated_at": "2026-08-01T23:39:40Z"
+      "updated_at": "2026-08-02T18:12:27Z"
+    },
+    {
+      "full_name": "0xwilliamortiz/humanizer-cli",
+      "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "stargazers_count": 542,
+      "language": "JavaScript",
+      "created_at": "2026-08-01T20:36:27Z",
+      "updated_at": "2026-08-03T02:14:59Z"
     },
     {
       "full_name": "0xwilliamortiz/ratchet",
       "html_url": "https://github.com/0xwilliamortiz/ratchet",
       "description": "Your agent reads the rules. This checks whether it followed them.",
-      "stargazers_count": 408,
+      "stargazers_count": 411,
       "language": "JavaScript",
       "created_at": "2026-07-31T17:54:30Z",
-      "updated_at": "2026-08-01T23:44:36Z"
+      "updated_at": "2026-08-02T19:07:14Z"
     },
     {
       "full_name": "elayadesign/ai-design-skills",
       "html_url": "https://github.com/elayadesign/ai-design-skills",
       "description": null,
-      "stargazers_count": 253,
+      "stargazers_count": 283,
       "language": null,
       "created_at": "2026-07-29T06:43:16Z",
-      "updated_at": "2026-08-01T22:15:00Z"
+      "updated_at": "2026-08-03T03:56:52Z"
     },
     {
       "full_name": "Audio8-AI/Audio8_TTS",
       "html_url": "https://github.com/Audio8-AI/Audio8_TTS",
       "description": "SOTA-Class TTS at Compact Scale",
-      "stargazers_count": 248,
+      "stargazers_count": 277,
       "language": "Python",
       "created_at": "2026-07-29T03:58:19Z",
-      "updated_at": "2026-08-02T02:35:30Z"
+      "updated_at": "2026-08-03T03:53:31Z"
     },
     {
-      "full_name": "AmazingAng/old-coder",
-      "html_url": "https://github.com/AmazingAng/old-coder",
-      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
-      "stargazers_count": 220,
+      "full_name": "Anionex/codex-vision-proxy",
+      "html_url": "https://github.com/Anionex/codex-vision-proxy",
+      "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "stargazers_count": 212,
       "language": "Python",
-      "created_at": "2026-07-27T05:03:11Z",
-      "updated_at": "2026-08-02T02:59:17Z"
-    },
-    {
-      "full_name": "bytec-ai/book-video-factory",
-      "html_url": "https://github.com/bytec-ai/book-video-factory",
-      "description": "通用、可移植的多账号图书短视频生产 Skill",
-      "stargazers_count": 206,
-      "language": "Python",
-      "created_at": "2026-07-27T07:58:43Z",
-      "updated_at": "2026-08-01T16:04:06Z"
-    },
-    {
-      "full_name": "grafana/ai-sdk",
-      "html_url": "https://github.com/grafana/ai-sdk",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stargazers_count": 182,
-      "language": "Go",
-      "created_at": "2026-07-28T21:51:20Z",
-      "updated_at": "2026-08-02T03:41:37Z"
+      "created_at": "2026-08-01T10:00:13Z",
+      "updated_at": "2026-08-03T03:56:15Z"
     },
     {
       "full_name": "ZihangDong/toolknit-desktop",
       "html_url": "https://github.com/ZihangDong/toolknit-desktop",
       "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stargazers_count": 177,
+      "stargazers_count": 207,
       "language": "JavaScript",
       "created_at": "2026-07-30T14:28:39Z",
-      "updated_at": "2026-08-02T03:24:28Z"
+      "updated_at": "2026-08-03T03:18:05Z"
     },
     {
-      "full_name": "nuyoah-ai-works/nuyoah-xiezhen-prompt",
-      "html_url": "https://github.com/nuyoah-ai-works/nuyoah-xiezhen-prompt",
-      "description": "南鸢写真提示词 Agent Skill",
-      "stargazers_count": 172,
-      "language": null,
-      "created_at": "2026-07-29T06:55:23Z",
-      "updated_at": "2026-08-02T03:53:22Z"
+      "full_name": "uczltw6/trace-file-lineage",
+      "html_url": "https://github.com/uczltw6/trace-file-lineage",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "stargazers_count": 203,
+      "language": "Python",
+      "created_at": "2026-07-29T22:05:47Z",
+      "updated_at": "2026-08-03T03:40:21Z"
+    },
+    {
+      "full_name": "grafana/ai-sdk",
+      "html_url": "https://github.com/grafana/ai-sdk",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "stargazers_count": 194,
+      "language": "Go",
+      "created_at": "2026-07-28T21:51:20Z",
+      "updated_at": "2026-08-03T02:07:22Z"
     }
   ]
 }
