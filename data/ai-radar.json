@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T04:04:45.178Z",
-  "since": "2026-07-27",
+  "updatedAt": "2026-08-04T03:46:21.181Z",
+  "since": "2026-07-28",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "yc-software/qm",
       "html_url": "https://github.com/yc-software/qm",
       "description": "Multiplayer agent harness for work",
-      "stargazers_count": 7566,
+      "stargazers_count": 9990,
       "language": "TypeScript",
       "created_at": "2026-07-29T20:03:08Z",
-      "updated_at": "2026-08-03T04:04:41Z"
+      "updated_at": "2026-08-04T03:45:52Z"
     },
     {
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "An open-source, agentic-first CRM.",
-      "stargazers_count": 1916,
+      "stargazers_count": 3428,
       "language": "TypeScript",
       "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-03T03:58:52Z"
+      "updated_at": "2026-08-04T03:45:45Z"
     },
     {
-      "full_name": "gavamedia/deltafin",
-      "html_url": "https://github.com/gavamedia/deltafin",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
-      "stargazers_count": 627,
-      "language": "Rust",
-      "created_at": "2026-07-28T01:01:23Z",
-      "updated_at": "2026-08-03T03:53:35Z"
-    },
-    {
-      "full_name": "0xwilliamortiz/ponytail-improved",
-      "html_url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stargazers_count": 580,
-      "language": "JavaScript",
-      "created_at": "2026-07-28T14:16:19Z",
-      "updated_at": "2026-08-02T18:12:27Z"
+      "full_name": "genspark-ai/genoffice",
+      "html_url": "https://github.com/genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "stargazers_count": 746,
+      "language": "TypeScript",
+      "created_at": "2026-07-31T09:40:58Z",
+      "updated_at": "2026-08-04T03:45:36Z"
     },
     {
       "full_name": "0xwilliamortiz/humanizer-cli",
       "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
       "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stargazers_count": 542,
+      "stargazers_count": 560,
       "language": "JavaScript",
       "created_at": "2026-08-01T20:36:27Z",
-      "updated_at": "2026-08-03T02:14:59Z"
+      "updated_at": "2026-08-04T02:47:11Z"
     },
     {
       "full_name": "0xwilliamortiz/ratchet",
       "html_url": "https://github.com/0xwilliamortiz/ratchet",
       "description": "Your agent reads the rules. This checks whether it followed them.",
-      "stargazers_count": 411,
+      "stargazers_count": 426,
       "language": "JavaScript",
       "created_at": "2026-07-31T17:54:30Z",
-      "updated_at": "2026-08-02T19:07:14Z"
-    },
-    {
-      "full_name": "elayadesign/ai-design-skills",
-      "html_url": "https://github.com/elayadesign/ai-design-skills",
-      "description": null,
-      "stargazers_count": 283,
-      "language": null,
-      "created_at": "2026-07-29T06:43:16Z",
-      "updated_at": "2026-08-03T03:56:52Z"
+      "updated_at": "2026-08-04T03:41:50Z"
     },
     {
       "full_name": "Audio8-AI/Audio8_TTS",
       "html_url": "https://github.com/Audio8-AI/Audio8_TTS",
       "description": "SOTA-Class TTS at Compact Scale",
-      "stargazers_count": 277,
+      "stargazers_count": 312,
       "language": "Python",
       "created_at": "2026-07-29T03:58:19Z",
-      "updated_at": "2026-08-03T03:53:31Z"
+      "updated_at": "2026-08-04T02:33:12Z"
+    },
+    {
+      "full_name": "elayadesign/ai-design-skills",
+      "html_url": "https://github.com/elayadesign/ai-design-skills",
+      "description": null,
+      "stargazers_count": 296,
+      "language": null,
+      "created_at": "2026-07-29T06:43:16Z",
+      "updated_at": "2026-08-04T01:48:08Z"
     },
     {
       "full_name": "Anionex/codex-vision-proxy",
       "html_url": "https://github.com/Anionex/codex-vision-proxy",
       "description": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
-      "stargazers_count": 212,
+      "stargazers_count": 262,
       "language": "Python",
       "created_at": "2026-08-01T10:00:13Z",
-      "updated_at": "2026-08-03T03:56:15Z"
-    },
-    {
-      "full_name": "ZihangDong/toolknit-desktop",
-      "html_url": "https://github.com/ZihangDong/toolknit-desktop",
-      "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stargazers_count": 207,
-      "language": "JavaScript",
-      "created_at": "2026-07-30T14:28:39Z",
-      "updated_at": "2026-08-03T03:18:05Z"
+      "updated_at": "2026-08-04T03:18:10Z"
     },
     {
       "full_name": "uczltw6/trace-file-lineage",
       "html_url": "https://github.com/uczltw6/trace-file-lineage",
       "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
-      "stargazers_count": 203,
+      "stargazers_count": 237,
       "language": "Python",
       "created_at": "2026-07-29T22:05:47Z",
-      "updated_at": "2026-08-03T03:40:21Z"
+      "updated_at": "2026-08-04T00:57:08Z"
     },
     {
-      "full_name": "grafana/ai-sdk",
-      "html_url": "https://github.com/grafana/ai-sdk",
-      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
-      "stargazers_count": 194,
-      "language": "Go",
-      "created_at": "2026-07-28T21:51:20Z",
-      "updated_at": "2026-08-03T02:07:22Z"
+      "full_name": "patchy631/time-to-first-token",
+      "html_url": "https://github.com/patchy631/time-to-first-token",
+      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "stargazers_count": 228,
+      "language": "HTML",
+      "created_at": "2026-08-02T13:02:26Z",
+      "updated_at": "2026-08-04T03:40:31Z"
+    },
+    {
+      "full_name": "ZihangDong/toolknit-desktop",
+      "html_url": "https://github.com/ZihangDong/toolknit-desktop",
+      "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "stargazers_count": 227,
+      "language": "JavaScript",
+      "created_at": "2026-07-30T14:28:39Z",
+      "updated_at": "2026-08-04T03:43:00Z"
+    },
+    {
+      "full_name": "disler/super-simple-software-factory",
+      "html_url": "https://github.com/disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "stargazers_count": 220,
+      "language": "Python",
+      "created_at": "2026-08-02T17:41:00Z",
+      "updated_at": "2026-08-04T03:42:39Z"
     }
   ]
 }
