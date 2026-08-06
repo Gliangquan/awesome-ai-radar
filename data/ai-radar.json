@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-05T03:42:11.683Z",
-  "since": "2026-07-29",
+  "updatedAt": "2026-08-06T03:48:00.584Z",
+  "since": "2026-07-30",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "trycompai/crm",
       "html_url": "https://github.com/trycompai/crm",
       "description": "An open-source, agentic-first CRM.",
-      "stargazers_count": 4887,
+      "stargazers_count": 6436,
       "language": "TypeScript",
       "created_at": "2026-07-31T21:38:51Z",
-      "updated_at": "2026-08-05T03:41:08Z"
+      "updated_at": "2026-08-06T03:47:32Z"
     },
     {
       "full_name": "genspark-ai/genoffice",
       "html_url": "https://github.com/genspark-ai/genoffice",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "stargazers_count": 1395,
+      "stargazers_count": 1830,
       "language": "TypeScript",
       "created_at": "2026-07-31T09:40:58Z",
-      "updated_at": "2026-08-05T03:35:02Z"
+      "updated_at": "2026-08-06T03:46:23Z"
+    },
+    {
+      "full_name": "KKKKhazix/human-writing",
+      "html_url": "https://github.com/KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "stargazers_count": 1221,
+      "language": "Python",
+      "created_at": "2026-08-05T01:19:41Z",
+      "updated_at": "2026-08-06T03:45:44Z"
+    },
+    {
+      "full_name": "Accio-Lab/RealReplicaBench",
+      "html_url": "https://github.com/Accio-Lab/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "stargazers_count": 1020,
+      "language": "HTML",
+      "created_at": "2026-08-02T05:38:38Z",
+      "updated_at": "2026-08-06T03:01:26Z"
+    },
+    {
+      "full_name": "Binaryify/open-kimi-ppt-skill",
+      "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stargazers_count": 772,
+      "language": "Python",
+      "created_at": "2026-08-05T07:30:56Z",
+      "updated_at": "2026-08-06T03:47:14Z"
     },
     {
       "full_name": "0xwilliamortiz/humanizer-cli",
       "html_url": "https://github.com/0xwilliamortiz/humanizer-cli",
       "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-      "stargazers_count": 570,
+      "stargazers_count": 578,
       "language": "JavaScript",
       "created_at": "2026-08-01T20:36:27Z",
-      "updated_at": "2026-08-05T02:41:29Z"
+      "updated_at": "2026-08-05T16:50:21Z"
     },
     {
       "full_name": "sophiamyang/finger-frame-effect-ai",
       "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai",
       "description": null,
-      "stargazers_count": 434,
+      "stargazers_count": 559,
       "language": "JavaScript",
       "created_at": "2026-08-02T21:58:43Z",
-      "updated_at": "2026-08-05T03:39:55Z"
-    },
-    {
-      "full_name": "0xwilliamortiz/ratchet",
-      "html_url": "https://github.com/0xwilliamortiz/ratchet",
-      "description": "Your agent reads the rules. This checks whether it followed them.",
-      "stargazers_count": 430,
-      "language": "JavaScript",
-      "created_at": "2026-07-31T17:54:30Z",
-      "updated_at": "2026-08-04T20:23:46Z"
+      "updated_at": "2026-08-06T03:37:17Z"
     },
     {
       "full_name": "MarcosSete/awesome-free-ai-course-notes",
       "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
       "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stargazers_count": 398,
+      "stargazers_count": 460,
       "language": null,
       "created_at": "2026-08-03T11:36:49Z",
-      "updated_at": "2026-08-05T03:14:05Z"
-    },
-    {
-      "full_name": "disler/super-simple-software-factory",
-      "html_url": "https://github.com/disler/super-simple-software-factory",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "stargazers_count": 359,
-      "language": "Python",
-      "created_at": "2026-08-02T17:41:00Z",
-      "updated_at": "2026-08-05T03:21:59Z"
-    },
-    {
-      "full_name": "patchy631/time-to-first-token",
-      "html_url": "https://github.com/patchy631/time-to-first-token",
-      "description": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
-      "stargazers_count": 295,
-      "language": "HTML",
-      "created_at": "2026-08-02T13:02:26Z",
-      "updated_at": "2026-08-05T03:24:14Z"
-    },
-    {
-      "full_name": "joeseesun/qiaomu-seo",
-      "html_url": "https://github.com/joeseesun/qiaomu-seo",
-      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
-      "stargazers_count": 278,
-      "language": "Python",
-      "created_at": "2026-08-03T09:57:25Z",
-      "updated_at": "2026-08-05T03:38:13Z"
-    },
-    {
-      "full_name": "Anionex/codex-vision-proxy",
-      "html_url": "https://github.com/Anionex/codex-vision-proxy",
-      "description": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs.",
-      "stargazers_count": 275,
-      "language": "Python",
-      "created_at": "2026-08-01T10:00:13Z",
-      "updated_at": "2026-08-05T02:43:11Z"
+      "updated_at": "2026-08-06T03:38:28Z"
     },
     {
       "full_name": "magicrew/doc7",
       "html_url": "https://github.com/magicrew/doc7",
       "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "stargazers_count": 252,
+      "stargazers_count": 457,
       "language": "Go",
       "created_at": "2026-08-02T14:03:55Z",
-      "updated_at": "2026-08-05T03:39:58Z"
+      "updated_at": "2026-08-06T02:02:15Z"
     },
     {
-      "full_name": "ZihangDong/toolknit-desktop",
-      "html_url": "https://github.com/ZihangDong/toolknit-desktop",
-      "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
-      "stargazers_count": 251,
+      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
+      "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+      "stargazers_count": 442,
+      "language": "Shell",
+      "created_at": "2026-08-04T19:45:15Z",
+      "updated_at": "2026-08-06T03:39:05Z"
+    },
+    {
+      "full_name": "0xwilliamortiz/ratchet",
+      "html_url": "https://github.com/0xwilliamortiz/ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "stargazers_count": 432,
       "language": "JavaScript",
-      "created_at": "2026-07-30T14:28:39Z",
-      "updated_at": "2026-08-05T03:31:16Z"
+      "created_at": "2026-07-31T17:54:30Z",
+      "updated_at": "2026-08-06T01:06:05Z"
+    },
+    {
+      "full_name": "disler/super-simple-software-factory",
+      "html_url": "https://github.com/disler/super-simple-software-factory",
+      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
+      "stargazers_count": 425,
+      "language": "Python",
+      "created_at": "2026-08-02T17:41:00Z",
+      "updated_at": "2026-08-06T03:02:58Z"
     }
   ]
 }
