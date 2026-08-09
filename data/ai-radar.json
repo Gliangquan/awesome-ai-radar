@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T02:26:54.177Z",
-  "since": "2026-08-01",
+  "updatedAt": "2026-08-09T02:34:14.964Z",
+  "since": "2026-08-02",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "KKKKhazix/human-writing",
       "html_url": "https://github.com/KKKKhazix/human-writing",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stargazers_count": 1883,
+      "stargazers_count": 1990,
       "language": "Python",
       "created_at": "2026-08-05T01:19:41Z",
-      "updated_at": "2026-08-08T01:56:20Z"
+      "updated_at": "2026-08-09T02:30:32Z"
     },
     {
       "full_name": "Binaryify/open-kimi-ppt-skill",
       "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
       "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "stargazers_count": 1586,
+      "stargazers_count": 1588,
       "language": null,
       "created_at": "2026-08-05T07:30:56Z",
-      "updated_at": "2026-08-08T02:19:10Z"
-    },
-    {
-      "full_name": "Accio-org/RealReplicaBench",
-      "html_url": "https://github.com/Accio-org/RealReplicaBench",
-      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-      "stargazers_count": 1040,
-      "language": "HTML",
-      "created_at": "2026-08-02T05:38:38Z",
-      "updated_at": "2026-08-07T22:40:46Z"
+      "updated_at": "2026-08-08T18:14:02Z"
     },
     {
       "full_name": "mikiarlo3/awesome-growth-hacking-skills",
       "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
       "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "stargazers_count": 727,
+      "stargazers_count": 765,
       "language": "Shell",
       "created_at": "2026-08-04T19:45:15Z",
-      "updated_at": "2026-08-08T02:07:55Z"
-    },
-    {
-      "full_name": "magicrew/doc7",
-      "html_url": "https://github.com/magicrew/doc7",
-      "description": "Turn documents into AI-ready Markdown with visual understanding",
-      "stargazers_count": 690,
-      "language": "Go",
-      "created_at": "2026-08-02T14:03:55Z",
-      "updated_at": "2026-08-08T02:26:44Z"
-    },
-    {
-      "full_name": "sophiamyang/finger-frame-effect-ai",
-      "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai",
-      "description": null,
-      "stargazers_count": 605,
-      "language": "JavaScript",
-      "created_at": "2026-08-02T21:58:43Z",
-      "updated_at": "2026-08-08T02:21:24Z"
+      "updated_at": "2026-08-09T01:24:52Z"
     },
     {
       "full_name": "MarcosSete/awesome-free-ai-course-notes",
       "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
       "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-      "stargazers_count": 545,
+      "stargazers_count": 560,
       "language": null,
       "created_at": "2026-08-03T11:36:49Z",
-      "updated_at": "2026-08-08T02:15:16Z"
-    },
-    {
-      "full_name": "disler/super-simple-software-factory",
-      "html_url": "https://github.com/disler/super-simple-software-factory",
-      "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-      "stargazers_count": 496,
-      "language": "Python",
-      "created_at": "2026-08-02T17:41:00Z",
-      "updated_at": "2026-08-07T22:09:36Z"
-    },
-    {
-      "full_name": "fuxicodex/Fuxi",
-      "html_url": "https://github.com/fuxicodex/Fuxi",
-      "description": "FuXi is a fast, self-contained AI developer terminal",
-      "stargazers_count": 429,
-      "language": null,
-      "created_at": "2026-08-04T07:32:11Z",
-      "updated_at": "2026-08-08T02:13:56Z"
+      "updated_at": "2026-08-08T20:43:33Z"
     },
     {
       "full_name": "yuhuangerdi/InduSecAgent",
       "html_url": "https://github.com/yuhuangerdi/InduSecAgent",
       "description": null,
-      "stargazers_count": 427,
+      "stargazers_count": 536,
       "language": "Vue",
       "created_at": "2026-08-03T10:17:31Z",
-      "updated_at": "2026-08-08T02:22:34Z"
+      "updated_at": "2026-08-09T02:20:10Z"
     },
     {
       "full_name": "jd-opensource/JoyAI-Video-Edit",
       "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
       "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stargazers_count": 417,
+      "stargazers_count": 520,
       "language": "Python",
       "created_at": "2026-08-04T08:22:24Z",
-      "updated_at": "2026-08-08T02:05:23Z"
+      "updated_at": "2026-08-09T02:16:49Z"
+    },
+    {
+      "full_name": "fuxicodex/Fuxi",
+      "html_url": "https://github.com/fuxicodex/Fuxi",
+      "description": "FuXi is a fast, self-contained AI developer terminal",
+      "stargazers_count": 440,
+      "language": null,
+      "created_at": "2026-08-04T07:32:11Z",
+      "updated_at": "2026-08-08T22:40:51Z"
     },
     {
       "full_name": "criptogus/HermesOffice",
       "html_url": "https://github.com/criptogus/HermesOffice",
       "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stargazers_count": 415,
+      "stargazers_count": 419,
       "language": "TypeScript",
       "created_at": "2026-08-04T15:55:03Z",
-      "updated_at": "2026-08-08T01:44:07Z"
+      "updated_at": "2026-08-08T15:05:33Z"
+    },
+    {
+      "full_name": "AMAP-ML/LongHorizon-Harness",
+      "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "stargazers_count": 411,
+      "language": "Python",
+      "created_at": "2026-08-04T04:30:58Z",
+      "updated_at": "2026-08-08T22:07:57Z"
+    },
+    {
+      "full_name": "joeseesun/qiaomu-seo",
+      "html_url": "https://github.com/joeseesun/qiaomu-seo",
+      "description": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "stargazers_count": 325,
+      "language": "Python",
+      "created_at": "2026-08-03T09:57:25Z",
+      "updated_at": "2026-08-08T18:49:02Z"
+    },
+    {
+      "full_name": "eternityspring/shuohao-skills",
+      "html_url": "https://github.com/eternityspring/shuohao-skills",
+      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "stargazers_count": 297,
+      "language": "JavaScript",
+      "created_at": "2026-08-06T10:38:49Z",
+      "updated_at": "2026-08-09T02:34:11Z"
+    },
+    {
+      "full_name": "EcZachly/databricks-ai-bootcamp-capstone",
+      "html_url": "https://github.com/EcZachly/databricks-ai-bootcamp-capstone",
+      "description": null,
+      "stargazers_count": 255,
+      "language": null,
+      "created_at": "2026-08-03T21:15:08Z",
+      "updated_at": "2026-08-08T23:18:56Z"
     }
   ]
 }
