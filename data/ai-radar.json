@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T02:40:00.650Z",
-  "since": "2026-08-03",
+  "updatedAt": "2026-08-11T02:33:28.694Z",
+  "since": "2026-08-04",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "KKKKhazix/human-writing",
       "html_url": "https://github.com/KKKKhazix/human-writing",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stargazers_count": 2115,
+      "stargazers_count": 2291,
       "language": "Python",
       "created_at": "2026-08-05T01:19:41Z",
-      "updated_at": "2026-08-10T02:39:30Z"
+      "updated_at": "2026-08-11T02:32:45Z"
     },
     {
       "full_name": "Binaryify/open-kimi-ppt-skill",
       "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
       "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "stargazers_count": 1608,
+      "stargazers_count": 1607,
       "language": null,
       "created_at": "2026-08-05T07:30:56Z",
-      "updated_at": "2026-08-10T02:04:35Z"
+      "updated_at": "2026-08-11T02:06:45Z"
     },
     {
       "full_name": "ShawnPana/phone-harness",
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
-      "stargazers_count": 916,
+      "stargazers_count": 1333,
       "language": "Python",
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-10T02:38:08Z"
+      "updated_at": "2026-08-11T02:26:59Z"
     },
     {
-      "full_name": "mikiarlo3/awesome-growth-hacking-skills",
-      "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
-      "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-      "stargazers_count": 798,
-      "language": "Shell",
-      "created_at": "2026-08-04T19:45:15Z",
-      "updated_at": "2026-08-10T02:03:38Z"
-    },
-    {
-      "full_name": "jd-opensource/JoyAI-Video-Edit",
-      "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
-      "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
-      "stargazers_count": 621,
-      "language": "Python",
-      "created_at": "2026-08-04T08:22:24Z",
-      "updated_at": "2026-08-10T02:35:45Z"
+      "full_name": "SMNETSTUDIO/WeChat-AI",
+      "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "description": null,
+      "stargazers_count": 862,
+      "language": "TypeScript",
+      "created_at": "2026-08-10T09:06:43Z",
+      "updated_at": "2026-08-11T02:32:18Z"
     },
     {
       "full_name": "eternityspring/shuohao-skills",
       "html_url": "https://github.com/eternityspring/shuohao-skills",
-      "description": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
-      "stargazers_count": 533,
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "stargazers_count": 651,
       "language": "JavaScript",
       "created_at": "2026-08-06T10:38:49Z",
-      "updated_at": "2026-08-10T02:37:56Z"
+      "updated_at": "2026-08-11T02:32:17Z"
     },
     {
-      "full_name": "AMAP-ML/LongHorizon-Harness",
-      "html_url": "https://github.com/AMAP-ML/LongHorizon-Harness",
-      "description": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
-      "stargazers_count": 515,
-      "language": "Python",
-      "created_at": "2026-08-04T04:30:58Z",
-      "updated_at": "2026-08-10T02:24:13Z"
-    },
-    {
-      "full_name": "fuxicodex/Fuxi",
-      "html_url": "https://github.com/fuxicodex/Fuxi",
-      "description": "FuXi is a fast, self-contained AI developer terminal",
-      "stargazers_count": 453,
-      "language": null,
-      "created_at": "2026-08-04T07:32:11Z",
-      "updated_at": "2026-08-10T02:28:03Z"
-    },
-    {
-      "full_name": "criptogus/HermesOffice",
-      "html_url": "https://github.com/criptogus/HermesOffice",
-      "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
-      "stargazers_count": 425,
-      "language": "TypeScript",
-      "created_at": "2026-08-04T15:55:03Z",
-      "updated_at": "2026-08-10T02:38:26Z"
+      "full_name": "sv-number/mcp-server",
+      "html_url": "https://github.com/sv-number/mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "stargazers_count": 552,
+      "language": "JavaScript",
+      "created_at": "2026-08-07T11:13:26Z",
+      "updated_at": "2026-08-11T02:31:34Z"
     },
     {
       "full_name": "mewamew/my_ai_town",
       "html_url": "https://github.com/mewamew/my_ai_town",
       "description": "我的AI小镇",
-      "stargazers_count": 265,
+      "stargazers_count": 368,
       "language": "GDScript",
       "created_at": "2026-08-07T07:10:40Z",
-      "updated_at": "2026-08-10T02:36:13Z"
+      "updated_at": "2026-08-11T02:12:27Z"
     },
     {
-      "full_name": "sv-number/mcp-server",
-      "html_url": "https://github.com/sv-number/mcp-server",
-      "description": "MCP server for AI agents that need a phone number: order a private number in any country, read the SMS verification code, hand it back.",
-      "stargazers_count": 255,
-      "language": "JavaScript",
-      "created_at": "2026-08-07T11:13:26Z",
-      "updated_at": "2026-08-10T02:34:19Z"
+      "full_name": "tanishqkancharla/calldiff",
+      "html_url": "https://github.com/tanishqkancharla/calldiff",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "stargazers_count": 302,
+      "language": "TypeScript",
+      "created_at": "2026-08-07T22:46:51Z",
+      "updated_at": "2026-08-11T02:26:16Z"
     },
     {
       "full_name": "robonuggets/gauntlet-loop",
       "html_url": "https://github.com/robonuggets/gauntlet-loop",
       "description": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
-      "stargazers_count": 246,
+      "stargazers_count": 265,
       "language": null,
       "created_at": "2026-08-05T05:28:08Z",
-      "updated_at": "2026-08-10T01:09:48Z"
+      "updated_at": "2026-08-10T23:55:02Z"
+    },
+    {
+      "full_name": "antinomie-lab/pi-book",
+      "html_url": "https://github.com/antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "stargazers_count": 236,
+      "language": "Vue",
+      "created_at": "2026-08-07T17:14:43Z",
+      "updated_at": "2026-08-11T01:47:27Z"
+    },
+    {
+      "full_name": "SaladDay/pi-from-scratch",
+      "html_url": "https://github.com/SaladDay/pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "stargazers_count": 217,
+      "language": "TypeScript",
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-11T02:23:21Z"
+    },
+    {
+      "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "html_url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+      "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+      "stargazers_count": 208,
+      "language": "Python",
+      "created_at": "2026-08-05T13:52:57Z",
+      "updated_at": "2026-08-11T01:38:38Z"
     }
   ]
 }
