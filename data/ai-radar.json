@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-11T02:33:28.694Z",
-  "since": "2026-08-04",
+  "updatedAt": "2026-08-12T03:02:56.949Z",
+  "since": "2026-08-05",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "KKKKhazix/human-writing",
-      "html_url": "https://github.com/KKKKhazix/human-writing",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "stargazers_count": 2291,
-      "language": "Python",
-      "created_at": "2026-08-05T01:19:41Z",
-      "updated_at": "2026-08-11T02:32:45Z"
-    },
-    {
-      "full_name": "Binaryify/open-kimi-ppt-skill",
-      "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill",
-      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-      "stargazers_count": 1607,
-      "language": null,
-      "created_at": "2026-08-05T07:30:56Z",
-      "updated_at": "2026-08-11T02:06:45Z"
-    },
-    {
       "full_name": "ShawnPana/phone-harness",
       "html_url": "https://github.com/ShawnPana/phone-harness",
       "description": "let your agent control your phone",
-      "stargazers_count": 1333,
+      "stargazers_count": 1519,
       "language": "Python",
       "created_at": "2026-08-07T22:28:53Z",
-      "updated_at": "2026-08-11T02:26:59Z"
+      "updated_at": "2026-08-12T02:59:19Z"
     },
     {
       "full_name": "SMNETSTUDIO/WeChat-AI",
       "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI",
       "description": null,
-      "stargazers_count": 862,
+      "stargazers_count": 1449,
       "language": "TypeScript",
       "created_at": "2026-08-10T09:06:43Z",
-      "updated_at": "2026-08-11T02:32:18Z"
+      "updated_at": "2026-08-12T02:58:44Z"
     },
     {
       "full_name": "eternityspring/shuohao-skills",
       "html_url": "https://github.com/eternityspring/shuohao-skills",
       "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
-      "stargazers_count": 651,
+      "stargazers_count": 945,
       "language": "JavaScript",
       "created_at": "2026-08-06T10:38:49Z",
-      "updated_at": "2026-08-11T02:32:17Z"
+      "updated_at": "2026-08-12T02:55:28Z"
     },
     {
       "full_name": "sv-number/mcp-server",
       "html_url": "https://github.com/sv-number/mcp-server",
       "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
-      "stargazers_count": 552,
+      "stargazers_count": 618,
       "language": "JavaScript",
       "created_at": "2026-08-07T11:13:26Z",
-      "updated_at": "2026-08-11T02:31:34Z"
-    },
-    {
-      "full_name": "mewamew/my_ai_town",
-      "html_url": "https://github.com/mewamew/my_ai_town",
-      "description": "我的AI小镇",
-      "stargazers_count": 368,
-      "language": "GDScript",
-      "created_at": "2026-08-07T07:10:40Z",
-      "updated_at": "2026-08-11T02:12:27Z"
-    },
-    {
-      "full_name": "tanishqkancharla/calldiff",
-      "html_url": "https://github.com/tanishqkancharla/calldiff",
-      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
-      "stargazers_count": 302,
-      "language": "TypeScript",
-      "created_at": "2026-08-07T22:46:51Z",
-      "updated_at": "2026-08-11T02:26:16Z"
-    },
-    {
-      "full_name": "robonuggets/gauntlet-loop",
-      "html_url": "https://github.com/robonuggets/gauntlet-loop",
-      "description": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
-      "stargazers_count": 265,
-      "language": null,
-      "created_at": "2026-08-05T05:28:08Z",
-      "updated_at": "2026-08-10T23:55:02Z"
-    },
-    {
-      "full_name": "antinomie-lab/pi-book",
-      "html_url": "https://github.com/antinomie-lab/pi-book",
-      "description": "Source-backed architecture notes on building an agent",
-      "stargazers_count": 236,
-      "language": "Vue",
-      "created_at": "2026-08-07T17:14:43Z",
-      "updated_at": "2026-08-11T01:47:27Z"
+      "updated_at": "2026-08-12T02:30:40Z"
     },
     {
       "full_name": "SaladDay/pi-from-scratch",
       "html_url": "https://github.com/SaladDay/pi-from-scratch",
       "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-      "stargazers_count": 217,
+      "stargazers_count": 565,
       "language": "TypeScript",
       "created_at": "2026-08-09T12:15:30Z",
-      "updated_at": "2026-08-11T02:23:21Z"
+      "updated_at": "2026-08-12T03:02:25Z"
     },
     {
-      "full_name": "liujunxibaba/douyin-tiktok-story-skill-agent",
-      "html_url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
-      "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
-      "stargazers_count": 208,
+      "full_name": "mewamew/my_ai_town",
+      "html_url": "https://github.com/mewamew/my_ai_town",
+      "description": "我的AI小镇",
+      "stargazers_count": 440,
+      "language": "GDScript",
+      "created_at": "2026-08-07T07:10:40Z",
+      "updated_at": "2026-08-12T02:59:18Z"
+    },
+    {
+      "full_name": "shadcn-ui/chatbot-template",
+      "html_url": "https://github.com/shadcn-ui/chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "stargazers_count": 437,
+      "language": "TypeScript",
+      "created_at": "2026-08-11T11:53:02Z",
+      "updated_at": "2026-08-12T02:57:02Z"
+    },
+    {
+      "full_name": "tanishqkancharla/calldiff",
+      "html_url": "https://github.com/tanishqkancharla/calldiff",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "stargazers_count": 342,
+      "language": "TypeScript",
+      "created_at": "2026-08-07T22:46:51Z",
+      "updated_at": "2026-08-12T01:56:22Z"
+    },
+    {
+      "full_name": "antinomie-lab/pi-book",
+      "html_url": "https://github.com/antinomie-lab/pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "stargazers_count": 256,
+      "language": "Vue",
+      "created_at": "2026-08-07T17:14:43Z",
+      "updated_at": "2026-08-12T02:22:43Z"
+    },
+    {
+      "full_name": "ayi-ai/nie-grassroots-logic",
+      "html_url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "stargazers_count": 254,
+      "language": "HTML",
+      "created_at": "2026-08-10T09:23:06Z",
+      "updated_at": "2026-08-12T02:42:06Z"
+    },
+    {
+      "full_name": "0xnyn/airship",
+      "html_url": "https://github.com/0xnyn/airship",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "stargazers_count": 232,
+      "language": "TypeScript",
+      "created_at": "2026-08-10T19:03:10Z",
+      "updated_at": "2026-08-12T02:44:10Z"
+    },
+    {
+      "full_name": "oliverb-io1902e8/agent-skills-collection",
+      "html_url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "description": "Curated collection of modular agent skills for LLM-based agents",
+      "stargazers_count": 204,
       "language": "Python",
-      "created_at": "2026-08-05T13:52:57Z",
-      "updated_at": "2026-08-11T01:38:38Z"
+      "created_at": "2026-08-06T14:07:02Z",
+      "updated_at": "2026-08-11T14:42:33Z"
     }
   ]
 }
