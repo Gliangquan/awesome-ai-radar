@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T01:57:21.077Z",
-  "since": "2026-08-13",
+  "updatedAt": "2026-08-21T02:06:13.102Z",
+  "since": "2026-08-14",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "yetone/cumora",
-      "html_url": "https://github.com/yetone/cumora",
-      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stargazers_count": 2698,
-      "language": "TypeScript",
-      "created_at": "2026-08-17T09:13:52Z",
-      "updated_at": "2026-08-20T01:56:50Z"
-    },
-    {
       "full_name": "s1dashu/ip-as-logo-skill",
       "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "stargazers_count": 2137,
+      "stargazers_count": 3142,
       "language": null,
       "created_at": "2026-08-18T13:59:23Z",
-      "updated_at": "2026-08-20T01:57:04Z"
+      "updated_at": "2026-08-21T02:04:23Z"
+    },
+    {
+      "full_name": "yetone/cumora",
+      "html_url": "https://github.com/yetone/cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "stargazers_count": 2779,
+      "language": "TypeScript",
+      "created_at": "2026-08-17T09:13:52Z",
+      "updated_at": "2026-08-21T01:54:44Z"
+    },
+    {
+      "full_name": "CopilotKit/OpenBot",
+      "html_url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stargazers_count": 1671,
+      "language": "TypeScript",
+      "created_at": "2026-08-17T00:44:59Z",
+      "updated_at": "2026-08-21T02:05:46Z"
     },
     {
       "full_name": "cinderline/northcinder",
       "html_url": "https://github.com/cinderline/northcinder",
       "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "stargazers_count": 1193,
+      "stargazers_count": 1199,
       "language": "JavaScript",
       "created_at": "2026-08-17T11:42:31Z",
-      "updated_at": "2026-08-19T21:12:52Z"
+      "updated_at": "2026-08-21T01:55:10Z"
     },
     {
       "full_name": "Leutenegger/watermarks-remover",
       "html_url": "https://github.com/Leutenegger/watermarks-remover",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stargazers_count": 913,
+      "stargazers_count": 924,
       "language": "Python",
       "created_at": "2026-08-19T15:20:24Z",
-      "updated_at": "2026-08-20T01:34:44Z"
+      "updated_at": "2026-08-20T23:18:35Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
       "html_url": "https://github.com/wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stargazers_count": 607,
+      "stargazers_count": 678,
       "language": "Python",
       "created_at": "2026-08-18T04:08:11Z",
-      "updated_at": "2026-08-20T00:11:38Z"
+      "updated_at": "2026-08-20T16:46:12Z"
     },
     {
       "full_name": "SigmanticAI/apex-inference-chip",
       "html_url": "https://github.com/SigmanticAI/apex-inference-chip",
       "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stargazers_count": 578,
+      "stargazers_count": 628,
       "language": "Python",
       "created_at": "2026-08-17T04:25:26Z",
-      "updated_at": "2026-08-20T01:52:14Z"
+      "updated_at": "2026-08-20T22:46:40Z"
+    },
+    {
+      "full_name": "Leutenegger/coldcard-airgap",
+      "html_url": "https://github.com/Leutenegger/coldcard-airgap",
+      "description": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "stargazers_count": 607,
+      "language": "Python",
+      "created_at": "2026-08-20T23:14:34Z",
+      "updated_at": "2026-08-20T23:45:12Z"
     },
     {
       "full_name": "jeremy-prt/bloub",
       "html_url": "https://github.com/jeremy-prt/bloub",
       "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
-      "stargazers_count": 538,
+      "stargazers_count": 579,
       "language": "TypeScript",
       "created_at": "2026-08-15T13:21:23Z",
-      "updated_at": "2026-08-20T01:56:08Z"
-    },
-    {
-      "full_name": "CopilotKit/openbot",
-      "html_url": "https://github.com/CopilotKit/openbot",
-      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stargazers_count": 529,
-      "language": "TypeScript",
-      "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-08-20T01:53:49Z"
+      "updated_at": "2026-08-21T02:04:13Z"
     },
     {
       "full_name": "browser-use/macos-harness",
       "html_url": "https://github.com/browser-use/macos-harness",
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stargazers_count": 529,
+      "stargazers_count": 571,
       "language": "Python",
       "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-08-20T01:33:31Z"
-    },
-    {
-      "full_name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "html_url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
-      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
-      "stargazers_count": 497,
-      "language": "JavaScript",
-      "created_at": "2026-08-15T06:10:13Z",
-      "updated_at": "2026-08-20T00:34:36Z"
+      "updated_at": "2026-08-21T01:33:51Z"
     },
     {
       "full_name": "missuo/herdrm",
       "html_url": "https://github.com/missuo/herdrm",
       "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-      "stargazers_count": 426,
+      "stargazers_count": 561,
       "language": "Swift",
       "created_at": "2026-08-19T06:55:39Z",
-      "updated_at": "2026-08-20T01:49:57Z"
+      "updated_at": "2026-08-21T00:39:10Z"
     },
     {
-      "full_name": "jaredrhod/barehands",
-      "html_url": "https://github.com/jaredrhod/barehands",
-      "description": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers.",
-      "stargazers_count": 385,
-      "language": "HTML",
-      "created_at": "2026-08-15T07:30:37Z",
-      "updated_at": "2026-08-20T01:45:45Z"
+      "full_name": "bawadou/ai-data-extractor",
+      "html_url": "https://github.com/bawadou/ai-data-extractor",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "stargazers_count": 528,
+      "language": "Python",
+      "created_at": "2026-08-16T18:35:58Z",
+      "updated_at": "2026-08-20T19:08:12Z"
     }
   ]
 }
