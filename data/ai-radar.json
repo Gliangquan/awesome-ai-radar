@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T01:56:11.988Z",
-  "since": "2026-08-15",
+  "updatedAt": "2026-08-23T02:07:43.952Z",
+  "since": "2026-08-16",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,73 +11,73 @@
       "full_name": "s1dashu/ip-as-logo-skill",
       "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
       "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-      "stargazers_count": 3496,
+      "stargazers_count": 3786,
       "language": null,
       "created_at": "2026-08-18T13:59:23Z",
-      "updated_at": "2026-08-22T01:44:33Z"
+      "updated_at": "2026-08-23T01:54:34Z"
     },
     {
       "full_name": "yetone/cumora",
       "html_url": "https://github.com/yetone/cumora",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "stargazers_count": 2858,
+      "stargazers_count": 2901,
       "language": "TypeScript",
       "created_at": "2026-08-17T09:13:52Z",
-      "updated_at": "2026-08-21T22:49:56Z"
+      "updated_at": "2026-08-23T00:01:30Z"
     },
     {
       "full_name": "CopilotKit/OpenBot",
       "html_url": "https://github.com/CopilotKit/OpenBot",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "stargazers_count": 2132,
+      "stargazers_count": 2336,
       "language": "TypeScript",
       "created_at": "2026-08-17T00:44:59Z",
-      "updated_at": "2026-08-22T01:56:00Z"
-    },
-    {
-      "full_name": "cinderline/northcinder",
-      "html_url": "https://github.com/cinderline/northcinder",
-      "description": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail.",
-      "stargazers_count": 1203,
-      "language": "JavaScript",
-      "created_at": "2026-08-17T11:42:31Z",
-      "updated_at": "2026-08-21T08:31:39Z"
+      "updated_at": "2026-08-23T02:02:09Z"
     },
     {
       "full_name": "wang2122/sprix-sage-router",
       "html_url": "https://github.com/wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-      "stargazers_count": 1009,
+      "stargazers_count": 1243,
       "language": "Python",
       "created_at": "2026-08-18T04:08:11Z",
-      "updated_at": "2026-08-21T18:20:02Z"
+      "updated_at": "2026-08-22T16:02:27Z"
     },
     {
       "full_name": "Leutenegger/watermarks-remover",
       "html_url": "https://github.com/Leutenegger/watermarks-remover",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "stargazers_count": 929,
+      "stargazers_count": 934,
       "language": "Python",
       "created_at": "2026-08-19T15:20:24Z",
-      "updated_at": "2026-08-21T09:08:00Z"
+      "updated_at": "2026-08-22T21:16:46Z"
+    },
+    {
+      "full_name": "Spielewoy/autoprompt-skill",
+      "html_url": "https://github.com/Spielewoy/autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "stargazers_count": 709,
+      "language": "JavaScript",
+      "created_at": "2026-08-17T22:40:47Z",
+      "updated_at": "2026-08-23T01:57:44Z"
     },
     {
       "full_name": "browser-use/macos-harness",
       "html_url": "https://github.com/browser-use/macos-harness",
       "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-      "stargazers_count": 687,
+      "stargazers_count": 709,
       "language": "Python",
       "created_at": "2026-08-17T00:22:20Z",
-      "updated_at": "2026-08-22T01:37:35Z"
+      "updated_at": "2026-08-23T00:59:25Z"
     },
     {
       "full_name": "SigmanticAI/apex-inference-chip",
       "html_url": "https://github.com/SigmanticAI/apex-inference-chip",
       "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
-      "stargazers_count": 668,
+      "stargazers_count": 680,
       "language": "Python",
       "created_at": "2026-08-17T04:25:26Z",
-      "updated_at": "2026-08-21T22:20:39Z"
+      "updated_at": "2026-08-22T18:52:03Z"
     },
     {
       "full_name": "Leutenegger/coldcard-airgap",
@@ -92,28 +92,28 @@
       "full_name": "missuo/herdrm",
       "html_url": "https://github.com/missuo/herdrm",
       "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-      "stargazers_count": 593,
+      "stargazers_count": 604,
       "language": "Swift",
       "created_at": "2026-08-19T06:55:39Z",
-      "updated_at": "2026-08-22T01:39:35Z"
+      "updated_at": "2026-08-22T16:25:25Z"
     },
     {
-      "full_name": "Spielewoy/autoprompt-skill",
-      "html_url": "https://github.com/Spielewoy/autoprompt-skill",
-      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
-      "stargazers_count": 592,
-      "language": "JavaScript",
-      "created_at": "2026-08-17T22:40:47Z",
-      "updated_at": "2026-08-22T01:51:33Z"
+      "full_name": "iAmCorey/Wake",
+      "html_url": "https://github.com/iAmCorey/Wake",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "stargazers_count": 478,
+      "language": "Rust",
+      "created_at": "2026-08-18T09:46:23Z",
+      "updated_at": "2026-08-23T02:01:15Z"
     },
     {
-      "full_name": "bawadou/ai-data-extractor",
-      "html_url": "https://github.com/bawadou/ai-data-extractor",
-      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-      "stargazers_count": 537,
+      "full_name": "cclank/lanshu-create-ai-presenter-video",
+      "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "stargazers_count": 283,
       "language": "Python",
-      "created_at": "2026-08-16T18:35:58Z",
-      "updated_at": "2026-08-21T23:04:31Z"
+      "created_at": "2026-08-20T13:40:06Z",
+      "updated_at": "2026-08-23T02:05:58Z"
     }
   ]
 }
