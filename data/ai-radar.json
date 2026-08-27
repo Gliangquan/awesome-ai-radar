@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-26T02:07:25.151Z",
-  "since": "2026-08-19",
+  "updatedAt": "2026-08-27T10:04:57.750Z",
+  "since": "2026-08-20",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "duty1g/x64dbg-mcp-server",
       "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stargazers_count": 1386,
+      "stargazers_count": 1487,
       "language": "Zig",
       "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-26T01:56:18Z"
-    },
-    {
-      "full_name": "cclank/lanshu-create-ai-presenter-video",
-      "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-      "stargazers_count": 923,
-      "language": "Python",
-      "created_at": "2026-08-20T13:40:06Z",
-      "updated_at": "2026-08-26T02:04:39Z"
-    },
-    {
-      "full_name": "ShadowAqueduct/watermark-remover",
-      "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stargazers_count": 792,
-      "language": "Python",
-      "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-26T01:53:47Z"
+      "updated_at": "2026-08-27T08:48:42Z"
     },
     {
       "full_name": "ApodexAI/FrontierAgent",
       "html_url": "https://github.com/ApodexAI/FrontierAgent",
       "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "stargazers_count": 600,
+      "stargazers_count": 1061,
       "language": "Python",
       "created_at": "2026-08-22T05:07:35Z",
-      "updated_at": "2026-08-26T02:05:54Z"
+      "updated_at": "2026-08-27T10:00:00Z"
+    },
+    {
+      "full_name": "ShadowAqueduct/watermark-remover",
+      "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "stargazers_count": 811,
+      "language": "Python",
+      "created_at": "2026-08-23T21:14:28Z",
+      "updated_at": "2026-08-27T08:32:01Z"
     },
     {
       "full_name": "Forsy-AI/biosecurity-agent",
       "html_url": "https://github.com/Forsy-AI/biosecurity-agent",
       "description": "AI agent that builds a live biosecurity world around any target.",
-      "stargazers_count": 514,
+      "stargazers_count": 512,
       "language": "TypeScript",
       "created_at": "2026-08-22T23:06:26Z",
-      "updated_at": "2026-08-26T02:00:21Z"
-    },
-    {
-      "full_name": "kgoedecke/doop",
-      "html_url": "https://github.com/kgoedecke/doop",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stargazers_count": 367,
-      "language": "TypeScript",
-      "created_at": "2026-08-22T15:40:51Z",
-      "updated_at": "2026-08-26T01:58:26Z"
-    },
-    {
-      "full_name": "rome-os/rome",
-      "html_url": "https://github.com/rome-os/rome",
-      "description": "Rome is the agentic OS.",
-      "stargazers_count": 337,
-      "language": "TypeScript",
-      "created_at": "2026-08-23T06:15:15Z",
-      "updated_at": "2026-08-26T01:49:53Z"
-    },
-    {
-      "full_name": "inkboard/system-atlas",
-      "html_url": "https://github.com/inkboard/system-atlas",
-      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
-      "stargazers_count": 304,
-      "language": "HTML",
-      "created_at": "2026-08-20T15:36:48Z",
-      "updated_at": "2026-08-26T01:46:27Z"
-    },
-    {
-      "full_name": "ChenShuo2004/cs-board",
-      "html_url": "https://github.com/ChenShuo2004/cs-board",
-      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-      "stargazers_count": 299,
-      "language": "Python",
-      "created_at": "2026-08-21T00:50:30Z",
-      "updated_at": "2026-08-26T01:55:12Z"
-    },
-    {
-      "full_name": "bam-bam-2/solo-skills",
-      "html_url": "https://github.com/bam-bam-2/solo-skills",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stargazers_count": 299,
-      "language": "Python",
-      "created_at": "2026-08-22T13:42:32Z",
-      "updated_at": "2026-08-26T01:38:16Z"
+      "updated_at": "2026-08-26T21:30:53Z"
     },
     {
       "full_name": "amosblomqvist/learn",
       "html_url": "https://github.com/amosblomqvist/learn",
       "description": "My AI learning system.",
-      "stargazers_count": 281,
+      "stargazers_count": 451,
       "language": "TypeScript",
       "created_at": "2026-08-24T16:45:07Z",
-      "updated_at": "2026-08-26T02:02:49Z"
+      "updated_at": "2026-08-27T09:47:09Z"
+    },
+    {
+      "full_name": "kgoedecke/doop",
+      "html_url": "https://github.com/kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "stargazers_count": 423,
+      "language": "TypeScript",
+      "created_at": "2026-08-22T15:40:51Z",
+      "updated_at": "2026-08-27T08:31:59Z"
+    },
+    {
+      "full_name": "halofyai/halofy",
+      "html_url": "https://github.com/halofyai/halofy",
+      "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "stargazers_count": 380,
+      "language": "TypeScript",
+      "created_at": "2026-08-22T06:09:53Z",
+      "updated_at": "2026-08-27T09:43:23Z"
+    },
+    {
+      "full_name": "rome-os/rome",
+      "html_url": "https://github.com/rome-os/rome",
+      "description": "Rome is the agentic OS.",
+      "stargazers_count": 366,
+      "language": "TypeScript",
+      "created_at": "2026-08-23T06:15:15Z",
+      "updated_at": "2026-08-27T09:30:51Z"
+    },
+    {
+      "full_name": "ChenShuo2004/cs-board",
+      "html_url": "https://github.com/ChenShuo2004/cs-board",
+      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "stargazers_count": 343,
+      "language": "Python",
+      "created_at": "2026-08-21T00:50:30Z",
+      "updated_at": "2026-08-27T09:42:42Z"
+    },
+    {
+      "full_name": "GamePhanes/GamePhanes",
+      "html_url": "https://github.com/GamePhanes/GamePhanes",
+      "description": "An open-source game coding agent environment and benchmark for Godot.",
+      "stargazers_count": 340,
+      "language": "JavaScript",
+      "created_at": "2026-08-21T02:57:42Z",
+      "updated_at": "2026-08-27T05:53:43Z"
+    },
+    {
+      "full_name": "bam-bam-2/solo-skills",
+      "html_url": "https://github.com/bam-bam-2/solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "stargazers_count": 316,
+      "language": "Python",
+      "created_at": "2026-08-22T13:42:32Z",
+      "updated_at": "2026-08-27T05:56:35Z"
     },
     {
       "full_name": "alchaincyf/huashu-excel",
       "html_url": "https://github.com/alchaincyf/huashu-excel",
       "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stargazers_count": 262,
+      "stargazers_count": 310,
       "language": "Python",
       "created_at": "2026-08-23T05:38:43Z",
-      "updated_at": "2026-08-26T02:05:26Z"
+      "updated_at": "2026-08-27T09:57:09Z"
     }
   ]
 }
