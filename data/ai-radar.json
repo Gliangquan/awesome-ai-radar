@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-28T11:36:27.872Z",
-  "since": "2026-08-21",
+  "updatedAt": "2026-08-29T07:14:34.873Z",
+  "since": "2026-08-22",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "duty1g/x64dbg-mcp-server",
-      "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-      "stargazers_count": 1623,
-      "language": "Zig",
-      "created_at": "2026-08-22T14:28:41Z",
-      "updated_at": "2026-08-28T10:34:21Z"
-    },
-    {
-      "full_name": "ApodexAI/FrontierAgent",
-      "html_url": "https://github.com/ApodexAI/FrontierAgent",
-      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-      "stargazers_count": 1189,
-      "language": "Python",
-      "created_at": "2026-08-22T05:07:35Z",
-      "updated_at": "2026-08-28T11:08:57Z"
-    },
-    {
       "full_name": "ShadowAqueduct/watermark-remover",
       "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stargazers_count": 822,
+      "stargazers_count": 830,
       "language": "Python",
       "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-28T08:28:46Z"
+      "updated_at": "2026-08-29T07:00:04Z"
     },
     {
       "full_name": "amosblomqvist/learn",
       "html_url": "https://github.com/amosblomqvist/learn",
       "description": "My AI learning system.",
-      "stargazers_count": 567,
+      "stargazers_count": 675,
       "language": "TypeScript",
       "created_at": "2026-08-24T16:45:07Z",
-      "updated_at": "2026-08-28T11:30:31Z"
+      "updated_at": "2026-08-29T06:54:52Z"
     },
     {
-      "full_name": "Forsy-AI/biosecurity-agent",
-      "html_url": "https://github.com/Forsy-AI/biosecurity-agent",
-      "description": "AI agent that builds a live biosecurity world around any target.",
-      "stargazers_count": 513,
-      "language": "TypeScript",
-      "created_at": "2026-08-22T23:06:26Z",
-      "updated_at": "2026-08-28T07:00:29Z"
-    },
-    {
-      "full_name": "kgoedecke/doop",
-      "html_url": "https://github.com/kgoedecke/doop",
-      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-      "stargazers_count": 471,
-      "language": "TypeScript",
-      "created_at": "2026-08-22T15:40:51Z",
-      "updated_at": "2026-08-28T10:45:12Z"
-    },
-    {
-      "full_name": "halofyai/halofy",
-      "html_url": "https://github.com/halofyai/halofy",
-      "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
-      "stargazers_count": 434,
-      "language": "TypeScript",
-      "created_at": "2026-08-22T06:09:53Z",
-      "updated_at": "2026-08-28T10:04:34Z"
-    },
-    {
-      "full_name": "totec448-spec/chat-on-steroids",
-      "html_url": "https://github.com/totec448-spec/chat-on-steroids",
-      "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-      "stargazers_count": 422,
-      "language": "TypeScript",
-      "created_at": "2026-08-22T14:16:24Z",
-      "updated_at": "2026-08-28T11:31:27Z"
+      "full_name": "Nanako0129/sepia",
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stargazers_count": 506,
+      "language": "Shell",
+      "created_at": "2026-08-28T05:56:49Z",
+      "updated_at": "2026-08-29T07:13:04Z"
     },
     {
       "full_name": "POUND0423/AI-drama-pound",
       "html_url": "https://github.com/POUND0423/AI-drama-pound",
       "description": null,
-      "stargazers_count": 415,
+      "stargazers_count": 495,
       "language": null,
       "created_at": "2026-08-26T03:43:14Z",
-      "updated_at": "2026-08-28T11:30:59Z"
+      "updated_at": "2026-08-29T06:51:22Z"
+    },
+    {
+      "full_name": "gtlhuyidan-sketch/life-ipo",
+      "html_url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stargazers_count": 441,
+      "language": "TypeScript",
+      "created_at": "2026-08-25T15:12:20Z",
+      "updated_at": "2026-08-29T06:57:52Z"
     },
     {
       "full_name": "rome-os/rome",
       "html_url": "https://github.com/rome-os/rome",
       "description": "Rome is the agentic OS.",
-      "stargazers_count": 380,
+      "stargazers_count": 383,
       "language": "TypeScript",
       "created_at": "2026-08-23T06:15:15Z",
-      "updated_at": "2026-08-28T10:21:53Z"
+      "updated_at": "2026-08-29T07:02:31Z"
+    },
+    {
+      "full_name": "MetaMask-AI/metamask-desktop",
+      "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
+      "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "stargazers_count": 345,
+      "language": "CSS",
+      "created_at": "2026-08-28T08:07:10Z",
+      "updated_at": "2026-08-29T07:14:30Z"
+    },
+    {
+      "full_name": "leopard627/fire-your-seo-agency",
+      "html_url": "https://github.com/leopard627/fire-your-seo-agency",
+      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "stargazers_count": 337,
+      "language": null,
+      "created_at": "2026-08-26T23:47:02Z",
+      "updated_at": "2026-08-29T06:57:37Z"
     },
     {
       "full_name": "alchaincyf/huashu-excel",
       "html_url": "https://github.com/alchaincyf/huashu-excel",
       "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stargazers_count": 327,
+      "stargazers_count": 335,
       "language": "Python",
       "created_at": "2026-08-23T05:38:43Z",
-      "updated_at": "2026-08-28T10:17:56Z"
+      "updated_at": "2026-08-29T04:10:26Z"
     },
     {
-      "full_name": "bam-bam-2/solo-skills",
-      "html_url": "https://github.com/bam-bam-2/solo-skills",
-      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-      "stargazers_count": 324,
-      "language": "Python",
-      "created_at": "2026-08-22T13:42:32Z",
-      "updated_at": "2026-08-28T11:13:14Z"
+      "full_name": "OrRon/EpicInfographics",
+      "html_url": "https://github.com/OrRon/EpicInfographics",
+      "description": "A simple skill that will make your Agent create beautiful Infographics",
+      "stargazers_count": 256,
+      "language": "JavaScript",
+      "created_at": "2026-08-23T22:56:37Z",
+      "updated_at": "2026-08-29T07:08:02Z"
+    },
+    {
+      "full_name": "S1N6H/pentest-harness",
+      "html_url": "https://github.com/S1N6H/pentest-harness",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "stargazers_count": 237,
+      "language": "TypeScript",
+      "created_at": "2026-08-26T04:57:19Z",
+      "updated_at": "2026-08-29T07:08:23Z"
+    },
+    {
+      "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "html_url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "stargazers_count": 232,
+      "language": null,
+      "created_at": "2026-08-26T02:22:48Z",
+      "updated_at": "2026-08-29T05:42:30Z"
     }
   ]
 }
