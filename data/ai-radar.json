@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-29T07:14:34.873Z",
-  "since": "2026-08-22",
+  "updatedAt": "2026-08-30T05:37:35.302Z",
+  "since": "2026-08-23",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "ShadowAqueduct/watermark-remover",
-      "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "stargazers_count": 830,
-      "language": "Python",
-      "created_at": "2026-08-23T21:14:28Z",
-      "updated_at": "2026-08-29T07:00:04Z"
-    },
-    {
       "full_name": "amosblomqvist/learn",
       "html_url": "https://github.com/amosblomqvist/learn",
       "description": "My AI learning system.",
-      "stargazers_count": 675,
+      "stargazers_count": 801,
       "language": "TypeScript",
       "created_at": "2026-08-24T16:45:07Z",
-      "updated_at": "2026-08-29T06:54:52Z"
-    },
-    {
-      "full_name": "Nanako0129/sepia",
-      "html_url": "https://github.com/Nanako0129/sepia",
-      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stargazers_count": 506,
-      "language": "Shell",
-      "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-08-29T07:13:04Z"
-    },
-    {
-      "full_name": "POUND0423/AI-drama-pound",
-      "html_url": "https://github.com/POUND0423/AI-drama-pound",
-      "description": null,
-      "stargazers_count": 495,
-      "language": null,
-      "created_at": "2026-08-26T03:43:14Z",
-      "updated_at": "2026-08-29T06:51:22Z"
-    },
-    {
-      "full_name": "gtlhuyidan-sketch/life-ipo",
-      "html_url": "https://github.com/gtlhuyidan-sketch/life-ipo",
-      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-      "stargazers_count": 441,
-      "language": "TypeScript",
-      "created_at": "2026-08-25T15:12:20Z",
-      "updated_at": "2026-08-29T06:57:52Z"
-    },
-    {
-      "full_name": "rome-os/rome",
-      "html_url": "https://github.com/rome-os/rome",
-      "description": "Rome is the agentic OS.",
-      "stargazers_count": 383,
-      "language": "TypeScript",
-      "created_at": "2026-08-23T06:15:15Z",
-      "updated_at": "2026-08-29T07:02:31Z"
+      "updated_at": "2026-08-30T05:30:45Z"
     },
     {
       "full_name": "MetaMask-AI/metamask-desktop",
       "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
       "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "stargazers_count": 345,
+      "stargazers_count": 798,
       "language": "CSS",
       "created_at": "2026-08-28T08:07:10Z",
-      "updated_at": "2026-08-29T07:14:30Z"
+      "updated_at": "2026-08-30T05:25:53Z"
+    },
+    {
+      "full_name": "Nanako0129/sepia",
+      "html_url": "https://github.com/Nanako0129/sepia",
+      "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "stargazers_count": 713,
+      "language": null,
+      "created_at": "2026-08-28T05:56:49Z",
+      "updated_at": "2026-08-30T05:36:11Z"
+    },
+    {
+      "full_name": "POUND0423/AI-drama-pound",
+      "html_url": "https://github.com/POUND0423/AI-drama-pound",
+      "description": null,
+      "stargazers_count": 508,
+      "language": null,
+      "created_at": "2026-08-26T03:43:14Z",
+      "updated_at": "2026-08-30T02:40:52Z"
+    },
+    {
+      "full_name": "kacperkapusciak/goldie",
+      "html_url": "https://github.com/kacperkapusciak/goldie",
+      "description": "✨ agentic app store previews and screenshots",
+      "stargazers_count": 454,
+      "language": "TypeScript",
+      "created_at": "2026-08-24T12:36:59Z",
+      "updated_at": "2026-08-30T05:18:55Z"
+    },
+    {
+      "full_name": "gtlhuyidan-sketch/life-ipo",
+      "html_url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "stargazers_count": 452,
+      "language": "TypeScript",
+      "created_at": "2026-08-25T15:12:20Z",
+      "updated_at": "2026-08-30T05:27:08Z"
+    },
+    {
+      "full_name": "cbrock84/headcount",
+      "html_url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "stargazers_count": 349,
+      "language": "Markdown",
+      "created_at": "2026-08-28T18:03:04Z",
+      "updated_at": "2026-08-30T05:36:48Z"
     },
     {
       "full_name": "leopard627/fire-your-seo-agency",
       "html_url": "https://github.com/leopard627/fire-your-seo-agency",
       "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stargazers_count": 337,
+      "stargazers_count": 345,
       "language": null,
       "created_at": "2026-08-26T23:47:02Z",
-      "updated_at": "2026-08-29T06:57:37Z"
-    },
-    {
-      "full_name": "alchaincyf/huashu-excel",
-      "html_url": "https://github.com/alchaincyf/huashu-excel",
-      "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
-      "stargazers_count": 335,
-      "language": "Python",
-      "created_at": "2026-08-23T05:38:43Z",
-      "updated_at": "2026-08-29T04:10:26Z"
-    },
-    {
-      "full_name": "OrRon/EpicInfographics",
-      "html_url": "https://github.com/OrRon/EpicInfographics",
-      "description": "A simple skill that will make your Agent create beautiful Infographics",
-      "stargazers_count": 256,
-      "language": "JavaScript",
-      "created_at": "2026-08-23T22:56:37Z",
-      "updated_at": "2026-08-29T07:08:02Z"
+      "updated_at": "2026-08-30T02:45:35Z"
     },
     {
       "full_name": "S1N6H/pentest-harness",
       "html_url": "https://github.com/S1N6H/pentest-harness",
       "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stargazers_count": 237,
+      "stargazers_count": 294,
       "language": "TypeScript",
       "created_at": "2026-08-26T04:57:19Z",
-      "updated_at": "2026-08-29T07:08:23Z"
+      "updated_at": "2026-08-30T04:01:04Z"
+    },
+    {
+      "full_name": "hkqr/my-free-code",
+      "html_url": "https://github.com/hkqr/my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "stargazers_count": 277,
+      "language": "Python",
+      "created_at": "2026-08-27T17:59:23Z",
+      "updated_at": "2026-08-30T05:17:32Z"
     },
     {
       "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
       "html_url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
       "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
-      "stargazers_count": 232,
+      "stargazers_count": 250,
       "language": null,
       "created_at": "2026-08-26T02:22:48Z",
-      "updated_at": "2026-08-29T05:42:30Z"
+      "updated_at": "2026-08-30T04:15:18Z"
+    },
+    {
+      "full_name": "acryldev/acryl",
+      "html_url": "https://github.com/acryldev/acryl",
+      "description": "ACRYL - Agent Context Relay Yielding Lifecycles. One persistent workspace, one canonical context, any coding agent.",
+      "stargazers_count": 226,
+      "language": "TypeScript",
+      "created_at": "2026-08-25T15:53:56Z",
+      "updated_at": "2026-08-30T04:31:38Z"
     }
   ]
 }
