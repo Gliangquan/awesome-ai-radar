@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-01T05:25:11.536Z",
-  "since": "2026-08-25",
+  "updatedAt": "2026-09-02T04:51:58.539Z",
+  "since": "2026-08-26",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "Nanako0129/sepia",
       "html_url": "https://github.com/Nanako0129/sepia",
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stargazers_count": 1268,
-      "language": null,
+      "stargazers_count": 1371,
+      "language": "Python",
       "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-09-01T05:24:58Z"
+      "updated_at": "2026-09-02T04:24:58Z"
     },
     {
       "full_name": "MetaMask-AI/metamask-desktop",
       "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
       "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "stargazers_count": 1228,
+      "stargazers_count": 1229,
       "language": "CSS",
       "created_at": "2026-08-28T08:07:10Z",
-      "updated_at": "2026-08-31T04:34:30Z"
+      "updated_at": "2026-09-01T09:22:32Z"
     },
     {
       "full_name": "cbrock84/headcount",
       "html_url": "https://github.com/cbrock84/headcount",
       "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "stargazers_count": 872,
+      "stargazers_count": 970,
       "language": "Markdown",
       "created_at": "2026-08-28T18:03:04Z",
-      "updated_at": "2026-09-01T04:56:29Z"
+      "updated_at": "2026-09-02T04:46:57Z"
     },
     {
       "full_name": "hkqr/my-free-code",
       "html_url": "https://github.com/hkqr/my-free-code",
       "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stargazers_count": 616,
+      "stargazers_count": 618,
       "language": "Python",
       "created_at": "2026-08-27T17:59:23Z",
-      "updated_at": "2026-09-01T05:07:58Z"
+      "updated_at": "2026-09-02T02:32:43Z"
     },
     {
-      "full_name": "POUND0423/AI-drama-pound",
-      "html_url": "https://github.com/POUND0423/AI-drama-pound",
-      "description": null,
-      "stargazers_count": 523,
-      "language": null,
-      "created_at": "2026-08-26T03:43:14Z",
-      "updated_at": "2026-09-01T04:16:28Z"
+      "full_name": "brayonpi/hexstellar",
+      "html_url": "https://github.com/brayonpi/hexstellar",
+      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "stargazers_count": 567,
+      "language": "Python",
+      "created_at": "2026-08-27T20:53:42Z",
+      "updated_at": "2026-09-02T04:47:52Z"
     },
     {
-      "full_name": "leopard627/fire-your-seo-agency",
-      "html_url": "https://github.com/leopard627/fire-your-seo-agency",
-      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-      "stargazers_count": 380,
-      "language": null,
-      "created_at": "2026-08-26T23:47:02Z",
-      "updated_at": "2026-09-01T02:58:25Z"
-    },
-    {
-      "full_name": "PAICNI/CFBox",
-      "html_url": "https://github.com/PAICNI/CFBox",
-      "description": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。",
-      "stargazers_count": 374,
+      "full_name": "Player-YN/PawWork_ZhuaZhua",
+      "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "stargazers_count": 382,
       "language": "JavaScript",
-      "created_at": "2026-08-26T21:58:54Z",
-      "updated_at": "2026-09-01T05:24:20Z"
-    },
-    {
-      "full_name": "DavidCarliez/trustmebro",
-      "html_url": "https://github.com/DavidCarliez/trustmebro",
-      "description": "Bypass llm guardrails by confusing it with fabricated tool output.",
-      "stargazers_count": 372,
-      "language": "Go",
-      "created_at": "2026-08-26T19:10:55Z",
-      "updated_at": "2026-09-01T05:22:46Z"
+      "created_at": "2026-08-28T10:56:56Z",
+      "updated_at": "2026-09-02T04:14:21Z"
     },
     {
       "full_name": "MirroS-Lab/Code-as-World",
       "html_url": "https://github.com/MirroS-Lab/Code-as-World",
       "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
-      "stargazers_count": 344,
+      "stargazers_count": 371,
       "language": "Python",
       "created_at": "2026-08-27T17:42:04Z",
-      "updated_at": "2026-09-01T05:13:48Z"
+      "updated_at": "2026-09-02T04:36:04Z"
     },
     {
-      "full_name": "S1N6H/pentest-harness",
-      "html_url": "https://github.com/S1N6H/pentest-harness",
-      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
-      "stargazers_count": 314,
+      "full_name": "useagenthq/useagent",
+      "html_url": "https://github.com/useagenthq/useagent",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "stargazers_count": 272,
       "language": "TypeScript",
-      "created_at": "2026-08-26T04:57:19Z",
-      "updated_at": "2026-09-01T05:02:27Z"
+      "created_at": "2026-08-29T21:14:31Z",
+      "updated_at": "2026-09-02T04:43:33Z"
     },
     {
-      "full_name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
-      "html_url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
-      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
-      "stargazers_count": 291,
-      "language": null,
-      "created_at": "2026-08-26T02:22:48Z",
-      "updated_at": "2026-09-01T04:03:34Z"
+      "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "stargazers_count": 262,
+      "language": "Shell",
+      "created_at": "2026-08-29T23:37:01Z",
+      "updated_at": "2026-09-02T04:27:29Z"
     },
     {
-      "full_name": "LYiHub/Card-master-browser-extension-public",
-      "html_url": "https://github.com/LYiHub/Card-master-browser-extension-public",
-      "description": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件",
-      "stargazers_count": 285,
+      "full_name": "JordyZomer/lemmalog",
+      "html_url": "https://github.com/JordyZomer/lemmalog",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "stargazers_count": 252,
+      "language": "Rust",
+      "created_at": "2026-08-27T07:06:55Z",
+      "updated_at": "2026-09-02T03:41:23Z"
+    },
+    {
+      "full_name": "Vuk97/forward-implementation-first",
+      "html_url": "https://github.com/Vuk97/forward-implementation-first",
+      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "stargazers_count": 160,
+      "language": "Shell",
+      "created_at": "2026-08-29T23:16:12Z",
+      "updated_at": "2026-09-01T23:30:34Z"
+    },
+    {
+      "full_name": "SpatiaOS/Procedura",
+      "html_url": "https://github.com/SpatiaOS/Procedura",
+      "description": "Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation.",
+      "stargazers_count": 149,
       "language": "TypeScript",
-      "created_at": "2026-08-26T08:01:41Z",
-      "updated_at": "2026-09-01T05:20:36Z"
+      "created_at": "2026-08-27T04:11:08Z",
+      "updated_at": "2026-09-02T03:33:16Z"
     }
   ]
 }

@@ -5,22 +5,22 @@ A public repo that curates fresh AI-related GitHub projects every day.
 ## Daily picks
 
 <!-- PICKS:START -->
-Updated: 2026-09-01T05:25:11.536Z
+Updated: 2026-09-02T04:51:58.539Z
 
 | Rank | Repository | Description | Language | Stars |
 |---:|---|---|---|---:|
-| 1 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). | Unknown | 1268 |
-| 2 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites | CSS | 1228 |
-| 3 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable. | Markdown | 872 |
-| 4 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support | Python | 616 |
-| 5 | [POUND0423/AI-drama-pound](https://github.com/POUND0423/AI-drama-pound) | No description | Unknown | 523 |
-| 6 | [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다 | Unknown | 380 |
-| 7 | [PAICNI/CFBox](https://github.com/PAICNI/CFBox) | 一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。 | JavaScript | 374 |
-| 8 | [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro) | Bypass llm guardrails by confusing it with fabricated tool output. | Go | 372 |
-| 9 | [MirroS-Lab/Code-as-World](https://github.com/MirroS-Lab/Code-as-World) | Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning | Python | 344 |
-| 10 | [S1N6H/pentest-harness](https://github.com/S1N6H/pentest-harness) | Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local. | TypeScript | 314 |
-| 11 | [CHENG-LIANG1/real-company-interview-ai-coding-projects](https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects) | 三个匿名化真实 AI Coding 面试项目题与一套通用解题方法 | Unknown | 291 |
-| 12 | [LYiHub/Card-master-browser-extension-public](https://github.com/LYiHub/Card-master-browser-extension-public) | 一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件 | TypeScript | 285 |
+| 1 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136). | Python | 1371 |
+| 2 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites | CSS | 1229 |
+| 3 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable. | Markdown | 970 |
+| 4 | [hkqr/my-free-code](https://github.com/hkqr/my-free-code) | Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support | Python | 618 |
+| 5 | [brayonpi/hexstellar](https://github.com/brayonpi/hexstellar) | Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar | Python | 567 |
+| 6 | [Player-YN/PawWork_ZhuaZhua](https://github.com/Player-YN/PawWork_ZhuaZhua) | Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server. | JavaScript | 382 |
+| 7 | [MirroS-Lab/Code-as-World](https://github.com/MirroS-Lab/Code-as-World) | Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning | Python | 371 |
+| 8 | [useagenthq/useagent](https://github.com/useagenthq/useagent) | The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription. | TypeScript | 272 |
+| 9 | [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT. | Shell | 262 |
+| 10 | [JordyZomer/lemmalog](https://github.com/JordyZomer/lemmalog) | A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain. | Rust | 252 |
+| 11 | [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents. | Shell | 160 |
+| 12 | [SpatiaOS/Procedura](https://github.com/SpatiaOS/Procedura) | Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation. | TypeScript | 149 |
 <!-- PICKS:END -->
 
 ## How it works
