@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T04:51:58.539Z",
-  "since": "2026-08-26",
+  "updatedAt": "2026-09-03T04:51:26.865Z",
+  "since": "2026-08-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "Nanako0129/sepia",
       "html_url": "https://github.com/Nanako0129/sepia",
       "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-      "stargazers_count": 1371,
+      "stargazers_count": 1658,
       "language": "Python",
       "created_at": "2026-08-28T05:56:49Z",
-      "updated_at": "2026-09-02T04:24:58Z"
+      "updated_at": "2026-09-03T04:50:36Z"
     },
     {
       "full_name": "MetaMask-AI/metamask-desktop",
       "html_url": "https://github.com/MetaMask-AI/metamask-desktop",
       "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-      "stargazers_count": 1229,
+      "stargazers_count": 1230,
       "language": "CSS",
       "created_at": "2026-08-28T08:07:10Z",
-      "updated_at": "2026-09-01T09:22:32Z"
+      "updated_at": "2026-09-03T00:15:05Z"
     },
     {
       "full_name": "cbrock84/headcount",
       "html_url": "https://github.com/cbrock84/headcount",
       "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-      "stargazers_count": 970,
+      "stargazers_count": 1124,
       "language": "Markdown",
       "created_at": "2026-08-28T18:03:04Z",
-      "updated_at": "2026-09-02T04:46:57Z"
+      "updated_at": "2026-09-03T04:19:41Z"
     },
     {
-      "full_name": "hkqr/my-free-code",
-      "html_url": "https://github.com/hkqr/my-free-code",
-      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-      "stargazers_count": 618,
+      "full_name": "GangTailorUpgrade/undress-service",
+      "html_url": "https://github.com/GangTailorUpgrade/undress-service",
+      "description": "Dress AI Sponsor",
+      "stargazers_count": 943,
       "language": "Python",
-      "created_at": "2026-08-27T17:59:23Z",
-      "updated_at": "2026-09-02T02:32:43Z"
-    },
-    {
-      "full_name": "brayonpi/hexstellar",
-      "html_url": "https://github.com/brayonpi/hexstellar",
-      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
-      "stargazers_count": 567,
-      "language": "Python",
-      "created_at": "2026-08-27T20:53:42Z",
-      "updated_at": "2026-09-02T04:47:52Z"
+      "created_at": "2026-08-31T00:12:45Z",
+      "updated_at": "2026-09-03T04:21:49Z"
     },
     {
       "full_name": "Player-YN/PawWork_ZhuaZhua",
       "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
       "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
-      "stargazers_count": 382,
+      "stargazers_count": 627,
       "language": "JavaScript",
       "created_at": "2026-08-28T10:56:56Z",
-      "updated_at": "2026-09-02T04:14:21Z"
+      "updated_at": "2026-09-03T04:51:26Z"
     },
     {
-      "full_name": "MirroS-Lab/Code-as-World",
-      "html_url": "https://github.com/MirroS-Lab/Code-as-World",
-      "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
-      "stargazers_count": 371,
+      "full_name": "anthropics/commerce-agents",
+      "html_url": "https://github.com/anthropics/commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "stargazers_count": 625,
       "language": "Python",
-      "created_at": "2026-08-27T17:42:04Z",
-      "updated_at": "2026-09-02T04:36:04Z"
+      "created_at": "2026-09-01T12:30:12Z",
+      "updated_at": "2026-09-03T04:49:33Z"
     },
     {
-      "full_name": "useagenthq/useagent",
-      "html_url": "https://github.com/useagenthq/useagent",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "stargazers_count": 272,
-      "language": "TypeScript",
-      "created_at": "2026-08-29T21:14:31Z",
-      "updated_at": "2026-09-02T04:43:33Z"
+      "full_name": "2akouwu/reverify",
+      "html_url": "https://github.com/2akouwu/reverify",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "stargazers_count": 599,
+      "language": "Python",
+      "created_at": "2026-08-31T01:02:18Z",
+      "updated_at": "2026-09-03T04:17:17Z"
     },
     {
       "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
       "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
       "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "stargazers_count": 262,
+      "stargazers_count": 349,
       "language": "Shell",
       "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-09-02T04:27:29Z"
+      "updated_at": "2026-09-03T04:20:27Z"
     },
     {
-      "full_name": "JordyZomer/lemmalog",
-      "html_url": "https://github.com/JordyZomer/lemmalog",
-      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "stargazers_count": 252,
-      "language": "Rust",
-      "created_at": "2026-08-27T07:06:55Z",
-      "updated_at": "2026-09-02T03:41:23Z"
-    },
-    {
-      "full_name": "Vuk97/forward-implementation-first",
-      "html_url": "https://github.com/Vuk97/forward-implementation-first",
-      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
-      "stargazers_count": 160,
-      "language": "Shell",
-      "created_at": "2026-08-29T23:16:12Z",
-      "updated_at": "2026-09-01T23:30:34Z"
-    },
-    {
-      "full_name": "SpatiaOS/Procedura",
-      "html_url": "https://github.com/SpatiaOS/Procedura",
-      "description": "Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation.",
-      "stargazers_count": 149,
+      "full_name": "useagenthq/useagent",
+      "html_url": "https://github.com/useagenthq/useagent",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "stargazers_count": 276,
       "language": "TypeScript",
-      "created_at": "2026-08-27T04:11:08Z",
-      "updated_at": "2026-09-02T03:33:16Z"
+      "created_at": "2026-08-29T21:14:31Z",
+      "updated_at": "2026-09-03T04:35:02Z"
+    },
+    {
+      "full_name": "ZJU-REAL/Easel",
+      "html_url": "https://github.com/ZJU-REAL/Easel",
+      "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+      "stargazers_count": 261,
+      "language": "Python",
+      "created_at": "2026-08-28T02:22:27Z",
+      "updated_at": "2026-09-03T04:38:07Z"
+    },
+    {
+      "full_name": "TetreesEX/TetreesAgent_EX",
+      "html_url": "https://github.com/TetreesEX/TetreesAgent_EX",
+      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "stargazers_count": 245,
+      "language": "JavaScript",
+      "created_at": "2026-08-29T07:46:09Z",
+      "updated_at": "2026-09-02T14:26:47Z"
+    },
+    {
+      "full_name": "yilujian/easy-writing",
+      "html_url": "https://github.com/yilujian/easy-writing",
+      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+      "stargazers_count": 203,
+      "language": "Vue",
+      "created_at": "2026-08-31T09:22:41Z",
+      "updated_at": "2026-09-03T04:36:40Z"
     }
   ]
 }
