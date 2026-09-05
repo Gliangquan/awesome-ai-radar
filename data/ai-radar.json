@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T04:52:50.331Z",
-  "since": "2026-08-28",
+  "updatedAt": "2026-09-05T04:45:41.047Z",
+  "since": "2026-08-29",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "anthropics/commerce-agents",
       "html_url": "https://github.com/anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "stargazers_count": 1654,
+      "stargazers_count": 1948,
       "language": "Python",
       "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-04T04:46:30Z"
+      "updated_at": "2026-09-05T04:45:02Z"
     },
     {
       "full_name": "GangTailorUpgrade/undress-service",
       "html_url": "https://github.com/GangTailorUpgrade/undress-service",
       "description": "Dress AI Sponsor",
-      "stargazers_count": 1020,
+      "stargazers_count": 1062,
       "language": "Python",
       "created_at": "2026-08-31T00:12:45Z",
-      "updated_at": "2026-09-04T04:49:19Z"
+      "updated_at": "2026-09-05T04:34:17Z"
     },
     {
       "full_name": "2akouwu/reverify",
       "html_url": "https://github.com/2akouwu/reverify",
       "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-      "stargazers_count": 815,
+      "stargazers_count": 890,
       "language": "Python",
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-04T04:45:35Z"
-    },
-    {
-      "full_name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-      "html_url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
-      "stargazers_count": 423,
-      "language": "Shell",
-      "created_at": "2026-08-29T23:37:01Z",
-      "updated_at": "2026-09-04T03:56:47Z"
+      "updated_at": "2026-09-05T03:47:04Z"
     },
     {
       "full_name": "Human-Agent-Society/reef",
       "html_url": "https://github.com/Human-Agent-Society/reef",
       "description": "Continual learning infra for self-improving agents",
-      "stargazers_count": 307,
+      "stargazers_count": 438,
       "language": "Python",
       "created_at": "2026-08-31T01:39:18Z",
-      "updated_at": "2026-09-04T04:48:31Z"
-    },
-    {
-      "full_name": "useagenthq/useagent",
-      "html_url": "https://github.com/useagenthq/useagent",
-      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-      "stargazers_count": 282,
-      "language": "TypeScript",
-      "created_at": "2026-08-29T21:14:31Z",
-      "updated_at": "2026-09-04T00:08:51Z"
-    },
-    {
-      "full_name": "TetreesEX/TetreesAgent_EX",
-      "html_url": "https://github.com/TetreesEX/TetreesAgent_EX",
-      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
-      "stargazers_count": 275,
-      "language": "JavaScript",
-      "created_at": "2026-08-29T07:46:09Z",
-      "updated_at": "2026-09-03T12:17:44Z"
-    },
-    {
-      "full_name": "yilujian/easy-writing",
-      "html_url": "https://github.com/yilujian/easy-writing",
-      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stargazers_count": 239,
-      "language": "Vue",
-      "created_at": "2026-08-31T09:22:41Z",
-      "updated_at": "2026-09-04T04:45:36Z"
+      "updated_at": "2026-09-05T04:38:34Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
       "html_url": "https://github.com/Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports",
-      "stargazers_count": 230,
+      "stargazers_count": 418,
       "language": "TypeScript",
       "created_at": "2026-09-03T15:55:54Z",
-      "updated_at": "2026-09-04T04:49:24Z"
+      "updated_at": "2026-09-05T04:41:29Z"
+    },
+    {
+      "full_name": "kydlikebtc/awesome-grokbot",
+      "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "stargazers_count": 307,
+      "language": "Python",
+      "created_at": "2026-09-01T02:30:25Z",
+      "updated_at": "2026-09-05T03:00:40Z"
     },
     {
       "full_name": "LunarXuan/image-prompt-reverse",
       "html_url": "https://github.com/LunarXuan/image-prompt-reverse",
       "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stargazers_count": 217,
+      "stargazers_count": 286,
       "language": null,
       "created_at": "2026-09-01T17:36:22Z",
-      "updated_at": "2026-09-04T04:05:57Z"
+      "updated_at": "2026-09-05T03:51:54Z"
+    },
+    {
+      "full_name": "yilujian/easy-writing",
+      "html_url": "https://github.com/yilujian/easy-writing",
+      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+      "stargazers_count": 279,
+      "language": "Vue",
+      "created_at": "2026-08-31T09:22:41Z",
+      "updated_at": "2026-09-05T04:22:18Z"
     },
     {
       "full_name": "gozen3ji/consulting-pptx-skill",
       "html_url": "https://github.com/gozen3ji/consulting-pptx-skill",
-      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋38型SlideSpec＋生成パイプライン＋機械チェック",
-      "stargazers_count": 192,
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
+      "stargazers_count": 223,
       "language": "JavaScript",
       "created_at": "2026-09-02T11:53:05Z",
-      "updated_at": "2026-09-04T03:38:58Z"
+      "updated_at": "2026-09-05T04:26:27Z"
     },
     {
-      "full_name": "kydlikebtc/awesome-grokbot",
-      "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
-      "description": "440 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "full_name": "Agenta-AI/awesome-ai-agent-platforms",
+      "html_url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
+      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
+      "stargazers_count": 171,
+      "language": "Astro",
+      "created_at": "2026-09-02T16:32:59Z",
+      "updated_at": "2026-09-05T04:44:57Z"
+    },
+    {
+      "full_name": "dreamers-laboratory/agent-fleet-manager",
+      "html_url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
+      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
       "stargazers_count": 171,
       "language": "Python",
-      "created_at": "2026-09-01T02:30:25Z",
-      "updated_at": "2026-09-04T01:43:57Z"
+      "created_at": "2026-09-02T06:38:12Z",
+      "updated_at": "2026-09-03T13:19:09Z"
+    },
+    {
+      "full_name": "jarrenrocks/bot-crossing",
+      "html_url": "https://github.com/jarrenrocks/bot-crossing",
+      "description": "A video game for AI agents.",
+      "stargazers_count": 156,
+      "language": "JavaScript",
+      "created_at": "2026-09-01T19:56:46Z",
+      "updated_at": "2026-09-05T02:25:12Z"
     }
   ]
 }
