@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T04:45:41.047Z",
-  "since": "2026-08-29",
+  "updatedAt": "2026-09-06T04:55:36.982Z",
+  "since": "2026-08-30",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "anthropics/commerce-agents",
       "html_url": "https://github.com/anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "stargazers_count": 1948,
+      "stargazers_count": 2081,
       "language": "Python",
       "created_at": "2026-09-01T12:30:12Z",
-      "updated_at": "2026-09-05T04:45:02Z"
+      "updated_at": "2026-09-06T04:54:57Z"
     },
     {
       "full_name": "GangTailorUpgrade/undress-service",
       "html_url": "https://github.com/GangTailorUpgrade/undress-service",
       "description": "Dress AI Sponsor",
-      "stargazers_count": 1062,
+      "stargazers_count": 1104,
       "language": "Python",
       "created_at": "2026-08-31T00:12:45Z",
-      "updated_at": "2026-09-05T04:34:17Z"
+      "updated_at": "2026-09-06T04:52:47Z"
     },
     {
       "full_name": "2akouwu/reverify",
       "html_url": "https://github.com/2akouwu/reverify",
-      "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-      "stargazers_count": 890,
+      "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+      "stargazers_count": 924,
       "language": "Python",
       "created_at": "2026-08-31T01:02:18Z",
-      "updated_at": "2026-09-05T03:47:04Z"
+      "updated_at": "2026-09-06T02:54:18Z"
     },
     {
       "full_name": "Human-Agent-Society/reef",
       "html_url": "https://github.com/Human-Agent-Society/reef",
       "description": "Continual learning infra for self-improving agents",
-      "stargazers_count": 438,
+      "stargazers_count": 497,
       "language": "Python",
       "created_at": "2026-08-31T01:39:18Z",
-      "updated_at": "2026-09-05T04:38:34Z"
+      "updated_at": "2026-09-06T04:47:15Z"
     },
     {
       "full_name": "Albert-Weasker/niubigeo",
       "html_url": "https://github.com/Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports",
-      "stargazers_count": 418,
+      "stargazers_count": 464,
       "language": "TypeScript",
       "created_at": "2026-09-03T15:55:54Z",
-      "updated_at": "2026-09-05T04:41:29Z"
-    },
-    {
-      "full_name": "kydlikebtc/awesome-grokbot",
-      "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
-      "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-      "stargazers_count": 307,
-      "language": "Python",
-      "created_at": "2026-09-01T02:30:25Z",
-      "updated_at": "2026-09-05T03:00:40Z"
-    },
-    {
-      "full_name": "LunarXuan/image-prompt-reverse",
-      "html_url": "https://github.com/LunarXuan/image-prompt-reverse",
-      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
-      "stargazers_count": 286,
-      "language": null,
-      "created_at": "2026-09-01T17:36:22Z",
-      "updated_at": "2026-09-05T03:51:54Z"
+      "updated_at": "2026-09-06T04:43:50Z"
     },
     {
       "full_name": "yilujian/easy-writing",
       "html_url": "https://github.com/yilujian/easy-writing",
       "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
-      "stargazers_count": 279,
+      "stargazers_count": 342,
       "language": "Vue",
       "created_at": "2026-08-31T09:22:41Z",
-      "updated_at": "2026-09-05T04:22:18Z"
+      "updated_at": "2026-09-06T04:55:26Z"
+    },
+    {
+      "full_name": "kydlikebtc/awesome-grokbot",
+      "html_url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "stargazers_count": 325,
+      "language": "Python",
+      "created_at": "2026-09-01T02:30:25Z",
+      "updated_at": "2026-09-06T00:19:29Z"
+    },
+    {
+      "full_name": "pierrenade/short-video-generator-AI",
+      "html_url": "https://github.com/pierrenade/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stargazers_count": 314,
+      "language": "Python",
+      "created_at": "2026-09-05T11:55:18Z",
+      "updated_at": "2026-09-06T04:54:00Z"
+    },
+    {
+      "full_name": "LunarXuan/image-prompt-reverse",
+      "html_url": "https://github.com/LunarXuan/image-prompt-reverse",
+      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "stargazers_count": 297,
+      "language": null,
+      "created_at": "2026-09-01T17:36:22Z",
+      "updated_at": "2026-09-06T02:49:33Z"
     },
     {
       "full_name": "gozen3ji/consulting-pptx-skill",
       "html_url": "https://github.com/gozen3ji/consulting-pptx-skill",
       "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stargazers_count": 223,
+      "stargazers_count": 239,
       "language": "JavaScript",
       "created_at": "2026-09-02T11:53:05Z",
-      "updated_at": "2026-09-05T04:26:27Z"
+      "updated_at": "2026-09-05T23:48:27Z"
     },
     {
-      "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-      "html_url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "stargazers_count": 171,
-      "language": "Astro",
-      "created_at": "2026-09-02T16:32:59Z",
-      "updated_at": "2026-09-05T04:44:57Z"
-    },
-    {
-      "full_name": "dreamers-laboratory/agent-fleet-manager",
-      "html_url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
-      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
-      "stargazers_count": 171,
-      "language": "Python",
-      "created_at": "2026-09-02T06:38:12Z",
-      "updated_at": "2026-09-03T13:19:09Z"
-    },
-    {
-      "full_name": "jarrenrocks/bot-crossing",
-      "html_url": "https://github.com/jarrenrocks/bot-crossing",
-      "description": "A video game for AI agents.",
-      "stargazers_count": 156,
+      "full_name": "joeseesun/qiaomu-book-reader",
+      "html_url": "https://github.com/joeseesun/qiaomu-book-reader",
+      "description": "在 Obsidian 中读书、就地问 AI、保存 Markdown 笔记 | Read EPUB/PDF, ask AI beside the page, and keep your notes locally.",
+      "stargazers_count": 228,
       "language": "JavaScript",
-      "created_at": "2026-09-01T19:56:46Z",
-      "updated_at": "2026-09-05T02:25:12Z"
+      "created_at": "2026-09-01T11:55:53Z",
+      "updated_at": "2026-09-06T04:03:49Z"
+    },
+    {
+      "full_name": "tigerless-labs/agent-memory",
+      "html_url": "https://github.com/tigerless-labs/agent-memory",
+      "description": null,
+      "stargazers_count": 227,
+      "language": "Python",
+      "created_at": "2026-09-01T21:52:29Z",
+      "updated_at": "2026-09-06T04:52:54Z"
     }
   ]
 }
