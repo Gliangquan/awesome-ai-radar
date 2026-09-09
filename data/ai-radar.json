@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T04:57:39.964Z",
-  "since": "2026-09-01",
+  "updatedAt": "2026-09-09T04:57:38.996Z",
+  "since": "2026-09-02",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "pierrenade/short-video-generator-AI",
-      "html_url": "https://github.com/pierrenade/short-video-generator-AI",
-      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-      "stargazers_count": 1185,
-      "language": "Python",
-      "created_at": "2026-09-05T11:55:18Z",
-      "updated_at": "2026-09-08T04:28:52Z"
-    },
-    {
       "full_name": "Albert-Weasker/niubigeo",
       "html_url": "https://github.com/Albert-Weasker/niubigeo",
       "description": "Open-source AI brand visibility and competitor reports",
-      "stargazers_count": 680,
+      "stargazers_count": 2177,
       "language": "TypeScript",
       "created_at": "2026-09-03T15:55:54Z",
-      "updated_at": "2026-09-08T04:49:37Z"
+      "updated_at": "2026-09-09T04:55:11Z"
     },
     {
       "full_name": "okf-memory/okf-agent-memory",
       "html_url": "https://github.com/okf-memory/okf-agent-memory",
       "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stargazers_count": 470,
+      "stargazers_count": 498,
       "language": "Go",
       "created_at": "2026-09-05T21:26:04Z",
-      "updated_at": "2026-09-08T04:49:22Z"
-    },
-    {
-      "full_name": "adtexterry-lgtm/unigit-ecosystem",
-      "html_url": "https://github.com/adtexterry-lgtm/unigit-ecosystem",
-      "description": "UNIGIT public brand and ecosystem hub — AI should work for everyone.",
-      "stargazers_count": 413,
-      "language": "JavaScript",
-      "created_at": "2026-09-02T10:08:01Z",
-      "updated_at": "2026-09-08T03:20:58Z"
-    },
-    {
-      "full_name": "carnot-tech/consulting-pptx-skill",
-      "html_url": "https://github.com/carnot-tech/consulting-pptx-skill",
-      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック",
-      "stargazers_count": 282,
-      "language": "JavaScript",
-      "created_at": "2026-09-02T11:53:05Z",
-      "updated_at": "2026-09-08T04:40:19Z"
-    },
-    {
-      "full_name": "Agenta-AI/awesome-ai-agent-platforms",
-      "html_url": "https://github.com/Agenta-AI/awesome-ai-agent-platforms",
-      "description": "A curated list of open-source AI agent platforms: AI coworkers and teammates, agent builders and frameworks, workflow automation platforms, browser agents, and coding agents, with licenses.",
-      "stargazers_count": 265,
-      "language": "Astro",
-      "created_at": "2026-09-02T16:32:59Z",
-      "updated_at": "2026-09-08T02:58:20Z"
+      "updated_at": "2026-09-09T04:19:16Z"
     },
     {
       "full_name": "achimala/dream-loop",
       "html_url": "https://github.com/achimala/dream-loop",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "stargazers_count": 230,
+      "stargazers_count": 390,
       "language": null,
       "created_at": "2026-09-07T14:19:20Z",
-      "updated_at": "2026-09-08T04:48:38Z"
+      "updated_at": "2026-09-09T04:33:17Z"
     },
     {
-      "full_name": "Yean-Sec/StrikeAgent_AtkBrain-Flash",
-      "html_url": "https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash",
-      "description": "由夜安团队研发的AI渗透测试平台，涵盖红队打点、SRC、CTF，特别是在红队领域有极为亮眼的存在",
-      "stargazers_count": 208,
+      "full_name": "AI-FanGe/Microduck-build-tutorial",
+      "html_url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
+      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+      "stargazers_count": 378,
       "language": "Python",
-      "created_at": "2026-09-02T08:23:45Z",
-      "updated_at": "2026-09-08T04:57:26Z"
+      "created_at": "2026-09-04T17:18:43Z",
+      "updated_at": "2026-09-09T04:56:54Z"
     },
     {
-      "full_name": "alchaincyf/huashu-mac-use",
-      "html_url": "https://github.com/alchaincyf/huashu-mac-use",
-      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
-      "stargazers_count": 202,
-      "language": "Swift",
-      "created_at": "2026-09-06T14:29:13Z",
-      "updated_at": "2026-09-08T04:42:35Z"
-    },
-    {
-      "full_name": "dreamers-laboratory/agent-fleet-manager",
-      "html_url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
-      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
-      "stargazers_count": 170,
-      "language": "Python",
-      "created_at": "2026-09-02T06:38:12Z",
-      "updated_at": "2026-09-07T08:40:23Z"
+      "full_name": "lfzk550/fanzha-ai-proxy",
+      "html_url": "https://github.com/lfzk550/fanzha-ai-proxy",
+      "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "stargazers_count": 318,
+      "language": null,
+      "created_at": "2026-09-07T10:05:28Z",
+      "updated_at": "2026-09-09T04:40:36Z"
     },
     {
       "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
       "html_url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
       "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-      "stargazers_count": 167,
+      "stargazers_count": 251,
       "language": null,
       "created_at": "2026-09-05T16:46:07Z",
-      "updated_at": "2026-09-08T04:44:00Z"
+      "updated_at": "2026-09-09T03:53:18Z"
+    },
+    {
+      "full_name": "ScottStevenson/SuperAstra",
+      "html_url": "https://github.com/ScottStevenson/SuperAstra",
+      "description": "Change SNES games with AI while you play them.",
+      "stargazers_count": 222,
+      "language": "Python",
+      "created_at": "2026-09-06T18:31:25Z",
+      "updated_at": "2026-09-09T04:39:38Z"
+    },
+    {
+      "full_name": "alchaincyf/huashu-mac-use",
+      "html_url": "https://github.com/alchaincyf/huashu-mac-use",
+      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "stargazers_count": 221,
+      "language": "Swift",
+      "created_at": "2026-09-06T14:29:13Z",
+      "updated_at": "2026-09-09T03:45:27Z"
+    },
+    {
+      "full_name": "noskillish/bankmcp",
+      "html_url": "https://github.com/noskillish/bankmcp",
+      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+      "stargazers_count": 164,
+      "language": "TypeScript",
+      "created_at": "2026-09-07T09:06:03Z",
+      "updated_at": "2026-09-09T03:55:13Z"
+    },
+    {
+      "full_name": "int64ago/vistep",
+      "html_url": "https://github.com/int64ago/vistep",
+      "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
+      "stargazers_count": 147,
+      "language": "TypeScript",
+      "created_at": "2026-09-05T03:34:58Z",
+      "updated_at": "2026-09-09T04:32:28Z"
     },
     {
       "full_name": "blendi-remade/unreel",
       "html_url": "https://github.com/blendi-remade/unreel",
       "description": "Your personal AI video streaming service",
-      "stargazers_count": 138,
+      "stargazers_count": 140,
       "language": "TypeScript",
       "created_at": "2026-09-03T01:49:07Z",
-      "updated_at": "2026-09-08T02:46:50Z"
+      "updated_at": "2026-09-09T02:59:01Z"
+    },
+    {
+      "full_name": "xflare-bot/pokemonlive",
+      "html_url": "https://github.com/xflare-bot/pokemonlive",
+      "description": "Local Pokemon battle prototype with AI-generated cinematics",
+      "stargazers_count": 128,
+      "language": "JavaScript",
+      "created_at": "2026-09-06T13:19:25Z",
+      "updated_at": "2026-09-09T02:50:40Z"
     }
   ]
 }
