@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T05:00:35.033Z",
-  "since": "2026-09-03",
+  "updatedAt": "2026-09-11T04:56:58.268Z",
+  "since": "2026-09-04",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,40 +8,67 @@
   ],
   "items": [
     {
-      "full_name": "AI-FanGe/Microduck-build-tutorial",
-      "html_url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
-      "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
-      "stargazers_count": 577,
+      "full_name": "Edge0-AI/Edge0",
+      "html_url": "https://github.com/Edge0-AI/Edge0",
+      "description": null,
+      "stargazers_count": 1075,
       "language": "Python",
-      "created_at": "2026-09-04T17:18:43Z",
-      "updated_at": "2026-09-10T04:51:57Z"
+      "created_at": "2026-09-08T13:41:47Z",
+      "updated_at": "2026-09-11T04:56:01Z"
     },
     {
-      "full_name": "okf-memory/okf-agent-memory",
-      "html_url": "https://github.com/okf-memory/okf-agent-memory",
-      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-      "stargazers_count": 523,
-      "language": "Go",
-      "created_at": "2026-09-05T21:26:04Z",
-      "updated_at": "2026-09-10T03:08:22Z"
+      "full_name": "iamzulx/crypto-rag",
+      "html_url": "https://github.com/iamzulx/crypto-rag",
+      "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
+      "stargazers_count": 899,
+      "language": "Python",
+      "created_at": "2026-09-05T06:20:08Z",
+      "updated_at": "2026-09-11T01:34:37Z"
     },
     {
       "full_name": "achimala/dream-loop",
       "html_url": "https://github.com/achimala/dream-loop",
       "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-      "stargazers_count": 515,
+      "stargazers_count": 753,
       "language": "JavaScript",
       "created_at": "2026-09-07T14:19:20Z",
-      "updated_at": "2026-09-10T04:58:55Z"
+      "updated_at": "2026-09-11T04:27:49Z"
+    },
+    {
+      "full_name": "okf-memory/okf-agent-memory",
+      "html_url": "https://github.com/okf-memory/okf-agent-memory",
+      "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "stargazers_count": 551,
+      "language": "Go",
+      "created_at": "2026-09-05T21:26:04Z",
+      "updated_at": "2026-09-11T04:28:56Z"
     },
     {
       "full_name": "lfzk550/fanzha-ai-proxy",
       "html_url": "https://github.com/lfzk550/fanzha-ai-proxy",
       "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
-      "stargazers_count": 394,
+      "stargazers_count": 440,
       "language": null,
       "created_at": "2026-09-07T10:05:28Z",
-      "updated_at": "2026-09-10T04:22:14Z"
+      "updated_at": "2026-09-11T04:54:45Z"
+    },
+    {
+      "full_name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "html_url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+      "description": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance.",
+      "stargazers_count": 339,
+      "language": "C++",
+      "created_at": "2026-09-05T23:32:00Z",
+      "updated_at": "2026-09-11T04:22:48Z"
+    },
+    {
+      "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "html_url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
+      "stargazers_count": 331,
+      "language": null,
+      "created_at": "2026-09-05T16:46:07Z",
+      "updated_at": "2026-09-11T04:44:48Z"
     },
     {
       "full_name": "yudaprasetya007/routeVSCODE",
@@ -53,67 +80,40 @@
       "updated_at": "2026-09-10T01:40:38Z"
     },
     {
-      "full_name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "html_url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
-      "description": "An AI toolkit that turns agents into teachers rather than code yapping machines",
-      "stargazers_count": 298,
-      "language": null,
-      "created_at": "2026-09-05T16:46:07Z",
-      "updated_at": "2026-09-10T02:47:27Z"
+      "full_name": "Colafornia/short-video-generator-AI",
+      "html_url": "https://github.com/Colafornia/short-video-generator-AI",
+      "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "stargazers_count": 293,
+      "language": "Python",
+      "created_at": "2026-09-08T14:55:47Z",
+      "updated_at": "2026-09-11T04:45:25Z"
     },
     {
-      "full_name": "ScottStevenson/SuperAstra",
-      "html_url": "https://github.com/ScottStevenson/SuperAstra",
-      "description": "Change SNES games with AI while you play them.",
-      "stargazers_count": 242,
+      "full_name": "SpaceDudem/text-humanizer",
+      "html_url": "https://github.com/SpaceDudem/text-humanizer",
+      "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+      "stargazers_count": 272,
       "language": "Python",
-      "created_at": "2026-09-06T18:31:25Z",
-      "updated_at": "2026-09-10T03:01:22Z"
+      "created_at": "2026-09-08T15:28:28Z",
+      "updated_at": "2026-09-11T04:51:30Z"
     },
     {
       "full_name": "browser-use/browser-use-pi",
       "html_url": "https://github.com/browser-use/browser-use-pi",
       "description": "A tiny TypeScript web agent, hill climbed on real browser evals.",
-      "stargazers_count": 238,
+      "stargazers_count": 266,
       "language": "JavaScript",
       "created_at": "2026-09-05T19:47:45Z",
-      "updated_at": "2026-09-10T04:54:21Z"
+      "updated_at": "2026-09-11T01:42:13Z"
     },
     {
-      "full_name": "alchaincyf/huashu-mac-use",
-      "html_url": "https://github.com/alchaincyf/huashu-mac-use",
-      "description": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
-      "stargazers_count": 228,
-      "language": "Swift",
-      "created_at": "2026-09-06T14:29:13Z",
-      "updated_at": "2026-09-09T22:59:51Z"
-    },
-    {
-      "full_name": "ikevss/wechat-ai-memory",
-      "html_url": "https://github.com/ikevss/wechat-ai-memory",
-      "description": "本地优先的 Windows 微信个人记忆库：筛选、归档并导出可追溯的聊天上下文",
-      "stargazers_count": 199,
-      "language": null,
-      "created_at": "2026-09-04T09:07:00Z",
-      "updated_at": "2026-09-10T04:44:44Z"
-    },
-    {
-      "full_name": "noskillish/bankmcp",
-      "html_url": "https://github.com/noskillish/bankmcp",
-      "description": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
-      "stargazers_count": 173,
-      "language": "TypeScript",
-      "created_at": "2026-09-07T09:06:03Z",
-      "updated_at": "2026-09-09T21:01:26Z"
-    },
-    {
-      "full_name": "int64ago/vistep",
-      "html_url": "https://github.com/int64ago/vistep",
-      "description": "Visualize Every Step with AI — bilingual visual explanations, interactive models and synchronized narration.",
-      "stargazers_count": 162,
-      "language": "TypeScript",
-      "created_at": "2026-09-05T03:34:58Z",
-      "updated_at": "2026-09-09T12:13:31Z"
+      "full_name": "deepseek-ai/DeepSelect",
+      "html_url": "https://github.com/deepseek-ai/DeepSelect",
+      "description": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
+      "stargazers_count": 251,
+      "language": "Cuda",
+      "created_at": "2026-09-09T14:38:04Z",
+      "updated_at": "2026-09-11T03:44:00Z"
     }
   ]
 }
