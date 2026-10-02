@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-01T06:17:56.605Z",
-  "since": "2026-09-24",
+  "updatedAt": "2026-10-02T05:57:56.181Z",
+  "since": "2026-09-25",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "KKKKhazix/AIHOT",
       "html_url": "https://github.com/KKKKhazix/AIHOT",
       "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-      "stargazers_count": 4200,
+      "stargazers_count": 4756,
       "language": "TypeScript",
       "created_at": "2026-09-28T23:40:05Z",
-      "updated_at": "2026-10-01T06:17:03Z"
+      "updated_at": "2026-10-02T05:57:25Z"
+    },
+    {
+      "full_name": "Louis-CFM/coucou",
+      "html_url": "https://github.com/Louis-CFM/coucou",
+      "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+      "stargazers_count": 2563,
+      "language": "Swift",
+      "created_at": "2026-09-27T21:54:12Z",
+      "updated_at": "2026-10-02T05:57:30Z"
     },
     {
       "full_name": "feder-cr/dots",
       "html_url": "https://github.com/feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-      "stargazers_count": 1949,
+      "stargazers_count": 2403,
       "language": "Python",
       "created_at": "2026-09-29T23:06:00Z",
-      "updated_at": "2026-10-01T06:10:36Z"
+      "updated_at": "2026-10-02T05:20:47Z"
     },
     {
       "full_name": "dzhng/jevgrep",
       "html_url": "https://github.com/dzhng/jevgrep",
       "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-      "stargazers_count": 1921,
+      "stargazers_count": 2012,
       "language": "TypeScript",
       "created_at": "2026-09-26T04:06:56Z",
-      "updated_at": "2026-10-01T06:13:46Z"
+      "updated_at": "2026-10-02T05:47:48Z"
     },
     {
       "full_name": "kaankiziltug/logo-design-skill",
       "html_url": "https://github.com/kaankiziltug/logo-design-skill",
       "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-      "stargazers_count": 1174,
+      "stargazers_count": 1380,
       "language": "HTML",
       "created_at": "2026-09-26T08:23:34Z",
-      "updated_at": "2026-10-01T06:07:32Z"
+      "updated_at": "2026-10-02T05:51:16Z"
     },
     {
       "full_name": "feitangyuan/onetake",
       "html_url": "https://github.com/feitangyuan/onetake",
       "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-      "stargazers_count": 1077,
+      "stargazers_count": 1170,
       "language": "Python",
       "created_at": "2026-09-26T05:35:17Z",
-      "updated_at": "2026-10-01T06:01:04Z"
+      "updated_at": "2026-10-02T05:57:54Z"
     },
     {
-      "full_name": "lemomo-ai/lemo-opuscar",
-      "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
-      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-      "stargazers_count": 704,
-      "language": "JavaScript",
-      "created_at": "2026-09-26T10:10:41Z",
-      "updated_at": "2026-10-01T06:13:28Z"
+      "full_name": "nanaism/yomiyasu",
+      "html_url": "https://github.com/nanaism/yomiyasu",
+      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "stargazers_count": 1041,
+      "language": "Python",
+      "created_at": "2026-09-30T11:49:32Z",
+      "updated_at": "2026-10-02T05:53:34Z"
     },
     {
       "full_name": "echris6/motion-video-kit",
       "html_url": "https://github.com/echris6/motion-video-kit",
       "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-      "stargazers_count": 656,
+      "stargazers_count": 916,
       "language": "Python",
       "created_at": "2026-09-27T14:11:14Z",
-      "updated_at": "2026-10-01T06:15:22Z"
+      "updated_at": "2026-10-02T05:41:03Z"
     },
     {
-      "full_name": "nanaism/yomiyasu",
-      "html_url": "https://github.com/nanaism/yomiyasu",
-      "description": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
-      "stargazers_count": 592,
-      "language": "Python",
-      "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-01T06:14:39Z"
-    },
-    {
-      "full_name": "JoasASantos/Offensive-Security-AI-Models",
-      "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-      "stargazers_count": 489,
-      "language": null,
-      "created_at": "2026-09-27T20:36:30Z",
-      "updated_at": "2026-10-01T06:00:53Z"
+      "full_name": "lemomo-ai/lemo-opuscar",
+      "html_url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "stargazers_count": 783,
+      "language": "JavaScript",
+      "created_at": "2026-09-26T10:10:41Z",
+      "updated_at": "2026-10-02T05:26:56Z"
     },
     {
       "full_name": "edenfunf/reelmimic",
       "html_url": "https://github.com/edenfunf/reelmimic",
       "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-      "stargazers_count": 481,
+      "stargazers_count": 710,
       "language": "JavaScript",
       "created_at": "2026-09-28T19:14:59Z",
-      "updated_at": "2026-10-01T06:17:38Z"
+      "updated_at": "2026-10-02T05:56:38Z"
     },
     {
-      "full_name": "amitshekhariitbhu/ai-system-design",
-      "html_url": "https://github.com/amitshekhariitbhu/ai-system-design",
-      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-      "stargazers_count": 479,
-      "language": "Markdown",
-      "created_at": "2026-09-25T04:50:06Z",
-      "updated_at": "2026-10-01T04:37:04Z"
-    },
-    {
-      "full_name": "AgentSystemLabs/agent-office",
-      "html_url": "https://github.com/AgentSystemLabs/agent-office",
-      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
-      "stargazers_count": 450,
+      "full_name": "CopilotKit/OpenDots",
+      "html_url": "https://github.com/CopilotKit/OpenDots",
+      "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+      "stargazers_count": 598,
       "language": "TypeScript",
-      "created_at": "2026-09-26T00:32:48Z",
-      "updated_at": "2026-10-01T05:14:51Z"
+      "created_at": "2026-09-29T17:13:58Z",
+      "updated_at": "2026-10-02T05:57:15Z"
+    },
+    {
+      "full_name": "Edwardxlai/easyread",
+      "html_url": "https://github.com/Edwardxlai/easyread",
+      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+      "stargazers_count": 536,
+      "language": "JavaScript",
+      "created_at": "2026-09-30T12:52:24Z",
+      "updated_at": "2026-10-02T05:57:14Z"
     }
   ]
 }
