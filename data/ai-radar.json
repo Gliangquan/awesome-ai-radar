@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T06:38:56.866Z",
-  "since": "2026-09-29",
+  "updatedAt": "2026-10-07T06:16:05.189Z",
+  "since": "2026-09-30",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "nanaism/yomiyasu",
-      "html_url": "https://github.com/nanaism/yomiyasu",
-      "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-      "stargazers_count": 1546,
-      "language": "Python",
-      "created_at": "2026-09-30T11:49:32Z",
-      "updated_at": "2026-10-06T06:33:20Z"
-    },
-    {
       "full_name": "QingYunA/answer-me-with-html",
       "html_url": "https://github.com/QingYunA/answer-me-with-html",
       "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "stargazers_count": 1537,
+      "stargazers_count": 1846,
       "language": "JavaScript",
       "created_at": "2026-10-02T09:57:40Z",
-      "updated_at": "2026-10-06T06:36:58Z"
-    },
-    {
-      "full_name": "Edwardxlai/easyread",
-      "html_url": "https://github.com/Edwardxlai/easyread",
-      "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-      "stargazers_count": 812,
-      "language": "Python",
-      "created_at": "2026-09-30T12:52:24Z",
-      "updated_at": "2026-10-06T06:33:40Z"
-    },
-    {
-      "full_name": "oil-oil/oil-ui",
-      "html_url": "https://github.com/oil-oil/oil-ui",
-      "description": "把 AI 的 UI 设计能力推到极限。",
-      "stargazers_count": 653,
-      "language": "Python",
-      "created_at": "2026-09-30T03:55:35Z",
-      "updated_at": "2026-10-06T06:12:30Z"
-    },
-    {
-      "full_name": "whirlchat/whirl",
-      "html_url": "https://github.com/whirlchat/whirl",
-      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-      "stargazers_count": 481,
-      "language": "TypeScript",
-      "created_at": "2026-10-02T13:50:42Z",
-      "updated_at": "2026-10-06T03:20:42Z"
-    },
-    {
-      "full_name": "zzzz7788990213-ops/EvoVLM",
-      "html_url": "https://github.com/zzzz7788990213-ops/EvoVLM",
-      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
-      "stargazers_count": 444,
-      "language": "Python",
-      "created_at": "2026-10-02T01:03:55Z",
-      "updated_at": "2026-10-06T06:18:36Z"
+      "updated_at": "2026-10-07T06:11:15Z"
     },
     {
       "full_name": "elstongun/leviathan",
       "html_url": "https://github.com/elstongun/leviathan",
       "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "stargazers_count": 441,
+      "stargazers_count": 647,
       "language": "Rust",
       "created_at": "2026-10-05T08:57:44Z",
-      "updated_at": "2026-10-06T06:37:47Z"
-    },
-    {
-      "full_name": "Minorthedisengage/Discord-Server-Raider",
-      "html_url": "https://github.com/Minorthedisengage/Discord-Server-Raider",
-      "description": "Discord Server Raider is an AI-driven tool that optimizes server management and enhances user experience without any connection to Apple or iOS devices;...",
-      "stargazers_count": 392,
-      "language": null,
-      "created_at": "2026-10-05T10:21:03Z",
-      "updated_at": "2026-10-05T21:41:24Z"
-    },
-    {
-      "full_name": "blendi-remade/agentcraft",
-      "html_url": "https://github.com/blendi-remade/agentcraft",
-      "description": null,
-      "stargazers_count": 386,
-      "language": "Java",
-      "created_at": "2026-10-03T00:59:54Z",
-      "updated_at": "2026-10-06T06:36:50Z"
-    },
-    {
-      "full_name": "allenv0/SCM",
-      "html_url": "https://github.com/allenv0/SCM",
-      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
-      "stargazers_count": 383,
-      "language": "JavaScript",
-      "created_at": "2026-10-03T16:11:55Z",
-      "updated_at": "2026-10-06T05:23:48Z"
-    },
-    {
-      "full_name": "DozenTwelve/Papermorph",
-      "html_url": "https://github.com/DozenTwelve/Papermorph",
-      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-      "stargazers_count": 349,
-      "language": "HTML",
-      "created_at": "2026-10-03T01:38:22Z",
-      "updated_at": "2026-10-06T06:37:43Z"
+      "updated_at": "2026-10-07T05:35:47Z"
     },
     {
       "full_name": "AgentMemoryRepo/agentmemoryrepo",
       "html_url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
       "description": "Spec for Agent Memory Repo",
-      "stargazers_count": 331,
+      "stargazers_count": 585,
       "language": null,
       "created_at": "2026-10-04T22:10:48Z",
-      "updated_at": "2026-10-06T06:38:54Z"
+      "updated_at": "2026-10-07T05:30:47Z"
+    },
+    {
+      "full_name": "zzzz7788990213-ops/EvoVLM",
+      "html_url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+      "description": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference.",
+      "stargazers_count": 507,
+      "language": "Python",
+      "created_at": "2026-10-02T01:03:55Z",
+      "updated_at": "2026-10-07T03:58:06Z"
+    },
+    {
+      "full_name": "whirlchat/whirl",
+      "html_url": "https://github.com/whirlchat/whirl",
+      "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+      "stargazers_count": 491,
+      "language": "TypeScript",
+      "created_at": "2026-10-02T13:50:42Z",
+      "updated_at": "2026-10-07T06:00:13Z"
+    },
+    {
+      "full_name": "DozenTwelve/Papermorph",
+      "html_url": "https://github.com/DozenTwelve/Papermorph",
+      "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+      "stargazers_count": 468,
+      "language": "HTML",
+      "created_at": "2026-10-03T01:38:22Z",
+      "updated_at": "2026-10-07T06:06:18Z"
+    },
+    {
+      "full_name": "blendi-remade/agentcraft",
+      "html_url": "https://github.com/blendi-remade/agentcraft",
+      "description": null,
+      "stargazers_count": 423,
+      "language": "Java",
+      "created_at": "2026-10-03T00:59:54Z",
+      "updated_at": "2026-10-07T04:54:05Z"
+    },
+    {
+      "full_name": "allenv0/SCM",
+      "html_url": "https://github.com/allenv0/SCM",
+      "description": "Deep AI search for every photo and every frame of video in any folder on macOS",
+      "stargazers_count": 414,
+      "language": "JavaScript",
+      "created_at": "2026-10-03T16:11:55Z",
+      "updated_at": "2026-10-07T04:39:39Z"
+    },
+    {
+      "full_name": "shinshin86/mesh-avatar-studio",
+      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "stargazers_count": 412,
+      "language": "TypeScript",
+      "created_at": "2026-10-04T03:33:57Z",
+      "updated_at": "2026-10-07T06:14:37Z"
+    },
+    {
+      "full_name": "genex-games/genex-desktop",
+      "html_url": "https://github.com/genex-games/genex-desktop",
+      "description": "Desktop app for game dev with AI. macOS and Linux, Windows soon.",
+      "stargazers_count": 386,
+      "language": "TypeScript",
+      "created_at": "2026-10-02T17:17:59Z",
+      "updated_at": "2026-10-07T05:24:52Z"
+    },
+    {
+      "full_name": "Adolanium/hermes-gadget-sdk",
+      "html_url": "https://github.com/Adolanium/hermes-gadget-sdk",
+      "description": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator.",
+      "stargazers_count": 302,
+      "language": "C++",
+      "created_at": "2026-10-03T10:08:24Z",
+      "updated_at": "2026-10-07T05:51:18Z"
+    },
+    {
+      "full_name": "BootLoops-ai/bootloops",
+      "html_url": "https://github.com/BootLoops-ai/bootloops",
+      "description": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0.",
+      "stargazers_count": 298,
+      "language": "Python",
+      "created_at": "2026-10-01T15:29:28Z",
+      "updated_at": "2026-10-07T05:57:18Z"
     }
   ]
 }
