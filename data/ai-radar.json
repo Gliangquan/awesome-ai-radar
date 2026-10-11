@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-10T06:09:49.031Z",
-  "since": "2026-10-03",
+  "updatedAt": "2026-10-11T06:07:32.508Z",
+  "since": "2026-10-04",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,37 +11,37 @@
       "full_name": "mhtsec/ARTEX",
       "html_url": "https://github.com/mhtsec/ARTEX",
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stargazers_count": 2466,
+      "stargazers_count": 2989,
       "language": "Go",
       "created_at": "2026-10-08T05:33:06Z",
-      "updated_at": "2026-10-10T06:08:52Z"
+      "updated_at": "2026-10-11T06:06:30Z"
     },
     {
       "full_name": "LosaLosSantos/aurelio-finance",
       "html_url": "https://github.com/LosaLosSantos/aurelio-finance",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-      "stargazers_count": 1556,
+      "stargazers_count": 2095,
       "language": "Python",
       "created_at": "2026-10-06T20:14:19Z",
-      "updated_at": "2026-10-10T02:23:30Z"
+      "updated_at": "2026-10-11T04:33:32Z"
     },
     {
       "full_name": "elstongun/leviathan",
       "html_url": "https://github.com/elstongun/leviathan",
       "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-      "stargazers_count": 716,
+      "stargazers_count": 735,
       "language": "Rust",
       "created_at": "2026-10-05T08:57:44Z",
-      "updated_at": "2026-10-10T05:58:02Z"
+      "updated_at": "2026-10-11T05:18:59Z"
     },
     {
-      "full_name": "AgentMemoryRepo/agentmemoryrepo",
-      "html_url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
-      "description": "Spec for Agent Memory Repo",
-      "stargazers_count": 674,
-      "language": null,
-      "created_at": "2026-10-04T22:10:48Z",
-      "updated_at": "2026-10-10T05:14:47Z"
+      "full_name": "ThariqS/ai-newtab",
+      "html_url": "https://github.com/ThariqS/ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "stargazers_count": 705,
+      "language": "TypeScript",
+      "created_at": "2026-10-08T17:44:43Z",
+      "updated_at": "2026-10-11T05:56:13Z"
     },
     {
       "full_name": "navyofficerpipe/Discord-Server-Raider",
@@ -53,67 +53,67 @@
       "updated_at": "2026-10-09T19:40:58Z"
     },
     {
-      "full_name": "shinshin86/mesh-avatar-studio",
-      "html_url": "https://github.com/shinshin86/mesh-avatar-studio",
-      "description": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
-      "stargazers_count": 573,
-      "language": "TypeScript",
-      "created_at": "2026-10-04T03:33:57Z",
-      "updated_at": "2026-10-10T05:17:56Z"
-    },
-    {
-      "full_name": "ThariqS/ai-newtab",
-      "html_url": "https://github.com/ThariqS/ai-newtab",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "stargazers_count": 557,
-      "language": "TypeScript",
-      "created_at": "2026-10-08T17:44:43Z",
-      "updated_at": "2026-10-10T06:05:24Z"
-    },
-    {
       "full_name": "franzenzenhofer/big-arrow-on-the-screen",
       "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stargazers_count": 502,
+      "stargazers_count": 597,
       "language": "Swift",
       "created_at": "2026-10-08T08:39:15Z",
-      "updated_at": "2026-10-10T06:00:59Z"
+      "updated_at": "2026-10-11T05:57:33Z"
+    },
+    {
+      "full_name": "sirioberati/Genjustsu-Open-Source-Workflow",
+      "html_url": "https://github.com/sirioberati/Genjustsu-Open-Source-Workflow",
+      "description": "Open-source AI video replacement workflow by TEIN. Combine depth maps, SAM segmentation, face meshes, and audio processing to replace characters and objects with Seedance. Includes a local web UI to prepare inputs, review masks, preview generations, and export with original audio.",
+      "stargazers_count": 511,
+      "language": "Python",
+      "created_at": "2026-10-06T23:18:18Z",
+      "updated_at": "2026-10-11T06:00:30Z"
+    },
+    {
+      "full_name": "rociiu/talorys",
+      "html_url": "https://github.com/rociiu/talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "stargazers_count": 480,
+      "language": "TypeScript",
+      "created_at": "2026-10-10T09:46:56Z",
+      "updated_at": "2026-10-11T06:06:48Z"
     },
     {
       "full_name": "iamlukethedev/Herald-OS",
       "html_url": "https://github.com/iamlukethedev/Herald-OS",
       "description": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
-      "stargazers_count": 363,
+      "stargazers_count": 408,
       "language": "TypeScript",
       "created_at": "2026-10-06T20:37:44Z",
-      "updated_at": "2026-10-10T03:41:53Z"
-    },
-    {
-      "full_name": "TannerMidd/pi-pocket",
-      "html_url": "https://github.com/TannerMidd/pi-pocket",
-      "description": "A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable",
-      "stargazers_count": 312,
-      "language": "TypeScript",
-      "created_at": "2026-10-04T02:29:57Z",
-      "updated_at": "2026-10-10T06:02:55Z"
+      "updated_at": "2026-10-11T05:39:05Z"
     },
     {
       "full_name": "mushigaite/short-video-maker",
       "html_url": "https://github.com/mushigaite/short-video-maker",
       "description": "A free open-source project designed to turn youtube-videos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content: no pre-clip credits or any watermarks. Designed for creators who want an alternative to short-video SaaS tools like OpusClip or Vidyo.ai for free.",
-      "stargazers_count": 289,
+      "stargazers_count": 291,
       "language": "Python",
       "created_at": "2026-10-05T18:35:21Z",
-      "updated_at": "2026-10-10T03:41:04Z"
+      "updated_at": "2026-10-11T02:30:18Z"
     },
     {
-      "full_name": "chengyi-ai/cy-carousel-skill",
-      "html_url": "https://github.com/chengyi-ai/cy-carousel-skill",
-      "description": "图文轮播 Skill（cy-carousel）：给一个选题，查证、找素材、排版、检查、打包，交付封面＋10 页",
-      "stargazers_count": 284,
+      "full_name": "Jakeschincariol/founder-skill",
+      "html_url": "https://github.com/Jakeschincariol/founder-skill",
+      "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+      "stargazers_count": 255,
       "language": "Python",
-      "created_at": "2026-10-04T13:27:37Z",
-      "updated_at": "2026-10-10T05:55:56Z"
+      "created_at": "2026-10-07T01:07:13Z",
+      "updated_at": "2026-10-11T06:02:10Z"
+    },
+    {
+      "full_name": "OrgoAI/bops",
+      "html_url": "https://github.com/OrgoAI/bops",
+      "description": "Bops: a team of AI bots that run your business ops, each with its own computer, email and phone number. bops.bot",
+      "stargazers_count": 249,
+      "language": "TypeScript",
+      "created_at": "2026-10-06T14:45:00Z",
+      "updated_at": "2026-10-11T05:37:54Z"
     }
   ]
 }
