@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T05:09:30.711Z",
-  "since": "2026-10-07",
+  "updatedAt": "2026-10-15T04:58:06.996Z",
+  "since": "2026-10-08",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "wheresryan22/anatomy",
-      "html_url": "https://github.com/wheresryan22/anatomy",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-      "stargazers_count": 8540,
-      "language": "JavaScript",
-      "created_at": "2026-10-08T10:12:49Z",
-      "updated_at": "2026-10-14T05:09:00Z"
-    },
-    {
-      "full_name": "mhtsec/ARTEX",
-      "html_url": "https://github.com/mhtsec/ARTEX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-      "stargazers_count": 3933,
-      "language": "Go",
-      "created_at": "2026-10-08T05:33:06Z",
-      "updated_at": "2026-10-14T05:06:57Z"
-    },
-    {
       "full_name": "onehumanbeing/esp32-iphone-agent",
       "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stargazers_count": 1678,
-      "language": "Python",
+      "stargazers_count": 2152,
+      "language": "C",
       "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-14T05:08:30Z"
-    },
-    {
-      "full_name": "trhhubsd/ARTEXX",
-      "html_url": "https://github.com/trhhubsd/ARTEXX",
-      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-      "stargazers_count": 1207,
-      "language": "Go",
-      "created_at": "2026-10-08T20:35:22Z",
-      "updated_at": "2026-10-14T02:52:47Z"
+      "updated_at": "2026-10-15T04:50:10Z"
     },
     {
       "full_name": "rociiu/talorys",
       "html_url": "https://github.com/rociiu/talorys",
       "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-      "stargazers_count": 966,
+      "stargazers_count": 1004,
       "language": "TypeScript",
       "created_at": "2026-10-10T09:46:56Z",
-      "updated_at": "2026-10-14T05:05:51Z"
+      "updated_at": "2026-10-15T04:18:37Z"
     },
     {
       "full_name": "zhuyansen/new-term-radar",
       "html_url": "https://github.com/zhuyansen/new-term-radar",
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stargazers_count": 887,
+      "stargazers_count": 975,
       "language": "Python",
       "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-14T04:47:05Z"
+      "updated_at": "2026-10-15T04:58:00Z"
     },
     {
-      "full_name": "ThariqS/ai-newtab",
-      "html_url": "https://github.com/ThariqS/ai-newtab",
-      "description": "Claude generates a daily new tab page based on your browser history.",
-      "stargazers_count": 789,
-      "language": "TypeScript",
-      "created_at": "2026-10-08T17:44:43Z",
-      "updated_at": "2026-10-14T03:26:21Z"
+      "full_name": "marclou/mailcheap",
+      "html_url": "https://github.com/marclou/mailcheap",
+      "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+      "stargazers_count": 933,
+      "language": "JavaScript",
+      "created_at": "2026-10-10T12:55:36Z",
+      "updated_at": "2026-10-15T03:44:59Z"
     },
     {
       "full_name": "jwuthri-cloud/Tracely-ai",
       "html_url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "description": null,
-      "stargazers_count": 760,
+      "stargazers_count": 817,
       "language": "Python",
       "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-10-14T04:16:10Z"
+      "updated_at": "2026-10-14T15:24:11Z"
     },
     {
-      "full_name": "franzenzenhofer/big-arrow-on-the-screen",
-      "html_url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
-      "stargazers_count": 721,
-      "language": "Swift",
-      "created_at": "2026-10-08T08:39:15Z",
-      "updated_at": "2026-10-14T04:58:39Z"
+      "full_name": "deeplethe/solid-glass",
+      "html_url": "https://github.com/deeplethe/solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "stargazers_count": 735,
+      "language": "TypeScript",
+      "created_at": "2026-10-12T09:19:02Z",
+      "updated_at": "2026-10-15T04:56:35Z"
+    },
+    {
+      "full_name": "outcrawlai/scout",
+      "html_url": "https://github.com/outcrawlai/scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "stargazers_count": 698,
+      "language": "TypeScript",
+      "created_at": "2026-10-13T09:18:55Z",
+      "updated_at": "2026-10-15T04:56:19Z"
     },
     {
       "full_name": "nateherkai/roast-room",
       "html_url": "https://github.com/nateherkai/roast-room",
       "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
-      "stargazers_count": 396,
+      "stargazers_count": 548,
       "language": "JavaScript",
       "created_at": "2026-10-10T20:38:58Z",
-      "updated_at": "2026-10-14T04:44:26Z"
+      "updated_at": "2026-10-15T04:49:26Z"
     },
     {
       "full_name": "mrsarac/ff-tracking",
       "html_url": "https://github.com/mrsarac/ff-tracking",
       "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
-      "stargazers_count": 383,
+      "stargazers_count": 405,
       "language": "Rust",
       "created_at": "2026-10-09T11:12:47Z",
-      "updated_at": "2026-10-14T04:48:38Z"
+      "updated_at": "2026-10-15T04:53:09Z"
     },
     {
-      "full_name": "NabilRFG12/Reverse-Engineer-anything",
-      "html_url": "https://github.com/NabilRFG12/Reverse-Engineer-anything",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stargazers_count": 345,
-      "language": null,
-      "created_at": "2026-10-08T22:35:51Z",
-      "updated_at": "2026-10-14T05:04:43Z"
+      "full_name": "juliobsz/skills",
+      "html_url": "https://github.com/juliobsz/skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "stargazers_count": 341,
+      "language": "TypeScript",
+      "created_at": "2026-10-12T00:07:32Z",
+      "updated_at": "2026-10-15T02:25:51Z"
+    },
+    {
+      "full_name": "fayazara/robot-heads",
+      "html_url": "https://github.com/fayazara/robot-heads",
+      "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+      "stargazers_count": 330,
+      "language": "TypeScript",
+      "created_at": "2026-10-09T16:28:47Z",
+      "updated_at": "2026-10-15T02:58:44Z"
+    },
+    {
+      "full_name": "egotoadcitadel/palette-from-image-ai",
+      "html_url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+      "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "stargazers_count": 303,
+      "language": "Python",
+      "created_at": "2026-10-13T17:08:53Z",
+      "updated_at": "2026-10-14T01:17:58Z"
     }
   ]
 }

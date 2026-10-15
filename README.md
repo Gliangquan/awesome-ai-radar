@@ -5,22 +5,22 @@ A public repo that curates fresh AI-related GitHub projects every day.
 ## Daily picks
 
 <!-- PICKS:START -->
-Updated: 2026-10-14T05:09:30.711Z
+Updated: 2026-10-15T04:58:06.996Z
 
 | Rank | Repository | Description | Language | Stars |
 |---:|---|---|---|---:|
-| 1 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. | JavaScript | 8540 |
-| 2 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 | Go | 3933 |
-| 3 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. | Python | 1678 |
-| 4 | [trhhubsd/ARTEXX](https://github.com/trhhubsd/ARTEXX) | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX | Go | 1207 |
-| 5 | [rociiu/talorys](https://github.com/rociiu/talorys) | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. | TypeScript | 966 |
-| 6 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them. | Python | 887 |
-| 7 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | Claude generates a daily new tab page based on your browser history. | TypeScript | 789 |
-| 8 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | No description | Python | 760 |
-| 9 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT. | Swift | 721 |
-| 10 | [nateherkai/roast-room](https://github.com/nateherkai/roast-room) | Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table. | JavaScript | 396 |
-| 11 | [mrsarac/ff-tracking](https://github.com/mrsarac/ff-tracking) | A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized. | Rust | 383 |
-| 12 | [NabilRFG12/Reverse-Engineer-anything](https://github.com/NabilRFG12/Reverse-Engineer-anything) | Reverse engineer anything with agents, from app behavior down to native binaries. | Unknown | 345 |
+| 1 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. | C | 2152 |
+| 2 | [rociiu/talorys](https://github.com/rociiu/talorys) | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry. | TypeScript | 1004 |
+| 3 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them. | Python | 975 |
+| 4 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai. | JavaScript | 933 |
+| 5 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | No description | Python | 817 |
+| 6 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | 735 |
+| 7 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository. | TypeScript | 698 |
+| 8 | [nateherkai/roast-room](https://github.com/nateherkai/roast-room) | Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table. | JavaScript | 548 |
+| 9 | [mrsarac/ff-tracking](https://github.com/mrsarac/ff-tracking) | A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized. | Rust | 405 |
+| 10 | [juliobsz/skills](https://github.com/juliobsz/skills) | An agent skill that builds award-caliber websites from one line | TypeScript | 341 |
+| 11 | [fayazara/robot-heads](https://github.com/fayazara/robot-heads) | Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing. | TypeScript | 330 |
+| 12 | [egotoadcitadel/palette-from-image-ai](https://github.com/egotoadcitadel/palette-from-image-ai) | AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload. | Python | 303 |
 <!-- PICKS:END -->
 
 ## How it works
