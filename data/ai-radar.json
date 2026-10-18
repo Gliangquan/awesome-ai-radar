@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T04:46:59.982Z",
-  "since": "2026-10-10",
+  "updatedAt": "2026-10-18T04:53:33.619Z",
+  "since": "2026-10-11",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "onehumanbeing/esp32-iphone-agent",
-      "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "stargazers_count": 2891,
-      "language": "C",
-      "created_at": "2026-10-11T19:10:25Z",
-      "updated_at": "2026-10-17T04:39:41Z"
-    },
-    {
       "full_name": "deeplethe/solid-glass",
       "html_url": "https://github.com/deeplethe/solid-glass",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "stargazers_count": 1490,
+      "stargazers_count": 1815,
       "language": "TypeScript",
       "created_at": "2026-10-12T09:19:02Z",
-      "updated_at": "2026-10-17T04:42:30Z"
+      "updated_at": "2026-10-18T04:42:15Z"
     },
     {
       "full_name": "feder-cr/git-ai",
       "html_url": "https://github.com/feder-cr/git-ai",
       "description": "Git designed for AI agents.",
-      "stargazers_count": 1070,
+      "stargazers_count": 1146,
       "language": "Go",
       "created_at": "2026-10-15T13:12:02Z",
-      "updated_at": "2026-10-17T04:19:06Z"
+      "updated_at": "2026-10-18T04:23:48Z"
     },
     {
       "full_name": "zhuyansen/new-term-radar",
       "html_url": "https://github.com/zhuyansen/new-term-radar",
       "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "stargazers_count": 1067,
+      "stargazers_count": 1086,
       "language": "Python",
       "created_at": "2026-10-12T07:11:01Z",
-      "updated_at": "2026-10-17T02:58:45Z"
+      "updated_at": "2026-10-18T04:16:41Z"
     },
     {
       "full_name": "outcrawlai/scout",
       "html_url": "https://github.com/outcrawlai/scout",
       "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "stargazers_count": 902,
+      "stargazers_count": 941,
       "language": "TypeScript",
       "created_at": "2026-10-13T09:18:55Z",
-      "updated_at": "2026-10-17T04:35:42Z"
-    },
-    {
-      "full_name": "jwuthri-cloud/Tracely-ai",
-      "html_url": "https://github.com/jwuthri-cloud/Tracely-ai",
-      "description": null,
-      "stargazers_count": 829,
-      "language": "Python",
-      "created_at": "2026-10-11T15:38:03Z",
-      "updated_at": "2026-10-16T12:27:45Z"
-    },
-    {
-      "full_name": "Zfinix/eleven",
-      "html_url": "https://github.com/Zfinix/eleven",
-      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-      "stargazers_count": 629,
-      "language": "TypeScript",
-      "created_at": "2026-10-13T13:47:31Z",
-      "updated_at": "2026-10-17T04:24:38Z"
-    },
-    {
-      "full_name": "yeyuxin777/baoyan-agent-benchmark",
-      "html_url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "stargazers_count": 504,
-      "language": "Python",
-      "created_at": "2026-10-12T09:15:11Z",
-      "updated_at": "2026-10-17T03:42:14Z"
-    },
-    {
-      "full_name": "i12bp8/decomp.wtf",
-      "html_url": "https://github.com/i12bp8/decomp.wtf",
-      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
-      "stargazers_count": 466,
-      "language": "Python",
-      "created_at": "2026-10-13T08:19:01Z",
-      "updated_at": "2026-10-17T04:08:12Z"
+      "updated_at": "2026-10-18T02:49:48Z"
     },
     {
       "full_name": "Leonxlnx/earshot",
       "html_url": "https://github.com/Leonxlnx/earshot",
       "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "stargazers_count": 383,
+      "stargazers_count": 699,
       "language": "Python",
       "created_at": "2026-10-15T06:52:46Z",
-      "updated_at": "2026-10-17T04:40:16Z"
+      "updated_at": "2026-10-18T04:47:51Z"
     },
     {
-      "full_name": "juliobsz/skills",
-      "html_url": "https://github.com/juliobsz/skills",
-      "description": "An agent skill that builds award-caliber websites from one line",
-      "stargazers_count": 375,
+      "full_name": "Zfinix/eleven",
+      "html_url": "https://github.com/Zfinix/eleven",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "stargazers_count": 677,
       "language": "TypeScript",
-      "created_at": "2026-10-12T00:07:32Z",
-      "updated_at": "2026-10-17T04:22:35Z"
+      "created_at": "2026-10-13T13:47:31Z",
+      "updated_at": "2026-10-18T02:28:21Z"
+    },
+    {
+      "full_name": "anujasid/blender-ai-mcp-addon",
+      "html_url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+      "stargazers_count": 652,
+      "language": "Python",
+      "created_at": "2026-10-15T22:30:47Z",
+      "updated_at": "2026-10-18T04:53:06Z"
+    },
+    {
+      "full_name": "yeyuxin777/baoyan-agent-benchmark",
+      "html_url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "stargazers_count": 580,
+      "language": "Python",
+      "created_at": "2026-10-12T09:15:11Z",
+      "updated_at": "2026-10-18T04:52:52Z"
+    },
+    {
+      "full_name": "i12bp8/decomp.wtf",
+      "html_url": "https://github.com/i12bp8/decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "stargazers_count": 491,
+      "language": "Python",
+      "created_at": "2026-10-13T08:19:01Z",
+      "updated_at": "2026-10-18T02:59:16Z"
     },
     {
       "full_name": "BaruqueRodrigues/llm-legislativo",
       "html_url": "https://github.com/BaruqueRodrigues/llm-legislativo",
       "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
-      "stargazers_count": 369,
+      "stargazers_count": 401,
       "language": "Python",
       "created_at": "2026-10-13T23:46:21Z",
-      "updated_at": "2026-10-17T04:24:07Z"
+      "updated_at": "2026-10-18T04:00:41Z"
+    },
+    {
+      "full_name": "juliobsz/skills",
+      "html_url": "https://github.com/juliobsz/skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "stargazers_count": 386,
+      "language": "TypeScript",
+      "created_at": "2026-10-12T00:07:32Z",
+      "updated_at": "2026-10-18T04:32:02Z"
+    },
+    {
+      "full_name": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "html_url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "stargazers_count": 362,
+      "language": "Python",
+      "created_at": "2026-10-13T10:13:21Z",
+      "updated_at": "2026-10-18T04:53:10Z"
     }
   ]
 }
