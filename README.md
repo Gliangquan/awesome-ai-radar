@@ -5,22 +5,22 @@ A public repo that curates fresh AI-related GitHub projects every day.
 ## Daily picks
 
 <!-- PICKS:START -->
-Updated: 2026-10-19T05:01:58.760Z
+Updated: 2026-10-20T05:04:54.292Z
 
 | Rank | Repository | Description | Language | Stars |
 |---:|---|---|---|---:|
-| 1 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | 2316 |
-| 2 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository. | TypeScript | 946 |
-| 3 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | 916 |
-| 4 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration. | Python | 788 |
-| 5 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you. | TypeScript | 763 |
-| 6 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. | JavaScript | 511 |
-| 7 | [i12bp8/decomp.wtf](https://github.com/i12bp8/decomp.wtf) | What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally. | Python | 498 |
-| 8 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result. | Unknown | 460 |
-| 9 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`. | Rust | 438 |
-| 10 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns. | C | 435 |
-| 11 | [BaruqueRodrigues/llm-legislativo](https://github.com/BaruqueRodrigues/llm-legislativo) | Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro. | Python | 418 |
-| 12 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 | Unknown | 409 |
+| 1 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | 2470 |
+| 2 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | 1621 |
+| 3 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. | JavaScript | 996 |
+| 4 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration. | Python | 922 |
+| 5 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns. | C | 596 |
+| 6 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`. | Rust | 509 |
+| 7 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 | Unknown | 496 |
+| 8 | [kitlangton/scrawl](https://github.com/kitlangton/scrawl) | Show an agent a problem: mark up, record, send | Rust | 490 |
+| 9 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing. | Unknown | 422 |
+| 10 | [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle) | Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client. | Rust | 325 |
+| 11 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA. | Python | 291 |
+| 12 | [finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp) | A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Runs on Cloudflare Workers. | TypeScript | 288 |
 <!-- PICKS:END -->
 
 ## How it works
