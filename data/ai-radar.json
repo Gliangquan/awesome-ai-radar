@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T05:02:44.433Z",
-  "since": "2026-10-18",
+  "updatedAt": "2026-10-26T05:06:14.242Z",
+  "since": "2026-10-19",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "dominikmartn/harp",
-      "html_url": "https://github.com/dominikmartn/harp",
-      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "stargazers_count": 604,
-      "language": "Rust",
-      "created_at": "2026-10-20T10:39:43Z",
-      "updated_at": "2026-10-25T01:34:11Z"
-    },
-    {
-      "full_name": "Alejandros17487/ai-jailbreaks",
-      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stargazers_count": 534,
-      "language": null,
-      "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-25T04:44:11Z"
-    },
-    {
-      "full_name": "lesnolie/Tigris",
-      "html_url": "https://github.com/lesnolie/Tigris",
-      "description": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
-      "stargazers_count": 457,
-      "language": "Kotlin",
-      "created_at": "2026-10-20T10:12:05Z",
-      "updated_at": "2026-10-25T04:35:44Z"
-    },
-    {
-      "full_name": "vercel-labs/fx0",
-      "html_url": "https://github.com/vercel-labs/fx0",
-      "description": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
-      "stargazers_count": 398,
-      "language": "TypeScript",
-      "created_at": "2026-10-19T17:27:02Z",
-      "updated_at": "2026-10-24T23:03:56Z"
+      "full_name": "rddmwmddr/android-ad-cleaner",
+      "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "stargazers_count": 1061,
+      "language": "Python",
+      "created_at": "2026-10-24T05:35:47Z",
+      "updated_at": "2026-10-26T05:04:55Z"
     },
     {
       "full_name": "udhaykumarbala/cleanyourtv-app",
       "html_url": "https://github.com/udhaykumarbala/cleanyourtv-app",
       "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
-      "stargazers_count": 371,
+      "stargazers_count": 626,
       "language": "Kotlin",
       "created_at": "2026-10-21T12:42:09Z",
-      "updated_at": "2026-10-25T05:00:45Z"
+      "updated_at": "2026-10-26T04:56:20Z"
     },
     {
-      "full_name": "garycaogan/ai-live-avatar",
-      "html_url": "https://github.com/garycaogan/ai-live-avatar",
-      "description": "AI 实时直播间：Vidu S2 实时数字人 + 弹幕过滤调度 + 衣柜换装 + OBS 叠层（角色资产不含）",
-      "stargazers_count": 350,
-      "language": "Python",
-      "created_at": "2026-10-19T08:10:48Z",
-      "updated_at": "2026-10-25T04:46:31Z"
+      "full_name": "dominikmartn/harp",
+      "html_url": "https://github.com/dominikmartn/harp",
+      "description": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
+      "stargazers_count": 625,
+      "language": "Rust",
+      "created_at": "2026-10-20T10:39:43Z",
+      "updated_at": "2026-10-26T04:18:25Z"
     },
     {
-      "full_name": "actionow-ai/vvv",
-      "html_url": "https://github.com/actionow-ai/vvv",
-      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
-      "stargazers_count": 343,
+      "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+      "stargazers_count": 552,
       "language": "Python",
-      "created_at": "2026-10-22T07:29:54Z",
-      "updated_at": "2026-10-25T05:01:09Z"
+      "created_at": "2026-10-25T10:05:56Z",
+      "updated_at": "2026-10-26T05:04:21Z"
+    },
+    {
+      "full_name": "lesnolie/Tigris",
+      "html_url": "https://github.com/lesnolie/Tigris",
+      "description": "Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.",
+      "stargazers_count": 487,
+      "language": "Kotlin",
+      "created_at": "2026-10-20T10:12:05Z",
+      "updated_at": "2026-10-26T04:28:36Z"
+    },
+    {
+      "full_name": "Alejandros17487/ai-jailbreaks",
+      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
+      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+      "stargazers_count": 487,
+      "language": null,
+      "created_at": "2026-10-21T14:44:06Z",
+      "updated_at": "2026-10-26T03:55:18Z"
+    },
+    {
+      "full_name": "wangrongding/tv-fresh",
+      "html_url": "https://github.com/wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "stargazers_count": 407,
+      "language": "Shell",
+      "created_at": "2026-10-24T16:58:15Z",
+      "updated_at": "2026-10-26T04:56:49Z"
     },
     {
       "full_name": "jss8649/quiet-tizen",
       "html_url": "https://github.com/jss8649/quiet-tizen",
       "description": "Native Quiet Home launcher, reversible cleanup tools, and an agent-readable guide for the Samsung U8000F running Tizen 9.",
-      "stargazers_count": 332,
+      "stargazers_count": 390,
       "language": "Python",
       "created_at": "2026-10-20T17:23:41Z",
-      "updated_at": "2026-10-25T04:58:57Z"
+      "updated_at": "2026-10-26T04:51:39Z"
+    },
+    {
+      "full_name": "actionow-ai/vvv",
+      "html_url": "https://github.com/actionow-ai/vvv",
+      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
+      "stargazers_count": 377,
+      "language": "Python",
+      "created_at": "2026-10-22T07:29:54Z",
+      "updated_at": "2026-10-26T04:14:55Z"
+    },
+    {
+      "full_name": "routerhubSI/uncensored-ai-api",
+      "html_url": "https://github.com/routerhubSI/uncensored-ai-api",
+      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
+      "stargazers_count": 365,
+      "language": null,
+      "created_at": "2026-10-24T16:55:17Z",
+      "updated_at": "2026-10-25T22:36:50Z"
     },
     {
       "full_name": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
       "html_url": "https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
       "description": "High-performance Roblox aimbot with adaptive smooth tracking and precise auto aim. Fully configurable, works with most executors, clean modular structure. Easy setup for current Roblox version.",
-      "stargazers_count": 304,
+      "stargazers_count": 305,
       "language": "Python",
       "created_at": "2026-10-22T18:45:14Z",
-      "updated_at": "2026-10-24T22:27:40Z"
+      "updated_at": "2026-10-26T03:53:28Z"
     },
     {
       "full_name": "qianshuixia/shrimpreel",
       "html_url": "https://github.com/qianshuixia/shrimpreel",
       "description": "Open-source template for \"one photo → AI video that follows a viral template\" SaaS sites, one site per trending keyword. Cloudflare Workers + D1/R2/KV/Queues, TanStack Start + Hono, Google sign-in, credit packs (Waffo/Dodo), fal.ai video generation, admin console.",
-      "stargazers_count": 262,
+      "stargazers_count": 270,
       "language": "TypeScript",
       "created_at": "2026-10-20T18:08:00Z",
-      "updated_at": "2026-10-25T04:58:29Z"
-    },
-    {
-      "full_name": "lovisdotio/motion2code",
-      "html_url": "https://github.com/lovisdotio/motion2code",
-      "description": "Skills for coding agents: rebuild a motion design video as looping SVG + GSAP code, checked frame by frame against the source",
-      "stargazers_count": 242,
-      "language": "HTML",
-      "created_at": "2026-10-20T04:18:10Z",
-      "updated_at": "2026-10-25T04:38:09Z"
-    },
-    {
-      "full_name": "7API/uncensored-ai-api",
-      "html_url": "https://github.com/7API/uncensored-ai-api",
-      "description": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Kimi, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token.",
-      "stargazers_count": 223,
-      "language": null,
-      "created_at": "2026-10-22T16:07:12Z",
-      "updated_at": "2026-10-24T15:36:19Z"
+      "updated_at": "2026-10-26T02:56:26Z"
     }
   ]
 }
