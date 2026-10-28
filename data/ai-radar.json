@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-27T05:21:25.760Z",
-  "since": "2026-10-20",
+  "updatedAt": "2026-10-28T06:00:05.519Z",
+  "since": "2026-10-21",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "rddmwmddr/android-ad-cleaner",
       "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stargazers_count": 2239,
+      "stargazers_count": 3709,
       "language": "Python",
       "created_at": "2026-10-24T05:35:47Z",
-      "updated_at": "2026-10-27T05:19:13Z"
+      "updated_at": "2026-10-28T05:58:57Z"
     },
     {
       "full_name": "t3dotgg/tstack",
       "html_url": "https://github.com/t3dotgg/tstack",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "stargazers_count": 1661,
+      "stargazers_count": 2065,
       "language": "Python",
       "created_at": "2026-10-24T05:00:20Z",
-      "updated_at": "2026-10-27T05:21:12Z"
+      "updated_at": "2026-10-28T05:56:17Z"
     },
     {
       "full_name": "morganlinton/BeautifulRust",
       "html_url": "https://github.com/morganlinton/BeautifulRust",
       "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "stargazers_count": 1236,
+      "stargazers_count": 1333,
       "language": "Python",
       "created_at": "2026-10-23T03:01:11Z",
-      "updated_at": "2026-10-27T04:49:20Z"
+      "updated_at": "2026-10-28T05:52:27Z"
     },
     {
       "full_name": "andyhuo520/digital-human-koubo",
       "html_url": "https://github.com/andyhuo520/digital-human-koubo",
       "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stargazers_count": 837,
+      "stargazers_count": 1161,
       "language": "TypeScript",
       "created_at": "2026-10-26T04:34:09Z",
-      "updated_at": "2026-10-27T05:18:47Z"
+      "updated_at": "2026-10-28T05:55:48Z"
     },
     {
       "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
       "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stargazers_count": 808,
+      "stargazers_count": 1071,
       "language": "Python",
       "created_at": "2026-10-25T10:05:56Z",
-      "updated_at": "2026-10-27T04:43:28Z"
+      "updated_at": "2026-10-28T05:31:11Z"
     },
     {
-      "full_name": "udhaykumarbala/cleanyourtv-app",
-      "html_url": "https://github.com/udhaykumarbala/cleanyourtv-app",
-      "description": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
-      "stargazers_count": 763,
-      "language": "Kotlin",
-      "created_at": "2026-10-21T12:42:09Z",
-      "updated_at": "2026-10-27T05:15:16Z"
-    },
-    {
-      "full_name": "Alejandros17487/ai-jailbreaks",
-      "html_url": "https://github.com/Alejandros17487/ai-jailbreaks",
-      "description": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
-      "stargazers_count": 502,
-      "language": null,
-      "created_at": "2026-10-21T14:44:06Z",
-      "updated_at": "2026-10-27T04:38:39Z"
-    },
-    {
-      "full_name": "wangrongding/tv-fresh",
-      "html_url": "https://github.com/wangrongding/tv-fresh",
-      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
-      "stargazers_count": 501,
-      "language": "Shell",
-      "created_at": "2026-10-24T16:58:15Z",
-      "updated_at": "2026-10-27T04:38:24Z"
+      "full_name": "anhao/ai-pose-gallery-zh",
+      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "stargazers_count": 889,
+      "language": "HTML",
+      "created_at": "2026-10-27T12:24:37Z",
+      "updated_at": "2026-10-28T05:59:41Z"
     },
     {
       "full_name": "ZiChuanLan/agent-purge",
       "html_url": "https://github.com/ZiChuanLan/agent-purge",
       "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "stargazers_count": 439,
+      "stargazers_count": 679,
       "language": "JavaScript",
       "created_at": "2026-10-25T06:06:02Z",
-      "updated_at": "2026-10-27T05:14:47Z"
+      "updated_at": "2026-10-28T05:57:04Z"
     },
     {
       "full_name": "yaojingang/GEOInflow",
       "html_url": "https://github.com/yaojingang/GEOInflow",
       "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stargazers_count": 425,
+      "stargazers_count": 642,
       "language": "TypeScript",
       "created_at": "2026-10-26T03:12:45Z",
-      "updated_at": "2026-10-27T05:17:55Z"
+      "updated_at": "2026-10-28T05:58:16Z"
     },
     {
-      "full_name": "actionow-ai/vvv",
-      "html_url": "https://github.com/actionow-ai/vvv",
-      "description": "Build a video template once, reuse it across coding agents. Editable Remotion templates and an Agent Skill for Claude Code, Codex and 25+ agents.",
-      "stargazers_count": 399,
+      "full_name": "Motionsites-AI/claude-skill",
+      "html_url": "https://github.com/Motionsites-AI/claude-skill",
+      "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "stargazers_count": 595,
       "language": "Python",
-      "created_at": "2026-10-22T07:29:54Z",
-      "updated_at": "2026-10-27T03:02:17Z"
+      "created_at": "2026-10-26T06:58:45Z",
+      "updated_at": "2026-10-28T05:55:46Z"
     },
     {
-      "full_name": "hevnsnt/CVEngine",
-      "html_url": "https://github.com/hevnsnt/CVEngine",
-      "description": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.",
-      "stargazers_count": 389,
+      "full_name": "wangrongding/tv-fresh",
+      "html_url": "https://github.com/wangrongding/tv-fresh",
+      "description": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本",
+      "stargazers_count": 517,
+      "language": "Shell",
+      "created_at": "2026-10-24T16:58:15Z",
+      "updated_at": "2026-10-28T05:20:40Z"
+    },
+    {
+      "full_name": "stormydayy/halo-overlay",
+      "html_url": "https://github.com/stormydayy/halo-overlay",
+      "description": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests.",
+      "stargazers_count": 515,
       "language": "Python",
-      "created_at": "2026-10-24T22:34:43Z",
-      "updated_at": "2026-10-27T04:55:35Z"
+      "created_at": "2026-10-25T17:33:04Z",
+      "updated_at": "2026-10-28T01:59:08Z"
+    },
+    {
+      "full_name": "blakeandersonw/ai-app-playbook",
+      "html_url": "https://github.com/blakeandersonw/ai-app-playbook",
+      "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
+      "stargazers_count": 511,
+      "language": "TypeScript",
+      "created_at": "2026-10-26T16:07:05Z",
+      "updated_at": "2026-10-28T05:57:22Z"
     }
   ]
 }
