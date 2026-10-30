@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T06:08:53.324Z",
-  "since": "2026-10-22",
+  "updatedAt": "2026-10-30T06:09:01.395Z",
+  "since": "2026-10-23",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "rddmwmddr/android-ad-cleaner",
       "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-      "stargazers_count": 4461,
+      "stargazers_count": 4825,
       "language": "Python",
       "created_at": "2026-10-24T05:35:47Z",
-      "updated_at": "2026-10-29T06:06:18Z"
-    },
-    {
-      "full_name": "t3dotgg/tstack",
-      "html_url": "https://github.com/t3dotgg/tstack",
-      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "stargazers_count": 2292,
-      "language": "Python",
-      "created_at": "2026-10-24T05:00:20Z",
-      "updated_at": "2026-10-29T06:06:36Z"
+      "updated_at": "2026-10-30T06:05:35Z"
     },
     {
       "full_name": "anhao/ai-pose-gallery-zh",
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stargazers_count": 2210,
+      "stargazers_count": 3428,
       "language": "HTML",
       "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-10-29T06:08:14Z"
+      "updated_at": "2026-10-30T06:08:23Z"
     },
     {
-      "full_name": "morganlinton/BeautifulRust",
-      "html_url": "https://github.com/morganlinton/BeautifulRust",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "stargazers_count": 1374,
+      "full_name": "t3dotgg/tstack",
+      "html_url": "https://github.com/t3dotgg/tstack",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "stargazers_count": 2414,
       "language": "Python",
-      "created_at": "2026-10-23T03:01:11Z",
-      "updated_at": "2026-10-29T05:36:36Z"
+      "created_at": "2026-10-24T05:00:20Z",
+      "updated_at": "2026-10-30T05:14:17Z"
     },
     {
       "full_name": "andyhuo520/digital-human-koubo",
       "html_url": "https://github.com/andyhuo520/digital-human-koubo",
       "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stargazers_count": 1344,
+      "stargazers_count": 1505,
       "language": "TypeScript",
       "created_at": "2026-10-26T04:34:09Z",
-      "updated_at": "2026-10-29T05:44:32Z"
+      "updated_at": "2026-10-30T05:59:25Z"
     },
     {
       "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
       "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stargazers_count": 1189,
+      "stargazers_count": 1278,
       "language": "Python",
       "created_at": "2026-10-25T10:05:56Z",
-      "updated_at": "2026-10-29T06:04:24Z"
+      "updated_at": "2026-10-30T05:53:30Z"
     },
     {
       "full_name": "Motionsites-AI/claude-skill",
       "html_url": "https://github.com/Motionsites-AI/claude-skill",
       "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "stargazers_count": 957,
+      "stargazers_count": 1104,
       "language": "Python",
       "created_at": "2026-10-26T06:58:45Z",
-      "updated_at": "2026-10-29T06:05:52Z"
+      "updated_at": "2026-10-30T06:05:49Z"
+    },
+    {
+      "full_name": "qybaihe/bla",
+      "html_url": "https://github.com/qybaihe/bla",
+      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+      "stargazers_count": 980,
+      "language": "TypeScript",
+      "created_at": "2026-10-25T05:25:45Z",
+      "updated_at": "2026-10-30T06:08:30Z"
     },
     {
       "full_name": "ZiChuanLan/agent-purge",
       "html_url": "https://github.com/ZiChuanLan/agent-purge",
       "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "stargazers_count": 827,
+      "stargazers_count": 882,
       "language": "JavaScript",
       "created_at": "2026-10-25T06:06:02Z",
-      "updated_at": "2026-10-29T06:04:02Z"
-    },
-    {
-      "full_name": "yaojingang/GEOInflow",
-      "html_url": "https://github.com/yaojingang/GEOInflow",
-      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stargazers_count": 696,
-      "language": "TypeScript",
-      "created_at": "2026-10-26T03:12:45Z",
-      "updated_at": "2026-10-29T05:54:54Z"
+      "updated_at": "2026-10-30T06:00:02Z"
     },
     {
       "full_name": "daveebbelaar/bama",
       "html_url": "https://github.com/daveebbelaar/bama",
       "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-      "stargazers_count": 631,
+      "stargazers_count": 819,
       "language": "Swift",
       "created_at": "2026-10-24T08:44:36Z",
-      "updated_at": "2026-10-29T06:03:38Z"
+      "updated_at": "2026-10-30T05:44:35Z"
     },
     {
       "full_name": "anonnerdfrenzy/survival-llm",
       "html_url": "https://github.com/anonnerdfrenzy/survival-llm",
       "description": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
-      "stargazers_count": 630,
+      "stargazers_count": 788,
       "language": "Python",
       "created_at": "2026-10-24T19:12:41Z",
-      "updated_at": "2026-10-29T06:06:00Z"
+      "updated_at": "2026-10-30T06:02:13Z"
+    },
+    {
+      "full_name": "yaojingang/GEOInflow",
+      "html_url": "https://github.com/yaojingang/GEOInflow",
+      "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+      "stargazers_count": 734,
+      "language": "TypeScript",
+      "created_at": "2026-10-26T03:12:45Z",
+      "updated_at": "2026-10-30T06:08:07Z"
     },
     {
       "full_name": "blakeandersonw/ai-app-playbook",
       "html_url": "https://github.com/blakeandersonw/ai-app-playbook",
       "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stargazers_count": 568,
+      "stargazers_count": 579,
       "language": "TypeScript",
       "created_at": "2026-10-26T16:07:05Z",
-      "updated_at": "2026-10-29T05:54:34Z"
+      "updated_at": "2026-10-29T22:25:34Z"
     }
   ]
 }
