@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-31T06:04:17.498Z",
-  "since": "2026-10-24",
+  "updatedAt": "2026-11-01T06:33:46.213Z",
+  "since": "2026-10-25",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "anhao/ai-pose-gallery-zh",
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stargazers_count": 4144,
+      "stargazers_count": 4851,
       "language": "TypeScript",
       "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-10-31T06:03:44Z"
+      "updated_at": "2026-11-01T06:26:49Z"
     },
     {
-      "full_name": "wangzan101/Mika",
-      "html_url": "https://github.com/wangzan101/Mika",
-      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stargazers_count": 1748,
-      "language": "Kotlin",
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-10-31T06:04:13Z"
+      "full_name": "deepseek-ai/dsh-superagent-prototype",
+      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "stargazers_count": 3913,
+      "language": "TypeScript",
+      "created_at": "2026-10-31T09:32:46Z",
+      "updated_at": "2026-11-01T06:33:45Z"
     },
     {
       "full_name": "heydamir/unslop",
       "html_url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stargazers_count": 1564,
+      "stargazers_count": 3788,
       "language": "JavaScript",
       "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-10-31T06:03:45Z"
+      "updated_at": "2026-11-01T06:33:32Z"
     },
     {
-      "full_name": "andyhuo520/digital-human-koubo",
-      "html_url": "https://github.com/andyhuo520/digital-human-koubo",
-      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "stargazers_count": 1562,
-      "language": "TypeScript",
-      "created_at": "2026-10-26T04:34:09Z",
-      "updated_at": "2026-10-31T05:52:45Z"
-    },
-    {
-      "full_name": "qybaihe/bla",
-      "html_url": "https://github.com/qybaihe/bla",
-      "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
-      "stargazers_count": 1495,
-      "language": "TypeScript",
-      "created_at": "2026-10-25T05:25:45Z",
-      "updated_at": "2026-10-31T06:01:55Z"
+      "full_name": "wangzan101/Mika",
+      "html_url": "https://github.com/wangzan101/Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "stargazers_count": 3024,
+      "language": "Kotlin",
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-11-01T06:32:57Z"
     },
     {
       "full_name": "paipiange/nvzhuang",
       "html_url": "https://github.com/paipiange/nvzhuang",
       "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stargazers_count": 1364,
+      "stargazers_count": 1788,
       "language": "Go",
       "created_at": "2026-10-29T06:08:00Z",
-      "updated_at": "2026-10-31T05:56:10Z"
+      "updated_at": "2026-11-01T06:33:14Z"
     },
     {
-      "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "stargazers_count": 1350,
-      "language": "Python",
-      "created_at": "2026-10-25T10:05:56Z",
-      "updated_at": "2026-10-31T05:39:17Z"
+      "full_name": "andyhuo520/digital-human-koubo",
+      "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "stargazers_count": 1600,
+      "language": "TypeScript",
+      "created_at": "2026-10-26T04:34:09Z",
+      "updated_at": "2026-11-01T05:34:30Z"
     },
     {
       "full_name": "Motionsites-AI/claude-skill",
       "html_url": "https://github.com/Motionsites-AI/claude-skill",
       "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "stargazers_count": 1212,
+      "stargazers_count": 1318,
       "language": "Python",
       "created_at": "2026-10-26T06:58:45Z",
-      "updated_at": "2026-10-31T05:44:52Z"
-    },
-    {
-      "full_name": "ZiChuanLan/agent-purge",
-      "html_url": "https://github.com/ZiChuanLan/agent-purge",
-      "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "stargazers_count": 918,
-      "language": "JavaScript",
-      "created_at": "2026-10-25T06:06:02Z",
-      "updated_at": "2026-10-31T06:01:19Z"
+      "updated_at": "2026-11-01T06:32:57Z"
     },
     {
       "full_name": "yaojingang/GEOInflow",
       "html_url": "https://github.com/yaojingang/GEOInflow",
       "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
-      "stargazers_count": 760,
+      "stargazers_count": 770,
       "language": "TypeScript",
       "created_at": "2026-10-26T03:12:45Z",
-      "updated_at": "2026-10-31T03:14:39Z"
+      "updated_at": "2026-11-01T03:26:40Z"
+    },
+    {
+      "full_name": "jacke-pp/open-yoki",
+      "html_url": "https://github.com/jacke-pp/open-yoki",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "stargazers_count": 706,
+      "language": "JavaScript",
+      "created_at": "2026-10-28T08:58:27Z",
+      "updated_at": "2026-11-01T04:47:42Z"
     },
     {
       "full_name": "blakeandersonw/ai-app-playbook",
       "html_url": "https://github.com/blakeandersonw/ai-app-playbook",
       "description": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
-      "stargazers_count": 592,
+      "stargazers_count": 598,
       "language": "TypeScript",
       "created_at": "2026-10-26T16:07:05Z",
-      "updated_at": "2026-10-31T05:36:26Z"
+      "updated_at": "2026-11-01T06:19:55Z"
     },
     {
       "full_name": "konlu/story-studio",
       "html_url": "https://github.com/konlu/story-studio",
       "description": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
-      "stargazers_count": 538,
+      "stargazers_count": 574,
       "language": "Python",
       "created_at": "2026-10-26T09:20:06Z",
-      "updated_at": "2026-10-31T04:10:21Z"
+      "updated_at": "2026-11-01T06:26:53Z"
+    },
+    {
+      "full_name": "boardshogunfluctuate/Capri-AI",
+      "html_url": "https://github.com/boardshogunfluctuate/Capri-AI",
+      "description": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.",
+      "stargazers_count": 518,
+      "language": null,
+      "created_at": "2026-10-30T22:03:48Z",
+      "updated_at": "2026-11-01T05:55:07Z"
     }
   ]
 }
