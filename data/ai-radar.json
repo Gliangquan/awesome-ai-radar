@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-02T06:33:41.323Z",
-  "since": "2026-10-26",
+  "updatedAt": "2026-11-03T07:03:45.879Z",
+  "since": "2026-10-27",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
-      "stargazers_count": 9639,
+      "stargazers_count": 14531,
       "language": "TypeScript",
       "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-02T06:33:39Z"
-    },
-    {
-      "full_name": "anhao/ai-pose-gallery-zh",
-      "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-      "stargazers_count": 5269,
-      "language": "TypeScript",
-      "created_at": "2026-10-27T12:24:37Z",
-      "updated_at": "2026-11-02T06:27:52Z"
+      "updated_at": "2026-11-03T07:03:28Z"
     },
     {
       "full_name": "heydamir/unslop",
       "html_url": "https://github.com/heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stargazers_count": 5143,
+      "stargazers_count": 6591,
       "language": "JavaScript",
       "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-11-02T06:33:13Z"
+      "updated_at": "2026-11-03T07:01:19Z"
     },
     {
       "full_name": "wangzan101/Mika",
       "html_url": "https://github.com/wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stargazers_count": 4394,
+      "stargazers_count": 5654,
       "language": "Kotlin",
       "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-02T06:33:17Z"
+      "updated_at": "2026-11-03T07:02:26Z"
     },
     {
       "full_name": "paipiange/nvzhuang",
       "html_url": "https://github.com/paipiange/nvzhuang",
       "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stargazers_count": 1951,
+      "stargazers_count": 2070,
       "language": "Go",
       "created_at": "2026-10-29T06:08:00Z",
-      "updated_at": "2026-11-02T06:33:08Z"
-    },
-    {
-      "full_name": "jacke-pp/open-yoki",
-      "html_url": "https://github.com/jacke-pp/open-yoki",
-      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "stargazers_count": 828,
-      "language": "JavaScript",
-      "created_at": "2026-10-28T08:58:27Z",
-      "updated_at": "2026-11-02T04:42:07Z"
-    },
-    {
-      "full_name": "modelflare-ai/AnyModelBot",
-      "html_url": "https://github.com/modelflare-ai/AnyModelBot",
-      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
-      "stargazers_count": 793,
-      "language": "TypeScript",
-      "created_at": "2026-10-27T08:51:18Z",
-      "updated_at": "2026-11-02T06:32:28Z"
+      "updated_at": "2026-11-03T07:01:49Z"
     },
     {
       "full_name": "caru-ini/stack-diagram",
       "html_url": "https://github.com/caru-ini/stack-diagram",
       "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "stargazers_count": 669,
+      "stargazers_count": 1303,
       "language": "TypeScript",
       "created_at": "2026-11-01T05:35:12Z",
-      "updated_at": "2026-11-02T06:32:56Z"
+      "updated_at": "2026-11-03T07:03:36Z"
+    },
+    {
+      "full_name": "jacke-pp/open-yoki",
+      "html_url": "https://github.com/jacke-pp/open-yoki",
+      "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+      "stargazers_count": 950,
+      "language": "JavaScript",
+      "created_at": "2026-10-28T08:58:27Z",
+      "updated_at": "2026-11-03T07:02:09Z"
     },
     {
       "full_name": "sleepy-zone/ai-ref-library-cn",
       "html_url": "https://github.com/sleepy-zone/ai-ref-library-cn",
       "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stargazers_count": 615,
+      "stargazers_count": 683,
       "language": "JavaScript",
       "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-02T06:33:23Z"
+      "updated_at": "2026-11-03T06:48:14Z"
+    },
+    {
+      "full_name": "cutetailbud/ff-ruyijs",
+      "html_url": "https://github.com/cutetailbud/ff-ruyijs",
+      "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+      "stargazers_count": 639,
+      "language": "C++",
+      "created_at": "2026-10-28T11:31:41Z",
+      "updated_at": "2026-11-03T06:59:52Z"
     },
     {
       "full_name": "N1nEmAn/sapper-v2",
       "html_url": "https://github.com/N1nEmAn/sapper-v2",
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stargazers_count": 532,
+      "stargazers_count": 636,
       "language": "Python",
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-02T06:29:52Z"
+      "updated_at": "2026-11-03T06:50:21Z"
+    },
+    {
+      "full_name": "Balanov/uncut",
+      "html_url": "https://github.com/Balanov/uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "stargazers_count": 576,
+      "language": "Go",
+      "created_at": "2026-11-01T17:19:30Z",
+      "updated_at": "2026-11-03T04:55:49Z"
     },
     {
       "full_name": "MiniMax-AI/mcode-stack",
       "html_url": "https://github.com/MiniMax-AI/mcode-stack",
       "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
-      "stargazers_count": 501,
+      "stargazers_count": 514,
       "language": "Python",
       "created_at": "2026-10-28T02:17:41Z",
-      "updated_at": "2026-11-02T03:39:06Z"
+      "updated_at": "2026-11-03T04:44:06Z"
     },
     {
-      "full_name": "wanghao-SunSky/cs329z-chinese",
-      "html_url": "https://github.com/wanghao-SunSky/cs329z-chinese",
-      "description": "斯坦福 Stanford CS329Z Engineering AI Agents 中文教程：面向 Python 开发者的 AI 智能体课程，19 讲与 4 项实践，涵盖 LLM、RAG、工具调用、记忆、多智能体、评测与安全。完整 Markdown、在线与离线 HTML。Chinese course notes.",
-      "stargazers_count": 411,
-      "language": "HTML",
-      "created_at": "2026-10-28T18:18:24Z",
-      "updated_at": "2026-11-02T05:43:55Z"
+      "full_name": "zhanghao123vip/ai-manju-skills",
+      "html_url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stargazers_count": 513,
+      "language": null,
+      "created_at": "2026-10-31T03:22:12Z",
+      "updated_at": "2026-11-03T06:55:20Z"
     }
   ]
 }
