@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T06:48:46.067Z",
-  "since": "2026-10-28",
+  "updatedAt": "2026-11-05T07:07:53.732Z",
+  "since": "2026-10-29",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -11,109 +11,109 @@
       "full_name": "deepseek-ai/dsh-superagent-prototype",
       "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "description": "Towards a More Autonomous Agent System",
-      "stargazers_count": 17552,
+      "stargazers_count": 18912,
       "language": "TypeScript",
       "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-04T06:48:44Z"
-    },
-    {
-      "full_name": "heydamir/unslop",
-      "html_url": "https://github.com/heydamir/unslop",
-      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "stargazers_count": 7751,
-      "language": "JavaScript",
-      "created_at": "2026-10-29T15:41:21Z",
-      "updated_at": "2026-11-04T06:48:42Z"
-    },
-    {
-      "full_name": "wangzan101/Mika",
-      "html_url": "https://github.com/wangzan101/Mika",
-      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "stargazers_count": 6206,
-      "language": "Kotlin",
-      "created_at": "2026-10-29T14:34:07Z",
-      "updated_at": "2026-11-04T06:47:59Z"
-    },
-    {
-      "full_name": "paipiange/nvzhuang",
-      "html_url": "https://github.com/paipiange/nvzhuang",
-      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "stargazers_count": 2150,
-      "language": "Go",
-      "created_at": "2026-10-29T06:08:00Z",
-      "updated_at": "2026-11-04T06:42:27Z"
-    },
-    {
-      "full_name": "caru-ini/stack-diagram",
-      "html_url": "https://github.com/caru-ini/stack-diagram",
-      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "stargazers_count": 1632,
-      "language": "TypeScript",
-      "created_at": "2026-11-01T05:35:12Z",
-      "updated_at": "2026-11-04T06:48:11Z"
+      "updated_at": "2026-11-05T07:04:29Z"
     },
     {
       "full_name": "KKKKhazix/agent-autoloop",
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "stargazers_count": 1293,
+      "stargazers_count": 2859,
       "language": "TypeScript",
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-04T06:48:43Z"
+      "updated_at": "2026-11-05T07:07:29Z"
     },
     {
-      "full_name": "RikiyaT/lm_understand-logs",
-      "html_url": "https://github.com/RikiyaT/lm_understand-logs",
-      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "stargazers_count": 794,
-      "language": "Python",
-      "created_at": "2026-10-29T04:17:30Z",
-      "updated_at": "2026-11-04T06:47:38Z"
+      "full_name": "caru-ini/stack-diagram",
+      "html_url": "https://github.com/caru-ini/stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "stargazers_count": 1788,
+      "language": "TypeScript",
+      "created_at": "2026-11-01T05:35:12Z",
+      "updated_at": "2026-11-05T06:58:42Z"
     },
     {
       "full_name": "wquguru/cicada",
       "html_url": "https://github.com/wquguru/cicada",
-      "description": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-      "stargazers_count": 772,
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "stargazers_count": 1301,
       "language": "Swift",
       "created_at": "2026-11-01T05:41:23Z",
-      "updated_at": "2026-11-04T06:46:26Z"
+      "updated_at": "2026-11-05T07:06:00Z"
     },
     {
-      "full_name": "sleepy-zone/ai-ref-library-cn",
-      "html_url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
-      "stargazers_count": 706,
-      "language": "JavaScript",
-      "created_at": "2026-10-29T15:28:16Z",
-      "updated_at": "2026-11-04T06:31:35Z"
+      "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stargazers_count": 1103,
+      "language": "Python",
+      "created_at": "2026-11-04T14:54:56Z",
+      "updated_at": "2026-11-05T07:07:35Z"
     },
     {
       "full_name": "N1nEmAn/sapper-v2",
       "html_url": "https://github.com/N1nEmAn/sapper-v2",
       "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-      "stargazers_count": 675,
+      "stargazers_count": 1008,
       "language": "Python",
       "created_at": "2026-10-30T15:12:35Z",
-      "updated_at": "2026-11-04T06:16:26Z"
+      "updated_at": "2026-11-05T07:07:48Z"
     },
     {
-      "full_name": "rerun-build/rerun",
-      "html_url": "https://github.com/rerun-build/rerun",
-      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
-      "stargazers_count": 607,
-      "language": "TypeScript",
-      "created_at": "2026-10-29T16:09:54Z",
-      "updated_at": "2026-11-04T06:35:13Z"
+      "full_name": "anthropics/FlashProve",
+      "html_url": "https://github.com/anthropics/FlashProve",
+      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "stargazers_count": 851,
+      "language": "Lean",
+      "created_at": "2026-10-30T19:29:59Z",
+      "updated_at": "2026-11-05T06:56:24Z"
+    },
+    {
+      "full_name": "UncensoredLabs/uncensored-ai-api",
+      "html_url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "stargazers_count": 746,
+      "language": "JavaScript",
+      "created_at": "2026-11-01T20:53:34Z",
+      "updated_at": "2026-11-05T07:06:46Z"
     },
     {
       "full_name": "Balanov/uncut",
       "html_url": "https://github.com/Balanov/uncut",
       "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "stargazers_count": 598,
+      "stargazers_count": 601,
       "language": "Go",
       "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-04T03:41:31Z"
+      "updated_at": "2026-11-05T01:27:29Z"
+    },
+    {
+      "full_name": "andrew-babo/muse4ai",
+      "html_url": "https://github.com/andrew-babo/muse4ai",
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "stargazers_count": 590,
+      "language": "TypeScript",
+      "created_at": "2026-11-03T17:45:18Z",
+      "updated_at": "2026-11-05T07:07:03Z"
+    },
+    {
+      "full_name": "zhanghao123vip/ai-manju-skills",
+      "html_url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "stargazers_count": 575,
+      "language": null,
+      "created_at": "2026-10-31T03:22:12Z",
+      "updated_at": "2026-11-05T04:29:49Z"
+    },
+    {
+      "full_name": "Balanov/shim",
+      "html_url": "https://github.com/Balanov/shim",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "stargazers_count": 456,
+      "language": "Go",
+      "created_at": "2026-11-02T17:54:29Z",
+      "updated_at": "2026-11-05T06:12:18Z"
     }
   ]
 }
