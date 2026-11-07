@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T07:07:33.957Z",
-  "since": "2026-10-30",
+  "updatedAt": "2026-11-07T06:19:33.030Z",
+  "since": "2026-10-31",
   "queries": [
     "agent in:name,description",
     "llm in:name,description",
@@ -8,112 +8,112 @@
   ],
   "items": [
     {
-      "full_name": "deepseek-ai/dsh-superagent-prototype",
-      "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "description": "Towards a More Autonomous Agent System",
-      "stargazers_count": 19782,
-      "language": "TypeScript",
-      "created_at": "2026-10-31T09:32:46Z",
-      "updated_at": "2026-11-06T07:07:16Z"
-    },
-    {
       "full_name": "KKKKhazix/agent-autoloop",
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "stargazers_count": 3392,
+      "stargazers_count": 3757,
       "language": "TypeScript",
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-06T07:07:27Z"
+      "updated_at": "2026-11-07T06:11:15Z"
     },
     {
       "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stargazers_count": 2613,
+      "stargazers_count": 2934,
       "language": "Python",
       "created_at": "2026-11-04T14:54:56Z",
-      "updated_at": "2026-11-06T07:06:10Z"
+      "updated_at": "2026-11-07T06:19:26Z"
     },
     {
       "full_name": "caru-ini/stack-diagram",
       "html_url": "https://github.com/caru-ini/stack-diagram",
       "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-      "stargazers_count": 1886,
+      "stargazers_count": 1987,
       "language": "TypeScript",
       "created_at": "2026-11-01T05:35:12Z",
-      "updated_at": "2026-11-06T07:07:25Z"
+      "updated_at": "2026-11-07T06:13:00Z"
     },
     {
       "full_name": "wquguru/cicada",
       "html_url": "https://github.com/wquguru/cicada",
       "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "stargazers_count": 1520,
+      "stargazers_count": 1578,
       "language": "Swift",
       "created_at": "2026-11-01T05:41:23Z",
-      "updated_at": "2026-11-06T06:57:32Z"
+      "updated_at": "2026-11-07T06:13:56Z"
     },
     {
-      "full_name": "UncensoredLabs/uncensored-ai-api",
-      "html_url": "https://github.com/UncensoredLabs/uncensored-ai-api",
-      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
-      "stargazers_count": 901,
-      "language": "JavaScript",
-      "created_at": "2026-11-01T20:53:34Z",
-      "updated_at": "2026-11-06T07:06:07Z"
+      "full_name": "Sandflow-ai/sand3d",
+      "html_url": "https://github.com/Sandflow-ai/sand3d",
+      "description": "3D modeling in Python, built for LLMs.",
+      "stargazers_count": 850,
+      "language": "HTML",
+      "created_at": "2026-11-03T08:23:03Z",
+      "updated_at": "2026-11-07T06:14:38Z"
     },
     {
-      "full_name": "andrew-babo/muse4ai",
-      "html_url": "https://github.com/andrew-babo/muse4ai",
-      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
-      "stargazers_count": 867,
-      "language": "TypeScript",
-      "created_at": "2026-11-03T17:45:18Z",
-      "updated_at": "2026-11-06T07:05:21Z"
+      "full_name": "sarpstar/cinecode",
+      "html_url": "https://github.com/sarpstar/cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "stargazers_count": 497,
+      "language": "Python",
+      "created_at": "2026-11-03T10:08:16Z",
+      "updated_at": "2026-11-07T06:13:11Z"
     },
     {
-      "full_name": "Balanov/uncut",
-      "html_url": "https://github.com/Balanov/uncut",
-      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
-      "stargazers_count": 610,
-      "language": "Go",
-      "created_at": "2026-11-01T17:19:30Z",
-      "updated_at": "2026-11-06T07:00:38Z"
-    },
-    {
-      "full_name": "zhanghao123vip/ai-manju-skills",
-      "html_url": "https://github.com/zhanghao123vip/ai-manju-skills",
-      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-      "stargazers_count": 593,
-      "language": null,
-      "created_at": "2026-10-31T03:22:12Z",
-      "updated_at": "2026-11-06T06:47:39Z"
-    },
-    {
-      "full_name": "sqlpxc/airhand",
-      "html_url": "https://github.com/sqlpxc/airhand",
-      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "stargazers_count": 506,
+      "full_name": "voyager-so/vork",
+      "html_url": "https://github.com/voyager-so/vork",
+      "description": "Headless 3D and VFX engine for agents. Research preview.",
+      "stargazers_count": 483,
       "language": "Rust",
-      "created_at": "2026-10-31T13:33:04Z",
-      "updated_at": "2026-11-06T07:05:59Z"
-    },
-    {
-      "full_name": "Balanov/shim",
-      "html_url": "https://github.com/Balanov/shim",
-      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
-      "stargazers_count": 464,
-      "language": "Go",
-      "created_at": "2026-11-02T17:54:29Z",
-      "updated_at": "2026-11-06T05:31:11Z"
+      "created_at": "2026-11-05T22:37:07Z",
+      "updated_at": "2026-11-07T06:14:08Z"
     },
     {
       "full_name": "mhfed/vn-law-check",
       "html_url": "https://github.com/mhfed/vn-law-check",
       "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
-      "stargazers_count": 448,
+      "stargazers_count": 464,
       "language": "Shell",
       "created_at": "2026-11-02T09:22:02Z",
-      "updated_at": "2026-11-06T06:56:54Z"
+      "updated_at": "2026-11-07T04:14:04Z"
+    },
+    {
+      "full_name": "majorminorlabs/hermes-voice",
+      "html_url": "https://github.com/majorminorlabs/hermes-voice",
+      "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "stargazers_count": 459,
+      "language": "Python",
+      "created_at": "2026-11-05T05:28:37Z",
+      "updated_at": "2026-11-07T05:35:10Z"
+    },
+    {
+      "full_name": "zeekk0/OpenAmika",
+      "html_url": "https://github.com/zeekk0/OpenAmika",
+      "description": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "stargazers_count": 454,
+      "language": "Python",
+      "created_at": "2026-11-03T17:47:08Z",
+      "updated_at": "2026-11-07T05:48:57Z"
+    },
+    {
+      "full_name": "JosssphZhou/poki",
+      "html_url": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stargazers_count": 438,
+      "language": "JavaScript",
+      "created_at": "2026-11-05T15:04:31Z",
+      "updated_at": "2026-11-07T06:13:15Z"
+    },
+    {
+      "full_name": "Renly1994/xiaotang-daozai",
+      "html_url": "https://github.com/Renly1994/xiaotang-daozai",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "stargazers_count": 436,
+      "language": "Rust",
+      "created_at": "2026-11-03T04:25:22Z",
+      "updated_at": "2026-11-07T04:42:25Z"
     }
   ]
 }
